@@ -1,6 +1,5 @@
 <script>
   import { onMount, onDestroy } from 'svelte';
-  import funders from '$lib/funder_counts.json';
   import { Slider } from "$lib/components/ui/slider";
   import BarChart from "$lib/components/BarChart.svelte";
   import { fade } from 'svelte/transition';
@@ -36,14 +35,20 @@
   // Variables for top topics by month
   let topTopicsByMonth = {};
 
-  // Sort funders by ad_count in descending order
-  const sortedFunders = funders.sort((a, b) => b.ad_count - a.ad_count);
+  // Initialize 'funders' as an empty array
+  let funders = [];
 
   // Ad Data Variables
   let adData = []; // Raw ad data
   let filteredAdData = []; // Filtered ad data based on date range
 
-  onMount(() => {
+  let debounceTimeout;
+
+  onMount(async () => {
+    // Fetch 'funder_counts.json' on mount
+    await loadFunders();
+
+    // Select the default funder
     selectFunder({'name': 'Conservative Party of Canada - Parti conservateur du Canada', 'id': '67'});
 
     if (typeof window !== 'undefined') {
@@ -61,6 +66,22 @@
   function updateWidth() {
     width = window.innerWidth * 0.37;
     height = window.innerHeight * 0.20;
+  }
+
+  // Function to load 'funder_counts.json'
+  async function loadFunders() {
+    try {
+      const response = await fetch('/data/funder_counts.json');
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+      funders = await response.json();
+      // Sort funders by ad_count in descending order
+      funders.sort((a, b) => b.ad_count - a.ad_count);
+    } catch (error) {
+      console.error('Error loading funders:', error);
+      errorMessage = 'Failed to load funders. Please try again later.';
+    }
   }
 
   // Function to handle funder selection
@@ -113,20 +134,33 @@
       errorMessage = ''; // Reset error message
 
       // Load Ad Data
-      const adResponse = await import(`$lib/total_ads_funders/${funderId}.json`);
-      adData = adResponse.default;
+      const adResponse = await fetch(`/data/total_ads_funders/${funderId}.json`);
+      if (!adResponse.ok) {
+        throw new Error(`Failed to fetch total_ads_funders/${funderId}.json`);
+      }
+      adData = await adResponse.json();
 
       // Load other funder data
-      const response2 = await import(`$lib/funder_similarity/${funderId}.json`);
-      funderMatches = response2.default.similar_funders; // Ensure top 20 funders
+      const response2 = await fetch(`/data/funder_similarity/${funderId}.json`);
+      if (!response2.ok) {
+        throw new Error(`Failed to fetch funder_similarity/${funderId}.json`);
+      }
+      const response2Data = await response2.json();
+      funderMatches = response2Data.similar_funders; // Ensure top 20 funders
 
       // Load top keywords by month
-      const keywordsResponse = await import(`$lib/top_keywords_by_month/${funderId}.json`);
-      topKeywordsByMonth = keywordsResponse.default;
+      const keywordsResponse = await fetch(`/data/top_keywords_by_month/${funderId}.json`);
+      if (!keywordsResponse.ok) {
+        throw new Error(`Failed to fetch top_keywords_by_month/${funderId}.json`);
+      }
+      topKeywordsByMonth = await keywordsResponse.json();
 
       // Load top topics by month
-      const topicsResponse = await import(`$lib/top_topics_by_month/${funderId}.json`);
-      topTopicsByMonth = topicsResponse.default;
+      const topicsResponse = await fetch(`/data/top_topics_by_month/${funderId}.json`);
+      if (!topicsResponse.ok) {
+        throw new Error(`Failed to fetch top_topics_by_month/${funderId}.json`);
+      }
+      topTopicsByMonth = await topicsResponse.json();
 
       // Extract and sort available months
       availableMonths = Object.keys(topKeywordsByMonth).sort((a, b) => new Date(a) - new Date(b));
@@ -174,36 +208,32 @@
     });
   }
 
-  let debounceTimeout;
-
   // Improved reactive statement with explicit dependencies
-$: if (selectedMonthIndices && !isLoading && selectedMonthIndices.length === 2) {
-  const [currentStart, currentEnd] = selectedMonthIndices;
-  const [prevStart, prevEnd] = previousSelectedMonthIndices;
+  $: if (selectedMonthIndices && !isLoading && selectedMonthIndices.length === 2) {
+    const [currentStart, currentEnd] = selectedMonthIndices;
+    const [prevStart, prevEnd] = previousSelectedMonthIndices;
 
-  if (currentStart !== prevStart || currentEnd !== prevEnd) {
-    previousSelectedMonthIndices = [...selectedMonthIndices];
-    
-    filterAdData();
-    
-    aggregatedKeywords = aggregateKeywords(currentStart, currentEnd);
-  }
-}
-
-$: if (sliderValue.length === 2 && !isLoading) {
-  clearTimeout(debounceTimeout);
-  debounceTimeout = setTimeout(() => {
-    const [newStart, newEnd] = sliderValue;
-    if (
-      newStart !== selectedMonthIndices[0] ||
-      newEnd !== selectedMonthIndices[1]
-    ) {
-      selectedMonthIndices = [...sliderValue];
+    if (currentStart !== prevStart || currentEnd !== prevEnd) {
+      previousSelectedMonthIndices = [...selectedMonthIndices];
+      
+      filterAdData();
+      
+      aggregatedKeywords = aggregateKeywords(currentStart, currentEnd);
     }
-  }, 300); // Increased debounce time for better performance
-}
+  }
 
-
+  $: if (sliderValue.length === 2 && !isLoading) {
+    clearTimeout(debounceTimeout);
+    debounceTimeout = setTimeout(() => {
+      const [newStart, newEnd] = sliderValue;
+      if (
+        newStart !== selectedMonthIndices[0] ||
+        newEnd !== selectedMonthIndices[1]
+      ) {
+        selectedMonthIndices = [...sliderValue];
+      }
+    }, 300); // Increased debounce time for better performance
+  }
 </script>
 
 <!-- Main Container using Grid Layout -->
@@ -215,7 +245,7 @@ $: if (sliderValue.length === 2 && !isLoading) {
         searchTerm={searchTerm} 
         suggestions={suggestions} 
         selectFunder={selectFunder} 
-        sortedFunders={sortedFunders} 
+        sortedFunders={funders} 
       />
     {/if}
   </Sidebar>
