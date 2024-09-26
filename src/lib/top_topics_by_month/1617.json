@@ -1,0 +1,187 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 152.1208795929765,
+                "normalized_intensity": 50.706959864325505
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 742.8774203843157,
+                "normalized_intensity": 53.06267288459397
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 514.6217890994191,
+                "normalized_intensity": 36.758699221387076
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 349.1131258071324,
+                "normalized_intensity": 24.9366518433666
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 348.9815616384666,
+                "normalized_intensity": 24.927254402747614
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 339.71897663381975,
+                "normalized_intensity": 24.265641188129983
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 55.39705576414412,
+                "normalized_intensity": 3.956932554581723
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.7874593227918,
+                "normalized_intensity": 3.7705328087708425
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.098073038216384,
+                "normalized_intensity": 3.72129093130117
+            },
+            {
+                "topic": "food",
+                "weighted_count": 51.790135390768036,
+                "normalized_intensity": 3.6992953850548598
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 51.606644810598965,
+                "normalized_intensity": 3.6861889150427833
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 49.777252762017376,
+                "normalized_intensity": 3.5555180544298124
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 39,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 1826.5012305218518,
+                "normalized_intensity": 46.83336488517568
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 992.1792776207438,
+                "normalized_intensity": 25.440494297967792
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 846.8322885620328,
+                "normalized_intensity": 21.713648424667507
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 437.4517331293565,
+                "normalized_intensity": 11.216711105880936
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 429.5790952665864,
+                "normalized_intensity": 11.014848596579139
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 308.3697718179033,
+                "normalized_intensity": 7.906917226100085
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 285.5176578715503,
+                "normalized_intensity": 7.320965586450007
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 232.72313142413705,
+                "normalized_intensity": 5.967259780106078
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 217.1253885630259,
+                "normalized_intensity": 5.567317655462203
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 172.11176884000855,
+                "normalized_intensity": 4.413122277948937
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 167.49648886481572,
+                "normalized_intensity": 4.2947817657645055
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 165.50028884195336,
+                "normalized_intensity": 4.243597149793676
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 164.31224453899932,
+                "normalized_intensity": 4.213134475358957
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 161.50873082493155,
+                "normalized_intensity": 4.141249508331578
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 159.44490761888844,
+                "normalized_intensity": 4.088330964586883
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 150.93216669072498,
+                "normalized_intensity": 3.8700555561724355
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 149.34991198029363,
+                "normalized_intensity": 3.8294849225716314
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 105.67210881465887,
+                "normalized_intensity": 2.7095412516579196
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 100.96097378776811,
+                "normalized_intensity": 2.58874291763508
+            },
+            {
+                "topic": "education",
+                "weighted_count": 98.447501701368,
+                "normalized_intensity": 2.5242949154196923
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 59.67425702975925,
+                "normalized_intensity": 1.5301091546092114
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.12623717864479,
+                "normalized_intensity": 1.2596471071447384
+            }
+        ]
+    }
+}

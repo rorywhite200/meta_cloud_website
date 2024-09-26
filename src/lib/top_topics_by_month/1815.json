@@ -1,0 +1,32 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 80.92017277077163,
+                "normalized_intensity": 80.92017277077163
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 57.450003254521484,
+                "normalized_intensity": 57.450003254521484
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.75221202128345,
+                "normalized_intensity": 52.75221202128345
+            },
+            {
+                "topic": "art",
+                "weighted_count": 50.699788669786095,
+                "normalized_intensity": 50.699788669786095
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.24061157068141,
+                "normalized_intensity": 49.24061157068141
+            }
+        ]
+    }
+}

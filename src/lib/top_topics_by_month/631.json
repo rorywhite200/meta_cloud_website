@@ -1,0 +1,52 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 69.99517245060518,
+                "normalized_intensity": 69.99517245060518
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 59.00229379990273,
+                "normalized_intensity": 59.00229379990273
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.24504601330019,
+                "normalized_intensity": 56.24504601330019
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 54.61996332229234,
+                "normalized_intensity": 54.61996332229234
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 62.725122166298384,
+                "normalized_intensity": 62.725122166298384
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 58.718229645751116,
+                "normalized_intensity": 58.718229645751116
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.14222085518372,
+                "normalized_intensity": 54.14222085518372
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.61011454832397,
+                "normalized_intensity": 51.61011454832397
+            }
+        ]
+    }
+}

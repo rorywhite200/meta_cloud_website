@@ -1,0 +1,147 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 106.55037613192516,
+                "normalized_intensity": 53.27518806596258
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 64.81374510670427,
+                "normalized_intensity": 32.40687255335214
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 53.69675448676831,
+                "normalized_intensity": 26.848377243384157
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.954175458757256,
+                "normalized_intensity": 26.477087729378628
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.82871504059801,
+                "normalized_intensity": 25.414357520299006
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 785.948598664883,
+                "normalized_intensity": 39.297429933244146
+            },
+            {
+                "topic": "community",
+                "weighted_count": 559.6572459632132,
+                "normalized_intensity": 27.98286229816066
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 540.0798453272666,
+                "normalized_intensity": 27.003992266363333
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 532.4875696694938,
+                "normalized_intensity": 26.624378483474693
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 406.0983728873874,
+                "normalized_intensity": 20.304918644369373
+            },
+            {
+                "topic": "health",
+                "weighted_count": 274.7948624500023,
+                "normalized_intensity": 13.739743122500116
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 219.4713522492459,
+                "normalized_intensity": 10.973567612462295
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 212.29213798842915,
+                "normalized_intensity": 10.614606899421457
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 211.03347363596754,
+                "normalized_intensity": 10.551673681798377
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 204.70202158160953,
+                "normalized_intensity": 10.235101079080476
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 117.36682463823041,
+                "normalized_intensity": 5.86834123191152
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 107.81415689133863,
+                "normalized_intensity": 5.390707844566931
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 101.80760254724146,
+                "normalized_intensity": 5.090380127362073
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 101.26041324617738,
+                "normalized_intensity": 5.063020662308869
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 57.93075443941472,
+                "normalized_intensity": 2.896537721970736
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.976526706433006,
+                "normalized_intensity": 2.6988263353216504
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.82899943620216,
+                "normalized_intensity": 2.591449971810108
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 51.3495332953688,
+                "normalized_intensity": 2.56747666476844
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.560497838714255,
+                "normalized_intensity": 2.5280248919357127
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 49.73174176418301,
+                "normalized_intensity": 2.4865870882091508
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 49.585092777849944,
+                "normalized_intensity": 2.479254638892497
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.270684431501905,
+                "normalized_intensity": 2.4635342215750953
+            }
+        ]
+    }
+}

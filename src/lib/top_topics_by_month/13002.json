@@ -1,0 +1,47 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 81.94907843284123,
+                "normalized_intensity": 27.316359477613744
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.56201835123423,
+                "normalized_intensity": 18.520672783744743
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 53.79093587316493,
+                "normalized_intensity": 17.930311957721646
+            },
+            {
+                "topic": "media",
+                "weighted_count": 53.66623383027335,
+                "normalized_intensity": 17.888744610091116
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 52.705424906457644,
+                "normalized_intensity": 17.568474968819213
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 50.9518018113118,
+                "normalized_intensity": 16.983933937103934
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.094849784322804,
+                "normalized_intensity": 16.364949928107603
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.03343035647549,
+                "normalized_intensity": 16.344476785491832
+            }
+        ]
+    }
+}

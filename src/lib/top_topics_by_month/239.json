@@ -1,0 +1,132 @@
+{
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 223.58477712518183,
+                "normalized_intensity": 44.71695542503637
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 185.36448807644004,
+                "normalized_intensity": 37.07289761528801
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 142.9074690979875,
+                "normalized_intensity": 28.5814938195975
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 121.15214351500157,
+                "normalized_intensity": 24.230428703000314
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 71.14670325497228,
+                "normalized_intensity": 14.229340650994455
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 67.72703919150317,
+                "normalized_intensity": 13.545407838300633
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.57908495822142,
+                "normalized_intensity": 10.515816991644284
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 50.83860780008725,
+                "normalized_intensity": 10.167721560017451
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.611071904702925,
+                "normalized_intensity": 9.922214380940584
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 61.46005336941415,
+                "normalized_intensity": 61.46005336941415
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.13615370652971,
+                "normalized_intensity": 52.13615370652971
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.27950042121804,
+                "normalized_intensity": 50.27950042121804
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.814568642252624,
+                "normalized_intensity": 49.814568642252624
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.140120647385025,
+                "normalized_intensity": 49.140120647385025
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 66.69916962789756,
+                "normalized_intensity": 66.69916962789756
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 62.184186997062206,
+                "normalized_intensity": 62.184186997062206
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 61.34726953395564,
+                "normalized_intensity": 61.34726953395564
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 60.892485548604135,
+                "normalized_intensity": 60.892485548604135
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.173562968746026,
+                "normalized_intensity": 57.173562968746026
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.79905423915178,
+                "normalized_intensity": 52.79905423915178
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.791596900565295,
+                "normalized_intensity": 51.791596900565295
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.140259088293824,
+                "normalized_intensity": 51.140259088293824
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 49.27023719775809,
+                "normalized_intensity": 49.27023719775809
+            }
+        ]
+    }
+}

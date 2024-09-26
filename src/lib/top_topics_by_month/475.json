@@ -1,0 +1,52 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 63.941789999826234,
+                "normalized_intensity": 63.941789999826234
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 63.35702538168854,
+                "normalized_intensity": 63.35702538168854
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 60.24141410124288,
+                "normalized_intensity": 60.24141410124288
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 59.66433201575807,
+                "normalized_intensity": 59.66433201575807
+            },
+            {
+                "topic": "music",
+                "weighted_count": 59.24912812959211,
+                "normalized_intensity": 59.24912812959211
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 54.88796764015702,
+                "normalized_intensity": 54.88796764015702
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 53.60797836138791,
+                "normalized_intensity": 53.60797836138791
+            },
+            {
+                "topic": "food",
+                "weighted_count": 51.74824412535812,
+                "normalized_intensity": 51.74824412535812
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 50.51846758952775,
+                "normalized_intensity": 50.51846758952775
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 122.61232250601086,
+                "normalized_intensity": 61.30616125300543
+            },
+            {
+                "topic": "health",
+                "weighted_count": 116.48244974002917,
+                "normalized_intensity": 58.241224870014584
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 58.06012229638036,
+                "normalized_intensity": 29.03006114819018
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 55.15851682846068,
+                "normalized_intensity": 27.57925841423034
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 52.77308423552775,
+                "normalized_intensity": 26.386542117763874
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.66645810076875,
+                "normalized_intensity": 26.333229050384375
+            }
+        ]
+    }
+}

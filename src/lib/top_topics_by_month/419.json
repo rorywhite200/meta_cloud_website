@@ -1,0 +1,157 @@
+{
+    "2023-10": {
+        "total_ads": 57,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 3962.682790603063,
+                "normalized_intensity": 69.52075071233443
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 2750.319076541887,
+                "normalized_intensity": 48.25121186915592
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1655.7063348405707,
+                "normalized_intensity": 29.047479558606504
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 153.62194505810209,
+                "normalized_intensity": 2.695121843124598
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 33,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 2096.889640402294,
+                "normalized_intensity": 63.54211031522103
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 1399.9445019904942,
+                "normalized_intensity": 42.422560666378615
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1103.8042232270475,
+                "normalized_intensity": 33.44861282506204
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 153.9176895211489,
+                "normalized_intensity": 4.664172409731785
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.16837064150004,
+                "normalized_intensity": 1.5505566861060618
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 56,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 3516.549873198948,
+                "normalized_intensity": 62.795533449981214
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1348.1049851043285,
+                "normalized_intensity": 24.07330330543444
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 1331.2812182912894,
+                "normalized_intensity": 23.77287889805874
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 205.12500454051627,
+                "normalized_intensity": 3.6629465096520764
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.16837064150004,
+                "normalized_intensity": 0.9137209043125007
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 197,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 12769.559851088545,
+                "normalized_intensity": 64.82010076694692
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 7058.7213250149825,
+                "normalized_intensity": 35.83107271581209
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 3266.457426810848,
+                "normalized_intensity": 16.58100216655253
+            },
+            {
+                "topic": "business",
+                "weighted_count": 1231.673163372017,
+                "normalized_intensity": 6.252148037421406
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 750.0582546104849,
+                "normalized_intensity": 3.807402307667436
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 708.584904963603,
+                "normalized_intensity": 3.5968776901705737
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 485.29912921153516,
+                "normalized_intensity": 2.463447356403732
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 292.7507093165076,
+                "normalized_intensity": 1.486044209728465
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 186.95382050001638,
+                "normalized_intensity": 0.9490041649747024
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 336.7138920100606,
+                "normalized_intensity": 67.34277840201212
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 209.74612938925225,
+                "normalized_intensity": 41.94922587785045
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 117.10028372660304,
+                "normalized_intensity": 23.420056745320608
+            }
+        ]
+    }
+}

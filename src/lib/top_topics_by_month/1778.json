@@ -1,0 +1,97 @@
+{
+    "2023-10": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 111.80491868180877,
+                "normalized_intensity": 12.422768742423196
+            },
+            {
+                "topic": "community",
+                "weighted_count": 109.9067258299118,
+                "normalized_intensity": 12.211858425545756
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 109.15571163924194,
+                "normalized_intensity": 12.128412404360216
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 108.38990478594033,
+                "normalized_intensity": 12.04332275399337
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 108.13073959536746,
+                "normalized_intensity": 12.014526621707496
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 104.20232684996327,
+                "normalized_intensity": 11.578036316662585
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 103.99188960666193,
+                "normalized_intensity": 11.554654400740214
+            },
+            {
+                "topic": "music",
+                "weighted_count": 102.73089424193861,
+                "normalized_intensity": 11.414543804659846
+            },
+            {
+                "topic": "family",
+                "weighted_count": 102.68473707290443,
+                "normalized_intensity": 11.409415230322715
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 102.23418349232445,
+                "normalized_intensity": 11.359353721369382
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 55.80509685549655,
+                "normalized_intensity": 6.200566317277395
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.97561084864565,
+                "normalized_intensity": 5.775067872071739
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.75488323686849,
+                "normalized_intensity": 5.750542581874276
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.45141601478832,
+                "normalized_intensity": 5.716824001643147
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 51.406189160057856,
+                "normalized_intensity": 5.711798795561984
+            },
+            {
+                "topic": "law",
+                "weighted_count": 50.198638691603506,
+                "normalized_intensity": 5.577626521289279
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.36722406735535,
+                "normalized_intensity": 5.485247118595039
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.1590515484363,
+                "normalized_intensity": 5.462116838715144
+            }
+        ]
+    }
+}

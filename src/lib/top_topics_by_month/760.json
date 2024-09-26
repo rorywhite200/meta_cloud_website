@@ -1,0 +1,67 @@
+{
+    "2024-04": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 707.5261886351365,
+                "normalized_intensity": 70.75261886351365
+            },
+            {
+                "topic": "music",
+                "weighted_count": 634.314654085633,
+                "normalized_intensity": 63.431465408563305
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 150.03670037279625,
+                "normalized_intensity": 15.003670037279624
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "music",
+                "weighted_count": 1238.5843874982932,
+                "normalized_intensity": 65.18865197359438
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 1136.3946997573073,
+                "normalized_intensity": 59.81024735564775
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 773.0394215877609,
+                "normalized_intensity": 40.686285346724254
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 439.0151547899822,
+                "normalized_intensity": 23.106060778420115
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 200.92270714730634,
+                "normalized_intensity": 10.574879323542438
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.30566365120579,
+                "normalized_intensity": 2.858192823747673
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.37801559178204,
+                "normalized_intensity": 2.598842925883265
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 49.068880977323126,
+                "normalized_intensity": 2.582572683017007
+            }
+        ]
+    }
+}

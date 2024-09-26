@@ -1,0 +1,217 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 145.79663124288663,
+                "normalized_intensity": 72.89831562144332
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 127.72848086161237,
+                "normalized_intensity": 63.864240430806184
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 119.02851529344049,
+                "normalized_intensity": 59.514257646720246
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 117.16003443629681,
+                "normalized_intensity": 58.580017218148406
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 110.18337259481707,
+                "normalized_intensity": 55.091686297408536
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 197.8306651894972,
+                "normalized_intensity": 65.94355506316573
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 191.92732649584747,
+                "normalized_intensity": 63.975775498615825
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 177.2309027062708,
+                "normalized_intensity": 59.076967568756935
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 131.66770195002158,
+                "normalized_intensity": 43.889233983340525
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 126.87450138004647,
+                "normalized_intensity": 42.29150046001549
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 102.27622181775193,
+                "normalized_intensity": 34.092073939250646
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 51.67189010423597,
+                "normalized_intensity": 17.223963368078657
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.7509956700138,
+                "normalized_intensity": 16.583665223337935
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.15117625600794,
+                "normalized_intensity": 16.383725418669314
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 49.14406166563665,
+                "normalized_intensity": 16.38135388854555
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 195.31255350488087,
+                "normalized_intensity": 65.10418450162696
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 187.15630815647614,
+                "normalized_intensity": 62.38543605215872
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 183.60688550840672,
+                "normalized_intensity": 61.202295169468904
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 167.58396800452104,
+                "normalized_intensity": 55.86132266817368
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 51.52339763531933,
+                "normalized_intensity": 17.174465878439776
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 1576.7191384628272,
+                "normalized_intensity": 63.06876553851309
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 1433.5792442955449,
+                "normalized_intensity": 57.34316977182179
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 1402.0729203555152,
+                "normalized_intensity": 56.08291681422061
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1240.2089072133288,
+                "normalized_intensity": 49.60835628853315
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 316.442677393939,
+                "normalized_intensity": 12.65770709575756
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 218.06020303942492,
+                "normalized_intensity": 8.722408121576997
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 207.0694208576435,
+                "normalized_intensity": 8.282776834305741
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 194.92423486994025,
+                "normalized_intensity": 7.79696939479761
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 134.32648060519125,
+                "normalized_intensity": 5.37305922420765
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 56.68918560736448,
+                "normalized_intensity": 2.267567424294579
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.673463807106195,
+                "normalized_intensity": 2.2269385522842478
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 55.6612261412983,
+                "normalized_intensity": 2.226449045651932
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 307.9718959491062,
+                "normalized_intensity": 61.59437918982125
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 307.2319514265258,
+                "normalized_intensity": 61.446390285305164
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 274.7236633281571,
+                "normalized_intensity": 54.94473266563142
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 255.50907503494136,
+                "normalized_intensity": 51.101815006988275
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 70.47485605842304,
+                "normalized_intensity": 14.094971211684609
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 55.6612261412983,
+                "normalized_intensity": 11.13224522825966
+            }
+        ]
+    }
+}

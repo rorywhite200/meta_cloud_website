@@ -1,0 +1,112 @@
+{
+    "2023-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 73.6610442982043,
+                "normalized_intensity": 73.6610442982043
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.59921141643124,
+                "normalized_intensity": 52.59921141643124
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 51.743948218094374,
+                "normalized_intensity": 51.743948218094374
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 49.223424609994794,
+                "normalized_intensity": 49.223424609994794
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 487.3302063191273,
+                "normalized_intensity": 54.14780070212525
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 414.40030655256106,
+                "normalized_intensity": 46.04447850584012
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 109.65958999329104,
+                "normalized_intensity": 12.184398888143448
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 75.4744703536548,
+                "normalized_intensity": 8.3860522615172
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 71.10863187471593,
+                "normalized_intensity": 7.9009590971906585
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 65.31630228182097,
+                "normalized_intensity": 7.25736692020233
+            },
+            {
+                "topic": "business",
+                "weighted_count": 63.57732743637041,
+                "normalized_intensity": 7.064147492930045
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 61.49611582786439,
+                "normalized_intensity": 6.832901758651598
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 52.623310441860006,
+                "normalized_intensity": 5.847034493540001
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.65096411855471,
+                "normalized_intensity": 5.738996013172746
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 51.02318638733656,
+                "normalized_intensity": 5.669242931926284
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.757161811869764,
+                "normalized_intensity": 5.639684645763307
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 80.51547362006308,
+                "normalized_intensity": 40.25773681003154
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 73.05313732966144,
+                "normalized_intensity": 36.52656866483072
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 63.84889849480003,
+                "normalized_intensity": 31.924449247400016
+            }
+        ]
+    }
+}

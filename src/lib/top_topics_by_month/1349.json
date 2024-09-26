@@ -1,0 +1,32 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 83.0452334446426,
+                "normalized_intensity": 83.0452334446426
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 56.73421581375404,
+                "normalized_intensity": 56.73421581375404
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 65.96467480430842,
+                "normalized_intensity": 65.96467480430842
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 50.658610712685814,
+                "normalized_intensity": 50.658610712685814
+            }
+        ]
+    }
+}

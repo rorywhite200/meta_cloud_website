@@ -1,0 +1,37 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 234.5100532843806,
+                "normalized_intensity": 78.1700177614602
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 100.9115568970965,
+                "normalized_intensity": 33.6371856323655
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 151.39523374526135,
+                "normalized_intensity": 75.69761687263068
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 101.74536641770476,
+                "normalized_intensity": 50.87268320885238
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 99.88490114592258,
+                "normalized_intensity": 49.94245057296129
+            }
+        ]
+    }
+}

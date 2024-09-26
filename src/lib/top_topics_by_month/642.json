@@ -1,0 +1,187 @@
+{
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 107.18728599624214,
+                "normalized_intensity": 35.72909533208071
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.09116908781814,
+                "normalized_intensity": 34.36372302927271
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 79.8500322312927,
+                "normalized_intensity": 26.6166774104309
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 79.43442397025903,
+                "normalized_intensity": 26.478141323419678
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 77.81141101360522,
+                "normalized_intensity": 25.937137004535074
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 69.87509831480303,
+                "normalized_intensity": 23.291699438267674
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 60.098691038029564,
+                "normalized_intensity": 20.03289701267652
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 50.876531289602326,
+                "normalized_intensity": 16.958843763200775
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.099003002152955,
+                "normalized_intensity": 16.69966766738432
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 78.29724407206949,
+                "normalized_intensity": 78.29724407206949
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 75.44439443115144,
+                "normalized_intensity": 75.44439443115144
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 60.56032902122954,
+                "normalized_intensity": 60.56032902122954
+            },
+            {
+                "topic": "law",
+                "weighted_count": 54.797104412943284,
+                "normalized_intensity": 54.797104412943284
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.27997458840613,
+                "normalized_intensity": 51.27997458840613
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 50.57323888380091,
+                "normalized_intensity": 50.57323888380091
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.65063753622526,
+                "normalized_intensity": 49.65063753622526
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "music",
+                "weighted_count": 58.28185027576299,
+                "normalized_intensity": 29.140925137881496
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.25492364247526,
+                "normalized_intensity": 25.62746182123763
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.477319733151674,
+                "normalized_intensity": 25.238659866575837
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.45393644412475,
+                "normalized_intensity": 24.726968222062375
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 227.99897125753478,
+                "normalized_intensity": 56.999742814383694
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 203.77187782416397,
+                "normalized_intensity": 50.94296945604099
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 166.84472709427163,
+                "normalized_intensity": 41.71118177356791
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 161.85859429772512,
+                "normalized_intensity": 40.46464857443128
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 120.34424615000444,
+                "normalized_intensity": 30.08606153750111
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 115.61766749994588,
+                "normalized_intensity": 28.90441687498647
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 60.28105408671637,
+                "normalized_intensity": 15.070263521679092
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 57.41992910860573,
+                "normalized_intensity": 14.354982277151432
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 55.93582363085573,
+                "normalized_intensity": 13.983955907713932
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.77315968287986,
+                "normalized_intensity": 12.943289920719964
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.0287346573294,
+                "normalized_intensity": 12.75718366433235
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.46276213797801,
+                "normalized_intensity": 12.615690534494503
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.030174703394245,
+                "normalized_intensity": 12.507543675848561
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "2024-03": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 323.7211772953144,
+                "normalized_intensity": 53.95352954921907
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 310.18082629120147,
+                "normalized_intensity": 51.69680438186691
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 99.30837439748304,
+                "normalized_intensity": 16.55139573291384
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 49.95984159143906,
+                "normalized_intensity": 49.95984159143906
+            }
+        ]
+    }
+}

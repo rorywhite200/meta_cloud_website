@@ -1,0 +1,352 @@
+{
+    "2023-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 67.62270633476965,
+                "normalized_intensity": 67.62270633476965
+            },
+            {
+                "topic": "television",
+                "weighted_count": 58.63600769643816,
+                "normalized_intensity": 58.63600769643816
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.93850466102641,
+                "normalized_intensity": 50.93850466102641
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.067763448464696,
+                "normalized_intensity": 50.067763448464696
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 265.1657049929798,
+                "normalized_intensity": 66.29142624824495
+            },
+            {
+                "topic": "television",
+                "weighted_count": 163.9780645120049,
+                "normalized_intensity": 40.99451612800122
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 99.4315567479178,
+                "normalized_intensity": 24.85788918697945
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.38290525244857,
+                "normalized_intensity": 12.595726313112143
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 322.46287599510316,
+                "normalized_intensity": 64.49257519902064
+            },
+            {
+                "topic": "television",
+                "weighted_count": 220.5429376869774,
+                "normalized_intensity": 44.10858753739548
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 154.00869723974563,
+                "normalized_intensity": 30.801739447949124
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 55.946918271679245,
+                "normalized_intensity": 11.189383654335849
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 51.387384226908004,
+                "normalized_intensity": 10.277476845381601
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.845185718786546,
+                "normalized_intensity": 10.16903714375731
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.685408037917576,
+                "normalized_intensity": 10.137081607583514
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.83054358514227,
+                "normalized_intensity": 9.966108717028455
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.0380373514704,
+                "normalized_intensity": 9.80760747029408
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 267.7370870019297,
+                "normalized_intensity": 66.93427175048242
+            },
+            {
+                "topic": "television",
+                "weighted_count": 223.99834437086093,
+                "normalized_intensity": 55.999586092715234
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.562657429219826,
+                "normalized_intensity": 12.890664357304956
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.513685370082705,
+                "normalized_intensity": 12.628421342520676
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 311.52897470656995,
+                "normalized_intensity": 62.30579494131399
+            },
+            {
+                "topic": "television",
+                "weighted_count": 162.2779283540873,
+                "normalized_intensity": 32.455585670817456
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 107.0169464102718,
+                "normalized_intensity": 21.40338928205436
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 102.22439419808285,
+                "normalized_intensity": 20.44487883961657
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 100.2502783434679,
+                "normalized_intensity": 20.05005566869358
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 59.44854410304683,
+                "normalized_intensity": 11.889708820609366
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.20982899601448,
+                "normalized_intensity": 9.841965799202896
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.111661520170315,
+                "normalized_intensity": 9.822332304034063
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 67.02856231368834,
+                "normalized_intensity": 67.02856231368834
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 55.02509167286019,
+                "normalized_intensity": 55.02509167286019
+            },
+            {
+                "topic": "television",
+                "weighted_count": 53.9934222301772,
+                "normalized_intensity": 53.9934222301772
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.73482310054484,
+                "normalized_intensity": 50.73482310054484
+            },
+            {
+                "topic": "film",
+                "weighted_count": 50.50647906410689,
+                "normalized_intensity": 50.50647906410689
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 305.13316745398834,
+                "normalized_intensity": 61.026633490797664
+            },
+            {
+                "topic": "television",
+                "weighted_count": 154.22965302104376,
+                "normalized_intensity": 30.845930604208753
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 111.34688750205777,
+                "normalized_intensity": 22.269377500411554
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.027416859941894,
+                "normalized_intensity": 10.00548337198838
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.102998219988805,
+                "normalized_intensity": 9.820599643997761
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 240.57314829544273,
+                "normalized_intensity": 60.143287073860684
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 151.35452367752876,
+                "normalized_intensity": 37.83863091938219
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 60.363471620366404,
+                "normalized_intensity": 15.090867905091601
+            },
+            {
+                "topic": "television",
+                "weighted_count": 52.416595284972765,
+                "normalized_intensity": 13.104148821243191
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.374070188332695,
+                "normalized_intensity": 12.593517547083174
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.311320173673174,
+                "normalized_intensity": 12.327830043418293
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 239.4223171119703,
+                "normalized_intensity": 59.855579277992575
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 168.00391193730644,
+                "normalized_intensity": 42.00097798432661
+            },
+            {
+                "topic": "media",
+                "weighted_count": 104.3395151910104,
+                "normalized_intensity": 26.0848787977526
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.66229314603405,
+                "normalized_intensity": 12.665573286508513
+            },
+            {
+                "topic": "film",
+                "weighted_count": 50.4302783863731,
+                "normalized_intensity": 12.607569596593274
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.9463898174238,
+                "normalized_intensity": 12.48659745435595
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.6689468076094,
+                "normalized_intensity": 12.41723670190235
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 300.5220617223325,
+                "normalized_intensity": 60.1044123444665
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 159.9856840941388,
+                "normalized_intensity": 31.997136818827762
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 54.39967904715755,
+                "normalized_intensity": 10.87993580943151
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 52.39255387764965,
+                "normalized_intensity": 10.47851077552993
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 52.09281816353052,
+                "normalized_intensity": 10.418563632706103
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.55887380784979,
+                "normalized_intensity": 10.311774761569959
+            },
+            {
+                "topic": "television",
+                "weighted_count": 49.238906006290115,
+                "normalized_intensity": 9.847781201258023
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.02956259674763,
+                "normalized_intensity": 9.805912519349526
+            }
+        ]
+    }
+}

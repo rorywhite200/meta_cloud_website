@@ -1,0 +1,182 @@
+{
+    "2024-05": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 240.86692586325307,
+                "normalized_intensity": 26.762991762583674
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 197.9842889170343,
+                "normalized_intensity": 21.99825432411492
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 189.42975212258776,
+                "normalized_intensity": 21.047750235843083
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 176.68849073390388,
+                "normalized_intensity": 19.632054525989318
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 157.51313853632774,
+                "normalized_intensity": 17.50145983736975
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 105.33662234179178,
+                "normalized_intensity": 11.704069149087976
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 105.04524796938959,
+                "normalized_intensity": 11.671694218821067
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 67.3219816148567,
+                "normalized_intensity": 7.480220179428522
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 66.51842481000422,
+                "normalized_intensity": 7.390936090000469
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 56.12073150193674,
+                "normalized_intensity": 6.235636833548527
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.05201309820276,
+                "normalized_intensity": 6.00577923313364
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 53.93615086863408,
+                "normalized_intensity": 5.992905652070453
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.461775038462875,
+                "normalized_intensity": 5.717975004273653
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.99164493750994,
+                "normalized_intensity": 5.665738326389993
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 49.454402631649955,
+                "normalized_intensity": 5.494933625738884
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.04855494202478,
+                "normalized_intensity": 5.449839438002753
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 75.53166968817385,
+                "normalized_intensity": 37.765834844086925
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 69.38735437378017,
+                "normalized_intensity": 34.693677186890085
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 66.06049851135542,
+                "normalized_intensity": 33.03024925567771
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 50.50393621634812,
+                "normalized_intensity": 25.25196810817406
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 61.59233200527285,
+                "normalized_intensity": 61.59233200527285
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 69.98442959565611,
+                "normalized_intensity": 23.328143198552038
+            },
+            {
+                "topic": "business",
+                "weighted_count": 66.96712794182437,
+                "normalized_intensity": 22.322375980608125
+            },
+            {
+                "topic": "community",
+                "weighted_count": 66.36382940855167,
+                "normalized_intensity": 22.121276469517223
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 62.47785728415407,
+                "normalized_intensity": 20.825952428051355
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 61.13631533165859,
+                "normalized_intensity": 20.37877177721953
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 54.706664260337,
+                "normalized_intensity": 18.235554753445665
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.173567001568735,
+                "normalized_intensity": 17.39118900052291
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.948888481979814,
+                "normalized_intensity": 17.316296160659938
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.91883668849449,
+                "normalized_intensity": 16.972945562831494
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 50.64723403327851,
+                "normalized_intensity": 16.88241134442617
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.90323592249851,
+                "normalized_intensity": 16.63441197416617
+            }
+        ]
+    }
+}

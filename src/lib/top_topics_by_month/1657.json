@@ -1,0 +1,187 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 136.48989510862674,
+                "normalized_intensity": 68.24494755431337
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 126.36335735888562,
+                "normalized_intensity": 63.18167867944281
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 121.68060968052794,
+                "normalized_intensity": 60.84030484026397
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 121.53800783501939,
+                "normalized_intensity": 60.76900391750969
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 109.34188433014029,
+                "normalized_intensity": 54.670942165070144
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 107.8706452180559,
+                "normalized_intensity": 53.93532260902795
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 57.550298396674734,
+                "normalized_intensity": 28.775149198337367
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 52.131476595067774,
+                "normalized_intensity": 26.065738297533887
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.84511077453805,
+                "normalized_intensity": 25.922555387269025
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 50.89187871765473,
+                "normalized_intensity": 25.445939358827363
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.49879474515415,
+                "normalized_intensity": 25.249397372577075
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 366.0430827957388,
+                "normalized_intensity": 61.00718046595647
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 347.15446405345966,
+                "normalized_intensity": 57.859077342243275
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 347.0957786620561,
+                "normalized_intensity": 57.84929644367602
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 318.9453074199525,
+                "normalized_intensity": 53.15755123665875
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 310.1743204930647,
+                "normalized_intensity": 51.69572008217745
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 183.99636796943858,
+                "normalized_intensity": 30.666061328239763
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 172.9667441715349,
+                "normalized_intensity": 28.827790695255818
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 153.4761050684205,
+                "normalized_intensity": 25.57935084473675
+            },
+            {
+                "topic": "science",
+                "weighted_count": 152.78001331032118,
+                "normalized_intensity": 25.463335551720196
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 130.44175094178462,
+                "normalized_intensity": 65.22087547089231
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 117.59438399557108,
+                "normalized_intensity": 58.79719199778554
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 115.20026522730195,
+                "normalized_intensity": 57.60013261365098
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 111.59978361929228,
+                "normalized_intensity": 55.79989180964614
+            },
+            {
+                "topic": "business",
+                "weighted_count": 104.46012287760172,
+                "normalized_intensity": 52.23006143880086
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 103.67117293238401,
+                "normalized_intensity": 51.835586466192005
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 245.78436743950232,
+                "normalized_intensity": 61.44609185987558
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 231.04116020291863,
+                "normalized_intensity": 57.76029005072966
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 226.42911627622837,
+                "normalized_intensity": 56.60727906905709
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 225.09520795487003,
+                "normalized_intensity": 56.27380198871751
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 220.57881728879408,
+                "normalized_intensity": 55.14470432219852
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 111.3448683279034,
+                "normalized_intensity": 27.83621708197585
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 104.14108336980073,
+                "normalized_intensity": 26.03527084245018
+            }
+        ]
+    }
+}

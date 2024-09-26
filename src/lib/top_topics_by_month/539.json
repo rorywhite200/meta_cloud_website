@@ -1,0 +1,447 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 68.32754314489684,
+                "normalized_intensity": 68.32754314489684
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 67.57156246818296,
+                "normalized_intensity": 67.57156246818296
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 65.54818312914875,
+                "normalized_intensity": 65.54818312914875
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 59.29105130879918,
+                "normalized_intensity": 59.29105130879918
+            },
+            {
+                "topic": "family",
+                "weighted_count": 57.606057321616966,
+                "normalized_intensity": 57.606057321616966
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 53.870790655603884,
+                "normalized_intensity": 53.870790655603884
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 52.96366036953222,
+                "normalized_intensity": 52.96366036953222
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.90958451434696,
+                "normalized_intensity": 52.90958451434696
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 52.04882104625216,
+                "normalized_intensity": 52.04882104625216
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.222989434174494,
+                "normalized_intensity": 49.222989434174494
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 186.07203213698705,
+                "normalized_intensity": 46.51800803424676
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 168.0251204837399,
+                "normalized_intensity": 42.006280120934974
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 148.17630568181931,
+                "normalized_intensity": 37.04407642045483
+            },
+            {
+                "topic": "art",
+                "weighted_count": 137.35102508619005,
+                "normalized_intensity": 34.33775627154751
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 120.31717156726623,
+                "normalized_intensity": 30.079292891816557
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 117.74416648748105,
+                "normalized_intensity": 29.436041621870263
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.74333953197208,
+                "normalized_intensity": 26.93583488299302
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 100.53506683583522,
+                "normalized_intensity": 25.133766708958806
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 100.21452831434645,
+                "normalized_intensity": 25.053632078586613
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 72.24446172339827,
+                "normalized_intensity": 18.06111543084957
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 67.5458258906293,
+                "normalized_intensity": 16.886456472657326
+            },
+            {
+                "topic": "military",
+                "weighted_count": 63.65202586381099,
+                "normalized_intensity": 15.913006465952748
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 62.705508549624646,
+                "normalized_intensity": 15.676377137406162
+            },
+            {
+                "topic": "history",
+                "weighted_count": 60.736847563414074,
+                "normalized_intensity": 15.184211890853518
+            },
+            {
+                "topic": "film",
+                "weighted_count": 58.88356823526052,
+                "normalized_intensity": 14.72089205881513
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.82593924460074,
+                "normalized_intensity": 13.206484811150185
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 183.23241951182445,
+                "normalized_intensity": 45.80810487795611
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 183.06405772407953,
+                "normalized_intensity": 45.76601443101988
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 182.31866500398243,
+                "normalized_intensity": 45.57966625099561
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 169.31238552106169,
+                "normalized_intensity": 42.32809638026542
+            },
+            {
+                "topic": "community",
+                "weighted_count": 157.15437065404842,
+                "normalized_intensity": 39.288592663512105
+            },
+            {
+                "topic": "history",
+                "weighted_count": 156.70539872852493,
+                "normalized_intensity": 39.17634968213123
+            },
+            {
+                "topic": "art",
+                "weighted_count": 140.2149121379477,
+                "normalized_intensity": 35.05372803448692
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 112.73198937468686,
+                "normalized_intensity": 28.182997343671715
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 71.10740245040743,
+                "normalized_intensity": 17.77685061260186
+            },
+            {
+                "topic": "military",
+                "weighted_count": 63.2559028934628,
+                "normalized_intensity": 15.8139757233657
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.34159723269408,
+                "normalized_intensity": 15.58539930817352
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 58.642769932331795,
+                "normalized_intensity": 14.660692483082949
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 57.13208214317079,
+                "normalized_intensity": 14.283020535792698
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.76165706701226,
+                "normalized_intensity": 13.190414266753065
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.533715900402335,
+                "normalized_intensity": 12.883428975100584
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.57772151870428,
+                "normalized_intensity": 12.39443037967607
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 89.10907956330065,
+                "normalized_intensity": 89.10907956330065
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 74.68395423064143,
+                "normalized_intensity": 74.68395423064143
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 73.58098872355424,
+                "normalized_intensity": 73.58098872355424
+            },
+            {
+                "topic": "law",
+                "weighted_count": 72.11218138043895,
+                "normalized_intensity": 72.11218138043895
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 62.41303526981843,
+                "normalized_intensity": 62.41303526981843
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 56.61855477305154,
+                "normalized_intensity": 56.61855477305154
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 55.676437750378874,
+                "normalized_intensity": 55.676437750378874
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 51.85593808950391,
+                "normalized_intensity": 51.85593808950391
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 50.73702928696847,
+                "normalized_intensity": 50.73702928696847
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.52076077746138,
+                "normalized_intensity": 49.52076077746138
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 123.07584817971357,
+                "normalized_intensity": 61.53792408985679
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 112.11239973544038,
+                "normalized_intensity": 56.05619986772019
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 62.66736053578226,
+                "normalized_intensity": 31.33368026789113
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.785103663259534,
+                "normalized_intensity": 26.392551831629767
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.39538879834241,
+                "normalized_intensity": 26.197694399171205
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 51.83899412660564,
+                "normalized_intensity": 25.91949706330282
+            },
+            {
+                "topic": "music",
+                "weighted_count": 51.082372923437326,
+                "normalized_intensity": 25.541186461718663
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.55802754965869,
+                "normalized_intensity": 25.279013774829345
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 194.67936422699964,
+                "normalized_intensity": 64.89312140899987
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 190.27601004546972,
+                "normalized_intensity": 63.42533668182324
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 188.86729869597477,
+                "normalized_intensity": 62.95576623199159
+            },
+            {
+                "topic": "history",
+                "weighted_count": 140.82655895009725,
+                "normalized_intensity": 46.942186316699086
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 129.36744835644868,
+                "normalized_intensity": 43.122482785482894
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 144.8997685699612,
+                "normalized_intensity": 72.4498842849806
+            },
+            {
+                "topic": "history",
+                "weighted_count": 130.88782716270825,
+                "normalized_intensity": 65.44391358135412
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 120.95636278039123,
+                "normalized_intensity": 60.478181390195616
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 117.54458139315057,
+                "normalized_intensity": 58.77229069657528
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 115.58836482010217,
+                "normalized_intensity": 57.794182410051086
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 113.77760737313962,
+                "normalized_intensity": 56.88880368656981
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 110.55024360838756,
+                "normalized_intensity": 55.27512180419378
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 99.4743712897699,
+                "normalized_intensity": 49.73718564488495
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 63.507968430739716,
+                "normalized_intensity": 63.507968430739716
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 62.475352678121844,
+                "normalized_intensity": 62.475352678121844
+            },
+            {
+                "topic": "art",
+                "weighted_count": 62.446814293264744,
+                "normalized_intensity": 62.446814293264744
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.14371022284413,
+                "normalized_intensity": 60.14371022284413
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.15667224304822,
+                "normalized_intensity": 56.15667224304822
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.43948660194544,
+                "normalized_intensity": 54.43948660194544
+            },
+            {
+                "topic": "media",
+                "weighted_count": 51.63993587704482,
+                "normalized_intensity": 51.63993587704482
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.78481132395382,
+                "normalized_intensity": 49.78481132395382
+            }
+        ]
+    }
+}

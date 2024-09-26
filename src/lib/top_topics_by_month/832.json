@@ -1,0 +1,82 @@
+{
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "food-waste",
+                "weighted_count": 226.16478127765492,
+                "normalized_intensity": 75.38826042588498
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 224.44215899675305,
+                "normalized_intensity": 74.81405299891769
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 183.7256836447226,
+                "normalized_intensity": 61.24189454824087
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 174.0203613013844,
+                "normalized_intensity": 58.00678710046147
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 166.62946129442616,
+                "normalized_intensity": 55.54315376480872
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 55.12443737587213,
+                "normalized_intensity": 18.374812458624042
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.2405182288727,
+                "normalized_intensity": 17.08017274295757
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.22583180939729,
+                "normalized_intensity": 16.40861060313243
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 126.13071373644758,
+                "normalized_intensity": 63.06535686822379
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 119.82419345782358,
+                "normalized_intensity": 59.91209672891179
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 118.79828204184284,
+                "normalized_intensity": 59.39914102092142
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 110.37665821684539,
+                "normalized_intensity": 55.18832910842269
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 99.9372433824204,
+                "normalized_intensity": 49.9686216912102
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.72860395608172,
+                "normalized_intensity": 27.36430197804086
+            }
+        ]
+    }
+}

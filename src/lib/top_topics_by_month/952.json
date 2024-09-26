@@ -1,0 +1,42 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 73.7031517571747,
+                "normalized_intensity": 73.7031517571747
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 63.167087952349895,
+                "normalized_intensity": 63.167087952349895
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.08212275759641,
+                "normalized_intensity": 53.08212275759641
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 256.01259823463374,
+                "normalized_intensity": 64.00314955865844
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 200.3259913822708,
+                "normalized_intensity": 50.0814978455677
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 199.03170587479875,
+                "normalized_intensity": 49.75792646869969
+            }
+        ]
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 200.34707964266394,
+                "normalized_intensity": 66.78235988088798
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 199.08707620075856,
+                "normalized_intensity": 66.36235873358619
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 169.07258521831034,
+                "normalized_intensity": 56.35752840610345
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 166.67077920327222,
+                "normalized_intensity": 55.55692640109074
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 161.14078389703553,
+                "normalized_intensity": 53.71359463234518
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 160.1606660502581,
+                "normalized_intensity": 53.386888683419365
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 102.5370902125077,
+                "normalized_intensity": 34.1790300708359
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 101.7622212028729,
+                "normalized_intensity": 33.920740400957634
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 65.20482378002005,
+                "normalized_intensity": 21.734941260006682
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 50.91764065138342,
+                "normalized_intensity": 16.972546883794475
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.505312980879545,
+                "normalized_intensity": 16.835104326959847
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.77739430543572,
+                "normalized_intensity": 16.592464768478575
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 130.44489130376445,
+                "normalized_intensity": 65.22244565188223
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 130.1353880412475,
+                "normalized_intensity": 65.06769402062375
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 124.59675598526633,
+                "normalized_intensity": 62.298377992633164
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 115.86621932635171,
+                "normalized_intensity": 57.933109663175856
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 115.6357519756287,
+                "normalized_intensity": 57.81787598781435
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 115.45466829015568,
+                "normalized_intensity": 57.72733414507784
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 110.75149755527059,
+                "normalized_intensity": 55.375748777635295
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 108.53323462247178,
+                "normalized_intensity": 54.26661731123589
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 107.99199366236137,
+                "normalized_intensity": 53.99599683118068
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 56.282696699674695,
+                "normalized_intensity": 28.141348349837347
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 54.85067379155226,
+                "normalized_intensity": 27.42533689577613
+            }
+        ]
+    }
+}

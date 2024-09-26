@@ -1,0 +1,37 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 76.84163026634435,
+                "normalized_intensity": 76.84163026634435
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.531418276179664,
+                "normalized_intensity": 61.531418276179664
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.79125930562971,
+                "normalized_intensity": 51.79125930562971
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.05045602619218,
+                "normalized_intensity": 49.05045602619218
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 55.86282223166753,
+                "normalized_intensity": 55.86282223166753
+            }
+        ]
+    }
+}

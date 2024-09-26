@@ -1,0 +1,167 @@
+{
+    "2023-09": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 567.0995015685746,
+                "normalized_intensity": 35.443718848035914
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 243.24764812879528,
+                "normalized_intensity": 15.202978008049705
+            },
+            {
+                "topic": "health",
+                "weighted_count": 219.34192991037304,
+                "normalized_intensity": 13.708870619398315
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 200.32725289769354,
+                "normalized_intensity": 12.520453306105846
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 165.02104327618045,
+                "normalized_intensity": 10.313815204761278
+            },
+            {
+                "topic": "business",
+                "weighted_count": 151.22850368197066,
+                "normalized_intensity": 9.451781480123167
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 148.0590538342348,
+                "normalized_intensity": 9.253690864639674
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 147.54695731211126,
+                "normalized_intensity": 9.221684832006954
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 144.9442181588073,
+                "normalized_intensity": 9.059013634925456
+            },
+            {
+                "topic": "education",
+                "weighted_count": 135.37857081800456,
+                "normalized_intensity": 8.461160676125285
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 114.73929730773993,
+                "normalized_intensity": 7.171206081733746
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 103.42553271508896,
+                "normalized_intensity": 6.46409579469306
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 215.3533414235899,
+                "normalized_intensity": 35.89222357059832
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 192.3971792390091,
+                "normalized_intensity": 32.06619653983485
+            },
+            {
+                "topic": "health",
+                "weighted_count": 178.52177171877554,
+                "normalized_intensity": 29.753628619795922
+            },
+            {
+                "topic": "business",
+                "weighted_count": 160.47169348864907,
+                "normalized_intensity": 26.74528224810818
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 157.77019761613957,
+                "normalized_intensity": 26.29503293602326
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 157.41410789434863,
+                "normalized_intensity": 26.235684649058104
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 149.18028336875335,
+                "normalized_intensity": 24.863380561458893
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 57.12570460556948,
+                "normalized_intensity": 57.12570460556948
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.076120511357004,
+                "normalized_intensity": 55.076120511357004
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "digital-economy",
+                "weighted_count": 52.845538051692465,
+                "normalized_intensity": 26.422769025846232
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 62.50386119234409,
+                "normalized_intensity": 31.251930596172045
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 54.1506262610252,
+                "normalized_intensity": 27.0753131305126
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.186436981187576,
+                "normalized_intensity": 25.593218490593788
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.245473561132776,
+                "normalized_intensity": 24.622736780566388
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.23891196363636,
+                "normalized_intensity": 24.61945598181818
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.11889725602833,
+                "normalized_intensity": 24.559448628014167
+            }
+        ]
+    }
+}

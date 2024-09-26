@@ -1,0 +1,62 @@
+{
+    "2024-06": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 667.1989041132966,
+                "normalized_intensity": 66.71989041132966
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 559.572316830094,
+                "normalized_intensity": 55.9572316830094
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 543.2013661256324,
+                "normalized_intensity": 54.32013661256324
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 106.41643299158265,
+                "normalized_intensity": 10.641643299158265
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 104.83832162539144,
+                "normalized_intensity": 10.483832162539144
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 405.14784618423914,
+                "normalized_intensity": 67.52464103070652
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 334.2075207792664,
+                "normalized_intensity": 55.70125346321107
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 327.8187770010481,
+                "normalized_intensity": 54.63646283350801
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 106.41643299158265,
+                "normalized_intensity": 17.736072165263774
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 104.83832162539144,
+                "normalized_intensity": 17.473053604231907
+            }
+        ]
+    }
+}

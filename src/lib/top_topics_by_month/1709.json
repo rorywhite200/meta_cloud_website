@@ -1,0 +1,77 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "family",
+                "weighted_count": 150.83389101077006,
+                "normalized_intensity": 50.27796367025669
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 147.62881854908008,
+                "normalized_intensity": 49.20960618302669
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 143.20374834393675,
+                "normalized_intensity": 47.73458278131225
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 106.00504847949873,
+                "normalized_intensity": 35.33501615983291
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.3403850520747,
+                "normalized_intensity": 16.780128350691566
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 107.51163017391481,
+                "normalized_intensity": 35.8372100579716
+            },
+            {
+                "topic": "family",
+                "weighted_count": 72.52468281992206,
+                "normalized_intensity": 24.174894273307356
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 71.63143019861079,
+                "normalized_intensity": 23.87714339953693
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 70.62611418182645,
+                "normalized_intensity": 23.542038060608817
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 68.661562495452,
+                "normalized_intensity": 22.887187498484
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 57.41883300854453,
+                "normalized_intensity": 19.139611002848177
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 57.15408140968673,
+                "normalized_intensity": 19.051360469895577
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 50.85184795398153,
+                "normalized_intensity": 16.950615984660512
+            }
+        ]
+    }
+}

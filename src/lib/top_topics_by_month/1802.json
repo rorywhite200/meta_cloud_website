@@ -1,0 +1,47 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "racism",
+                "weighted_count": 141.59393635515517,
+                "normalized_intensity": 70.79696817757758
+            },
+            {
+                "topic": "history",
+                "weighted_count": 134.57355601542756,
+                "normalized_intensity": 67.28677800771378
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 126.06111545088092,
+                "normalized_intensity": 63.03055772544046
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 125.61103235502014,
+                "normalized_intensity": 62.80551617751007
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 125.32456595339849,
+                "normalized_intensity": 62.662282976699245
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 109.32332663293016,
+                "normalized_intensity": 54.66166331646508
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 104.71000251174196,
+                "normalized_intensity": 52.35500125587098
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 99.97473214754461,
+                "normalized_intensity": 49.98736607377231
+            }
+        ]
+    }
+}

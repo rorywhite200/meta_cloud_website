@@ -1,0 +1,57 @@
+{
+    "2023-09": {
+        "total_ads": 75,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 2815.7007284116285,
+                "normalized_intensity": 37.54267637882171
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 2604.762404958621,
+                "normalized_intensity": 34.73016539944828
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1903.6836560043225,
+                "normalized_intensity": 25.3824487467243
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1866.8141905269842,
+                "normalized_intensity": 24.890855873693123
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1520.100872103581,
+                "normalized_intensity": 20.268011628047745
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 1516.3275766707868,
+                "normalized_intensity": 20.217701022277158
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 960.1021515194938,
+                "normalized_intensity": 12.801362020259917
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 861.0924573677174,
+                "normalized_intensity": 11.481232764902899
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 493.24732496858013,
+                "normalized_intensity": 6.576630999581068
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 250.5527834849819,
+                "normalized_intensity": 3.3407037797997585
+            }
+        ]
+    }
+}

@@ -1,0 +1,462 @@
+{
+    "2023-09": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 527.0820903740045,
+                "normalized_intensity": 58.56467670822272
+            },
+            {
+                "topic": "community",
+                "weighted_count": 445.46501451463433,
+                "normalized_intensity": 49.496112723848256
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 418.1168892706036,
+                "normalized_intensity": 46.45743214117818
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 211.14168767807254,
+                "normalized_intensity": 23.460187519785837
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 176.8390441697086,
+                "normalized_intensity": 19.648782685523177
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 163.97103646714336,
+                "normalized_intensity": 18.219004051904818
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 160.34004919138897,
+                "normalized_intensity": 17.81556102126544
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 138.99798218962235,
+                "normalized_intensity": 15.444220243291372
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 125.14948754958996,
+                "normalized_intensity": 13.905498616621108
+            },
+            {
+                "topic": "family",
+                "weighted_count": 110.96765404575507,
+                "normalized_intensity": 12.32973933841723
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.800733818005384,
+                "normalized_intensity": 5.644525979778376
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.15000113092011,
+                "normalized_intensity": 5.572222347880012
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 196.73104658798692,
+                "normalized_intensity": 65.57701552932897
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 161.84335197435342,
+                "normalized_intensity": 53.94778399145114
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 61.618813976399025,
+                "normalized_intensity": 20.539604658799675
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.358105928462116,
+                "normalized_intensity": 17.45270197615404
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.39588470827795,
+                "normalized_intensity": 16.79862823609265
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 607.2972093851072,
+                "normalized_intensity": 60.72972093851072
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 487.24018496731094,
+                "normalized_intensity": 48.72401849673109
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 418.67484308383735,
+                "normalized_intensity": 41.86748430838374
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 316.6741146693051,
+                "normalized_intensity": 31.66741146693051
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 248.26417902401317,
+                "normalized_intensity": 24.826417902401317
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 164.9129956552024,
+                "normalized_intensity": 16.49129956552024
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 864.885214326108,
+                "normalized_intensity": 54.05532589538175
+            },
+            {
+                "topic": "community",
+                "weighted_count": 851.5165552752871,
+                "normalized_intensity": 53.21978470470545
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 567.0535852301203,
+                "normalized_intensity": 35.44084907688252
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 567.0112268468647,
+                "normalized_intensity": 35.438201677929044
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 205.6779373453303,
+                "normalized_intensity": 12.854871084083143
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 201.50037498900173,
+                "normalized_intensity": 12.593773436812608
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 63.42894354311481,
+                "normalized_intensity": 3.9643089714446758
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.59966648953694,
+                "normalized_intensity": 3.287479155596059
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 1189.4725510773972,
+                "normalized_intensity": 62.60381847775775
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 1184.1753106128147,
+                "normalized_intensity": 62.32501634804288
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 804.2690333282579,
+                "normalized_intensity": 42.329949122539894
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 642.6830127320861,
+                "normalized_intensity": 33.825421722741375
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 591.1313230640567,
+                "normalized_intensity": 31.112174898108247
+            },
+            {
+                "topic": "family",
+                "weighted_count": 521.1193853980326,
+                "normalized_intensity": 27.427336073580662
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 352.369109778821,
+                "normalized_intensity": 18.545742619937947
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.10903167751902,
+                "normalized_intensity": 2.637317456711527
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 38,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 2126.8029727750686,
+                "normalized_intensity": 55.968499283554436
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1194.7553234902964,
+                "normalized_intensity": 31.440929565534116
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1009.238875672013,
+                "normalized_intensity": 26.55891778084245
+            },
+            {
+                "topic": "community",
+                "weighted_count": 901.3842971909733,
+                "normalized_intensity": 23.720639399762455
+            },
+            {
+                "topic": "education",
+                "weighted_count": 865.0195657319829,
+                "normalized_intensity": 22.763672782420603
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 151.37881366249923,
+                "normalized_intensity": 3.983652991118401
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 144.30413626312776,
+                "normalized_intensity": 3.7974772700823096
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 98.60515921443974,
+                "normalized_intensity": 2.5948726109063087
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 221.1165077234045,
+                "normalized_intensity": 55.27912693085113
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 178.30984903691046,
+                "normalized_intensity": 44.577462259227616
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 164.73280053053452,
+                "normalized_intensity": 41.18320013263363
+            },
+            {
+                "topic": "community",
+                "weighted_count": 158.38096465548458,
+                "normalized_intensity": 39.595241163871144
+            },
+            {
+                "topic": "education",
+                "weighted_count": 111.84413085574701,
+                "normalized_intensity": 27.961032713936753
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 103.44150445319045,
+                "normalized_intensity": 25.86037611329761
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 139.6648830173722,
+                "normalized_intensity": 69.8324415086861
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 124.38614162563184,
+                "normalized_intensity": 62.19307081281592
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 121.05417052645069,
+                "normalized_intensity": 60.527085263225345
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 113.23189417986269,
+                "normalized_intensity": 56.615947089931346
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 105.98036189704263,
+                "normalized_intensity": 52.990180948521314
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.674626700789865,
+                "normalized_intensity": 27.837313350394933
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.435886735457196,
+                "normalized_intensity": 25.717943367728598
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 750.2534237243426,
+                "normalized_intensity": 62.52111864369522
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 643.6235026891708,
+                "normalized_intensity": 53.63529189076423
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 619.5272782690473,
+                "normalized_intensity": 51.627273189087276
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 541.8853812074236,
+                "normalized_intensity": 45.15711510061863
+            },
+            {
+                "topic": "community",
+                "weighted_count": 518.6602348118007,
+                "normalized_intensity": 43.22168623431673
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 260.4565574276206,
+                "normalized_intensity": 21.704713118968385
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 182.60490547521772,
+                "normalized_intensity": 15.217075456268143
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 181.08413852972689,
+                "normalized_intensity": 15.090344877477241
+            },
+            {
+                "topic": "family",
+                "weighted_count": 149.60306624810198,
+                "normalized_intensity": 12.466922187341831
+            },
+            {
+                "topic": "education",
+                "weighted_count": 111.84413085574701,
+                "normalized_intensity": 9.320344237978917
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.435886735457196,
+                "normalized_intensity": 4.286323894621433
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 826.6994973830198,
+                "normalized_intensity": 59.04996409878713
+            },
+            {
+                "topic": "education",
+                "weighted_count": 401.75821382661496,
+                "normalized_intensity": 28.69701527332964
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 257.93100595192675,
+                "normalized_intensity": 18.423643282280484
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 161.92841233798495,
+                "normalized_intensity": 11.566315166998924
+            },
+            {
+                "topic": "community",
+                "weighted_count": 156.34027458128503,
+                "normalized_intensity": 11.167162470091787
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 154.58460213684748,
+                "normalized_intensity": 11.041757295489106
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 108.40400127400959,
+                "normalized_intensity": 7.743142948143542
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 60.86830182507258,
+                "normalized_intensity": 4.347735844648041
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.36136783242768,
+                "normalized_intensity": 4.3115262737448345
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.492065176859334,
+                "normalized_intensity": 3.6780046554899526
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.867688749367325,
+                "normalized_intensity": 3.561977767811952
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 202.39133399436514,
+                "normalized_intensity": 50.597833498591285
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 153.78224138615315,
+                "normalized_intensity": 38.44556034653829
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 60.03542765468101,
+                "normalized_intensity": 15.008856913670252
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 56.56678736730822,
+                "normalized_intensity": 14.141696841827056
+            }
+        ]
+    }
+}

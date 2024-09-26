@@ -1,0 +1,52 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 134.37722604258926,
+                "normalized_intensity": 67.18861302129463
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 66.95186899514066,
+                "normalized_intensity": 33.47593449757033
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 57.561180455921566,
+                "normalized_intensity": 28.780590227960783
+            },
+            {
+                "topic": "health",
+                "weighted_count": 55.950002129519284,
+                "normalized_intensity": 27.975001064759642
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.477366176167195,
+                "normalized_intensity": 26.238683088083597
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.4096437263274,
+                "normalized_intensity": 26.2048218631637
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.13950686634548,
+                "normalized_intensity": 26.06975343317274
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.22075746138125,
+                "normalized_intensity": 25.110378730690623
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 49.50239398292458,
+                "normalized_intensity": 24.75119699146229
+            }
+        ]
+    }
+}

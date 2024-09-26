@@ -1,0 +1,162 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 85.94303912003721,
+                "normalized_intensity": 85.94303912003721
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 81.35696744787798,
+                "normalized_intensity": 81.35696744787798
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 78.53035632901658,
+                "normalized_intensity": 78.53035632901658
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 77.59217607833745,
+                "normalized_intensity": 77.59217607833745
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 67.2745971888927,
+                "normalized_intensity": 67.2745971888927
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 56.21001608979491,
+                "normalized_intensity": 56.21001608979491
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 55.59291845100507,
+                "normalized_intensity": 55.59291845100507
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1560.5727404599602,
+                "normalized_intensity": 52.01909134866534
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 1495.8115770353916,
+                "normalized_intensity": 49.86038590117972
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1284.0808330244201,
+                "normalized_intensity": 42.80269443414734
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1252.3946820957945,
+                "normalized_intensity": 41.746489403193145
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 1209.9422829428393,
+                "normalized_intensity": 40.33140943142798
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1001.9728885056397,
+                "normalized_intensity": 33.399096283521324
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1001.245004538089,
+                "normalized_intensity": 33.374833484602966
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 968.1863279084806,
+                "normalized_intensity": 32.27287759694936
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 936.003223283784,
+                "normalized_intensity": 31.2001074427928
+            },
+            {
+                "topic": "business",
+                "weighted_count": 886.1059770899602,
+                "normalized_intensity": 29.536865902998674
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 796.8307132453399,
+                "normalized_intensity": 26.561023774844664
+            },
+            {
+                "topic": "community",
+                "weighted_count": 688.2479946483039,
+                "normalized_intensity": 22.94159982161013
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 614.4720533966038,
+                "normalized_intensity": 20.482401779886793
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 553.0266995694356,
+                "normalized_intensity": 18.434223318981186
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 523.00758885902,
+                "normalized_intensity": 17.433586295300664
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 522.0462336949873,
+                "normalized_intensity": 17.401541123166243
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 516.0757776308778,
+                "normalized_intensity": 17.20252592102926
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 508.4860742181982,
+                "normalized_intensity": 16.949535807273275
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 355.6539291522143,
+                "normalized_intensity": 11.855130971740476
+            },
+            {
+                "topic": "education",
+                "weighted_count": 278.56233171251324,
+                "normalized_intensity": 9.285411057083774
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 277.96765433545715,
+                "normalized_intensity": 9.265588477848572
+            },
+            {
+                "topic": "science",
+                "weighted_count": 268.8066318424771,
+                "normalized_intensity": 8.960221061415902
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 247.31467740470987,
+                "normalized_intensity": 8.243822580156996
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "2023-09": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 558.0649693841535,
+                "normalized_intensity": 55.80649693841535
+            },
+            {
+                "topic": "history",
+                "weighted_count": 549.6058436135048,
+                "normalized_intensity": 54.960584361350485
+            },
+            {
+                "topic": "education",
+                "weighted_count": 516.5638037656945,
+                "normalized_intensity": 51.65638037656945
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 376.47188141720807,
+                "normalized_intensity": 37.647188141720804
+            },
+            {
+                "topic": "community",
+                "weighted_count": 289.7489489931815,
+                "normalized_intensity": 28.97489489931815
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 272.58336041805416,
+                "normalized_intensity": 27.258336041805414
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 267.72760587507315,
+                "normalized_intensity": 26.772760587507314
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 259.24603127128603,
+                "normalized_intensity": 25.924603127128602
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 165.53550437917102,
+                "normalized_intensity": 16.553550437917103
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 159.29633320226412,
+                "normalized_intensity": 15.929633320226412
+            },
+            {
+                "topic": "family",
+                "weighted_count": 150.83399044805446,
+                "normalized_intensity": 15.083399044805446
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 150.73434893019382,
+                "normalized_intensity": 15.073434893019382
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 101.25076060693372,
+                "normalized_intensity": 10.125076060693372
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 99.66621853804561,
+                "normalized_intensity": 9.966621853804561
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 71.07624325667888,
+                "normalized_intensity": 71.07624325667888
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 61.63030285816109,
+                "normalized_intensity": 61.63030285816109
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.02237122770473,
+                "normalized_intensity": 61.02237122770473
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 57.81166946507107,
+                "normalized_intensity": 57.81166946507107
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 53.470864418635664,
+                "normalized_intensity": 53.470864418635664
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.23099548505979,
+                "normalized_intensity": 49.23099548505979
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 139.67788093183586,
+                "normalized_intensity": 69.83894046591793
+            },
+            {
+                "topic": "community",
+                "weighted_count": 135.26919890265683,
+                "normalized_intensity": 67.63459945132841
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 115.79299738334699,
+                "normalized_intensity": 57.89649869167349
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 111.33549955057637,
+                "normalized_intensity": 55.667749775288186
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 53.470864418635664,
+                "normalized_intensity": 26.735432209317832
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.150651548034254,
+                "normalized_intensity": 25.575325774017127
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.23099548505979,
+                "normalized_intensity": 24.615497742529897
+            }
+        ]
+    }
+}

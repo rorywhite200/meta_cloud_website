@@ -1,0 +1,82 @@
+{
+    "2023-09": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 966.1657600937411,
+                "normalized_intensity": 74.32044308413393
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 672.6585738403409,
+                "normalized_intensity": 51.742967218487756
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 628.0342940177725,
+                "normalized_intensity": 48.310330309059424
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 534.1284272876628,
+                "normalized_intensity": 41.086802099050985
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 527.9847622845913,
+                "normalized_intensity": 40.6142124834301
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 447.16803835317484,
+                "normalized_intensity": 34.39754141178268
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 359.5862063303256,
+                "normalized_intensity": 27.660477410025045
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 319.02447885916706,
+                "normalized_intensity": 24.540344527628235
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 302.9141718704539,
+                "normalized_intensity": 23.30109014388107
+            },
+            {
+                "topic": "community",
+                "weighted_count": 286.21550396160524,
+                "normalized_intensity": 22.016577227815787
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 263.95201981301636,
+                "normalized_intensity": 20.30400152407818
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 114.08560082525183,
+                "normalized_intensity": 8.775815448096294
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 111.83517414549893,
+                "normalized_intensity": 8.602705703499918
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 108.6950045911404,
+                "normalized_intensity": 8.361154199318493
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 100.16414398737072,
+                "normalized_intensity": 7.704934152874671
+            }
+        ]
+    }
+}

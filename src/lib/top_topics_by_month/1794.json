@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 146.65738051037744,
+                "normalized_intensity": 73.32869025518872
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 121.04240965686002,
+                "normalized_intensity": 60.52120482843001
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 111.88870584856458,
+                "normalized_intensity": 55.94435292428229
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 106.76395738455055,
+                "normalized_intensity": 53.381978692275275
+            },
+            {
+                "topic": "business",
+                "weighted_count": 105.63812352636445,
+                "normalized_intensity": 52.819061763182226
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 104.42232294868639,
+                "normalized_intensity": 52.21116147434319
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 102.94808175712345,
+                "normalized_intensity": 51.47404087856172
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 100.12682267682234,
+                "normalized_intensity": 50.06341133841117
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 243.1445691641731,
+                "normalized_intensity": 81.04818972139104
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 164.77496149571516,
+                "normalized_intensity": 54.924987165238385
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 163.74701721759274,
+                "normalized_intensity": 54.582339072530914
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 162.438233403594,
+                "normalized_intensity": 54.146077801198004
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 152.9387915279819,
+                "normalized_intensity": 50.979597175993966
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 148.00152348184852,
+                "normalized_intensity": 49.333841160616174
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 122.33157606556834,
+                "normalized_intensity": 61.16578803278417
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 106.00170648230949,
+                "normalized_intensity": 53.00085324115474
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 99.81545702329385,
+                "normalized_intensity": 49.90772851164692
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 120.56831334167882,
+                "normalized_intensity": 60.28415667083941
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 105.07958649009024,
+                "normalized_intensity": 52.53979324504512
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 324.49114735565996,
+                "normalized_intensity": 81.12278683891499
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 157.08274255654027,
+                "normalized_intensity": 39.27068563913507
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.229607399088,
+                "normalized_intensity": 15.057401849772
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.59243124452655,
+                "normalized_intensity": 14.398107811131638
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 50.04910041243663,
+                "normalized_intensity": 12.512275103109157
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.01719270647407,
+                "normalized_intensity": 12.504298176618518
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.72607744129668,
+                "normalized_intensity": 12.43151936032417
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 152.11951780332691,
+                "normalized_intensity": 76.05975890166346
+            },
+            {
+                "topic": "community",
+                "weighted_count": 64.79237015079264,
+                "normalized_intensity": 32.39618507539632
+            }
+        ]
+    }
+}

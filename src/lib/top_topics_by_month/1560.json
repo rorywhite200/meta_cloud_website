@@ -1,0 +1,22 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 52.94256304993711,
+                "normalized_intensity": 26.471281524968553
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 52.4796855322184,
+                "normalized_intensity": 26.2398427661092
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.10714870867322,
+                "normalized_intensity": 25.55357435433661
+            }
+        ]
+    }
+}

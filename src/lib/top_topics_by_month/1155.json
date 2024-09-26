@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 66.08826616095594,
+                "normalized_intensity": 66.08826616095594
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 61.18875837891821,
+                "normalized_intensity": 61.18875837891821
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 60.96753700976857,
+                "normalized_intensity": 60.96753700976857
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.56633830932874,
+                "normalized_intensity": 49.56633830932874
+            }
+        ]
+    }
+}

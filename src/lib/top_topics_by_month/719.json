@@ -1,0 +1,37 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 120.37672994188009,
+                "normalized_intensity": 60.18836497094004
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 98.80072754292858,
+                "normalized_intensity": 49.40036377146429
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 126.42402174852575,
+                "normalized_intensity": 63.21201087426287
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 115.02220462523726,
+                "normalized_intensity": 57.51110231261863
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 100.00990093841702,
+                "normalized_intensity": 50.00495046920851
+            }
+        ]
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "2024-01": {
+        "total_ads": 110,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 7456.371626926571,
+                "normalized_intensity": 67.78519660842336
+            },
+            {
+                "topic": "health",
+                "weighted_count": 6096.493543872297,
+                "normalized_intensity": 55.422668580657245
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 3545.3993738335544,
+                "normalized_intensity": 32.23090339848686
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 2530.468201230091,
+                "normalized_intensity": 23.004256374819008
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1709.803351799951,
+                "normalized_intensity": 15.543666834545009
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 1461.6059452930124,
+                "normalized_intensity": 13.287326775391021
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 1308.7144858853255,
+                "normalized_intensity": 11.897404417139324
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 1261.6326485093898,
+                "normalized_intensity": 11.469387713721726
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 1135.745932117353,
+                "normalized_intensity": 10.324963019248663
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 1092.4275428568749,
+                "normalized_intensity": 9.931159480517044
+            },
+            {
+                "topic": "community",
+                "weighted_count": 322.25301493196844,
+                "normalized_intensity": 2.9295728630178948
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 309.0165186957348,
+                "normalized_intensity": 2.8092410790521347
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 308.36989603361525,
+                "normalized_intensity": 2.803362691214684
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 295.3515576317717,
+                "normalized_intensity": 2.6850141602888336
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 76,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 6558.817735276662,
+                "normalized_intensity": 86.30023335890344
+            },
+            {
+                "topic": "health",
+                "weighted_count": 5044.3534654205105,
+                "normalized_intensity": 66.37307191342776
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 1289.8596372588966,
+                "normalized_intensity": 16.971837332353903
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 960.1013298223841,
+                "normalized_intensity": 12.632912234505053
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 793.7017025869822,
+                "normalized_intensity": 10.44344345509187
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 789.1371902741157,
+                "normalized_intensity": 10.383384082554153
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 201,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 17152.96294963039,
+                "normalized_intensity": 85.33812412751438
+            },
+            {
+                "topic": "health",
+                "weighted_count": 13934.061948231587,
+                "normalized_intensity": 69.32369128473427
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 4531.518230023831,
+                "normalized_intensity": 22.54486681603896
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 2138.1007885089825,
+                "normalized_intensity": 10.637317355766083
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 1954.6862777209408,
+                "normalized_intensity": 9.724807351845477
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1942.1856636906361,
+                "normalized_intensity": 9.662615242241971
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 1709.7824430689966,
+                "normalized_intensity": 8.506380313776102
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1421.1260554473552,
+                "normalized_intensity": 7.070278882822662
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 859.839863195971,
+                "normalized_intensity": 4.277810264656572
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 597.6941147320218,
+                "normalized_intensity": 2.97360256085583
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 497.91685619161564,
+                "normalized_intensity": 2.4771982895105253
+            },
+            {
+                "topic": "community",
+                "weighted_count": 282.7753944727782,
+                "normalized_intensity": 1.406842758571036
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 273.16488499310367,
+                "normalized_intensity": 1.359029278572655
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 103,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 8898.614455039142,
+                "normalized_intensity": 86.3943150974674
+            },
+            {
+                "topic": "health",
+                "weighted_count": 6965.790635980569,
+                "normalized_intensity": 67.62903530078222
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 991.6504341995834,
+                "normalized_intensity": 9.627674118442558
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 933.1412055529788,
+                "normalized_intensity": 9.05962335488329
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 798.3980072144644,
+                "normalized_intensity": 7.751436963247228
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 617.1931780395697,
+                "normalized_intensity": 5.9921667770832014
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 615.250361110745,
+                "normalized_intensity": 5.973304476803349
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 600.533610712036,
+                "normalized_intensity": 5.830423404971223
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 548.8526168235219,
+                "normalized_intensity": 5.32866618275264
+            },
+            {
+                "topic": "community",
+                "weighted_count": 311.1682286008874,
+                "normalized_intensity": 3.0210507631154115
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 248.02249790472501,
+                "normalized_intensity": 2.407985416550728
+            },
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 229.44056667324713,
+                "normalized_intensity": 2.2275783172159915
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 199.19733352485196,
+                "normalized_intensity": 1.9339546944160384
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 198.2651738595269,
+                "normalized_intensity": 1.9249046005779311
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 2134.795626668442,
+                "normalized_intensity": 66.71236333338881
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2121.355954084321,
+                "normalized_intensity": 66.29237356513504
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 2054.0506581468617,
+                "normalized_intensity": 64.18908306708943
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 1877.1290380945454,
+                "normalized_intensity": 58.660282440454544
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 1252.002674144812,
+                "normalized_intensity": 39.12508356702538
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 1151.1719391229753,
+                "normalized_intensity": 35.97412309759298
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 871.0857875499515,
+                "normalized_intensity": 27.221430860935985
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 837.6446231045912,
+                "normalized_intensity": 26.176394472018476
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 480.0330794881193,
+                "normalized_intensity": 15.001033734003729
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 470.91215788265293,
+                "normalized_intensity": 14.716004933832904
+            },
+            {
+                "topic": "science",
+                "weighted_count": 402.39406411375444,
+                "normalized_intensity": 12.574814503554826
+            }
+        ]
+    }
+}

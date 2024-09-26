@@ -1,0 +1,47 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 72.68821212464832,
+                "normalized_intensity": 72.68821212464832
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 69.59623471236354,
+                "normalized_intensity": 69.59623471236354
+            },
+            {
+                "topic": "family",
+                "weighted_count": 68.11282949787154,
+                "normalized_intensity": 68.11282949787154
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 57.45557658983075,
+                "normalized_intensity": 57.45557658983075
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 51.70245378044977,
+                "normalized_intensity": 51.70245378044977
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.968535974797156,
+                "normalized_intensity": 50.968535974797156
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 50.76448882873298,
+                "normalized_intensity": 50.76448882873298
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.839255531391956,
+                "normalized_intensity": 49.839255531391956
+            }
+        ]
+    }
+}

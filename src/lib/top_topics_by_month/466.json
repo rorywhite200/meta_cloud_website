@@ -1,0 +1,62 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 62.79362328922821,
+                "normalized_intensity": 62.79362328922821
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.344239255181385,
+                "normalized_intensity": 62.344239255181385
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 58.38867519866577,
+                "normalized_intensity": 58.38867519866577
+            },
+            {
+                "topic": "health",
+                "weighted_count": 55.853105318065445,
+                "normalized_intensity": 55.853105318065445
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 54.52712321568535,
+                "normalized_intensity": 54.52712321568535
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.19132343087919,
+                "normalized_intensity": 53.19132343087919
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 126.52903536903095,
+                "normalized_intensity": 63.264517684515475
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 110.9371598124441,
+                "normalized_intensity": 55.46857990622205
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 69.95193179685727,
+                "normalized_intensity": 34.97596589842863
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.61802883287611,
+                "normalized_intensity": 26.809014416438053
+            }
+        ]
+    }
+}

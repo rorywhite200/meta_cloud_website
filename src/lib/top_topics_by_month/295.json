@@ -1,0 +1,832 @@
+{
+    "2023-09": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 828.25631495545,
+                "normalized_intensity": 63.712024227342305
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 805.1100871522494,
+                "normalized_intensity": 61.93154516555765
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 499.6683216246643,
+                "normalized_intensity": 38.436024740358796
+            },
+            {
+                "topic": "history",
+                "weighted_count": 497.55026181028194,
+                "normalized_intensity": 38.27309706232938
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 475.14868832337726,
+                "normalized_intensity": 36.54989910179825
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 252.28294294161708,
+                "normalized_intensity": 19.406380226278237
+            },
+            {
+                "topic": "education",
+                "weighted_count": 157.4307555553364,
+                "normalized_intensity": 12.11005811964126
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 151.56193222092065,
+                "normalized_intensity": 11.658610170840051
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 136.42430144908909,
+                "normalized_intensity": 10.494177034545315
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 117.0776348416486,
+                "normalized_intensity": 9.005971910896047
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.60505772701165,
+                "normalized_intensity": 3.969619825154742
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 737.9350545954477,
+                "normalized_intensity": 67.08500496322252
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 647.760416165835,
+                "normalized_intensity": 58.88731056053045
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 605.8309154532626,
+                "normalized_intensity": 55.07553776847842
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 595.6053540688872,
+                "normalized_intensity": 54.145941278989746
+            },
+            {
+                "topic": "history",
+                "weighted_count": 449.5273973349629,
+                "normalized_intensity": 40.866127030451175
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 172.6942880213085,
+                "normalized_intensity": 15.699480729209863
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 172.1444995933796,
+                "normalized_intensity": 15.64949996303451
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 113.39812812768906,
+                "normalized_intensity": 10.308920738880824
+            },
+            {
+                "topic": "education",
+                "weighted_count": 111.87944246088497,
+                "normalized_intensity": 10.170858405534998
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.0883950435439,
+                "normalized_intensity": 9.735308640322172
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 106.98960983268239,
+                "normalized_intensity": 9.72632816660749
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.93496474942695,
+                "normalized_intensity": 9.630451340856995
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 101.14970891808605,
+                "normalized_intensity": 9.195428083462367
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 811.122656091301,
+                "normalized_intensity": 73.73842328102737
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 681.3014765153191,
+                "normalized_intensity": 61.93649786502901
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 397.3398082556289,
+                "normalized_intensity": 36.12180075051172
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 395.3526525854886,
+                "normalized_intensity": 35.94115023504442
+            },
+            {
+                "topic": "history",
+                "weighted_count": 344.92557172871784,
+                "normalized_intensity": 31.356870157156166
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 153.22294741356154,
+                "normalized_intensity": 13.929358855778322
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 150.69876487306843,
+                "normalized_intensity": 13.699887715733494
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 121.6506333870258,
+                "normalized_intensity": 11.059148489729619
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 113.98592432906455,
+                "normalized_intensity": 10.362356757187685
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 110.99282761598046,
+                "normalized_intensity": 10.090257055998224
+            },
+            {
+                "topic": "community",
+                "weighted_count": 104.91936246079823,
+                "normalized_intensity": 9.538123860072567
+            },
+            {
+                "topic": "military",
+                "weighted_count": 67.08734798541808,
+                "normalized_intensity": 6.098849816856188
+            },
+            {
+                "topic": "education",
+                "weighted_count": 57.21979003310681,
+                "normalized_intensity": 5.201799093918801
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 55.95092611710041,
+                "normalized_intensity": 5.08644782882731
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.375714304328405,
+                "normalized_intensity": 4.761428573120764
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.85411862777393,
+                "normalized_intensity": 4.532192602524902
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 201.05659578516193,
+                "normalized_intensity": 67.01886526172065
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 188.77282875623112,
+                "normalized_intensity": 62.92427625207704
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 178.9569377054377,
+                "normalized_intensity": 59.65231256847923
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 132.0421776493278,
+                "normalized_intensity": 44.014059216442604
+            },
+            {
+                "topic": "history",
+                "weighted_count": 114.44331738963722,
+                "normalized_intensity": 38.147772463212405
+            },
+            {
+                "topic": "art",
+                "weighted_count": 70.78065291800417,
+                "normalized_intensity": 23.593550972668055
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 64.59846976346387,
+                "normalized_intensity": 21.532823254487955
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 474.6561959827138,
+                "normalized_intensity": 59.33202449783923
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 439.793171094108,
+                "normalized_intensity": 54.9741463867635
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 352.4676799013515,
+                "normalized_intensity": 44.05845998766894
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 350.73387971188913,
+                "normalized_intensity": 43.84173496398614
+            },
+            {
+                "topic": "history",
+                "weighted_count": 347.96567101833955,
+                "normalized_intensity": 43.495708877292444
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 126.10075732357403,
+                "normalized_intensity": 15.762594665446754
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 124.82239317219953,
+                "normalized_intensity": 15.60279914652494
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 101.46627284429226,
+                "normalized_intensity": 12.683284105536533
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 100.01119045366849,
+                "normalized_intensity": 12.501398806708561
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 98.53924161820697,
+                "normalized_intensity": 12.317405202275872
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 426.58264742190926,
+                "normalized_intensity": 60.940378203129896
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 291.16734062729347,
+                "normalized_intensity": 41.59533437532764
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 277.0525958026273,
+                "normalized_intensity": 39.578942257518186
+            },
+            {
+                "topic": "history",
+                "weighted_count": 244.94413178440692,
+                "normalized_intensity": 34.992018826343845
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 124.14362061680364,
+                "normalized_intensity": 17.734802945257663
+            },
+            {
+                "topic": "family",
+                "weighted_count": 116.27125099064395,
+                "normalized_intensity": 16.610178712949136
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 106.13565853444462,
+                "normalized_intensity": 15.162236933492087
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.12157310404507,
+                "normalized_intensity": 15.017367586292153
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 71.72760361164386,
+                "normalized_intensity": 10.246800515949122
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 68.64455262599058,
+                "normalized_intensity": 9.806364660855797
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 59.56887668309731,
+                "normalized_intensity": 8.509839526156759
+            },
+            {
+                "topic": "law",
+                "weighted_count": 59.5387152949109,
+                "normalized_intensity": 8.505530756415842
+            },
+            {
+                "topic": "business",
+                "weighted_count": 56.47464620643243,
+                "normalized_intensity": 8.067806600918919
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.85364943774401,
+                "normalized_intensity": 7.979092776820573
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 53.7756467436009,
+                "normalized_intensity": 7.682235249085843
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.57923854982229,
+                "normalized_intensity": 7.654176935688899
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.289249793869494,
+                "normalized_intensity": 7.041321399124214
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.07278078311759,
+                "normalized_intensity": 7.0103972547310835
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.009714509475515,
+                "normalized_intensity": 7.001387787067931
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 569.1525629704986,
+                "normalized_intensity": 63.23917366338873
+            },
+            {
+                "topic": "history",
+                "weighted_count": 466.75103999736507,
+                "normalized_intensity": 51.861226666373895
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 429.6066131015877,
+                "normalized_intensity": 47.73406812239863
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 422.79578704427735,
+                "normalized_intensity": 46.97730967158637
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 239.8546580983096,
+                "normalized_intensity": 26.650517566478847
+            },
+            {
+                "topic": "family",
+                "weighted_count": 230.50331175875718,
+                "normalized_intensity": 25.611479084306353
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 205.24915624177822,
+                "normalized_intensity": 22.805461804642025
+            },
+            {
+                "topic": "community",
+                "weighted_count": 159.85800821166202,
+                "normalized_intensity": 17.76200091240689
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 150.34052977578625,
+                "normalized_intensity": 16.704503308420694
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 130.34368402594788,
+                "normalized_intensity": 14.482631558438653
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 129.92181401813582,
+                "normalized_intensity": 14.435757113126202
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 116.87201247676258,
+                "normalized_intensity": 12.98577916408473
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 100.80912102850245,
+                "normalized_intensity": 11.201013447611382
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 74.72143125787707,
+                "normalized_intensity": 8.30238125087523
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 74.60576021896182,
+                "normalized_intensity": 8.28952891321798
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 66.912058672851,
+                "normalized_intensity": 7.434673185872334
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 59.3455872672549,
+                "normalized_intensity": 6.5939541408061
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.070144290799,
+                "normalized_intensity": 5.7855715878665555
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.75774354066552,
+                "normalized_intensity": 5.75086039340728
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.38840075024705,
+                "normalized_intensity": 5.598711194471894
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 50.046725052159644,
+                "normalized_intensity": 5.560747228017738
+            },
+            {
+                "topic": "film",
+                "weighted_count": 49.884834645146704,
+                "normalized_intensity": 5.542759405016301
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 468.4806223321906,
+                "normalized_intensity": 58.560077791523824
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 424.9257895818514,
+                "normalized_intensity": 53.115723697731426
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 367.54027070794723,
+                "normalized_intensity": 45.942533838493404
+            },
+            {
+                "topic": "history",
+                "weighted_count": 340.8965152271459,
+                "normalized_intensity": 42.61206440339324
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 231.95664676743763,
+                "normalized_intensity": 28.994580845929704
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 152.38433189700316,
+                "normalized_intensity": 19.048041487125396
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 115.34497887546837,
+                "normalized_intensity": 14.418122359433546
+            },
+            {
+                "topic": "family",
+                "weighted_count": 106.02691369539774,
+                "normalized_intensity": 13.253364211924717
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 70.26589293420534,
+                "normalized_intensity": 8.783236616775667
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.916821632635525,
+                "normalized_intensity": 6.864602704079441
+            },
+            {
+                "topic": "education",
+                "weighted_count": 54.490964256477525,
+                "normalized_intensity": 6.811370532059691
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.091934841932606,
+                "normalized_intensity": 6.386491855241576
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.123737682598104,
+                "normalized_intensity": 6.140467210324763
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 482.03539115865124,
+                "normalized_intensity": 60.254423894831405
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 476.1875886368437,
+                "normalized_intensity": 59.523448579605464
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 254.23180091330883,
+                "normalized_intensity": 31.778975114163604
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 254.20313690274997,
+                "normalized_intensity": 31.775392112843747
+            },
+            {
+                "topic": "history",
+                "weighted_count": 168.57234004247448,
+                "normalized_intensity": 21.07154250530931
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 58.050842463429554,
+                "normalized_intensity": 7.256355307928694
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 55.016897617501556,
+                "normalized_intensity": 6.8771122021876945
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 54.22811666087347,
+                "normalized_intensity": 6.7785145826091835
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 54.17077882855621,
+                "normalized_intensity": 6.771347353569526
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.81063872524666,
+                "normalized_intensity": 6.726329840655833
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.15469365614971,
+                "normalized_intensity": 6.519336707018714
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.15727144307477,
+                "normalized_intensity": 6.269658930384346
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.653880490756094,
+                "normalized_intensity": 6.206735061344512
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 250.49508143232828,
+                "normalized_intensity": 62.62377035808207
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 244.24839856759172,
+                "normalized_intensity": 61.06209964189793
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 174.63165738903498,
+                "normalized_intensity": 43.657914347258746
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 140.3515559291876,
+                "normalized_intensity": 35.0878889822969
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 139.048776066244,
+                "normalized_intensity": 34.762194016561
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 130.69569561994683,
+                "normalized_intensity": 32.67392390498671
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 107.39619381794363,
+                "normalized_intensity": 26.849048454485906
+            },
+            {
+                "topic": "history",
+                "weighted_count": 103.75363773753367,
+                "normalized_intensity": 25.938409434383416
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 540.4513009851628,
+                "normalized_intensity": 77.20732871216612
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 473.04265889531837,
+                "normalized_intensity": 67.5775226993312
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 438.54768186208526,
+                "normalized_intensity": 62.64966883744075
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 435.6432767638089,
+                "normalized_intensity": 62.23475382340127
+            },
+            {
+                "topic": "history",
+                "weighted_count": 365.14696381746074,
+                "normalized_intensity": 52.16385197392297
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 288.3255266033312,
+                "normalized_intensity": 41.18936094333303
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 226.58621913273055,
+                "normalized_intensity": 32.369459876104365
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 157.1461088289092,
+                "normalized_intensity": 22.449444118415602
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 125.01121722508874,
+                "normalized_intensity": 17.858745317869822
+            },
+            {
+                "topic": "community",
+                "weighted_count": 100.38306360048853,
+                "normalized_intensity": 14.340437657212647
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 441.08994345479186,
+                "normalized_intensity": 49.009993717199094
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 360.0828901064545,
+                "normalized_intensity": 40.00921001182828
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 310.48033614928585,
+                "normalized_intensity": 34.49781512769843
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 295.00142657830287,
+                "normalized_intensity": 32.777936286478095
+            },
+            {
+                "topic": "history",
+                "weighted_count": 249.67345206576312,
+                "normalized_intensity": 27.74149467397368
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 211.6047811123558,
+                "normalized_intensity": 23.51164234581731
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 122.06134839260768,
+                "normalized_intensity": 13.562372043623077
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 66.72761442882765,
+                "normalized_intensity": 7.41417938098085
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 55.738049458937944,
+                "normalized_intensity": 6.19311660654866
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.496574812942434,
+                "normalized_intensity": 6.055174979215826
+            },
+            {
+                "topic": "science",
+                "weighted_count": 52.18538803173691,
+                "normalized_intensity": 5.798376447970768
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.752310424894056,
+                "normalized_intensity": 5.750256713877118
+            }
+        ]
+    }
+}

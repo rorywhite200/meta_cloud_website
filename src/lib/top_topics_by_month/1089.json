@@ -1,0 +1,37 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 89.49185498600133,
+                "normalized_intensity": 89.49185498600133
+            },
+            {
+                "topic": "business",
+                "weighted_count": 64.51169406963064,
+                "normalized_intensity": 64.51169406963064
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 64.27284615340085,
+                "normalized_intensity": 64.27284615340085
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 56.800437402504066,
+                "normalized_intensity": 56.800437402504066
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 54.13455090043925,
+                "normalized_intensity": 54.13455090043925
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.80262304235478,
+                "normalized_intensity": 52.80262304235478
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 164.28654261147824,
+                "normalized_intensity": 54.76218087049275
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 139.43705665931577,
+                "normalized_intensity": 46.47901888643859
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 52.095294829583885,
+                "normalized_intensity": 17.365098276527963
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 61.43143291535782,
+                "normalized_intensity": 61.43143291535782
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.513371338680074,
+                "normalized_intensity": 53.513371338680074
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 53.8925598274934,
+                "normalized_intensity": 53.8925598274934
+            }
+        ]
+    }
+}

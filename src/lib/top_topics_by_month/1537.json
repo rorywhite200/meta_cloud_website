@@ -1,0 +1,22 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 60.37429783529748,
+                "normalized_intensity": 60.37429783529748
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.577624299149015,
+                "normalized_intensity": 51.577624299149015
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 51.045973455853066,
+                "normalized_intensity": 51.045973455853066
+            }
+        ]
+    }
+}

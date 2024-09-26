@@ -1,0 +1,272 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 132.74548758249253,
+                "normalized_intensity": 66.37274379124626
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 100.82804779464023,
+                "normalized_intensity": 50.414023897320114
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 98.32458290426987,
+                "normalized_intensity": 49.16229145213494
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 118.52954958573423,
+                "normalized_intensity": 39.50984986191141
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 107.4879715404231,
+                "normalized_intensity": 35.8293238468077
+            },
+            {
+                "topic": "history",
+                "weighted_count": 105.47227886550436,
+                "normalized_intensity": 35.157426288501455
+            },
+            {
+                "topic": "art",
+                "weighted_count": 104.89971851826641,
+                "normalized_intensity": 34.966572839422135
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 55.7429693744329,
+                "normalized_intensity": 18.580989791477634
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.344264735171976,
+                "normalized_intensity": 16.448088245057324
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 122.65494992766818,
+                "normalized_intensity": 40.884983309222726
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 112.00274916426135,
+                "normalized_intensity": 37.33424972142045
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 101.05854298285801,
+                "normalized_intensity": 33.686180994286005
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 100.84786284059881,
+                "normalized_intensity": 33.6159542801996
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 100.24981267788122,
+                "normalized_intensity": 33.416604225960405
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 64.6299333589516,
+                "normalized_intensity": 21.543311119650536
+            },
+            {
+                "topic": "art",
+                "weighted_count": 56.316305040484174,
+                "normalized_intensity": 18.77210168016139
+            },
+            {
+                "topic": "science",
+                "weighted_count": 54.61938838467408,
+                "normalized_intensity": 18.20646279489136
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.387003485887,
+                "normalized_intensity": 17.795667828629
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 51.01578466924019,
+                "normalized_intensity": 17.005261556413398
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 119.97704796903082,
+                "normalized_intensity": 59.98852398451541
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 227.33392394188468,
+                "normalized_intensity": 37.88898732364745
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 219.62225849641956,
+                "normalized_intensity": 36.60370974940326
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 131.5032279555022,
+                "normalized_intensity": 21.91720465925037
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 122.43200193849128,
+                "normalized_intensity": 20.405333656415213
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 119.4425263876439,
+                "normalized_intensity": 19.907087731273982
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 116.57266317556099,
+                "normalized_intensity": 19.42877719592683
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 113.37544410247588,
+                "normalized_intensity": 18.895907350412646
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 111.20767232993474,
+                "normalized_intensity": 18.534612054989122
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 109.97925341639174,
+                "normalized_intensity": 18.329875569398624
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 107.9656507976255,
+                "normalized_intensity": 17.994275132937585
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 107.89011233344783,
+                "normalized_intensity": 17.981685388907973
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.88254591552331,
+                "normalized_intensity": 16.647090985920553
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 99.38326374381441,
+                "normalized_intensity": 16.563877290635734
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 98.1808560973366,
+                "normalized_intensity": 16.363476016222766
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 116.23516294985998,
+                "normalized_intensity": 58.11758147492999
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 106.36612193744568,
+                "normalized_intensity": 53.18306096872284
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 103.02677677454359,
+                "normalized_intensity": 51.513388387271796
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.55926860620099,
+                "normalized_intensity": 49.779634303100494
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 99.55317019102364,
+                "normalized_intensity": 49.77658509551182
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 98.51157954242754,
+                "normalized_intensity": 49.25578977121377
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 98.302093479975,
+                "normalized_intensity": 49.1510467399875
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 148.16218882133538,
+                "normalized_intensity": 74.08109441066769
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 126.98036142691625,
+                "normalized_intensity": 63.49018071345812
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 119.51950935359153,
+                "normalized_intensity": 59.759754676795765
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 105.99074287678233,
+                "normalized_intensity": 52.99537143839117
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 106.55961960864069,
+                "normalized_intensity": 53.279809804320344
+            }
+        ]
+    }
+}

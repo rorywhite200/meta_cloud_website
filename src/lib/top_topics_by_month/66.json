@@ -1,0 +1,92 @@
+{
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 174.15379891773347,
+                "normalized_intensity": 58.051266305911156
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 157.67928427963534,
+                "normalized_intensity": 52.559761426545116
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 155.20219661230186,
+                "normalized_intensity": 51.734065537433956
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 153.56984154728372,
+                "normalized_intensity": 51.18994718242791
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 78.95507797931387,
+                "normalized_intensity": 26.318359326437957
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 57.11981572037439,
+                "normalized_intensity": 19.03993857345813
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 53.26552381230072,
+                "normalized_intensity": 17.75517460410024
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.06429651402233,
+                "normalized_intensity": 16.35476550467411
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 1821.1243417622743,
+                "normalized_intensity": 60.704144725409144
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 1702.591356715994,
+                "normalized_intensity": 56.753045223866465
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 1482.6336545571908,
+                "normalized_intensity": 49.42112181857303
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 151.05875946109063,
+                "normalized_intensity": 5.035291982036354
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.40444381380934,
+                "normalized_intensity": 3.5134814604603113
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 100.90722454456926,
+                "normalized_intensity": 3.363574151485642
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.96374142022575,
+                "normalized_intensity": 1.6987913806741917
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.55154729110738,
+                "normalized_intensity": 1.6517182430369128
+            }
+        ]
+    }
+}

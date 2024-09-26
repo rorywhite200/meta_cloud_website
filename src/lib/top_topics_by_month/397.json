@@ -1,0 +1,367 @@
+{
+    "2023-10": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 435.29940390781746,
+                "normalized_intensity": 54.41242548847718
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 293.1886793545063,
+                "normalized_intensity": 36.648584919313286
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 279.39767379820734,
+                "normalized_intensity": 34.92470922477592
+            },
+            {
+                "topic": "education",
+                "weighted_count": 232.5556355554679,
+                "normalized_intensity": 29.069454444433486
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 203.64993116440652,
+                "normalized_intensity": 25.456241395550816
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 1891.7627277220993,
+                "normalized_intensity": 78.8234469884208
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 828.5619645925246,
+                "normalized_intensity": 34.52341519135519
+            },
+            {
+                "topic": "health",
+                "weighted_count": 476.49239142657007,
+                "normalized_intensity": 19.853849642773753
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 441.2204468404303,
+                "normalized_intensity": 18.38418528501793
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 423.91876858125573,
+                "normalized_intensity": 17.66328202421899
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 420.75763627765616,
+                "normalized_intensity": 17.531568178235673
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 418.1850659889637,
+                "normalized_intensity": 17.424377749540152
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 590.8800734033232,
+                "normalized_intensity": 73.8600091754154
+            },
+            {
+                "topic": "health",
+                "weighted_count": 507.8102661692778,
+                "normalized_intensity": 63.47628327115972
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 474.8329740952742,
+                "normalized_intensity": 59.354121761909276
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 451.9864579896939,
+                "normalized_intensity": 56.49830724871174
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 413.1196232861792,
+                "normalized_intensity": 51.6399529107724
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 400.2678368607237,
+                "normalized_intensity": 50.033479607590465
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 399.46728476662327,
+                "normalized_intensity": 49.93341059582791
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 289.6245477472749,
+                "normalized_intensity": 72.40613693681873
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 249.99641979349275,
+                "normalized_intensity": 62.49910494837319
+            },
+            {
+                "topic": "education",
+                "weighted_count": 237.0613018506281,
+                "normalized_intensity": 59.265325462657025
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 585.3464640021524,
+                "normalized_intensity": 73.16830800026905
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 507.8993262784219,
+                "normalized_intensity": 63.487415784802735
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 496.16442362489465,
+                "normalized_intensity": 62.02055295311183
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 446.2881373664704,
+                "normalized_intensity": 55.7860171708088
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 227.70175072197486,
+                "normalized_intensity": 28.462718840246858
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 221.8287430243154,
+                "normalized_intensity": 27.728592878039425
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 219.9635148620623,
+                "normalized_intensity": 27.49543935775779
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 212.86593174727648,
+                "normalized_intensity": 26.60824146840956
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 212.74559498759672,
+                "normalized_intensity": 26.59319937344959
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 82,
+        "topics": [
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 5673.45248369162,
+                "normalized_intensity": 69.18844492306853
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 5188.568843468354,
+                "normalized_intensity": 63.27522979839456
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 4948.605772976865,
+                "normalized_intensity": 60.348850889961774
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 4858.837189977134,
+                "normalized_intensity": 59.25411207289187
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 4096.135099600742,
+                "normalized_intensity": 49.952867068301735
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 3599.770313872153,
+                "normalized_intensity": 43.89963797405065
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 2452.4319771990085,
+                "normalized_intensity": 29.907707039012298
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1235.9179738155888,
+                "normalized_intensity": 15.072170412385228
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 872.0907469772867,
+                "normalized_intensity": 10.635253011918131
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 850.6137620533761,
+                "normalized_intensity": 10.373338561626538
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 432.0820744741472,
+                "normalized_intensity": 5.269293591148137
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 407.0713196164786,
+                "normalized_intensity": 4.964284385566812
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 403.88278795012155,
+                "normalized_intensity": 4.925399853050263
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 212.41576440525037,
+                "normalized_intensity": 2.590436151283541
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 198.8028786763632,
+                "normalized_intensity": 2.4244253497117465
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 1889.6101410214314,
+                "normalized_intensity": 82.15696265310571
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 1692.3314569095726,
+                "normalized_intensity": 73.57962856128576
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 1533.0351145765344,
+                "normalized_intensity": 66.65370063376237
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 1480.2117476393144,
+                "normalized_intensity": 64.35703250605715
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 1302.0394367420015,
+                "normalized_intensity": 56.6104102931305
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 1162.5702183131066,
+                "normalized_intensity": 50.546531231004636
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 870.149075566207,
+                "normalized_intensity": 37.832568502878566
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 774.5978942287018,
+                "normalized_intensity": 33.67816931429138
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 334.8786391584388,
+                "normalized_intensity": 14.559940832975599
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 203.5356598082393,
+                "normalized_intensity": 8.849376513401708
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 106.20788220262519,
+                "normalized_intensity": 4.617734008809791
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 104.61446265990311,
+                "normalized_intensity": 4.548454898256657
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 99.4014393381816,
+                "normalized_intensity": 4.321801710355722
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 98.88956160716636,
+                "normalized_intensity": 4.29954615683332
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 222.42755118400112,
+                "normalized_intensity": 74.1425170613337
+            },
+            {
+                "topic": "health",
+                "weighted_count": 194.44382630255475,
+                "normalized_intensity": 64.81460876751825
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 188.12904756892442,
+                "normalized_intensity": 62.70968252297481
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 156.71202459275608,
+                "normalized_intensity": 52.23734153091869
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 155.73028383152405,
+                "normalized_intensity": 51.91009461050802
+            }
+        ]
+    }
+}

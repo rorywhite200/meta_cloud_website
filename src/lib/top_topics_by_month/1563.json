@@ -1,0 +1,132 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 130.6843652753327,
+                "normalized_intensity": 65.34218263766635
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.72609381424951,
+                "normalized_intensity": 52.863046907124755
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 61.973677651873416,
+                "normalized_intensity": 30.986838825936708
+            },
+            {
+                "topic": "law",
+                "weighted_count": 58.70008553221817,
+                "normalized_intensity": 29.350042766109084
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.95181206529544,
+                "normalized_intensity": 25.47590603264772
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.293707129422394,
+                "normalized_intensity": 25.146853564711197
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 76.87610468092741,
+                "normalized_intensity": 38.438052340463706
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.55284950538117,
+                "normalized_intensity": 30.776424752690584
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 55.81074347774616,
+                "normalized_intensity": 27.90537173887308
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.32399241433911,
+                "normalized_intensity": 27.661996207169555
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.50279474348333,
+                "normalized_intensity": 26.251397371741664
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.103417876610614,
+                "normalized_intensity": 25.551708938305307
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 50.720209448357814,
+                "normalized_intensity": 25.360104724178907
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.63381759957948,
+                "normalized_intensity": 24.81690879978974
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 77.17665923242227,
+                "normalized_intensity": 77.17665923242227
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 62.37363681288892,
+                "normalized_intensity": 62.37363681288892
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 57.52952564677264,
+                "normalized_intensity": 57.52952564677264
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.56553562420484,
+                "normalized_intensity": 51.56553562420484
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 74.12023420358629,
+                "normalized_intensity": 74.12023420358629
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 55.75783554314816,
+                "normalized_intensity": 55.75783554314816
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 54.06039518611648,
+                "normalized_intensity": 54.06039518611648
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.14783044971553,
+                "normalized_intensity": 53.14783044971553
+            }
+        ]
+    }
+}

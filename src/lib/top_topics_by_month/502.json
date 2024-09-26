@@ -1,0 +1,57 @@
+{
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 222.18183407170372,
+                "normalized_intensity": 44.436366814340744
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 72.31351873802534,
+                "normalized_intensity": 14.462703747605067
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 58.536438262852954,
+                "normalized_intensity": 11.70728765257059
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 222.18183407170372,
+                "normalized_intensity": 37.03030567861729
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 121.91845719754409,
+                "normalized_intensity": 20.319742866257346
+            },
+            {
+                "topic": "community",
+                "weighted_count": 117.82831611830194,
+                "normalized_intensity": 19.638052686383656
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 114.99896301648471,
+                "normalized_intensity": 19.166493836080786
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 106.74160897260592,
+                "normalized_intensity": 17.790268162100986
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 99.97126020199246,
+                "normalized_intensity": 16.661876700332076
+            }
+        ]
+    }
+}

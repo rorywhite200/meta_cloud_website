@@ -1,0 +1,137 @@
+{
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 155.72085258900572,
+                "normalized_intensity": 38.93021314725143
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 116.65437591206629,
+                "normalized_intensity": 29.16359397801657
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 80.48870630181389,
+                "normalized_intensity": 20.122176575453473
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 77.93698385578945,
+                "normalized_intensity": 19.484245963947362
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 70.29008684960428,
+                "normalized_intensity": 17.57252171240107
+            },
+            {
+                "topic": "history",
+                "weighted_count": 63.23177303499862,
+                "normalized_intensity": 15.807943258749654
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 62.63850327056625,
+                "normalized_intensity": 15.659625817641562
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 51.08700482842463,
+                "normalized_intensity": 12.771751207106158
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.6221125031641,
+                "normalized_intensity": 12.655528125791024
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 171.40544336741917,
+                "normalized_intensity": 34.281088673483836
+            },
+            {
+                "topic": "community",
+                "weighted_count": 166.85014637379632,
+                "normalized_intensity": 33.37002927475926
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 131.0184158878463,
+                "normalized_intensity": 26.203683177569257
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 106.15596472222981,
+                "normalized_intensity": 21.23119294444596
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 69.00374756387745,
+                "normalized_intensity": 13.800749512775491
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 62.88958807107742,
+                "normalized_intensity": 12.577917614215483
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 53.59674800990675,
+                "normalized_intensity": 10.71934960198135
+            },
+            {
+                "topic": "business",
+                "weighted_count": 50.91940333192929,
+                "normalized_intensity": 10.183880666385857
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.73686899583868,
+                "normalized_intensity": 10.147373799167735
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 64.3870701698645,
+                "normalized_intensity": 32.19353508493225
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 58.516981854714544,
+                "normalized_intensity": 29.258490927357272
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.34978510925005,
+                "normalized_intensity": 27.674892554625025
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 52.96105369224215,
+                "normalized_intensity": 26.480526846121077
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.26470838921659,
+                "normalized_intensity": 26.132354194608293
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.64514246509053,
+                "normalized_intensity": 25.322571232545265
+            }
+        ]
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "2023-10": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 447.77489400551934,
+                "normalized_intensity": 44.777489400551936
+            },
+            {
+                "topic": "science",
+                "weighted_count": 332.2499111722024,
+                "normalized_intensity": 33.22499111722024
+            },
+            {
+                "topic": "television",
+                "weighted_count": 321.4302014881485,
+                "normalized_intensity": 32.14302014881485
+            },
+            {
+                "topic": "film",
+                "weighted_count": 318.82635212986065,
+                "normalized_intensity": 31.882635212986067
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 315.51136751064695,
+                "normalized_intensity": 31.551136751064696
+            },
+            {
+                "topic": "history",
+                "weighted_count": 312.2506381966391,
+                "normalized_intensity": 31.22506381966391
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 114.4975082556088,
+                "normalized_intensity": 11.44975082556088
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 113.82047168579348,
+                "normalized_intensity": 11.382047168579348
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 110.21377903118943,
+                "normalized_intensity": 11.021377903118942
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 106.0396126596705,
+                "normalized_intensity": 10.60396126596705
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.87057733262142,
+                "normalized_intensity": 10.387057733262143
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 56.82047259294466,
+                "normalized_intensity": 5.682047259294466
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 55.37131759036386,
+                "normalized_intensity": 5.537131759036386
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 51.192194218972084,
+                "normalized_intensity": 5.119219421897208
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 59.06329262661315,
+                "normalized_intensity": 59.06329262661315
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.25742969625151,
+                "normalized_intensity": 57.25742969625151
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 52.63203260693554,
+                "normalized_intensity": 52.63203260693554
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 134.41147520115686,
+                "normalized_intensity": 67.20573760057843
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 132.8822978977548,
+                "normalized_intensity": 66.4411489488774
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 117.21912565310737,
+                "normalized_intensity": 58.609562826553685
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 107.99018186792586,
+                "normalized_intensity": 53.99509093396293
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 98.00032333559156,
+                "normalized_intensity": 49.00016166779578
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "agriculture",
+                "weighted_count": 183.36308609924458,
+                "normalized_intensity": 61.121028699748194
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 181.5546033881203,
+                "normalized_intensity": 60.51820112937344
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 160.07351801158882,
+                "normalized_intensity": 53.357839337196275
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 155.60579890079265,
+                "normalized_intensity": 51.86859963359755
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 154.29299059186286,
+                "normalized_intensity": 51.430996863954284
+            }
+        ]
+    }
+}

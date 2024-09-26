@@ -1,0 +1,37 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 147.7532966701839,
+                "normalized_intensity": 73.87664833509194
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 126.11459754892405,
+                "normalized_intensity": 63.057298774462026
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 67.4828751644458,
+                "normalized_intensity": 33.7414375822229
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 73.70943194227057,
+                "normalized_intensity": 73.70943194227057
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.028514094022896,
+                "normalized_intensity": 56.028514094022896
+            }
+        ]
+    }
+}

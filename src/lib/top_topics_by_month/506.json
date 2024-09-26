@@ -1,0 +1,292 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 104.35092473453591,
+                "normalized_intensity": 52.175462367267954
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 102.09471249143829,
+                "normalized_intensity": 51.04735624571914
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 115.05505979751861,
+                "normalized_intensity": 57.527529898759305
+            },
+            {
+                "topic": "health",
+                "weighted_count": 112.76548805265999,
+                "normalized_intensity": 56.382744026329995
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.002713908635,
+                "normalized_intensity": 26.5013569543175
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.17885808894798,
+                "normalized_intensity": 25.08942904447399
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.55162751141788,
+                "normalized_intensity": 24.77581375570894
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.4371455038519,
+                "normalized_intensity": 24.71857275192595
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 108.61811747886476,
+                "normalized_intensity": 54.30905873943238
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 106.64832603954825,
+                "normalized_intensity": 53.324163019774126
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 102.49450093662931,
+                "normalized_intensity": 51.247250468314654
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 322.88532186136246,
+                "normalized_intensity": 53.81422031022708
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 217.774017706999,
+                "normalized_intensity": 36.29566961783316
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 213.00089929380547,
+                "normalized_intensity": 35.50014988230091
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 114.13963928753132,
+                "normalized_intensity": 19.023273214588553
+            },
+            {
+                "topic": "health",
+                "weighted_count": 109.0621582361037,
+                "normalized_intensity": 18.17702637268395
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 99.19620866553979,
+                "normalized_intensity": 16.53270144425663
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 777.4273557021429,
+                "normalized_intensity": 43.19040865011905
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 367.39520655880426,
+                "normalized_intensity": 20.41084480882246
+            },
+            {
+                "topic": "health",
+                "weighted_count": 362.30901196347713,
+                "normalized_intensity": 20.128278442415397
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 114.13963928753132,
+                "normalized_intensity": 6.341091071529518
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 99.19620866553979,
+                "normalized_intensity": 5.510900481418877
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 67.26981472960084,
+                "normalized_intensity": 67.26981472960084
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.75150548082019,
+                "normalized_intensity": 51.75150548082019
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 727.6580826438226,
+                "normalized_intensity": 48.510538842921505
+            },
+            {
+                "topic": "health",
+                "weighted_count": 618.6589510769104,
+                "normalized_intensity": 41.243930071794026
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 270.97041473420217,
+                "normalized_intensity": 18.064694315613476
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 202.96159441605965,
+                "normalized_intensity": 13.530772961070644
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 57.49990527059047,
+                "normalized_intensity": 3.8333270180393644
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 55.858382270859565,
+                "normalized_intensity": 3.7238921513906376
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 51.0926349728372,
+                "normalized_intensity": 51.0926349728372
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.81609676606206,
+                "normalized_intensity": 49.81609676606206
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 49.32248643038435,
+                "normalized_intensity": 49.32248643038435
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 986.1330702732539,
+                "normalized_intensity": 39.44532281093016
+            },
+            {
+                "topic": "health",
+                "weighted_count": 669.2471184067246,
+                "normalized_intensity": 26.76988473626898
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 396.536514579694,
+                "normalized_intensity": 15.86146058318776
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 255.68140727607624,
+                "normalized_intensity": 10.22725629104305
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 129.91110683265305,
+                "normalized_intensity": 5.196444273306122
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 102.54535846397746,
+                "normalized_intensity": 4.101814338559098
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 100.58006059584508,
+                "normalized_intensity": 4.023202423833803
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 57.49990527059047,
+                "normalized_intensity": 2.2999962108236187
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 55.858382270859565,
+                "normalized_intensity": 2.2343352908343825
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 53.69180296470945,
+                "normalized_intensity": 2.1476721185883783
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.9467297838473,
+                "normalized_intensity": 1.9978691913538922
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "bioethics",
+                "weighted_count": 72.22746680278324,
+                "normalized_intensity": 36.11373340139162
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 61.774910992139084,
+                "normalized_intensity": 30.887455496069542
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 56.73364113063104,
+                "normalized_intensity": 28.36682056531552
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 55.46592958216196,
+                "normalized_intensity": 27.73296479108098
+            }
+        ]
+    }
+}

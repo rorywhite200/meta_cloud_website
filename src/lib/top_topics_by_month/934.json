@@ -1,0 +1,132 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 176.87422674560366,
+                "normalized_intensity": 88.43711337280183
+            },
+            {
+                "topic": "community",
+                "weighted_count": 139.77883747905656,
+                "normalized_intensity": 69.88941873952828
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 120.88257773289052,
+                "normalized_intensity": 60.44128886644526
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 107.2389146807273,
+                "normalized_intensity": 53.61945734036365
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 106.93449449636448,
+                "normalized_intensity": 53.46724724818224
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 105.66827726937986,
+                "normalized_intensity": 52.83413863468993
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 105.27649428920738,
+                "normalized_intensity": 52.63824714460369
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 104.3765645511424,
+                "normalized_intensity": 52.1882822755712
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 103.9289306956164,
+                "normalized_intensity": 51.9644653478082
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 101.34896278270664,
+                "normalized_intensity": 50.67448139135332
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 100.84393573773252,
+                "normalized_intensity": 50.42196786886626
+            },
+            {
+                "topic": "health",
+                "weighted_count": 98.49293404871426,
+                "normalized_intensity": 49.24646702435713
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 399.5013920191761,
+                "normalized_intensity": 79.90027840383522
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 284.70310066071926,
+                "normalized_intensity": 56.94062013214385
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 267.09408631163757,
+                "normalized_intensity": 53.418817262327515
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 258.0003576939396,
+                "normalized_intensity": 51.600071538787915
+            },
+            {
+                "topic": "community",
+                "weighted_count": 242.78543504010705,
+                "normalized_intensity": 48.55708700802141
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 227.46496030118212,
+                "normalized_intensity": 45.492992060236425
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 196.6422750632596,
+                "normalized_intensity": 39.32845501265192
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 196.0630150475987,
+                "normalized_intensity": 39.21260300951974
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 83.53442758541033,
+                "normalized_intensity": 16.706885517082064
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 56.021894527082964,
+                "normalized_intensity": 11.204378905416593
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.26803560547749,
+                "normalized_intensity": 10.253607121095499
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.37927017471278,
+                "normalized_intensity": 9.875854034942556
+            }
+        ]
+    }
+}

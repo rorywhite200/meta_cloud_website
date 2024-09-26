@@ -1,0 +1,67 @@
+{
+    "2023-09": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "bioethics",
+                "weighted_count": 342.37472325335744,
+                "normalized_intensity": 57.06245387555958
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 328.6259332467489,
+                "normalized_intensity": 54.77098887445815
+            },
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 319.7756715597843,
+                "normalized_intensity": 53.29594525996405
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 306.9652080034675,
+                "normalized_intensity": 51.16086800057792
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 198.31573725127362,
+                "normalized_intensity": 33.05262287521227
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.33238350049211,
+                "normalized_intensity": 8.722063916748684
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 221.71678211867638,
+                "normalized_intensity": 55.429195529669094
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 203.73223165468,
+                "normalized_intensity": 50.93305791367
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 107.97545872531329,
+                "normalized_intensity": 26.993864681328322
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 105.1684836764192,
+                "normalized_intensity": 26.2921209191048
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 101.11041844143682,
+                "normalized_intensity": 25.277604610359205
+            }
+        ]
+    }
+}

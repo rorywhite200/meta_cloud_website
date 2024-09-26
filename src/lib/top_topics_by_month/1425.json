@@ -1,0 +1,82 @@
+{
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 475.31349369079874,
+                "normalized_intensity": 95.06269873815975
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 448.15093376446896,
+                "normalized_intensity": 89.63018675289379
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 296.92196114287003,
+                "normalized_intensity": 59.38439222857401
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 296.62603598796323,
+                "normalized_intensity": 59.32520719759265
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 263.16833548588465,
+                "normalized_intensity": 52.63366709717693
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 260.62189640880933,
+                "normalized_intensity": 52.12437928176187
+            },
+            {
+                "topic": "science",
+                "weighted_count": 248.76774017071293,
+                "normalized_intensity": 49.75354803414258
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 100.0,
+                "normalized_intensity": 100.0
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 89.36472865659569,
+                "normalized_intensity": 89.36472865659569
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 63.97061609442821,
+                "normalized_intensity": 63.97061609442821
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 57.215259885893296,
+                "normalized_intensity": 57.215259885893296
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 55.49977039209948,
+                "normalized_intensity": 55.49977039209948
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 54.27247063672308,
+                "normalized_intensity": 54.27247063672308
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.84753536164058,
+                "normalized_intensity": 49.84753536164058
+            }
+        ]
+    }
+}

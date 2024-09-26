@@ -1,0 +1,32 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 62.48223372585117,
+                "normalized_intensity": 62.48223372585117
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 54.90821609469162,
+                "normalized_intensity": 54.90821609469162
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.8031717391171,
+                "normalized_intensity": 52.8031717391171
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 50.14792773941967,
+                "normalized_intensity": 50.14792773941967
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 49.972283090454354,
+                "normalized_intensity": 49.972283090454354
+            }
+        ]
+    }
+}

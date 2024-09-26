@@ -1,0 +1,22 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 79.39682948833612,
+                "normalized_intensity": 79.39682948833612
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 61.1436879363663,
+                "normalized_intensity": 61.1436879363663
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.63743142202495,
+                "normalized_intensity": 53.63743142202495
+            }
+        ]
+    }
+}

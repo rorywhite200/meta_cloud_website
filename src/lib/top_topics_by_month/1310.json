@@ -1,0 +1,147 @@
+{
+    "2023-12": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 755.1277455960254,
+                "normalized_intensity": 83.90308284400282
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 586.7943287106882,
+                "normalized_intensity": 65.19936985674313
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 535.0985479512632,
+                "normalized_intensity": 59.45539421680702
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 521.6080092192873,
+                "normalized_intensity": 57.9564454688097
+            },
+            {
+                "topic": "community",
+                "weighted_count": 520.2713162594591,
+                "normalized_intensity": 57.80792402882879
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 497.6453557908936,
+                "normalized_intensity": 55.293928421210396
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 485.1377724231169,
+                "normalized_intensity": 53.90419693590188
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 456.50868437853626,
+                "normalized_intensity": 50.7231871531707
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 307.5500589638227,
+                "normalized_intensity": 34.17222877375808
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 298.87585023788785,
+                "normalized_intensity": 33.20842780420976
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 198.81408300685356,
+                "normalized_intensity": 22.090453667428175
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 98.98599630378631,
+                "normalized_intensity": 10.998444033754033
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 98.9333581673879,
+                "normalized_intensity": 10.992595351931989
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 49.90765222426891,
+                "normalized_intensity": 5.545294691585434
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 596.9156589804259,
+                "normalized_intensity": 85.27366556863227
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 459.1112674112194,
+                "normalized_intensity": 65.58732391588849
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 412.59242146115,
+                "normalized_intensity": 58.94177449445
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 409.33865487726007,
+                "normalized_intensity": 58.47695069675144
+            },
+            {
+                "topic": "community",
+                "weighted_count": 408.29262484733556,
+                "normalized_intensity": 58.32751783533365
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 387.89282624246425,
+                "normalized_intensity": 55.41326089178061
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 371.8343757226935,
+                "normalized_intensity": 53.11919653181336
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 366.2385764557911,
+                "normalized_intensity": 52.31979663654158
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 210.51183439974506,
+                "normalized_intensity": 30.07311919996358
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 197.81327235991083,
+                "normalized_intensity": 28.25903890855869
+            },
+            {
+                "topic": "health",
+                "weighted_count": 197.43812199094876,
+                "normalized_intensity": 28.205445998706967
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 154.41713925061458,
+                "normalized_intensity": 22.05959132151637
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.01612670555222,
+                "normalized_intensity": 7.002303815078888
+            }
+        ]
+    }
+}

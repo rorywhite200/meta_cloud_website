@@ -1,0 +1,57 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 71.35940770814939,
+                "normalized_intensity": 71.35940770814939
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 67.20893938661551,
+                "normalized_intensity": 67.20893938661551
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 59.664558569932865,
+                "normalized_intensity": 59.664558569932865
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 58.54913921235219,
+                "normalized_intensity": 58.54913921235219
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 58.54531384091776,
+                "normalized_intensity": 58.54531384091776
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.73505006524394,
+                "normalized_intensity": 52.73505006524394
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.72595733692008,
+                "normalized_intensity": 50.72595733692008
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 60.745564857197124,
+                "normalized_intensity": 60.745564857197124
+            }
+        ]
+    }
+}

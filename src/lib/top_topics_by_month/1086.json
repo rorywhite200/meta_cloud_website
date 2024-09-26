@@ -1,0 +1,37 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 67.09208960608422,
+                "normalized_intensity": 67.09208960608422
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.49128982403687,
+                "normalized_intensity": 51.49128982403687
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 93.53769668391139,
+                "normalized_intensity": 93.53769668391139
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.440543640413196,
+                "normalized_intensity": 53.440543640413196
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.72875971239752,
+                "normalized_intensity": 50.72875971239752
+            }
+        ]
+    }
+}

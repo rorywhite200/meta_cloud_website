@@ -1,0 +1,247 @@
+{
+    "2023-09": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 907.6644526759484,
+                "normalized_intensity": 45.383222633797416
+            },
+            {
+                "topic": "community",
+                "weighted_count": 379.7013360828285,
+                "normalized_intensity": 18.985066804141425
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 341.4087562142654,
+                "normalized_intensity": 17.07043781071327
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 257.35722967750473,
+                "normalized_intensity": 12.867861483875236
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 111.65526366039897,
+                "normalized_intensity": 5.5827631830199484
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 71.52431986014174,
+                "normalized_intensity": 3.576215993007087
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 65.62371413177988,
+                "normalized_intensity": 3.2811857065889938
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 64.88279436705952,
+                "normalized_intensity": 3.244139718352976
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 64.27445210710583,
+                "normalized_intensity": 3.2137226053552914
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 63.50978855812538,
+                "normalized_intensity": 3.175489427906269
+            },
+            {
+                "topic": "education",
+                "weighted_count": 62.04876761778891,
+                "normalized_intensity": 3.1024383808894456
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 57.77475987224082,
+                "normalized_intensity": 2.888737993612041
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 57.35114536586654,
+                "normalized_intensity": 2.8675572682933272
+            },
+            {
+                "topic": "law",
+                "weighted_count": 57.04536734439275,
+                "normalized_intensity": 2.8522683672196374
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 56.268538581205895,
+                "normalized_intensity": 2.8134269290602947
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 54.00980171093702,
+                "normalized_intensity": 2.7004900855468508
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.51282994838016,
+                "normalized_intensity": 2.675641497419008
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 52.68338194558061,
+                "normalized_intensity": 2.63416909727903
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.25097931283956,
+                "normalized_intensity": 2.562548965641978
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.74574504047049,
+                "normalized_intensity": 2.4872872520235245
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 266.0260603290062,
+                "normalized_intensity": 66.50651508225155
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 208.22895626437952,
+                "normalized_intensity": 52.05723906609488
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 64.18597849396157,
+                "normalized_intensity": 16.046494623490393
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 53.77584379303171,
+                "normalized_intensity": 13.443960948257928
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.6263755147632,
+                "normalized_intensity": 12.4065938786908
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 429.88601757299114,
+                "normalized_intensity": 53.73575219662389
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 286.43961899346164,
+                "normalized_intensity": 35.804952374182704
+            },
+            {
+                "topic": "health",
+                "weighted_count": 58.1866605438689,
+                "normalized_intensity": 7.273332567983613
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 55.80186695392592,
+                "normalized_intensity": 6.97523336924074
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 55.14919403937042,
+                "normalized_intensity": 6.893649254921303
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 54.70791274069213,
+                "normalized_intensity": 6.838489092586516
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.68016586373905,
+                "normalized_intensity": 6.710020732967381
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.69787245479712,
+                "normalized_intensity": 6.46223405684964
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.27167996738158,
+                "normalized_intensity": 6.2839599959226975
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.39353643559329,
+                "normalized_intensity": 6.174192054449161
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 63.89909232372407,
+                "normalized_intensity": 63.89909232372407
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 59.32209168972399,
+                "normalized_intensity": 59.32209168972399
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 58.19518625949062,
+                "normalized_intensity": 58.19518625949062
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 56.555919638518915,
+                "normalized_intensity": 56.555919638518915
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.600408023261515,
+                "normalized_intensity": 52.600408023261515
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.0165697694165,
+                "normalized_intensity": 52.0165697694165
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 49.847699879746024,
+                "normalized_intensity": 49.847699879746024
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 49.73552709741507,
+                "normalized_intensity": 49.73552709741507
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.51583129039916,
+                "normalized_intensity": 49.51583129039916
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.42612280943206,
+                "normalized_intensity": 49.42612280943206
+            }
+        ]
+    }
+}

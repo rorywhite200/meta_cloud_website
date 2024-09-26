@@ -1,0 +1,67 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 69.25068827543956,
+                "normalized_intensity": 69.25068827543956
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 56.801076622349136,
+                "normalized_intensity": 56.801076622349136
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 53.99724827939274,
+                "normalized_intensity": 53.99724827939274
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 61.98737035972975,
+                "normalized_intensity": 61.98737035972975
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.18709030297079,
+                "normalized_intensity": 55.18709030297079
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 53.63472268199174,
+                "normalized_intensity": 53.63472268199174
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 63.140141871266955,
+                "normalized_intensity": 63.140141871266955
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 60.41100909573813,
+                "normalized_intensity": 60.41100909573813
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 55.407521306254104,
+                "normalized_intensity": 55.407521306254104
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 54.41333437343627,
+                "normalized_intensity": 54.41333437343627
+            }
+        ]
+    }
+}

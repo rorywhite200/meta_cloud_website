@@ -1,0 +1,37 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 158.32844387447818,
+                "normalized_intensity": 79.16422193723909
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 136.0443576473976,
+                "normalized_intensity": 68.0221788236988
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 133.79704801279024,
+                "normalized_intensity": 66.89852400639512
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 133.55537693505352,
+                "normalized_intensity": 66.77768846752676
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 122.3119120296237,
+                "normalized_intensity": 61.15595601481185
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 98.1019364798325,
+                "normalized_intensity": 49.05096823991625
+            }
+        ]
+    }
+}

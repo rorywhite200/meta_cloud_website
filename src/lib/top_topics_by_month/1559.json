@@ -1,0 +1,57 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 91.14474446457642,
+                "normalized_intensity": 91.14474446457642
+            },
+            {
+                "topic": "community",
+                "weighted_count": 64.72849348529203,
+                "normalized_intensity": 64.72849348529203
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 59.768272352528015,
+                "normalized_intensity": 59.768272352528015
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 52.776499468605685,
+                "normalized_intensity": 52.776499468605685
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.248219914649816,
+                "normalized_intensity": 52.248219914649816
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 139.82034821045085,
+                "normalized_intensity": 69.91017410522542
+            },
+            {
+                "topic": "community",
+                "weighted_count": 114.37990904571649,
+                "normalized_intensity": 57.189954522858244
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 103.92205644026588,
+                "normalized_intensity": 51.96102822013294
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 103.59970455722166,
+                "normalized_intensity": 51.79985227861083
+            }
+        ]
+    }
+}

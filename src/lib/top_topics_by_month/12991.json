@@ -1,0 +1,27 @@
+{
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 61.51976813660271,
+                "normalized_intensity": 61.51976813660271
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.93301893768782,
+                "normalized_intensity": 55.93301893768782
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 54.96648982344304,
+                "normalized_intensity": 54.96648982344304
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.1648162809395,
+                "normalized_intensity": 51.1648162809395
+            }
+        ]
+    }
+}

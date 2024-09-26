@@ -1,0 +1,97 @@
+{
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 132.56505342699907,
+                "normalized_intensity": 44.188351142333026
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 128.51714073889093,
+                "normalized_intensity": 42.839046912963646
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 68.05643802184254,
+                "normalized_intensity": 22.68547934061418
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 64.98468328303291,
+                "normalized_intensity": 21.661561094344304
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 64.97851911583025,
+                "normalized_intensity": 21.65950637194342
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 64.00655246502689,
+                "normalized_intensity": 21.335517488342294
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 63.563262721490666,
+                "normalized_intensity": 21.18775424049689
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 56.75218435559838,
+                "normalized_intensity": 18.91739478519946
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.60651020833474,
+                "normalized_intensity": 18.86883673611158
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.24801375016079,
+                "normalized_intensity": 18.74933791672026
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 55.83092461952964,
+                "normalized_intensity": 18.61030820650988
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 53.46190823291459,
+                "normalized_intensity": 17.820636077638195
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 156.8713739795714,
+                "normalized_intensity": 78.4356869897857
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.900407392219215,
+                "normalized_intensity": 30.950203696109607
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.94701554536193,
+                "normalized_intensity": 26.973507772680964
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 51.50214582458752,
+                "normalized_intensity": 25.75107291229376
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.78458827898944,
+                "normalized_intensity": 24.89229413949472
+            }
+        ]
+    }
+}

@@ -1,0 +1,367 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 86.7357582963727,
+                "normalized_intensity": 43.36787914818635
+            },
+            {
+                "topic": "law",
+                "weighted_count": 62.71509425137841,
+                "normalized_intensity": 31.357547125689205
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 59.55376054726861,
+                "normalized_intensity": 29.776880273634305
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 57.10468553533911,
+                "normalized_intensity": 28.552342767669554
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.08049246162727,
+                "normalized_intensity": 28.040246230813636
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 51.47073295942535,
+                "normalized_intensity": 25.735366479712674
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.26995823565175,
+                "normalized_intensity": 25.634979117825875
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.41800488064221,
+                "normalized_intensity": 24.709002440321104
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 171.5330485173209,
+                "normalized_intensity": 42.88326212933023
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 67.90901796063125,
+                "normalized_intensity": 16.97725449015781
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 58.72299242831851,
+                "normalized_intensity": 14.680748107079628
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.06731767964937,
+                "normalized_intensity": 13.516829419912343
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.62112668480987,
+                "normalized_intensity": 13.155281671202468
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.21135438751082,
+                "normalized_intensity": 12.302838596877706
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 49.20149374102203,
+                "normalized_intensity": 12.300373435255507
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 156.96312006319002,
+                "normalized_intensity": 78.48156003159501
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 130.6021132043602,
+                "normalized_intensity": 65.3010566021801
+            },
+            {
+                "topic": "history",
+                "weighted_count": 125.62976783684775,
+                "normalized_intensity": 62.814883918423874
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 118.50948360125315,
+                "normalized_intensity": 59.254741800626576
+            },
+            {
+                "topic": "family",
+                "weighted_count": 59.34507621370664,
+                "normalized_intensity": 29.67253810685332
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.60382151768414,
+                "normalized_intensity": 24.80191075884207
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 162.4991827070723,
+                "normalized_intensity": 54.16639423569077
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 109.38903177338508,
+                "normalized_intensity": 36.46301059112836
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 106.07607446010036,
+                "normalized_intensity": 35.35869148670012
+            },
+            {
+                "topic": "family",
+                "weighted_count": 69.33335255787499,
+                "normalized_intensity": 23.111117519291664
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 66.34959601890162,
+                "normalized_intensity": 22.11653200630054
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 55.76883119538115,
+                "normalized_intensity": 18.589610398460383
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.54821432284045,
+                "normalized_intensity": 17.516071440946817
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 50.39589669038056,
+                "normalized_intensity": 16.798632230126852
+            },
+            {
+                "topic": "security",
+                "weighted_count": 49.6330756027731,
+                "normalized_intensity": 16.5443585342577
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.263094575501036,
+                "normalized_intensity": 16.421031525167013
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 161.65076201168398,
+                "normalized_intensity": 53.88358733722799
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 72.9152308665032,
+                "normalized_intensity": 36.4576154332516
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 71.6374318466751,
+                "normalized_intensity": 35.81871592333755
+            },
+            {
+                "topic": "family",
+                "weighted_count": 63.470033082784525,
+                "normalized_intensity": 31.735016541392262
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 63.32530938194686,
+                "normalized_intensity": 31.66265469097343
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 62.11366776493197,
+                "normalized_intensity": 31.056833882465984
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 57.92854199841554,
+                "normalized_intensity": 28.96427099920777
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 54.548821281977624,
+                "normalized_intensity": 27.274410640988812
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 52.21738246107002,
+                "normalized_intensity": 26.10869123053501
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.17076581376529,
+                "normalized_intensity": 25.585382906882646
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.484488059948816,
+                "normalized_intensity": 25.242244029974408
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 217.951711249,
+                "normalized_intensity": 43.5903422498
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 88.04302097883624,
+                "normalized_intensity": 17.60860419576725
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 71.46657215731959,
+                "normalized_intensity": 14.293314431463918
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.072106946788125,
+                "normalized_intensity": 11.014421389357626
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.37182254673842,
+                "normalized_intensity": 10.874364509347684
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.33871634293019,
+                "normalized_intensity": 10.267743268586038
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.14160709685865,
+                "normalized_intensity": 9.82832141937173
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 69.5777319873592,
+                "normalized_intensity": 69.5777319873592
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 63.60352095277007,
+                "normalized_intensity": 63.60352095277007
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.46135056512867,
+                "normalized_intensity": 51.46135056512867
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 112.0486349600163,
+                "normalized_intensity": 37.3495449866721
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 105.76040440789251,
+                "normalized_intensity": 35.25346813596417
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 81.39280962207368,
+                "normalized_intensity": 27.130936540691227
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 74.91416204506575,
+                "normalized_intensity": 24.97138734835525
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 61.23160265364282,
+                "normalized_intensity": 20.41053421788094
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.22438458564248,
+                "normalized_intensity": 19.07479486188083
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 55.65958128655636,
+                "normalized_intensity": 18.553193762185455
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.43628840943925,
+                "normalized_intensity": 18.145429469813084
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 53.43970730761233,
+                "normalized_intensity": 17.81323576920411
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.06349685308831,
+                "normalized_intensity": 17.354498951029438
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.98687891333902,
+                "normalized_intensity": 16.662292971113008
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.18199911755508,
+                "normalized_intensity": 16.393999705851694
+            }
+        ]
+    }
+}

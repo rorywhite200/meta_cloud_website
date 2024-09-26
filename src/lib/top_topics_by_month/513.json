@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 803.0659168711637,
+                "normalized_intensity": 53.537727791410916
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 600.072192654326,
+                "normalized_intensity": 40.004812843621735
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 544.0666617367278,
+                "normalized_intensity": 36.271110782448524
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 153.9898634603565,
+                "normalized_intensity": 10.265990897357101
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.11603115276269,
+                "normalized_intensity": 3.3410687435175124
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 309.3843017513437,
+                "normalized_intensity": 77.34607543783592
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 251.84529851900157,
+                "normalized_intensity": 62.96132462975039
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 211.42208703494512,
+                "normalized_intensity": 52.85552175873628
+            },
+            {
+                "topic": "community",
+                "weighted_count": 200.46412461105075,
+                "normalized_intensity": 50.11603115276269
+            }
+        ]
+    }
+}

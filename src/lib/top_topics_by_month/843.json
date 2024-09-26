@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 188.46504397611835,
+                "normalized_intensity": 62.821681325372786
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 187.82337203916592,
+                "normalized_intensity": 62.60779067972197
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 184.67662899111633,
+                "normalized_intensity": 61.55887633037211
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 182.74333979468437,
+                "normalized_intensity": 60.914446598228125
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 168.63838060592767,
+                "normalized_intensity": 56.212793535309224
+            },
+            {
+                "topic": "family",
+                "weighted_count": 159.94493163189512,
+                "normalized_intensity": 53.3149772106317
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 69.36084413216287,
+                "normalized_intensity": 23.120281377387624
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 54.696722672378826,
+                "normalized_intensity": 18.23224089079294
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.44768120063185,
+                "normalized_intensity": 17.81589373354395
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.089628554813615,
+                "normalized_intensity": 16.363209518271205
+            }
+        ]
+    }
+}

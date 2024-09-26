@@ -1,0 +1,52 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 51.98906493208628,
+                "normalized_intensity": 51.98906493208628
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 81.50235695078085,
+                "normalized_intensity": 81.50235695078085
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 65.223191776862,
+                "normalized_intensity": 65.223191776862
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 63.56751328268221,
+                "normalized_intensity": 63.56751328268221
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.48665768629972,
+                "normalized_intensity": 51.48665768629972
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.07740404580608,
+                "normalized_intensity": 50.07740404580608
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.805087448237174,
+                "normalized_intensity": 49.805087448237174
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.18653480165882,
+                "normalized_intensity": 49.18653480165882
+            }
+        ]
+    }
+}

@@ -1,0 +1,887 @@
+{
+    "2023-09": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 893.5703786296416,
+                "normalized_intensity": 44.67851893148208
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 662.0495763864667,
+                "normalized_intensity": 33.10247881932334
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 612.4955132880324,
+                "normalized_intensity": 30.624775664401618
+            },
+            {
+                "topic": "health",
+                "weighted_count": 476.49096192227944,
+                "normalized_intensity": 23.824548096113972
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 277.50446750898743,
+                "normalized_intensity": 13.875223375449371
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 241.01345949388948,
+                "normalized_intensity": 12.050672974694475
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 198.3238069616498,
+                "normalized_intensity": 9.916190348082491
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 155.058252749492,
+                "normalized_intensity": 7.7529126374746
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 148.29682879576737,
+                "normalized_intensity": 7.414841439788368
+            },
+            {
+                "topic": "food",
+                "weighted_count": 91.36265169367738,
+                "normalized_intensity": 4.568132584683869
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 64.12887874270979,
+                "normalized_intensity": 3.2064439371354894
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 60.35801667723171,
+                "normalized_intensity": 3.0179008338615856
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 57.077931895166046,
+                "normalized_intensity": 2.8538965947583024
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 52,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 3607.480330684134,
+                "normalized_intensity": 69.37462174392566
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 1533.3848290606616,
+                "normalized_intensity": 29.488169789628106
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1207.7318160339053,
+                "normalized_intensity": 23.22561184680587
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1169.8134461603204,
+                "normalized_intensity": 22.496412426160006
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1028.904812360687,
+                "normalized_intensity": 19.786631006936286
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 972.8368822519845,
+                "normalized_intensity": 18.708401581768932
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 961.4600640113513,
+                "normalized_intensity": 18.48961661560291
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 947.56481783873,
+                "normalized_intensity": 18.222400343052502
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 579.1561895205248,
+                "normalized_intensity": 11.137619029240861
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 507.6672001175165,
+                "normalized_intensity": 9.762830771490702
+            },
+            {
+                "topic": "science",
+                "weighted_count": 494.3924534752045,
+                "normalized_intensity": 9.507547182215472
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 488.235335902399,
+                "normalized_intensity": 9.389141075046135
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 451.48360956183194,
+                "normalized_intensity": 8.682377106958306
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 443.4945022928007,
+                "normalized_intensity": 8.528740428707705
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 44,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 2779.209495916997,
+                "normalized_intensity": 63.16385217993175
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1448.0411262338857,
+                "normalized_intensity": 32.91002559622468
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1173.984949888667,
+                "normalized_intensity": 26.68147613383334
+            },
+            {
+                "topic": "science",
+                "weighted_count": 944.5225759771121,
+                "normalized_intensity": 21.466422181298
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 856.0144407071184,
+                "normalized_intensity": 19.45487365243451
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 844.9454546083308,
+                "normalized_intensity": 19.203305786552974
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 674.8136076382173,
+                "normalized_intensity": 15.336672900868574
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 608.5751503266988,
+                "normalized_intensity": 13.831253416515882
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 597.4607557547915,
+                "normalized_intensity": 13.578653539881627
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 547.4854112667448,
+                "normalized_intensity": 12.442850256062382
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 283.66617689184216,
+                "normalized_intensity": 6.446958565723685
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 45,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 2968.0995064673284,
+                "normalized_intensity": 65.95776681038508
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1156.0178856602367,
+                "normalized_intensity": 25.68928634800526
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 1147.2432878435593,
+                "normalized_intensity": 25.494295285412427
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 1090.5136241602963,
+                "normalized_intensity": 24.23363609245103
+            },
+            {
+                "topic": "family",
+                "weighted_count": 825.248667788982,
+                "normalized_intensity": 18.3388592841996
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 699.8747636022317,
+                "normalized_intensity": 15.552772524494038
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 578.6794039580673,
+                "normalized_intensity": 12.859542310179272
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 554.0394656777548,
+                "normalized_intensity": 12.311988126172329
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 529.949035540424,
+                "normalized_intensity": 11.776645234231644
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 516.3346011204105,
+                "normalized_intensity": 11.474102247120234
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 514.7522593275835,
+                "normalized_intensity": 11.438939096168522
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 497.84023411646615,
+                "normalized_intensity": 11.063116313699247
+            },
+            {
+                "topic": "science",
+                "weighted_count": 263.0046665258083,
+                "normalized_intensity": 5.844548145017963
+            },
+            {
+                "topic": "community",
+                "weighted_count": 255.42982343085453,
+                "normalized_intensity": 5.676218298463434
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 693.2405668559262,
+                "normalized_intensity": 46.21603779039508
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 453.6093810840372,
+                "normalized_intensity": 30.24062540560248
+            },
+            {
+                "topic": "food",
+                "weighted_count": 409.7121970968724,
+                "normalized_intensity": 27.314146473124826
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 381.6420632674608,
+                "normalized_intensity": 25.44280421783072
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 316.6510502171177,
+                "normalized_intensity": 21.110070014474513
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 266.23347480827556,
+                "normalized_intensity": 17.748898320551703
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 256.4367733612121,
+                "normalized_intensity": 17.095784890747474
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 162.2942323632805,
+                "normalized_intensity": 10.819615490885367
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 82,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 5371.437413723156,
+                "normalized_intensity": 65.50533431369702
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1926.6199630931646,
+                "normalized_intensity": 23.495365403575178
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1733.1203118600627,
+                "normalized_intensity": 21.135613559269057
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 1379.9094539787259,
+                "normalized_intensity": 16.828164072911292
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 825.3490604872621,
+                "normalized_intensity": 10.065232444966611
+            },
+            {
+                "topic": "family",
+                "weighted_count": 796.7958821031781,
+                "normalized_intensity": 9.717022952477782
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 596.4889617053204,
+                "normalized_intensity": 7.274255630552688
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 533.789460878664,
+                "normalized_intensity": 6.509627571691025
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 506.43419975656667,
+                "normalized_intensity": 6.176026826299593
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 501.52667717783834,
+                "normalized_intensity": 6.116178989973638
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 307.3253581069169,
+                "normalized_intensity": 3.7478702208160595
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 284.4716572833597,
+                "normalized_intensity": 3.469166552236094
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 250.22999679947748,
+                "normalized_intensity": 3.051585326822896
+            },
+            {
+                "topic": "science",
+                "weighted_count": 245.80438681386627,
+                "normalized_intensity": 2.9976144733398327
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 65,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 4558.308757894878,
+                "normalized_intensity": 70.12782704453659
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 2985.4455190503436,
+                "normalized_intensity": 45.92993106231298
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 2208.9695966422505,
+                "normalized_intensity": 33.98414764065001
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 2022.7701570873642,
+                "normalized_intensity": 31.11954087826714
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1612.150421043165,
+                "normalized_intensity": 24.802314169894846
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 980.3270021788763,
+                "normalized_intensity": 15.081953879675021
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 823.1860667994063,
+                "normalized_intensity": 12.664401027683173
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 644.274101162734,
+                "normalized_intensity": 9.911909248657446
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 610.2924239547614,
+                "normalized_intensity": 9.389114214688636
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 339.7759659490597,
+                "normalized_intensity": 5.227322553062457
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 334.06341293969547,
+                "normalized_intensity": 5.139437122149161
+            },
+            {
+                "topic": "family",
+                "weighted_count": 300.5851088689108,
+                "normalized_intensity": 4.624386290290936
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 95,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 6350.708172004434,
+                "normalized_intensity": 66.84955970530983
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 3646.516544371373,
+                "normalized_intensity": 38.3843846775934
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 2821.471548149138,
+                "normalized_intensity": 29.699700506833032
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 2572.542763038416,
+                "normalized_intensity": 27.079397505667536
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 2019.75984324828,
+                "normalized_intensity": 21.260629928929262
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 1005.8301971779139,
+                "normalized_intensity": 10.587686286083304
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 984.4551739610351,
+                "normalized_intensity": 10.362686041695106
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 877.6892416218282,
+                "normalized_intensity": 9.238834122335033
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 765.4581014661522,
+                "normalized_intensity": 8.057453699643707
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 629.2103899803618,
+                "normalized_intensity": 6.623267262951177
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 515.2406383349482,
+                "normalized_intensity": 5.423585666683666
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 334.06341293969547,
+                "normalized_intensity": 3.516456978312584
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 321.6447896337537,
+                "normalized_intensity": 3.385734627723723
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 27,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1333.0148731816005,
+                "normalized_intensity": 49.37092122894816
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 866.8972006522944,
+                "normalized_intensity": 32.10730372786276
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 515.408523026151,
+                "normalized_intensity": 19.08920455652411
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 512.4336216527686,
+                "normalized_intensity": 18.979023024176612
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 357.17201263298824,
+                "normalized_intensity": 13.228593060481046
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 301.09064450993907,
+                "normalized_intensity": 11.151505352219965
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 221.9549674162436,
+                "normalized_intensity": 8.220554348749763
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 207.04862925112167,
+                "normalized_intensity": 7.668467750041543
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 204.48699515523919,
+                "normalized_intensity": 7.573592413157007
+            },
+            {
+                "topic": "history",
+                "weighted_count": 177.8952963611386,
+                "normalized_intensity": 6.5887146800421705
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 170.64517607815645,
+                "normalized_intensity": 6.320191706598387
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 151.19020380189863,
+                "normalized_intensity": 5.599637177848098
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 69.21630301652822,
+                "normalized_intensity": 2.563566778389934
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 134,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 7522.127753766855,
+                "normalized_intensity": 56.13528174452877
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 2108.396934232248,
+                "normalized_intensity": 15.734305479345133
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1897.5456096624675,
+                "normalized_intensity": 14.16078813180946
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 1655.286723741078,
+                "normalized_intensity": 12.352885998067746
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 1602.3967021508463,
+                "normalized_intensity": 11.9581843444093
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1413.319831347928,
+                "normalized_intensity": 10.547162920506924
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 1167.4355986978733,
+                "normalized_intensity": 8.71220596043189
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 1148.2002072789273,
+                "normalized_intensity": 8.568658263275577
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 844.4605349647117,
+                "normalized_intensity": 6.301944290781431
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 812.4296131532262,
+                "normalized_intensity": 6.062907560844972
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 668.5741520038005,
+                "normalized_intensity": 4.989359343311944
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 625.5658420693369,
+                "normalized_intensity": 4.668401806487589
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 623.1702227312487,
+                "normalized_intensity": 4.6505240502332
+            },
+            {
+                "topic": "family",
+                "weighted_count": 609.1313258271441,
+                "normalized_intensity": 4.545756162889135
+            },
+            {
+                "topic": "science",
+                "weighted_count": 521.1767579528905,
+                "normalized_intensity": 3.889378790693213
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 503.97748469516637,
+                "normalized_intensity": 3.7610260051878086
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 307.67548482293427,
+                "normalized_intensity": 2.296085707633838
+            },
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 277.32629383419345,
+                "normalized_intensity": 2.0695992077178618
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 267.2325379652166,
+                "normalized_intensity": 1.9942726713822132
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 265.55394220131564,
+                "normalized_intensity": 1.981745837323251
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 255.62112246944662,
+                "normalized_intensity": 1.9076203169361687
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 249.28485068885442,
+                "normalized_intensity": 1.8603347066332419
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 245.19085028184222,
+                "normalized_intensity": 1.8297824647898673
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 68.86563690469417,
+                "normalized_intensity": 0.513922663467867
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 522.0549877833371,
+                "normalized_intensity": 32.62843673645857
+            },
+            {
+                "topic": "health",
+                "weighted_count": 422.21370087018494,
+                "normalized_intensity": 26.38835630438656
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 358.80936432663754,
+                "normalized_intensity": 22.425585270414846
+            },
+            {
+                "topic": "food",
+                "weighted_count": 240.52010573535566,
+                "normalized_intensity": 15.032506608459729
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 200.641192925685,
+                "normalized_intensity": 12.540074557855313
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 187.99640354111312,
+                "normalized_intensity": 11.74977522131957
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 167.10347259326454,
+                "normalized_intensity": 10.443967037079034
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 161.20002581600113,
+                "normalized_intensity": 10.07500161350007
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 157.99057956354778,
+                "normalized_intensity": 9.874411222721736
+            },
+            {
+                "topic": "science",
+                "weighted_count": 156.56803417951207,
+                "normalized_intensity": 9.785502136219504
+            },
+            {
+                "topic": "family",
+                "weighted_count": 156.3545197726068,
+                "normalized_intensity": 9.772157485787925
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 155.6817419448504,
+                "normalized_intensity": 9.73010887155315
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 155.18054941765152,
+                "normalized_intensity": 9.69878433860322
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 150.16654242562853,
+                "normalized_intensity": 9.385408901601783
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 149.08608210863062,
+                "normalized_intensity": 9.317880131789414
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 65.014870888131,
+                "normalized_intensity": 4.0634294305081875
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 265.28195351045724,
+                "normalized_intensity": 66.32048837761431
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 221.87567549332095,
+                "normalized_intensity": 55.46891887333024
+            },
+            {
+                "topic": "food",
+                "weighted_count": 150.3918590046311,
+                "normalized_intensity": 37.597964751157775
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 133.76079528379,
+                "normalized_intensity": 33.4401988209475
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 129.49656857921752,
+                "normalized_intensity": 32.37414214480438
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 112.59425460539127,
+                "normalized_intensity": 28.148563651347818
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 112.04566969488077,
+                "normalized_intensity": 28.011417423720193
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 105.32705304236518,
+                "normalized_intensity": 26.331763260591295
+            },
+            {
+                "topic": "science",
+                "weighted_count": 104.37868945300805,
+                "normalized_intensity": 26.094672363252013
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.45369961176768,
+                "normalized_intensity": 25.86342490294192
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 103.00642635533019,
+                "normalized_intensity": 25.751606588832548
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 100.11102828375236,
+                "normalized_intensity": 25.02775707093809
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 99.45934919522757,
+                "normalized_intensity": 24.864837298806894
+            }
+        ]
+    }
+}

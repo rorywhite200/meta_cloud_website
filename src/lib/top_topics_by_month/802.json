@@ -1,0 +1,62 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 122.8582648799892,
+                "normalized_intensity": 40.952754959996405
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 105.29183449425312,
+                "normalized_intensity": 35.09727816475104
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 100.3171259495102,
+                "normalized_intensity": 33.439041983170064
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.08788007993466,
+                "normalized_intensity": 16.695960026644887
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.85757860303549,
+                "normalized_intensity": 16.619192867678496
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 63.39543553803586,
+                "normalized_intensity": 63.39543553803586
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 60.72358820294945,
+                "normalized_intensity": 60.72358820294945
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 57.11030575676372,
+                "normalized_intensity": 57.11030575676372
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 53.79439686905214,
+                "normalized_intensity": 53.79439686905214
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.793413517422174,
+                "normalized_intensity": 53.793413517422174
+            }
+        ]
+    }
+}

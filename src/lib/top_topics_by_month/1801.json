@@ -1,0 +1,247 @@
+{
+    "2023-09": {
+        "total_ads": 103,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 7105.453156215085,
+                "normalized_intensity": 68.98498209917558
+            },
+            {
+                "topic": "community",
+                "weighted_count": 5974.9038351775735,
+                "normalized_intensity": 58.00877509881139
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 5125.665835507748,
+                "normalized_intensity": 49.76374597580338
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 5054.3412790367875,
+                "normalized_intensity": 49.07127455375522
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 4260.131547774301,
+                "normalized_intensity": 41.36050046382817
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 3723.617118689503,
+                "normalized_intensity": 36.151622511548574
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 3485.012632303233,
+                "normalized_intensity": 33.83507410003139
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 3447.634981680568,
+                "normalized_intensity": 33.472184288160854
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 3419.0160354247005,
+                "normalized_intensity": 33.19433044101651
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 2994.7049511286477,
+                "normalized_intensity": 29.07480535076357
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 2589.563355578979,
+                "normalized_intensity": 25.14139180173766
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1393.0375988669782,
+                "normalized_intensity": 13.524636882203671
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 1383.2643383961872,
+                "normalized_intensity": 13.42975085821541
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1380.5444768045575,
+                "normalized_intensity": 13.403344434995704
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 1287.5232959106197,
+                "normalized_intensity": 12.500226173889512
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 1285.5948520049546,
+                "normalized_intensity": 12.48150341752383
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 1071.0487598803427,
+                "normalized_intensity": 10.398531649323715
+            },
+            {
+                "topic": "history",
+                "weighted_count": 1054.4606111777382,
+                "normalized_intensity": 10.237481661919789
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 990.9989393084817,
+                "normalized_intensity": 9.621348925325066
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 988.0441752015357,
+                "normalized_intensity": 9.592661895160541
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 975.364101006141,
+                "normalized_intensity": 9.469554378700398
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 940.5360380806093,
+                "normalized_intensity": 9.131417845442808
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 936.4801701303791,
+                "normalized_intensity": 9.09204048670271
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 352.62854141093015,
+                "normalized_intensity": 3.4235780719507782
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 621.6454688850893,
+                "normalized_intensity": 69.07171876500992
+            },
+            {
+                "topic": "community",
+                "weighted_count": 533.2677382333266,
+                "normalized_intensity": 59.25197091481406
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 524.2267031589121,
+                "normalized_intensity": 58.24741146210134
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 434.52168652862343,
+                "normalized_intensity": 48.28018739206927
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 387.6775492076091,
+                "normalized_intensity": 43.0752832452899
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 382.73334299705056,
+                "normalized_intensity": 42.525926999672286
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 366.5587049033724,
+                "normalized_intensity": 40.7287449892636
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 339.2887817316512,
+                "normalized_intensity": 37.69875352573902
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 327.9639760812142,
+                "normalized_intensity": 36.44044178680158
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 295.31846174482354,
+                "normalized_intensity": 32.8131624160915
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 283.2279105100081,
+                "normalized_intensity": 31.469767834445342
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 169.11296208636995,
+                "normalized_intensity": 18.79032912070777
+            },
+            {
+                "topic": "history",
+                "weighted_count": 166.4937807122744,
+                "normalized_intensity": 18.49930896803049
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 160.80138690636866,
+                "normalized_intensity": 17.866820767374296
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 159.92303574598571,
+                "normalized_intensity": 17.769226193998414
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 159.840749500836,
+                "normalized_intensity": 17.760083277870667
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 156.47351673291817,
+                "normalized_intensity": 17.385946303657576
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 156.00697503182144,
+                "normalized_intensity": 17.33410833686905
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 154.00485805360125,
+                "normalized_intensity": 17.111650894844583
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 148.50569022325413,
+                "normalized_intensity": 16.500632247028236
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 147.86529002058612,
+                "normalized_intensity": 16.429476668954013
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 147.39500209615966,
+                "normalized_intensity": 16.37722245512885
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 147.33353057452283,
+                "normalized_intensity": 16.37039228605809
+            }
+        ]
+    }
+}

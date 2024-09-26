@@ -1,0 +1,52 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 179.60979539252253,
+                "normalized_intensity": 89.80489769626126
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 172.7418550005999,
+                "normalized_intensity": 86.37092750029996
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 125.93847008135305,
+                "normalized_intensity": 62.96923504067652
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 103.8707032876705,
+                "normalized_intensity": 51.93535164383525
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 769.3434678693452,
+                "normalized_intensity": 76.93434678693453
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 735.8048230025345,
+                "normalized_intensity": 73.58048230025345
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 336.82392975655256,
+                "normalized_intensity": 33.682392975655254
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 107.99138801969643,
+                "normalized_intensity": 10.799138801969644
+            }
+        ]
+    }
+}

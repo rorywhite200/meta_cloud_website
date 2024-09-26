@@ -1,0 +1,102 @@
+{
+    "2023-10": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 2192.962468881563,
+                "normalized_intensity": 68.53007715254884
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1909.7265057211189,
+                "normalized_intensity": 59.678953303784965
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1797.1880759089388,
+                "normalized_intensity": 56.16212737215434
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1747.3369052221997,
+                "normalized_intensity": 54.60427828819374
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1653.5959324332964,
+                "normalized_intensity": 51.67487288854051
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1350.7737435534698,
+                "normalized_intensity": 42.21167948604593
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 1100.6043276867113,
+                "normalized_intensity": 34.39388524020973
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 987.108891418973,
+                "normalized_intensity": 30.847152856842907
+            },
+            {
+                "topic": "family",
+                "weighted_count": 622.7021286539473,
+                "normalized_intensity": 19.459441520435853
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 619.2223906732032,
+                "normalized_intensity": 19.3506997085376
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 526.3176518117369,
+                "normalized_intensity": 16.44742661911678
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 499.32057733508543,
+                "normalized_intensity": 15.60376804172142
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 297.52802354095894,
+                "normalized_intensity": 9.297750735654967
+            },
+            {
+                "topic": "food",
+                "weighted_count": 188.57132406848692,
+                "normalized_intensity": 5.892853877140216
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 110.4935348193853,
+                "normalized_intensity": 3.4529229631057907
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 102.82433448049453,
+                "normalized_intensity": 3.213260452515454
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 73.37343833519363,
+                "normalized_intensity": 2.292919947974801
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 55.961699252506605,
+                "normalized_intensity": 1.7488031016408314
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 53.70595803741575,
+                "normalized_intensity": 1.6783111886692421
+            }
+        ]
+    }
+}

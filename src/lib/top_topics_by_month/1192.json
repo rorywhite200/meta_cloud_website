@@ -1,0 +1,82 @@
+{
+    "2024-03": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 140.7376936493501,
+                "normalized_intensity": 20.10538480705001
+            },
+            {
+                "topic": "health",
+                "weighted_count": 126.23519118293544,
+                "normalized_intensity": 18.033598740419347
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 126.21967285903114,
+                "normalized_intensity": 18.03138183700445
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 119.39972262585621,
+                "normalized_intensity": 17.057103232265174
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 103.48293456850709,
+                "normalized_intensity": 14.783276366929584
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 101.43221261288554,
+                "normalized_intensity": 14.490316087555076
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 74.73198168776571,
+                "normalized_intensity": 10.67599738396653
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 64.01955866139495,
+                "normalized_intensity": 9.145651237342136
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 61.06951014433649,
+                "normalized_intensity": 8.724215734905213
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 58.84618092385471,
+                "normalized_intensity": 8.406597274836388
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 57.3598541153511,
+                "normalized_intensity": 8.194264873621586
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.1560157682255,
+                "normalized_intensity": 8.022287966889357
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.51748939737782,
+                "normalized_intensity": 7.216784199625403
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.49645331631335,
+                "normalized_intensity": 7.070921902330478
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.27776988387381,
+                "normalized_intensity": 7.039681411981973
+            }
+        ]
+    }
+}

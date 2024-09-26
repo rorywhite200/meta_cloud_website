@@ -1,0 +1,127 @@
+{
+    "2024-06": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 837.6424601627104,
+                "normalized_intensity": 44.0864452717216
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 404.6984894219198,
+                "normalized_intensity": 21.299920495890518
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 315.2488299380193,
+                "normalized_intensity": 16.592043680948382
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 299.8263636784947,
+                "normalized_intensity": 15.78033493044709
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 256.4858169878143,
+                "normalized_intensity": 13.499253525674437
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 220.05391593731616,
+                "normalized_intensity": 11.58178504933243
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 217.49849448707167,
+                "normalized_intensity": 11.447289183530089
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 205.70473006542193,
+                "normalized_intensity": 10.826564740285365
+            },
+            {
+                "topic": "law",
+                "weighted_count": 162.8701124974849,
+                "normalized_intensity": 8.572111184078153
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 157.31413681578982,
+                "normalized_intensity": 8.279691411357359
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 155.89420710734169,
+                "normalized_intensity": 8.204958268807458
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 116.89527753286508,
+                "normalized_intensity": 6.152383028045531
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 51.15172959148702,
+                "normalized_intensity": 2.6921962942887903
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 51.11314843118788,
+                "normalized_intensity": 2.6901657069046254
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "economy",
+                "weighted_count": 137.36712281023242,
+                "normalized_intensity": 68.68356140511621
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 121.89898521012034,
+                "normalized_intensity": 60.94949260506017
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 120.30678664016982,
+                "normalized_intensity": 60.15339332008491
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 118.21211045696282,
+                "normalized_intensity": 59.10605522848141
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 113.10102817599014,
+                "normalized_intensity": 56.55051408799507
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 104.18473177343648,
+                "normalized_intensity": 52.09236588671824
+            },
+            {
+                "topic": "business",
+                "weighted_count": 102.19618597704155,
+                "normalized_intensity": 51.098092988520776
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 102.08118449586162,
+                "normalized_intensity": 51.04059224793081
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 99.016661342036,
+                "normalized_intensity": 49.508330671018
+            }
+        ]
+    }
+}

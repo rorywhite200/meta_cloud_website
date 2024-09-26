@@ -1,0 +1,567 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 64.98048456077895,
+                "normalized_intensity": 64.98048456077895
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 60.58726035477352,
+                "normalized_intensity": 60.58726035477352
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 50.4398052779608,
+                "normalized_intensity": 50.4398052779608
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 49.46010566904654,
+                "normalized_intensity": 49.46010566904654
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 352.24154239536387,
+                "normalized_intensity": 50.32022034219484
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 338.5385801780937,
+                "normalized_intensity": 48.36265431115624
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 326.50779553552314,
+                "normalized_intensity": 46.64397079078902
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 251.78988119550357,
+                "normalized_intensity": 35.96998302792908
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 244.43912547093385,
+                "normalized_intensity": 34.919875067276266
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 221.6226976916356,
+                "normalized_intensity": 31.660385384519373
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 189.02788693843547,
+                "normalized_intensity": 27.003983848347925
+            },
+            {
+                "topic": "health",
+                "weighted_count": 165.00376018577072,
+                "normalized_intensity": 23.57196574082439
+            },
+            {
+                "topic": "community",
+                "weighted_count": 162.04726922345174,
+                "normalized_intensity": 23.149609889064532
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 135.95508031017826,
+                "normalized_intensity": 19.422154330025467
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 123.38227843156338,
+                "normalized_intensity": 17.626039775937624
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 114.41459195678397,
+                "normalized_intensity": 16.344941708111996
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 101.14136636146276,
+                "normalized_intensity": 14.448766623066108
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.52294475843243,
+                "normalized_intensity": 14.217563536918918
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 62.67690006287063,
+                "normalized_intensity": 8.953842866124376
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.102263499409936,
+                "normalized_intensity": 7.300323357058562
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.88854379406106,
+                "normalized_intensity": 7.126934827723008
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.51940890564722,
+                "normalized_intensity": 7.0742012722353165
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.40732751669714,
+                "normalized_intensity": 7.058189645242448
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 673.4314537898047,
+                "normalized_intensity": 51.802419522292666
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 452.13132465509375,
+                "normalized_intensity": 34.779332665776444
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 133.43404979360756,
+                "normalized_intensity": 10.264157676431351
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 132.7537405835064,
+                "normalized_intensity": 10.211826198731263
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 108.33287935437501,
+                "normalized_intensity": 8.333298411875
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.31542479087265,
+                "normalized_intensity": 7.947340368528666
+            },
+            {
+                "topic": "education",
+                "weighted_count": 63.15699928000079,
+                "normalized_intensity": 4.858230713846215
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.93954987973214,
+                "normalized_intensity": 4.226119221517857
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.42939224774975,
+                "normalized_intensity": 4.033030172903827
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.39646867119163,
+                "normalized_intensity": 3.953574513168587
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 200.51841852378016,
+                "normalized_intensity": 40.10368370475603
+            },
+            {
+                "topic": "community",
+                "weighted_count": 109.18540067141691,
+                "normalized_intensity": 21.837080134283383
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 100.44586086055989,
+                "normalized_intensity": 20.08917217211198
+            },
+            {
+                "topic": "business",
+                "weighted_count": 100.32447215403757,
+                "normalized_intensity": 20.064894430807513
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 65.00953590864373,
+                "normalized_intensity": 13.001907181728745
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 57.40515662666361,
+                "normalized_intensity": 11.481031325332722
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 221.03422530002246,
+                "normalized_intensity": 73.67807510000749
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 215.30202786394221,
+                "normalized_intensity": 71.76734262131407
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 188.1679082175488,
+                "normalized_intensity": 62.72263607251627
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 179.61199191771215,
+                "normalized_intensity": 59.87066397257072
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 178.84126303558133,
+                "normalized_intensity": 59.613754345193776
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 174.8677392400171,
+                "normalized_intensity": 58.289246413339036
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 158.50255789408786,
+                "normalized_intensity": 52.834185964695955
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 156.48246120886012,
+                "normalized_intensity": 52.16082040295337
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 152.55560286494176,
+                "normalized_intensity": 50.85186762164725
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 381.4267442205318,
+                "normalized_intensity": 63.5711240367553
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 349.92127041343986,
+                "normalized_intensity": 58.32021173557331
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 332.98902451981365,
+                "normalized_intensity": 55.498170753302276
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 290.1114540135413,
+                "normalized_intensity": 48.35190900225688
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 267.7549507119945,
+                "normalized_intensity": 44.62582511866575
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 261.3274169062895,
+                "normalized_intensity": 43.55456948438158
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 249.0267090905627,
+                "normalized_intensity": 41.504451515093784
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 247.67300958843072,
+                "normalized_intensity": 41.27883493140512
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 213.4949420961278,
+                "normalized_intensity": 35.582490349354636
+            },
+            {
+                "topic": "community",
+                "weighted_count": 212.5466831145398,
+                "normalized_intensity": 35.424447185756634
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 160.60731480656716,
+                "normalized_intensity": 26.767885801094526
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 158.27234484432825,
+                "normalized_intensity": 26.378724140721374
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 111.46498377666057,
+                "normalized_intensity": 18.577497296110096
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 108.169021886629,
+                "normalized_intensity": 18.028170314438167
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 103.92038265641024,
+                "normalized_intensity": 17.320063776068373
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 101.28746453834374,
+                "normalized_intensity": 16.881244089723957
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 101.21911704058083,
+                "normalized_intensity": 16.869852840096804
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 49.01565588911814,
+                "normalized_intensity": 8.169275981519691
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 71.99231633296182,
+                "normalized_intensity": 71.99231633296182
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 54.27523069113745,
+                "normalized_intensity": 54.27523069113745
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 213.77963526852616,
+                "normalized_intensity": 53.44490881713154
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 174.89718614531716,
+                "normalized_intensity": 43.72429653632929
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 116.53702798194027,
+                "normalized_intensity": 29.134256995485067
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 100.53288041696453,
+                "normalized_intensity": 25.133220104241133
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 78.79394944072244,
+                "normalized_intensity": 19.69848736018061
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 72.22374996927759,
+                "normalized_intensity": 18.055937492319398
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 69.0688171567758,
+                "normalized_intensity": 17.26720428919395
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 68.93299183730127,
+                "normalized_intensity": 17.23324795932532
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 67.27614602455179,
+                "normalized_intensity": 16.819036506137948
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 66.88733575714348,
+                "normalized_intensity": 16.72183393928587
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 58.21753599353343,
+                "normalized_intensity": 14.554383998383358
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.42091137720486,
+                "normalized_intensity": 14.105227844301215
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 55.444499361291676,
+                "normalized_intensity": 13.861124840322919
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 53.47278945919759,
+                "normalized_intensity": 13.368197364799398
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 53.143526292912526,
+                "normalized_intensity": 13.285881573228131
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 52.323643905396075,
+                "normalized_intensity": 13.080910976349019
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.86912805237852,
+                "normalized_intensity": 12.96728201309463
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.56244327980247,
+                "normalized_intensity": 12.390610819950618
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 129.33263557753688,
+                "normalized_intensity": 64.66631778876844
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 122.9059459168212,
+                "normalized_intensity": 61.4529729584106
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 112.53407129905688,
+                "normalized_intensity": 56.26703564952844
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 63.65404238035327,
+                "normalized_intensity": 31.827021190176634
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 58.624106856133594,
+                "normalized_intensity": 29.312053428066797
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.84656749753883,
+                "normalized_intensity": 28.423283748769414
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.245177643167075,
+                "normalized_intensity": 24.622588821583538
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.40560852286319,
+                "normalized_intensity": 63.40560852286319
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 61.77528252516235,
+                "normalized_intensity": 61.77528252516235
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 57.71130396752812,
+                "normalized_intensity": 57.71130396752812
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 135.13651119599484,
+                "normalized_intensity": 67.56825559799742
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 123.93682666631074,
+                "normalized_intensity": 61.96841333315537
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 103.08508899279609,
+                "normalized_intensity": 51.542544496398044
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 99.47707334254319,
+                "normalized_intensity": 49.738536671271596
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 52.86199129735668,
+                "normalized_intensity": 52.86199129735668
+            }
+        ]
+    }
+}

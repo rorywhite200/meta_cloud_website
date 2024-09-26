@@ -1,0 +1,27 @@
+{
+    "2023-10": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 666.0279779406559,
+                "normalized_intensity": 60.54799799460508
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 485.32280926731715,
+                "normalized_intensity": 44.120255387937924
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 378.41291698109677,
+                "normalized_intensity": 34.4011742710088
+            },
+            {
+                "topic": "military",
+                "weighted_count": 101.03752000572376,
+                "normalized_intensity": 9.185229091429433
+            }
+        ]
+    }
+}

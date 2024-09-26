@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 135.20398033861028,
+                "normalized_intensity": 67.60199016930514
+            },
+            {
+                "topic": "community",
+                "weighted_count": 111.9622680880575,
+                "normalized_intensity": 55.98113404402875
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 107.36416469714388,
+                "normalized_intensity": 53.68208234857194
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.4107515390669,
+                "normalized_intensity": 24.70537576953345
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 66.12351247946694,
+                "normalized_intensity": 66.12351247946694
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.92816943764231,
+                "normalized_intensity": 51.92816943764231
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 102.631880642449,
+                "normalized_intensity": 51.3159403212245
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 66.30138271681226,
+                "normalized_intensity": 33.15069135840613
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 54.03026643926007,
+                "normalized_intensity": 27.015133219630034
+            }
+        ]
+    }
+}

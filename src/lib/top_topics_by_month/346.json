@@ -1,0 +1,92 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 110.26822474802255,
+                "normalized_intensity": 55.13411237401127
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 80.83018799388434,
+                "normalized_intensity": 40.41509399694217
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 72.96463398890907,
+                "normalized_intensity": 36.482316994454536
+            },
+            {
+                "topic": "military",
+                "weighted_count": 65.24121615378562,
+                "normalized_intensity": 32.62060807689281
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 57.04115537333225,
+                "normalized_intensity": 28.520577686666126
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.34095645708565,
+                "normalized_intensity": 27.670478228542827
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.668753606646064,
+                "normalized_intensity": 25.834376803323032
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 149.25601577127685,
+                "normalized_intensity": 74.62800788563843
+            },
+            {
+                "topic": "community",
+                "weighted_count": 118.93268032822098,
+                "normalized_intensity": 59.46634016411049
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 112.74281026022769,
+                "normalized_intensity": 56.37140513011384
+            },
+            {
+                "topic": "history",
+                "weighted_count": 100.54747713430069,
+                "normalized_intensity": 50.273738567150346
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.26773462035881,
+                "normalized_intensity": 25.133867310179404
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.77598863115748,
+                "normalized_intensity": 24.88799431557874
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 56.41855265948274,
+                "normalized_intensity": 56.41855265948274
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.3715685010955,
+                "normalized_intensity": 55.3715685010955
+            }
+        ]
+    }
+}

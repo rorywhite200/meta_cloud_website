@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 59.89596519301581,
+                "normalized_intensity": 59.89596519301581
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 56.51172303834365,
+                "normalized_intensity": 56.51172303834365
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.858597389207006,
+                "normalized_intensity": 51.858597389207006
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 57.92390508933849,
+                "normalized_intensity": 28.961952544669245
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.76097189745855,
+                "normalized_intensity": 28.380485948729277
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.437966747293274,
+                "normalized_intensity": 26.218983373646637
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.14788010573669,
+                "normalized_intensity": 24.573940052868345
+            }
+        ]
+    }
+}

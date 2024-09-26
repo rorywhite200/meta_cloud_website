@@ -1,0 +1,22 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 122.43666619378529,
+                "normalized_intensity": 61.21833309689264
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 106.56442151869336,
+                "normalized_intensity": 53.28221075934668
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.5923750606055,
+                "normalized_intensity": 50.79618753030275
+            }
+        ]
+    }
+}

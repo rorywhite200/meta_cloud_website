@@ -1,0 +1,102 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.03471998418045,
+                "normalized_intensity": 56.03471998418045
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.08049357651377,
+                "normalized_intensity": 54.08049357651377
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 467.753812805532,
+                "normalized_intensity": 46.7753812805532
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 359.9530961768362,
+                "normalized_intensity": 35.99530961768362
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 328.3137604327576,
+                "normalized_intensity": 32.83137604327576
+            },
+            {
+                "topic": "health",
+                "weighted_count": 282.1270846998977,
+                "normalized_intensity": 28.21270846998977
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 203.7359265151792,
+                "normalized_intensity": 20.373592651517917
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 128.6828250373144,
+                "normalized_intensity": 12.86828250373144
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 116.52121436019985,
+                "normalized_intensity": 11.652121436019986
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 69.2430792618463,
+                "normalized_intensity": 6.92430792618463
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.71020699020511,
+                "normalized_intensity": 6.171020699020511
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 61.18501910429301,
+                "normalized_intensity": 6.118501910429301
+            },
+            {
+                "topic": "business",
+                "weighted_count": 59.60227877916407,
+                "normalized_intensity": 5.960227877916407
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 55.69147075870069,
+                "normalized_intensity": 5.5691470758700685
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 52.0574533660675,
+                "normalized_intensity": 5.20574533660675
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 50.778772549701415,
+                "normalized_intensity": 5.077877254970142
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 50.13724380498857,
+                "normalized_intensity": 5.013724380498857
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.24842574045889,
+                "normalized_intensity": 4.924842574045889
+            }
+        ]
+    }
+}

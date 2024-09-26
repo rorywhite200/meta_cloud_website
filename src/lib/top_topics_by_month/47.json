@@ -1,0 +1,42 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 72.34557567384468,
+                "normalized_intensity": 72.34557567384468
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.17700489140108,
+                "normalized_intensity": 53.17700489140108
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.22862367311817,
+                "normalized_intensity": 52.22862367311817
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 88.56929893248552,
+                "normalized_intensity": 88.56929893248552
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.56577001209041,
+                "normalized_intensity": 54.56577001209041
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.66471935318035,
+                "normalized_intensity": 51.66471935318035
+            }
+        ]
+    }
+}

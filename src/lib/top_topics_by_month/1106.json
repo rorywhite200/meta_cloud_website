@@ -1,0 +1,357 @@
+{
+    "2024-02": {
+        "total_ads": 29,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 1738.9043720473603,
+                "normalized_intensity": 59.96221972577104
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1475.5075212195975,
+                "normalized_intensity": 50.8795696972275
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 1203.9723507869708,
+                "normalized_intensity": 41.516287958171404
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1182.5230395944952,
+                "normalized_intensity": 40.77665653774122
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 888.0323015279001,
+                "normalized_intensity": 30.621803500962073
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 878.284009092025,
+                "normalized_intensity": 30.285655485931898
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 733.8643288834485,
+                "normalized_intensity": 25.305666513222363
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 644.9106118067356,
+                "normalized_intensity": 22.23829695885295
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 607.3619842423118,
+                "normalized_intensity": 20.94351669801075
+            },
+            {
+                "topic": "family",
+                "weighted_count": 373.28863958856823,
+                "normalized_intensity": 12.872022054778215
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 332.9018833263016,
+                "normalized_intensity": 11.479375287113847
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 320.52780723343426,
+                "normalized_intensity": 11.052683008049458
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 315.6238134992683,
+                "normalized_intensity": 10.883579775836838
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 297.83619233289454,
+                "normalized_intensity": 10.270213528720502
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 292.5752704725492,
+                "normalized_intensity": 10.088802430087904
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 262.07764545048053,
+                "normalized_intensity": 9.037160187947604
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 236.28189313872636,
+                "normalized_intensity": 8.147651487542289
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 208.8275986519501,
+                "normalized_intensity": 7.2009516776534515
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 172.00886209753628,
+                "normalized_intensity": 5.931340072328838
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 128.57842476529947,
+                "normalized_intensity": 4.433738785010327
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 108.552348192046,
+                "normalized_intensity": 3.7431844204153792
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 103.07938869703935,
+                "normalized_intensity": 3.5544616792082535
+            },
+            {
+                "topic": "business",
+                "weighted_count": 102.9217320997158,
+                "normalized_intensity": 3.549025244817786
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 99.14138338042939,
+                "normalized_intensity": 3.4186683924285997
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 1067.0156148625638,
+                "normalized_intensity": 66.68847592891024
+            },
+            {
+                "topic": "community",
+                "weighted_count": 829.4925585648616,
+                "normalized_intensity": 51.84328491030385
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 791.2501074609266,
+                "normalized_intensity": 49.453131716307915
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 743.6355115831735,
+                "normalized_intensity": 46.477219473948345
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 734.1189537132815,
+                "normalized_intensity": 45.88243460708009
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 643.5278886414521,
+                "normalized_intensity": 40.22049304009076
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 568.5634485910003,
+                "normalized_intensity": 35.53521553693752
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 511.636938713892,
+                "normalized_intensity": 31.97730866961825
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 480.87490721314555,
+                "normalized_intensity": 30.054681700821597
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 420.3194764384017,
+                "normalized_intensity": 26.269967277400106
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 399.158275780036,
+                "normalized_intensity": 24.94739223625225
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 358.86076608578634,
+                "normalized_intensity": 22.428797880361646
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 257.15684953059895,
+                "normalized_intensity": 16.072303095662434
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 232.07149922597353,
+                "normalized_intensity": 14.504468701623345
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 221.01987367316602,
+                "normalized_intensity": 13.813742104572876
+            },
+            {
+                "topic": "family",
+                "weighted_count": 206.92556820950244,
+                "normalized_intensity": 12.932848013093903
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 128.64887365218016,
+                "normalized_intensity": 8.04055460326126
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 119.06598497518553,
+                "normalized_intensity": 7.441624060949096
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 114.77661568568331,
+                "normalized_intensity": 7.173538480355207
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 110.03282293401458,
+                "normalized_intensity": 6.877051433375911
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 108.68404065491384,
+                "normalized_intensity": 6.792752540932115
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 105.3226243591435,
+                "normalized_intensity": 6.582664022446469
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 103.07938869703935,
+                "normalized_intensity": 6.442461793564959
+            },
+            {
+                "topic": "business",
+                "weighted_count": 102.9217320997158,
+                "normalized_intensity": 6.432608256232237
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 102.07768168638576,
+                "normalized_intensity": 6.37985510539911
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 562.7306888081752,
+                "normalized_intensity": 80.39009840116788
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 396.1544605431737,
+                "normalized_intensity": 56.593494363310526
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 375.2925709110791,
+                "normalized_intensity": 53.613224415868444
+            },
+            {
+                "topic": "community",
+                "weighted_count": 354.8204911040328,
+                "normalized_intensity": 50.688641586290395
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 353.1437185618468,
+                "normalized_intensity": 50.4491026516924
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 333.74824102588536,
+                "normalized_intensity": 47.67832014655505
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 237.07939133985388,
+                "normalized_intensity": 33.86848447712198
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 228.9860078908523,
+                "normalized_intensity": 32.71228684155033
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 221.01987367316602,
+                "normalized_intensity": 31.574267667595144
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 210.92815056013484,
+                "normalized_intensity": 30.13259293716212
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 209.37693496830565,
+                "normalized_intensity": 29.91099070975795
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 196.51410888575305,
+                "normalized_intensity": 28.07344412653615
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 119.04264001303757,
+                "normalized_intensity": 17.006091430433937
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 116.80863471749088,
+                "normalized_intensity": 16.68694781678441
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 110.03282293401458,
+                "normalized_intensity": 15.718974704859225
+            },
+            {
+                "topic": "family",
+                "weighted_count": 105.76915236675653,
+                "normalized_intensity": 15.109878909536647
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 105.3226243591435,
+                "normalized_intensity": 15.046089194163358
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 103.07938869703935,
+                "normalized_intensity": 14.725626956719907
+            },
+            {
+                "topic": "business",
+                "weighted_count": 102.9217320997158,
+                "normalized_intensity": 14.703104585673685
+            }
+        ]
+    }
+}

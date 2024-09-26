@@ -1,0 +1,27 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 142.68959205767246,
+                "normalized_intensity": 71.34479602883623
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 138.13170466010035,
+                "normalized_intensity": 69.06585233005018
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 111.90952547734538,
+                "normalized_intensity": 55.95476273867269
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 107.66134650440632,
+                "normalized_intensity": 53.83067325220316
+            }
+        ]
+    }
+}

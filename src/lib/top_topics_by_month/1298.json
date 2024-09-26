@@ -1,0 +1,92 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "economy",
+                "weighted_count": 61.54021662777141,
+                "normalized_intensity": 30.770108313885704
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 58.87991274482162,
+                "normalized_intensity": 29.43995637241081
+            },
+            {
+                "topic": "business",
+                "weighted_count": 58.461890635061266,
+                "normalized_intensity": 29.230945317530633
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.3050836633031,
+                "normalized_intensity": 28.15254183165155
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 55.59254265632539,
+                "normalized_intensity": 27.796271328162696
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 68.52301377112407,
+                "normalized_intensity": 68.52301377112407
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.7852586866001,
+                "normalized_intensity": 49.7852586866001
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 81.3679787851674,
+                "normalized_intensity": 81.3679787851674
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 68.4252474373236,
+                "normalized_intensity": 68.4252474373236
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 65.94923234670162,
+                "normalized_intensity": 65.94923234670162
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 65.18245905633958,
+                "normalized_intensity": 65.18245905633958
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 60.48615690609738,
+                "normalized_intensity": 60.48615690609738
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.35520041242428,
+                "normalized_intensity": 60.35520041242428
+            },
+            {
+                "topic": "health",
+                "weighted_count": 52.6903049692664,
+                "normalized_intensity": 52.6903049692664
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 50.274525609253686,
+                "normalized_intensity": 50.274525609253686
+            }
+        ]
+    }
+}

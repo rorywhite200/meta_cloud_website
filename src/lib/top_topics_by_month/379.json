@@ -1,0 +1,47 @@
+{
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 67.92602137331278,
+                "normalized_intensity": 22.642007124437594
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 66.46360420846263,
+                "normalized_intensity": 22.154534736154208
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 61.45384943848352,
+                "normalized_intensity": 20.48461647949451
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.38447466919594,
+                "normalized_intensity": 18.461491556398645
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 54.5945939760532,
+                "normalized_intensity": 18.198197992017732
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.11408553154382,
+                "normalized_intensity": 18.038028510514607
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.52254495251848,
+                "normalized_intensity": 17.174181650839493
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.79506434127753,
+                "normalized_intensity": 16.598354780425844
+            }
+        ]
+    }
+}

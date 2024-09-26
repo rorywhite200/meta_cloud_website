@@ -1,0 +1,112 @@
+{
+    "2024-04": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 247.65882445207922,
+                "normalized_intensity": 27.517647161342136
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 171.36230407951442,
+                "normalized_intensity": 19.040256008834934
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 167.87569550677563,
+                "normalized_intensity": 18.652855056308404
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 163.03207877829786,
+                "normalized_intensity": 18.114675419810872
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 108.38143260575927,
+                "normalized_intensity": 12.042381400639918
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 64.91241657933142,
+                "normalized_intensity": 7.212490731036825
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.441975217719516,
+                "normalized_intensity": 5.715775024191057
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 158.52088448046982,
+                "normalized_intensity": 19.815110560058727
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 146.11729690768703,
+                "normalized_intensity": 18.26466211346088
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 114.02388914515461,
+                "normalized_intensity": 14.252986143144327
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 103.33632216695378,
+                "normalized_intensity": 12.917040270869222
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.11994059126422,
+                "normalized_intensity": 12.889992573908028
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 99.41087921839625,
+                "normalized_intensity": 12.42635990229953
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 105.69393413775441,
+                "normalized_intensity": 26.423483534438603
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 71.79965370371717,
+                "normalized_intensity": 17.949913425929292
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.9224609187138,
+                "normalized_intensity": 14.48061522967845
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.67794082448033,
+                "normalized_intensity": 12.919485206120083
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 51.170933563730614,
+                "normalized_intensity": 12.792733390932653
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.61251087801688,
+                "normalized_intensity": 12.40312771950422
+            }
+        ]
+    }
+}

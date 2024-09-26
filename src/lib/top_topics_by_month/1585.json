@@ -1,0 +1,122 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 78.21220868806961,
+                "normalized_intensity": 78.21220868806961
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 70.8972492461426,
+                "normalized_intensity": 70.8972492461426
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 65.22461455015521,
+                "normalized_intensity": 65.22461455015521
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 61.469501913373335,
+                "normalized_intensity": 61.469501913373335
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.334928598748185,
+                "normalized_intensity": 49.334928598748185
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 317.0558357368298,
+                "normalized_intensity": 79.26395893420745
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 288.60106662994457,
+                "normalized_intensity": 72.15026665748614
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 271.1601707560136,
+                "normalized_intensity": 67.7900426890034
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 265.14921760431054,
+                "normalized_intensity": 66.28730440107763
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 314.9106497662475,
+                "normalized_intensity": 78.72766244156188
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 291.23197887940285,
+                "normalized_intensity": 72.80799471985071
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 264.3252440422094,
+                "normalized_intensity": 66.08131101055235
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 251.1952930803149,
+                "normalized_intensity": 62.79882327007873
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 57.8226943793399,
+                "normalized_intensity": 14.455673594834975
+            },
+            {
+                "topic": "business",
+                "weighted_count": 52.422466194134984,
+                "normalized_intensity": 13.105616548533746
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.118109185255875,
+                "normalized_intensity": 12.779527296313969
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 49.6929277832624,
+                "normalized_intensity": 12.4232319458156
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.1293034427542,
+                "normalized_intensity": 12.28232586068855
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 53.068540190148475,
+                "normalized_intensity": 53.068540190148475
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 51.35898108149692,
+                "normalized_intensity": 51.35898108149692
+            }
+        ]
+    }
+}

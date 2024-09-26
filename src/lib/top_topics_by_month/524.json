@@ -1,0 +1,397 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 279.9252244163755,
+                "normalized_intensity": 69.98130610409387
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 169.07760283964478,
+                "normalized_intensity": 42.269400709911196
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 68.34715658480039,
+                "normalized_intensity": 17.086789146200097
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 67.82902097294877,
+                "normalized_intensity": 16.957255243237192
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 67.21983635002306,
+                "normalized_intensity": 16.804959087505765
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 63.61620587291188,
+                "normalized_intensity": 15.90405146822797
+            },
+            {
+                "topic": "education",
+                "weighted_count": 61.82008978620297,
+                "normalized_intensity": 15.455022446550743
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 58.21484828697866,
+                "normalized_intensity": 14.553712071744664
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.688785857202916,
+                "normalized_intensity": 14.172196464300729
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.967097450859036,
+                "normalized_intensity": 12.991774362714759
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.89388838163901,
+                "normalized_intensity": 12.473472095409752
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 49.01746972854462,
+                "normalized_intensity": 12.254367432136155
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 338.01110073047903,
+                "normalized_intensity": 67.6022201460958
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 167.50662180422316,
+                "normalized_intensity": 33.501324360844634
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 80.72786074372777,
+                "normalized_intensity": 16.145572148745554
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 67.10823480182793,
+                "normalized_intensity": 13.421646960365587
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 58.87676695483227,
+                "normalized_intensity": 11.775353390966455
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 55.33767466659947,
+                "normalized_intensity": 11.067534933319894
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.84919155946898,
+                "normalized_intensity": 10.369838311893796
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 51.65786376755543,
+                "normalized_intensity": 10.331572753511086
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.12665404551412,
+                "normalized_intensity": 10.225330809102825
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.97462188388175,
+                "normalized_intensity": 10.19492437677635
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.470082863942075,
+                "normalized_intensity": 9.894016572788415
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 546.5702332477628,
+                "normalized_intensity": 60.730025916418086
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 343.5481442141566,
+                "normalized_intensity": 38.17201602379518
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 122.29681889218055,
+                "normalized_intensity": 13.588535432464505
+            },
+            {
+                "topic": "business",
+                "weighted_count": 116.96856526601694,
+                "normalized_intensity": 12.99650725177966
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 114.67817860843824,
+                "normalized_intensity": 12.742019845382027
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 100.2988997781666,
+                "normalized_intensity": 11.144322197574066
+            },
+            {
+                "topic": "health",
+                "weighted_count": 61.522651969201114,
+                "normalized_intensity": 6.835850218800124
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 57.67033276405035,
+                "normalized_intensity": 6.40781475156115
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 55.35697673958309,
+                "normalized_intensity": 6.15077519328701
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 54.39568729726963,
+                "normalized_intensity": 6.043965255252181
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.73217502412925,
+                "normalized_intensity": 5.748019447125472
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 51.4941866787914,
+                "normalized_intensity": 5.721576297643489
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.504366586575365,
+                "normalized_intensity": 5.500485176286151
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 75.48098029804133,
+                "normalized_intensity": 75.48098029804133
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 67.23605404207143,
+                "normalized_intensity": 67.23605404207143
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 60.57361396416425,
+                "normalized_intensity": 60.57361396416425
+            },
+            {
+                "topic": "family",
+                "weighted_count": 53.16507881896349,
+                "normalized_intensity": 53.16507881896349
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.95773507536803,
+                "normalized_intensity": 50.95773507536803
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 56.48235655671734,
+                "normalized_intensity": 56.48235655671734
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.03815905789139,
+                "normalized_intensity": 55.03815905789139
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 54.68887900506406,
+                "normalized_intensity": 54.68887900506406
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 51.99227526380944,
+                "normalized_intensity": 51.99227526380944
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 68.35448115461796,
+                "normalized_intensity": 68.35448115461796
+            },
+            {
+                "topic": "law",
+                "weighted_count": 55.65709258586053,
+                "normalized_intensity": 55.65709258586053
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 195.6991088105466,
+                "normalized_intensity": 32.6165181350911
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 194.82428267059674,
+                "normalized_intensity": 32.47071377843279
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 186.02933287855652,
+                "normalized_intensity": 31.00488881309275
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 178.11358966878808,
+                "normalized_intensity": 29.685598278131348
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 168.3133543389164,
+                "normalized_intensity": 28.052225723152734
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 163.72947244368174,
+                "normalized_intensity": 27.28824540728029
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 154.18694787736814,
+                "normalized_intensity": 25.697824646228025
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 141.50643362072975,
+                "normalized_intensity": 23.584405603454957
+            },
+            {
+                "topic": "family",
+                "weighted_count": 115.00103911962205,
+                "normalized_intensity": 19.166839853270343
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 111.68954361931861,
+                "normalized_intensity": 18.6149239365531
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 110.59409497452181,
+                "normalized_intensity": 18.4323491624203
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 106.64804908499644,
+                "normalized_intensity": 17.77467484749941
+            },
+            {
+                "topic": "health",
+                "weighted_count": 104.80493234981472,
+                "normalized_intensity": 17.46748872496912
+            },
+            {
+                "topic": "community",
+                "weighted_count": 64.63135283756498,
+                "normalized_intensity": 10.771892139594163
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 64.02944572699852,
+                "normalized_intensity": 10.671574287833087
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 55.84616567946505,
+                "normalized_intensity": 9.307694279910843
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.8259244959151,
+                "normalized_intensity": 9.137654082652517
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.802582764224006,
+                "normalized_intensity": 8.633763794037334
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 69.85214148366254,
+                "normalized_intensity": 34.92607074183127
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 60.441859990398115,
+                "normalized_intensity": 30.220929995199057
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 53.769153449141015,
+                "normalized_intensity": 26.884576724570508
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.1881528401766,
+                "normalized_intensity": 24.5940764200883
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 61.21852999077888,
+                "normalized_intensity": 61.21852999077888
+            }
+        ]
+    }
+}

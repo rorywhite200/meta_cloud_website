@@ -1,0 +1,112 @@
+{
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 160.8112214371668,
+                "normalized_intensity": 40.2028053592917
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 71.00185958050633,
+                "normalized_intensity": 17.750464895126584
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.745598045894475,
+                "normalized_intensity": 14.936399511473619
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.84923830264025,
+                "normalized_intensity": 12.712309575660063
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 109.91571235063441,
+                "normalized_intensity": 54.957856175317204
+            },
+            {
+                "topic": "community",
+                "weighted_count": 76.83029845525013,
+                "normalized_intensity": 38.415149227625065
+            },
+            {
+                "topic": "business",
+                "weighted_count": 69.04732942139077,
+                "normalized_intensity": 34.523664710695385
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 66.21160102978138,
+                "normalized_intensity": 33.10580051489069
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 60.6601180463183,
+                "normalized_intensity": 30.33005902315915
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 60.228891552658425,
+                "normalized_intensity": 30.114445776329212
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 56.974956609169034,
+                "normalized_intensity": 28.487478304584517
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 53.779579276180456,
+                "normalized_intensity": 26.889789638090228
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.31490145204874,
+                "normalized_intensity": 26.65745072602437
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.08746702411056,
+                "normalized_intensity": 26.04373351205528
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.78922158506497,
+                "normalized_intensity": 25.394610792532486
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.50877660397466,
+                "normalized_intensity": 25.25438830198733
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.13799901344655,
+                "normalized_intensity": 25.068999506723276
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.13275571855147,
+                "normalized_intensity": 25.066377859275736
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 49.976404158709045,
+                "normalized_intensity": 24.988202079354522
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.3687355639375,
+                "normalized_intensity": 24.68436778196875
+            }
+        ]
+    }
+}

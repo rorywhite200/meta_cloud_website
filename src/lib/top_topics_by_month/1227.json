@@ -1,0 +1,167 @@
+{
+    "2024-01": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 866.1746857274231,
+                "normalized_intensity": 61.86962040910165
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 751.8224198151344,
+                "normalized_intensity": 53.70160141536674
+            },
+            {
+                "topic": "business",
+                "weighted_count": 670.6745468343767,
+                "normalized_intensity": 47.90532477388405
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 617.630954490388,
+                "normalized_intensity": 44.116496749313434
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 413.4561522895837,
+                "normalized_intensity": 29.532582306398837
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 320.0465755301507,
+                "normalized_intensity": 22.86046968072505
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 199.60605730991537,
+                "normalized_intensity": 14.257575522136813
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 158.4241438500066,
+                "normalized_intensity": 11.31601027500047
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 150.66555222855482,
+                "normalized_intensity": 10.761825159182488
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 104.90895298653152,
+                "normalized_intensity": 7.493496641895108
+            },
+            {
+                "topic": "family",
+                "weighted_count": 58.03686935631263,
+                "normalized_intensity": 4.145490668308045
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 52.29073538555981,
+                "normalized_intensity": 3.735052527539987
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 50.200258933464184,
+                "normalized_intensity": 3.5857327809617274
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.942797265201676,
+                "normalized_intensity": 3.5673426618001196
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 193.20610876819694,
+                "normalized_intensity": 64.40203625606564
+            },
+            {
+                "topic": "business",
+                "weighted_count": 125.02208940338035,
+                "normalized_intensity": 41.674029801126785
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 115.82005322158349,
+                "normalized_intensity": 38.6066844071945
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 103.52818778637572,
+                "normalized_intensity": 34.50939592879191
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 100.0166557478986,
+                "normalized_intensity": 33.33888524929953
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 99.66357175817873,
+                "normalized_intensity": 33.22119058605958
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 79.99885839564462,
+                "normalized_intensity": 26.666286131881538
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 54.75610662908315,
+                "normalized_intensity": 18.252035543027716
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 53.38488627950257,
+                "normalized_intensity": 17.794962093167523
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 35,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 2417.087788652462,
+                "normalized_intensity": 69.05965110435606
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 1636.7628840141306,
+                "normalized_intensity": 46.764653828975156
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 208.22837000986306,
+                "normalized_intensity": 5.949382000281801
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 157.37857008410685,
+                "normalized_intensity": 4.496530573831625
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 151.49134658459144,
+                "normalized_intensity": 4.328324188131184
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 102.54442173836486,
+                "normalized_intensity": 2.929840621096139
+            },
+            {
+                "topic": "business",
+                "weighted_count": 55.9316856453979,
+                "normalized_intensity": 1.5980481612970827
+            }
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "2024-03": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 451.6251445261071,
+                "normalized_intensity": 56.453143065763385
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 434.9177652159651,
+                "normalized_intensity": 54.36472065199564
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 427.1626952407004,
+                "normalized_intensity": 53.39533690508755
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 397.0341756334261,
+                "normalized_intensity": 49.629271954178265
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 265.7658497236837,
+                "normalized_intensity": 33.22073121546046
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 230.49590070360028,
+                "normalized_intensity": 28.811987587950036
+            },
+            {
+                "topic": "community",
+                "weighted_count": 229.1743781415131,
+                "normalized_intensity": 28.646797267689138
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 216.24416119434008,
+                "normalized_intensity": 27.03052014929251
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 205.3931980935274,
+                "normalized_intensity": 25.674149761690924
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 149.6129427359058,
+                "normalized_intensity": 18.701617841988224
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 54.50041547817241,
+                "normalized_intensity": 6.812551934771551
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.64726259515723,
+                "normalized_intensity": 6.330907824394654
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 292.08686643806027,
+                "normalized_intensity": 58.41737328761205
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 216.48706343227963,
+                "normalized_intensity": 43.29741268645593
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 205.4944630358788,
+                "normalized_intensity": 41.098892607175756
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 185.53878365391864,
+                "normalized_intensity": 37.10775673078373
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 173.8440391736466,
+                "normalized_intensity": 34.768807834729316
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 157.56817655059788,
+                "normalized_intensity": 31.513635310119575
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.515634657441254,
+                "normalized_intensity": 10.30312693148825
+            }
+        ]
+    }
+}

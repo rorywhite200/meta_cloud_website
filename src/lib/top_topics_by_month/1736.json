@@ -1,0 +1,22 @@
+{
+    "2023-10": {
+        "total_ads": 43,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 2115.453298062688,
+                "normalized_intensity": 49.19658832703926
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 294.94192441749993,
+                "normalized_intensity": 32.77132493527777
+            }
+        ]
+    }
+}

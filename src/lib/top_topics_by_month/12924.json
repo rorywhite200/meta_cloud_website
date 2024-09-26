@@ -1,0 +1,47 @@
+{
+    "2024-07": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 285.7083473943003,
+                "normalized_intensity": 57.14166947886006
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 213.98877990736196,
+                "normalized_intensity": 42.79775598147239
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 205.29816632441128,
+                "normalized_intensity": 41.05963326488226
+            },
+            {
+                "topic": "community",
+                "weighted_count": 104.9005333284235,
+                "normalized_intensity": 20.9801066656847
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 103.89702769177313,
+                "normalized_intensity": 20.779405538354627
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 61.019644968368915,
+                "normalized_intensity": 12.203928993673783
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.49914379778413,
+                "normalized_intensity": 10.099828759556825
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.08753307419339,
+                "normalized_intensity": 9.817506614838678
+            }
+        ]
+    }
+}

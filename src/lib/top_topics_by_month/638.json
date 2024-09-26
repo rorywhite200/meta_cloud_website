@@ -1,0 +1,322 @@
+{
+    "2024-04": {
+        "total_ads": 28,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 1270.4036762105136,
+                "normalized_intensity": 45.3715598646612
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 863.4766227215202,
+                "normalized_intensity": 30.838450811482865
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 570.022050271931,
+                "normalized_intensity": 20.357930366854678
+            },
+            {
+                "topic": "community",
+                "weighted_count": 415.7825198387127,
+                "normalized_intensity": 14.849375708525454
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 233.38152396391996,
+                "normalized_intensity": 8.335054427282856
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 225.28132711190324,
+                "normalized_intensity": 8.045761682567973
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 193.12657613154354,
+                "normalized_intensity": 6.897377718983698
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 180.35465228763036,
+                "normalized_intensity": 6.441237581701084
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 176.2676105482087,
+                "normalized_intensity": 6.295271805293168
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 156.59973833330523,
+                "normalized_intensity": 5.5928477976180435
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 133.54825199425224,
+                "normalized_intensity": 4.769580428366152
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 132.10908560292253,
+                "normalized_intensity": 4.718181628675805
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 129.17504845560987,
+                "normalized_intensity": 4.613394587700353
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 122.38293980400263,
+                "normalized_intensity": 4.37081927871438
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 119.54058401002911,
+                "normalized_intensity": 4.269306571786754
+            },
+            {
+                "topic": "business",
+                "weighted_count": 117.03852512987358,
+                "normalized_intensity": 4.179947326066913
+            },
+            {
+                "topic": "family",
+                "weighted_count": 106.77603442121037,
+                "normalized_intensity": 3.8134298007575134
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 103.4744801101981,
+                "normalized_intensity": 3.695517146792789
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 103.13903461355943,
+                "normalized_intensity": 3.683536950484265
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 102.78538650078531,
+                "normalized_intensity": 3.6709066607423324
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 102.69874093179135,
+                "normalized_intensity": 3.6678121761354054
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 101.84529374685984,
+                "normalized_intensity": 3.6373319195307086
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 101.55133755353681,
+                "normalized_intensity": 3.626833484054886
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 55.51613642781395,
+                "normalized_intensity": 1.9827191581362125
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 26,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1247.782557961021,
+                "normalized_intensity": 47.99163684465465
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 1135.8252154338118,
+                "normalized_intensity": 43.68558520899276
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 935.5108393866142,
+                "normalized_intensity": 35.98118613025439
+            },
+            {
+                "topic": "community",
+                "weighted_count": 359.5586814697525,
+                "normalized_intensity": 13.829180056528942
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 247.533379525349,
+                "normalized_intensity": 9.520514597128807
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 244.77331146580315,
+                "normalized_intensity": 9.414358133300121
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 244.49327727419387,
+                "normalized_intensity": 9.403587587468994
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 232.57984285463135,
+                "normalized_intensity": 8.945378571331975
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 160.14198223877486,
+                "normalized_intensity": 6.159307009183649
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 106.4548576222553,
+                "normalized_intensity": 4.094417600855973
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 106.43695482168039,
+                "normalized_intensity": 4.093729031603091
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 105.64201942387896,
+                "normalized_intensity": 4.063154593226114
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 105.50892889985235,
+                "normalized_intensity": 4.058035726917398
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 104.77168813838279,
+                "normalized_intensity": 4.0296803130147225
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 103.8532516323419,
+                "normalized_intensity": 3.9943558320131496
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 74.39516576836282,
+                "normalized_intensity": 2.861352529552416
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.665472799905594,
+                "normalized_intensity": 2.333287415380984
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 56.565384604916126,
+                "normalized_intensity": 2.175591715573697
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 53.83624274517963,
+                "normalized_intensity": 2.070624720968447
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.2189428062289,
+                "normalized_intensity": 1.931497800239573
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.15886721164608,
+                "normalized_intensity": 1.9291872004479262
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 49.69681780351255,
+                "normalized_intensity": 1.9114160693658673
+            },
+            {
+                "topic": "education",
+                "weighted_count": 49.12264479710159,
+                "normalized_intensity": 1.8893324921962151
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 1160.7855974225174,
+                "normalized_intensity": 48.36606655927156
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 881.0339090157377,
+                "normalized_intensity": 36.70974620898907
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 407.76508036682645,
+                "normalized_intensity": 16.990211681951102
+            },
+            {
+                "topic": "community",
+                "weighted_count": 355.35607804147566,
+                "normalized_intensity": 14.806503251728152
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 282.7181190195747,
+                "normalized_intensity": 11.779921625815613
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 110.97751873244329,
+                "normalized_intensity": 4.62406328051847
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 108.14981409850806,
+                "normalized_intensity": 4.506242254104502
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 104.29634752667431,
+                "normalized_intensity": 4.345681146944763
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.665472799905594,
+                "normalized_intensity": 2.5277280333294
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 55.51610455632658,
+                "normalized_intensity": 2.3131710231802742
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 54.48068604194639,
+                "normalized_intensity": 2.2700285850810995
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.59868881623089,
+                "normalized_intensity": 2.233278700676287
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.47874983087786,
+                "normalized_intensity": 2.1866145762865776
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.097115875928246,
+                "normalized_intensity": 2.04571316149701
+            }
+        ]
+    }
+}

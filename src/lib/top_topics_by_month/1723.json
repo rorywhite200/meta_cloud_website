@@ -1,0 +1,102 @@
+{
+    "2023-09": {
+        "total_ads": 28,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 2344.875379453588,
+                "normalized_intensity": 83.74554926619956
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 1674.3667916465301,
+                "normalized_intensity": 59.79881398737608
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1648.9190095371982,
+                "normalized_intensity": 58.889964626328506
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 1396.0305098102644,
+                "normalized_intensity": 49.85823249322373
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1350.3248080990702,
+                "normalized_intensity": 48.22588600353822
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 1330.453936201921,
+                "normalized_intensity": 47.51621200721146
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 1293.8656507995054,
+                "normalized_intensity": 46.209487528553765
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 1021.9818478819977,
+                "normalized_intensity": 36.499351710071345
+            },
+            {
+                "topic": "education",
+                "weighted_count": 893.2085005934238,
+                "normalized_intensity": 31.900303592622276
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 844.9976894860388,
+                "normalized_intensity": 30.17848891021567
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 547.1377335175512,
+                "normalized_intensity": 19.540633339912542
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 147.32452295956756,
+                "normalized_intensity": 5.261590105698842
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "economy",
+                "weighted_count": 67.3815131606132,
+                "normalized_intensity": 67.3815131606132
+            },
+            {
+                "topic": "business",
+                "weighted_count": 64.89178310505599,
+                "normalized_intensity": 64.89178310505599
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 59.53186659117079,
+                "normalized_intensity": 59.53186659117079
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 53.73222154599597,
+                "normalized_intensity": 53.73222154599597
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 50.36575828153181,
+                "normalized_intensity": 50.36575828153181
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.4973419874994,
+                "normalized_intensity": 49.4973419874994
+            }
+        ]
+    }
+}

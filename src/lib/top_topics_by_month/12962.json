@@ -1,0 +1,27 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 73.11867227931546,
+                "normalized_intensity": 36.55933613965773
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 60.00017122211928,
+                "normalized_intensity": 30.00008561105964
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 52.912936250717955,
+                "normalized_intensity": 26.456468125358978
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 49.640167966953605,
+                "normalized_intensity": 24.820083983476803
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 284.2705842475754,
+                "normalized_intensity": 71.06764606189385
+            },
+            {
+                "topic": "health",
+                "weighted_count": 272.60845774319,
+                "normalized_intensity": 68.1521144357975
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 262.08686754468744,
+                "normalized_intensity": 65.52171688617186
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 247.3334025437715,
+                "normalized_intensity": 61.83335063594288
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 178.44465500982665,
+                "normalized_intensity": 44.61116375245666
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 161.17332419898818,
+                "normalized_intensity": 40.293331049747046
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 159.0400846338966,
+                "normalized_intensity": 39.76002115847415
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 65.9698224518332,
+                "normalized_intensity": 16.4924556129583
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 58.04393737309174,
+                "normalized_intensity": 14.510984343272934
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 54.03311061745111,
+                "normalized_intensity": 13.508277654362777
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 51.14911749604602,
+                "normalized_intensity": 12.787279374011504
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.984570913041075,
+                "normalized_intensity": 12.496142728260269
+            }
+        ]
+    }
+}

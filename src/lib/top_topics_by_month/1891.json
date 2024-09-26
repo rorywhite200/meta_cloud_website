@@ -1,0 +1,62 @@
+{
+    "2023-09": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 393.34208450312894,
+                "normalized_intensity": 56.19172635758985
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 385.32362807644995,
+                "normalized_intensity": 55.046232582349994
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 183.3263068237563,
+                "normalized_intensity": 26.189472403393758
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 179.79704787300284,
+                "normalized_intensity": 25.68529255328612
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 157.9150793923139,
+                "normalized_intensity": 22.559297056044844
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 157.06260913218586,
+                "normalized_intensity": 22.437515590312266
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 157.02229488358773,
+                "normalized_intensity": 22.431756411941105
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 155.9171881355487,
+                "normalized_intensity": 22.2738840193641
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 148.8358385215097,
+                "normalized_intensity": 21.262262645929955
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 99.37050704218588,
+                "normalized_intensity": 14.195786720312269
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.135540849133356,
+                "normalized_intensity": 7.019362978447623
+            }
+        ]
+    }
+}

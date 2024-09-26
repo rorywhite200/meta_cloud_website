@@ -1,0 +1,87 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 59.23245894145249,
+                "normalized_intensity": 59.23245894145249
+            },
+            {
+                "topic": "health",
+                "weighted_count": 56.815942775027416,
+                "normalized_intensity": 56.815942775027416
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 53.207415682513336,
+                "normalized_intensity": 53.207415682513336
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 297.49578848877667,
+                "normalized_intensity": 59.49915769775534
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 253.8856906538286,
+                "normalized_intensity": 50.77713813076572
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 252.9433415573677,
+                "normalized_intensity": 50.58866831147354
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 151.15190496067254,
+                "normalized_intensity": 30.230380992134506
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 73.79129907553835,
+                "normalized_intensity": 73.79129907553835
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 60.902162002272256,
+                "normalized_intensity": 60.902162002272256
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.13257163842855,
+                "normalized_intensity": 54.13257163842855
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 74.85315890606115,
+                "normalized_intensity": 74.85315890606115
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.12197565058386,
+                "normalized_intensity": 61.12197565058386
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.78002935347058,
+                "normalized_intensity": 53.78002935347058
+            }
+        ]
+    }
+}

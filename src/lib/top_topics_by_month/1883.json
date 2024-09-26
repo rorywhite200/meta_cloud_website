@@ -1,0 +1,62 @@
+{
+    "2023-09": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 405.8898974168619,
+                "normalized_intensity": 67.64831623614366
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 388.10774145396533,
+                "normalized_intensity": 64.6846235756609
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 359.3823788048582,
+                "normalized_intensity": 59.89706313414303
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 352.07108718616996,
+                "normalized_intensity": 58.67851453102833
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 328.23997629695833,
+                "normalized_intensity": 54.70666271615972
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 312.7630824869491,
+                "normalized_intensity": 52.12718041449151
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 274.73313149686817,
+                "normalized_intensity": 45.788855249478026
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 262.0381652311658,
+                "normalized_intensity": 43.673027538527634
+            },
+            {
+                "topic": "science",
+                "weighted_count": 247.8840915283736,
+                "normalized_intensity": 41.314015254728936
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 247.2864787379318,
+                "normalized_intensity": 41.21441312298863
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 55.67441296704862,
+                "normalized_intensity": 9.279068827841437
+            }
+        ]
+    }
+}

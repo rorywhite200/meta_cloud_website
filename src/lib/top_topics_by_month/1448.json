@@ -1,0 +1,32 @@
+{
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 218.31951290544714,
+                "normalized_intensity": 54.579878226361785
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 151.02077868496093,
+                "normalized_intensity": 37.75519467124023
+            },
+            {
+                "topic": "law",
+                "weighted_count": 101.73528868301085,
+                "normalized_intensity": 25.433822170752713
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 101.16422461925633,
+                "normalized_intensity": 25.291056154814083
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 98.45076442206191,
+                "normalized_intensity": 24.612691105515477
+            }
+        ]
+    }
+}

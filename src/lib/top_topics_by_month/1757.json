@@ -1,0 +1,27 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 126.77375453376845,
+                "normalized_intensity": 42.25791817792282
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 106.74158493052147,
+                "normalized_intensity": 35.580528310173825
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.13999103959151,
+                "normalized_intensity": 34.04666367986383
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 56.278686175256254,
+                "normalized_intensity": 18.75956205841875
+            }
+        ]
+    }
+}

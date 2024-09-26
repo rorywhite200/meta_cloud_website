@@ -1,0 +1,27 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 66.42607274349432,
+                "normalized_intensity": 66.42607274349432
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.373047582224025,
+                "normalized_intensity": 60.373047582224025
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 59.72390254257416,
+                "normalized_intensity": 59.72390254257416
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.55346308608495,
+                "normalized_intensity": 52.55346308608495
+            }
+        ]
+    }
+}

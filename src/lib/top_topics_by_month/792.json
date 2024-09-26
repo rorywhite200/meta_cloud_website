@@ -1,0 +1,162 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 204.1670633189246,
+                "normalized_intensity": 68.05568777297486
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 181.04620909832238,
+                "normalized_intensity": 60.34873636610746
+            },
+            {
+                "topic": "health",
+                "weighted_count": 167.21669177632708,
+                "normalized_intensity": 55.738897258775694
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 163.60225307805695,
+                "normalized_intensity": 54.53408435935231
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 158.6312438441506,
+                "normalized_intensity": 52.87708128138353
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 114.72577578853462,
+                "normalized_intensity": 38.24192526284487
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.7688885741159,
+                "normalized_intensity": 20.256296191371966
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "bioethics",
+                "weighted_count": 60.234375587493396,
+                "normalized_intensity": 60.234375587493396
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.13221255866404,
+                "normalized_intensity": 51.13221255866404
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.121542433971776,
+                "normalized_intensity": 49.121542433971776
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 79.66202590716685,
+                "normalized_intensity": 79.66202590716685
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 73.20340037849998,
+                "normalized_intensity": 73.20340037849998
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 56.407487643341945,
+                "normalized_intensity": 56.407487643341945
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 54.85943308526996,
+                "normalized_intensity": 54.85943308526996
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 51.602721813583585,
+                "normalized_intensity": 51.602721813583585
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.89271549342375,
+                "normalized_intensity": 49.89271549342375
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.78880794380574,
+                "normalized_intensity": 49.78880794380574
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 48,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 2826.4921562603586,
+                "normalized_intensity": 58.88525325542414
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 740.7158272359133,
+                "normalized_intensity": 15.431579734081526
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 740.2412357019446,
+                "normalized_intensity": 15.421692410457178
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 1244.1604545349676,
+                "normalized_intensity": 59.24573593023655
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 530.0448974850729,
+                "normalized_intensity": 25.240233213574896
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 211.32430020206868,
+                "normalized_intensity": 10.063061914384223
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 222.21149084759068,
+                "normalized_intensity": 74.0704969491969
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 178.50181647784402,
+                "normalized_intensity": 59.500605492614675
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.751941362618226,
+                "normalized_intensity": 16.91731378753941
+            }
+        ]
+    }
+}

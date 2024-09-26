@@ -1,0 +1,72 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 68.24137756621725,
+                "normalized_intensity": 68.24137756621725
+            },
+            {
+                "topic": "community",
+                "weighted_count": 66.47827714666225,
+                "normalized_intensity": 66.47827714666225
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 63.33267906235399,
+                "normalized_intensity": 63.33267906235399
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.858676610880195,
+                "normalized_intensity": 54.858676610880195
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.87587003770281,
+                "normalized_intensity": 49.87587003770281
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.387649409231095,
+                "normalized_intensity": 49.387649409231095
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 64.15759510388509,
+                "normalized_intensity": 64.15759510388509
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 58.22139152927669,
+                "normalized_intensity": 58.22139152927669
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 57.714383654963,
+                "normalized_intensity": 57.714383654963
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 53.69144490691886,
+                "normalized_intensity": 53.69144490691886
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.40633552653556,
+                "normalized_intensity": 53.40633552653556
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.96676946023848,
+                "normalized_intensity": 50.96676946023848
+            }
+        ]
+    }
+}

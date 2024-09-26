@@ -1,0 +1,62 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 61.06746696616525,
+                "normalized_intensity": 61.06746696616525
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.77394977549946,
+                "normalized_intensity": 51.77394977549946
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 101.95971207521805,
+                "normalized_intensity": 25.489928018804513
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 75.5626893084543,
+                "normalized_intensity": 18.890672327113574
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 60.2056960961607,
+                "normalized_intensity": 15.051424024040175
+            },
+            {
+                "topic": "business",
+                "weighted_count": 55.35481936314737,
+                "normalized_intensity": 13.838704840786843
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.547063625037595,
+                "normalized_intensity": 13.636765906259399
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.069177930446656,
+                "normalized_intensity": 13.017294482611664
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 50.4026164128244,
+                "normalized_intensity": 12.6006541032061
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.250722558409386,
+                "normalized_intensity": 12.562680639602346
+            }
+        ]
+    }
+}

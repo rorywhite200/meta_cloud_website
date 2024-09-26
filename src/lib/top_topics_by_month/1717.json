@@ -1,0 +1,32 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 62.59843475867365,
+                "normalized_intensity": 62.59843475867365
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.16613579314958,
+                "normalized_intensity": 62.16613579314958
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.47036014285966,
+                "normalized_intensity": 54.47036014285966
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.23231036006614,
+                "normalized_intensity": 51.23231036006614
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 49.568962355819366,
+                "normalized_intensity": 49.568962355819366
+            }
+        ]
+    }
+}

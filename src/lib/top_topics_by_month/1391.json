@@ -1,0 +1,32 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 63.15925631803465,
+                "normalized_intensity": 63.15925631803465
+            },
+            {
+                "topic": "military",
+                "weighted_count": 59.57489256139099,
+                "normalized_intensity": 59.57489256139099
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 55.65718458529928,
+                "normalized_intensity": 55.65718458529928
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 53.73344252654346,
+                "normalized_intensity": 53.73344252654346
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.308322406817325,
+                "normalized_intensity": 49.308322406817325
+            }
+        ]
+    }
+}

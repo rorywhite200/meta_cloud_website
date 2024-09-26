@@ -1,0 +1,77 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 256.80581278808404,
+                "normalized_intensity": 64.20145319702101
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 75.75675653786492,
+                "normalized_intensity": 18.93918913446623
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.613241183264975,
+                "normalized_intensity": 12.403310295816244
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 135.55380564854636,
+                "normalized_intensity": 67.77690282427318
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 68.67204959874202,
+                "normalized_intensity": 34.33602479937101
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 63.07571465290851,
+                "normalized_intensity": 31.537857326454255
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 58.27518300856769,
+                "normalized_intensity": 29.137591504283844
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 56.057485146939825,
+                "normalized_intensity": 28.028742573469913
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 74.6310782655328,
+                "normalized_intensity": 74.6310782655328
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 57.38303624501484,
+                "normalized_intensity": 57.38303624501484
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 206.10042883263333,
+                "normalized_intensity": 68.70014294421111
+            }
+        ]
+    }
+}

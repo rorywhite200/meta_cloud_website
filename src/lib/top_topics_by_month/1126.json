@@ -1,0 +1,37 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 104.47076196878497,
+                "normalized_intensity": 52.235380984392485
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 61.21100026218311,
+                "normalized_intensity": 61.21100026218311
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 60.20327612621056,
+                "normalized_intensity": 60.20327612621056
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 73.88577706719006,
+                "normalized_intensity": 73.88577706719006
+            }
+        ]
+    }
+}

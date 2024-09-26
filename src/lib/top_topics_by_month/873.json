@@ -1,0 +1,142 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 80.28047219649052,
+                "normalized_intensity": 80.28047219649052
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.679993722869135,
+                "normalized_intensity": 53.679993722869135
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 89.27028004662726,
+                "normalized_intensity": 44.63514002331363
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 76.81218361163596,
+                "normalized_intensity": 38.40609180581798
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 72.31439943840992,
+                "normalized_intensity": 36.15719971920496
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 66.15704336425804,
+                "normalized_intensity": 33.07852168212902
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 53.12495514241359,
+                "normalized_intensity": 26.562477571206795
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.48243676589129,
+                "normalized_intensity": 26.241218382945647
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.12527222195285,
+                "normalized_intensity": 26.062636110976424
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 50.35342352137907,
+                "normalized_intensity": 25.176711760689535
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 49.982619415557664,
+                "normalized_intensity": 24.991309707778832
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 49.56236936237394,
+                "normalized_intensity": 24.78118468118697
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 72.96994460083151,
+                "normalized_intensity": 36.484972300415755
+            },
+            {
+                "topic": "community",
+                "weighted_count": 66.14276508386574,
+                "normalized_intensity": 33.07138254193287
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 65.72658859096997,
+                "normalized_intensity": 32.863294295484984
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 62.7172458352012,
+                "normalized_intensity": 31.3586229176006
+            },
+            {
+                "topic": "business",
+                "weighted_count": 58.867412743830705,
+                "normalized_intensity": 29.433706371915353
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 58.081182643610894,
+                "normalized_intensity": 29.040591321805447
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.73463679301215,
+                "normalized_intensity": 28.867318396506075
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 53.88135930042702,
+                "normalized_intensity": 26.94067965021351
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.57175701335319,
+                "normalized_intensity": 26.785878506676596
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.218264802457526,
+                "normalized_intensity": 26.609132401228763
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.55766556070582,
+                "normalized_intensity": 26.27883278035291
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.20518071099516,
+                "normalized_intensity": 26.10259035549758
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.75621826690288,
+                "normalized_intensity": 25.87810913345144
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 103.6368605201933,
+                "normalized_intensity": 34.545620173397765
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.254962427354144,
+                "normalized_intensity": 18.084987475784715
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 52.94006096685828,
+                "normalized_intensity": 17.646686988952762
+            },
+            {
+                "topic": "business",
+                "weighted_count": 51.59198027567575,
+                "normalized_intensity": 17.197326758558585
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.74118731882141,
+                "normalized_intensity": 16.913729106273802
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.3449915531066,
+                "normalized_intensity": 16.781663851035535
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 50.20156546400661,
+                "normalized_intensity": 16.73385515466887
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.15354518987108,
+                "normalized_intensity": 16.717848396623694
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.797579095685755,
+                "normalized_intensity": 16.59919303189525
+            }
+        ]
+    }
+}

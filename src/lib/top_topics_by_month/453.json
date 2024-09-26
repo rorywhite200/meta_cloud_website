@@ -1,0 +1,472 @@
+{
+    "2023-09": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 473.2607423061716,
+                "normalized_intensity": 59.15759278827145
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 471.16911044973307,
+                "normalized_intensity": 58.896138806216634
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 447.26195633587474,
+                "normalized_intensity": 55.90774454198434
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 303.06470212627517,
+                "normalized_intensity": 37.883087765784396
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 246.19564419802765,
+                "normalized_intensity": 30.774455524753456
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 227.80021930170741,
+                "normalized_intensity": 28.475027412713427
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 173.52859151450528,
+                "normalized_intensity": 21.69107393931316
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.8109630956853,
+                "normalized_intensity": 7.976370386960663
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 59.61261531101331,
+                "normalized_intensity": 7.451576913876663
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 59.288136274176004,
+                "normalized_intensity": 7.4110170342720005
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 57.28284572756147,
+                "normalized_intensity": 7.160355715945184
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 55.44729904416403,
+                "normalized_intensity": 6.930912380520504
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.218224116383716,
+                "normalized_intensity": 6.6522780145479645
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.840339966492685,
+                "normalized_intensity": 6.480042495811586
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.64023286620933,
+                "normalized_intensity": 6.330029108276166
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.55640360713397,
+                "normalized_intensity": 6.319550450891747
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.36174394042039,
+                "normalized_intensity": 6.295217992552549
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 50.127644245285175,
+                "normalized_intensity": 6.265955530660647
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 794.2482872911332,
+                "normalized_intensity": 61.09602209931794
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 479.6914078586167,
+                "normalized_intensity": 36.89933906604744
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 360.7903273488299,
+                "normalized_intensity": 27.75310210375615
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 348.99314302813264,
+                "normalized_intensity": 26.845626386779433
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 322.38270503453106,
+                "normalized_intensity": 24.79866961804085
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 275.222088514832,
+                "normalized_intensity": 21.17092988575631
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 260.89225264357674,
+                "normalized_intensity": 20.068634818736673
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 201.0805425251092,
+                "normalized_intensity": 15.467734040393015
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 153.45460284891294,
+                "normalized_intensity": 11.80420021914715
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 63.54525354883541,
+                "normalized_intensity": 4.888096426833493
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 63.14191002996574,
+                "normalized_intensity": 4.857070002305057
+            },
+            {
+                "topic": "history",
+                "weighted_count": 53.50830673763403,
+                "normalized_intensity": 4.116023595202618
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.60953230708509,
+                "normalized_intensity": 3.893040946698853
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 546.6455403897498,
+                "normalized_intensity": 60.73839337663887
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 475.0165962722001,
+                "normalized_intensity": 52.779621808022235
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 364.42370343929895,
+                "normalized_intensity": 40.49152260436655
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 311.5749536987224,
+                "normalized_intensity": 34.619439299858044
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 280.37124575143673,
+                "normalized_intensity": 31.152360639048524
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 250.2200909992799,
+                "normalized_intensity": 27.802232333253322
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 198.49785819373807,
+                "normalized_intensity": 22.055317577082008
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 120.3137281334385,
+                "normalized_intensity": 13.3681920148265
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 103.80139268001966,
+                "normalized_intensity": 11.53348807555774
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 102.16444664911697,
+                "normalized_intensity": 11.351605183235218
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 723.4421273464242,
+                "normalized_intensity": 65.7674661224022
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 709.9373484033224,
+                "normalized_intensity": 64.53975894575659
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 453.7062676548345,
+                "normalized_intensity": 41.24602433225768
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 399.2813881472209,
+                "normalized_intensity": 36.29830801338372
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 246.8726739096758,
+                "normalized_intensity": 22.44297035542507
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 149.89464000671666,
+                "normalized_intensity": 13.62678545515606
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 260.89851047223556,
+                "normalized_intensity": 65.22462761805889
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 134.53968283812227,
+                "normalized_intensity": 33.63492070953057
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 102.12521184143468,
+                "normalized_intensity": 25.53130296035867
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 99.0002668811098,
+                "normalized_intensity": 24.75006672027745
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 98.5369622336463,
+                "normalized_intensity": 24.634240558411577
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.14169335219907,
+                "normalized_intensity": 12.285423338049767
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 125.32339075246924,
+                "normalized_intensity": 62.66169537623462
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.14169335219907,
+                "normalized_intensity": 24.570846676099535
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 350.3793942152946,
+                "normalized_intensity": 70.07587884305892
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 282.9045850790192,
+                "normalized_intensity": 56.58091701580385
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 279.5672759261959,
+                "normalized_intensity": 55.91345518523919
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 158.90810772006424,
+                "normalized_intensity": 31.781621544012847
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 139.7097448850155,
+                "normalized_intensity": 27.9419489770031
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 125.81293655721521,
+                "normalized_intensity": 25.16258731144304
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 114.86011520256356,
+                "normalized_intensity": 22.972023040512713
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 112.32659611755109,
+                "normalized_intensity": 22.465319223510217
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 102.44679965661045,
+                "normalized_intensity": 20.48935993132209
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 179.10482404809534,
+                "normalized_intensity": 59.70160801603178
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 102.10188276913522,
+                "normalized_intensity": 34.03396092304507
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 98.74145144978647,
+                "normalized_intensity": 32.913817149928825
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 60.70991204090137,
+                "normalized_intensity": 20.236637346967125
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.3405818724621,
+                "normalized_intensity": 17.780193957487366
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.1913047213988,
+                "normalized_intensity": 17.063768240466267
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 296.8708117468525,
+                "normalized_intensity": 74.21770293671312
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 252.79829377418844,
+                "normalized_intensity": 63.19957344354711
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 219.63983644006947,
+                "normalized_intensity": 54.90995911001737
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 207.6739449252957,
+                "normalized_intensity": 51.918486231323925
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 132.8851145545345,
+                "normalized_intensity": 33.22127863863363
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 128.05977396494265,
+                "normalized_intensity": 32.01494349123566
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 100.59527116534449,
+                "normalized_intensity": 25.14881779133612
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 486.9941634438404,
+                "normalized_intensity": 69.57059477769148
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 374.942045945059,
+                "normalized_intensity": 53.563149420722716
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 258.5147644826159,
+                "normalized_intensity": 36.930680640373694
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 151.50493318969063,
+                "normalized_intensity": 21.643561884241517
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 99.6286948002888,
+                "normalized_intensity": 14.232670685755542
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 59.28811910478087,
+                "normalized_intensity": 8.469731300682982
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 57.28283638520193,
+                "normalized_intensity": 8.183262340743132
+            }
+        ]
+    }
+}

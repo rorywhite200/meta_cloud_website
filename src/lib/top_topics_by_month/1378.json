@@ -1,0 +1,27 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 107.98935967378738,
+                "normalized_intensity": 53.99467983689369
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 106.72870095917175,
+                "normalized_intensity": 53.36435047958587
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 104.09853708947469,
+                "normalized_intensity": 52.049268544737345
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 99.28452601037499,
+                "normalized_intensity": 49.642263005187495
+            }
+        ]
+    }
+}

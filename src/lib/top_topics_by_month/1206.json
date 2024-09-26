@@ -1,0 +1,47 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "bioethics",
+                "weighted_count": 54.969847890452805,
+                "normalized_intensity": 54.969847890452805
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.95898071912872,
+                "normalized_intensity": 50.95898071912872
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.881467759032326,
+                "normalized_intensity": 49.881467759032326
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 109.40526552505246,
+                "normalized_intensity": 36.468421841684155
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 54.969847890452805,
+                "normalized_intensity": 18.323282630150935
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.95898071912872,
+                "normalized_intensity": 16.986326906376238
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.881467759032326,
+                "normalized_intensity": 16.627155919677442
+            }
+        ]
+    }
+}

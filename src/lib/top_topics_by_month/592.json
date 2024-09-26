@@ -1,0 +1,172 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 74.14100152636902,
+                "normalized_intensity": 74.14100152636902
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.49222220615852,
+                "normalized_intensity": 50.49222220615852
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.18089730210594,
+                "normalized_intensity": 49.18089730210594
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 60.02666286269074,
+                "normalized_intensity": 60.02666286269074
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 65.12679310147111,
+                "normalized_intensity": 65.12679310147111
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.2022255350345,
+                "normalized_intensity": 57.2022255350345
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 111.79600798146873,
+                "normalized_intensity": 37.26533599382291
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 109.01179548776636,
+                "normalized_intensity": 36.337265162588785
+            },
+            {
+                "topic": "law",
+                "weighted_count": 99.227230812015,
+                "normalized_intensity": 33.075743604005
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.435514578720905,
+                "normalized_intensity": 16.81183819290697
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 67.64678096422323,
+                "normalized_intensity": 67.64678096422323
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 56.24667886172258,
+                "normalized_intensity": 56.24667886172258
+            },
+            {
+                "topic": "history",
+                "weighted_count": 56.22771096429726,
+                "normalized_intensity": 56.22771096429726
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.54652941842153,
+                "normalized_intensity": 55.54652941842153
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.89732392656512,
+                "normalized_intensity": 53.89732392656512
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 51.31179135240309,
+                "normalized_intensity": 51.31179135240309
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 80.97308757618184,
+                "normalized_intensity": 80.97308757618184
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 74.64913016793811,
+                "normalized_intensity": 74.64913016793811
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 64.56433835534419,
+                "normalized_intensity": 64.56433835534419
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 55.5722577521921,
+                "normalized_intensity": 55.5722577521921
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 54.65143557511741,
+                "normalized_intensity": 54.65143557511741
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 54.421886341246825,
+                "normalized_intensity": 54.421886341246825
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.864272404225794,
+                "normalized_intensity": 50.864272404225794
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.10684820063238,
+                "normalized_intensity": 49.10684820063238
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 62.104868763911014,
+                "normalized_intensity": 31.052434381955507
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.09773497522231,
+                "normalized_intensity": 25.548867487611155
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.29117480783852,
+                "normalized_intensity": 25.14558740391926
+            }
+        ]
+    }
+}

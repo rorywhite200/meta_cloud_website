@@ -1,0 +1,77 @@
+{
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 221.77856457664333,
+                "normalized_intensity": 44.35571291532867
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 152.60493496821334,
+                "normalized_intensity": 30.52098699364267
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 149.1871831974455,
+                "normalized_intensity": 29.837436639489102
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 119.94572092015581,
+                "normalized_intensity": 23.98914418403116
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 115.43354898586432,
+                "normalized_intensity": 23.086709797172865
+            },
+            {
+                "topic": "health",
+                "weighted_count": 69.73978158648154,
+                "normalized_intensity": 13.947956317296308
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 68.42982784282988,
+                "normalized_intensity": 13.685965568565976
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 55.228106261987705,
+                "normalized_intensity": 11.045621252397542
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 53.45284922525323,
+                "normalized_intensity": 10.690569845050646
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 60.00640352352673,
+                "normalized_intensity": 60.00640352352673
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.1857208449262,
+                "normalized_intensity": 54.1857208449262
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 72.03877308176,
+                "normalized_intensity": 72.03877308176
+            }
+        ]
+    }
+}

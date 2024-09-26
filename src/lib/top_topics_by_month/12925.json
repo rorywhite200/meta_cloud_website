@@ -1,0 +1,122 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 79.73612815839927,
+                "normalized_intensity": 79.73612815839927
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 59.79107444424899,
+                "normalized_intensity": 59.79107444424899
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 57.53603510760534,
+                "normalized_intensity": 57.53603510760534
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 56.87685303775927,
+                "normalized_intensity": 56.87685303775927
+            },
+            {
+                "topic": "art",
+                "weighted_count": 55.909026399011466,
+                "normalized_intensity": 55.909026399011466
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.84382844035828,
+                "normalized_intensity": 54.84382844035828
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.17992087589827,
+                "normalized_intensity": 53.17992087589827
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 52.55581163643582,
+                "normalized_intensity": 52.55581163643582
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.673594079983694,
+                "normalized_intensity": 50.673594079983694
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.22512497621819,
+                "normalized_intensity": 49.22512497621819
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.032135829089285,
+                "normalized_intensity": 49.032135829089285
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 239.20838447519782,
+                "normalized_intensity": 79.73612815839927
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 179.373223332747,
+                "normalized_intensity": 59.791074444249
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 172.60810532281602,
+                "normalized_intensity": 57.536035107605336
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 170.6305591132778,
+                "normalized_intensity": 56.87685303775927
+            },
+            {
+                "topic": "art",
+                "weighted_count": 167.7270791970344,
+                "normalized_intensity": 55.90902639901147
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 164.53148532107485,
+                "normalized_intensity": 54.84382844035829
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 159.5397626276948,
+                "normalized_intensity": 53.17992087589827
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 157.66743490930747,
+                "normalized_intensity": 52.55581163643583
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 152.02078223995107,
+                "normalized_intensity": 50.673594079983694
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 147.67537492865458,
+                "normalized_intensity": 49.22512497621819
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 147.09640748726787,
+                "normalized_intensity": 49.03213582908929
+            }
+        ]
+    }
+}

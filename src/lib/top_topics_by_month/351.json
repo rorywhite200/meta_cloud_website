@@ -1,0 +1,37 @@
+{
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 113.60151690340743,
+                "normalized_intensity": 37.86717230113581
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 107.22516151151925,
+                "normalized_intensity": 35.74172050383975
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.25656840903651,
+                "normalized_intensity": 16.418856136345504
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 113.60151690340743,
+                "normalized_intensity": 56.800758451703715
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 107.22516151151925,
+                "normalized_intensity": 53.61258075575962
+            }
+        ]
+    }
+}

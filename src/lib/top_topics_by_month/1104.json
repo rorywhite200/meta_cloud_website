@@ -1,0 +1,37 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 68.80927161989531,
+                "normalized_intensity": 68.80927161989531
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 53.18878829135806,
+                "normalized_intensity": 53.18878829135806
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 51.427551147402816,
+                "normalized_intensity": 51.427551147402816
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 66.59657908787952,
+                "normalized_intensity": 66.59657908787952
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.55329705317261,
+                "normalized_intensity": 61.55329705317261
+            }
+        ]
+    }
+}

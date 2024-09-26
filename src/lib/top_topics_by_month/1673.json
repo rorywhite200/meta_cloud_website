@@ -1,0 +1,47 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 78.06619655208391,
+                "normalized_intensity": 39.033098276041954
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 72.24288753123301,
+                "normalized_intensity": 36.121443765616505
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 62.900897849840845,
+                "normalized_intensity": 31.450448924920423
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 60.4961664643358,
+                "normalized_intensity": 30.2480832321679
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 60.349668995859126,
+                "normalized_intensity": 30.174834497929563
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 53.20132421608555,
+                "normalized_intensity": 26.600662108042776
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.52997101451051,
+                "normalized_intensity": 25.764985507255254
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 50.11265508400156,
+                "normalized_intensity": 25.05632754200078
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2024-06": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 349.0624289116726,
+                "normalized_intensity": 24.933030636548043
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 318.50548878811753,
+                "normalized_intensity": 22.75039205629411
+            },
+            {
+                "topic": "health",
+                "weighted_count": 212.01420249355652,
+                "normalized_intensity": 15.143871606682609
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 204.11202635995852,
+                "normalized_intensity": 14.579430454282752
+            },
+            {
+                "topic": "community",
+                "weighted_count": 154.00025776517595,
+                "normalized_intensity": 11.000018411798282
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 152.82803283444136,
+                "normalized_intensity": 10.916288059602953
+            }
+        ]
+    }
+}

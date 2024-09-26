@@ -1,0 +1,72 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 164.76231077513995,
+                "normalized_intensity": 82.38115538756998
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 159.0126102861486,
+                "normalized_intensity": 79.5063051430743
+            },
+            {
+                "topic": "family",
+                "weighted_count": 133.94595981341587,
+                "normalized_intensity": 66.97297990670793
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 98.29889564906019,
+                "normalized_intensity": 49.14944782453009
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 494.2869323254198,
+                "normalized_intensity": 82.38115538756996
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 477.03783085844583,
+                "normalized_intensity": 79.5063051430743
+            },
+            {
+                "topic": "family",
+                "weighted_count": 401.83787944024755,
+                "normalized_intensity": 66.97297990670792
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 294.89668694718057,
+                "normalized_intensity": 49.14944782453009
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 76.3699637899412,
+                "normalized_intensity": 76.3699637899412
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 72.98264606129052,
+                "normalized_intensity": 72.98264606129052
+            },
+            {
+                "topic": "family",
+                "weighted_count": 61.57233217223731,
+                "normalized_intensity": 61.57233217223731
+            }
+        ]
+    }
+}

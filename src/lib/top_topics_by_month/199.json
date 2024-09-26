@@ -1,0 +1,72 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "demographics",
+                "weighted_count": 76.25656198068756,
+                "normalized_intensity": 76.25656198068756
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 100.02108010407946,
+                "normalized_intensity": 16.670180017346578
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 50.92716841276419,
+                "normalized_intensity": 8.487861402127365
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 50.644529201117194,
+                "normalized_intensity": 8.440754866852865
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.24493215252333,
+                "normalized_intensity": 8.207488692087223
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 347.95015823091006,
+                "normalized_intensity": 69.59003164618201
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 171.70340367797476,
+                "normalized_intensity": 34.34068073559495
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 127.38598030019654,
+                "normalized_intensity": 25.477196060039308
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.94499687911103,
+                "normalized_intensity": 10.388999375822205
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.25752500004462,
+                "normalized_intensity": 10.251505000008924
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 49.6675279532453,
+                "normalized_intensity": 9.933505590649059
+            }
+        ]
+    }
+}

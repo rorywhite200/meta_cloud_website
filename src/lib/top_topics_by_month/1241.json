@@ -1,0 +1,77 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 207.9206057279775,
+                "normalized_intensity": 69.3068685759925
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 167.19129268055843,
+                "normalized_intensity": 55.730430893519475
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 167.00218921299177,
+                "normalized_intensity": 55.66739640433059
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 154.83986513804507,
+                "normalized_intensity": 51.613288379348354
+            },
+            {
+                "topic": "business",
+                "weighted_count": 154.5935216923993,
+                "normalized_intensity": 51.53117389746643
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 150.49237599712492,
+                "normalized_intensity": 50.16412533237497
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.59042933567358,
+                "normalized_intensity": 16.530143111891196
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 395.65104472048455,
+                "normalized_intensity": 65.94184078674742
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 389.43712662346786,
+                "normalized_intensity": 64.90618777057797
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 340.94805738083596,
+                "normalized_intensity": 56.824676230139325
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 311.72966256727284,
+                "normalized_intensity": 51.95494376121214
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 201.9535590704037,
+                "normalized_intensity": 33.65892651173395
+            },
+            {
+                "topic": "business",
+                "weighted_count": 98.44812863416075,
+                "normalized_intensity": 16.408021439026793
+            }
+        ]
+    }
+}

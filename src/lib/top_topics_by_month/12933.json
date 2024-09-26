@@ -1,0 +1,47 @@
+{
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 222.27372518405429,
+                "normalized_intensity": 74.09124172801809
+            },
+            {
+                "topic": "health",
+                "weighted_count": 180.21294898040236,
+                "normalized_intensity": 60.07098299346745
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 153.11722290103717,
+                "normalized_intensity": 51.039074300345725
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 122.55951220495997,
+                "normalized_intensity": 40.853170734986655
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 118.93214660412377,
+                "normalized_intensity": 39.64404886804126
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 107.53528264989514,
+                "normalized_intensity": 35.845094216631715
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 103.48584284094848,
+                "normalized_intensity": 34.495280946982824
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 69.58424380519266,
+                "normalized_intensity": 23.194747935064218
+            }
+        ]
+    }
+}

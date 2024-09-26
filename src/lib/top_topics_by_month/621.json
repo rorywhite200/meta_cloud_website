@@ -1,0 +1,52 @@
+{
+    "2024-03": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 1884.9773958433148,
+                "normalized_intensity": 62.832579861443826
+            },
+            {
+                "topic": "community",
+                "weighted_count": 670.2009218173673,
+                "normalized_intensity": 22.340030727245576
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 395.9248901033198,
+                "normalized_intensity": 13.197496336777327
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 770.958151638511,
+                "normalized_intensity": 64.24651263654259
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 367.28440003572325,
+                "normalized_intensity": 30.60703333631027
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 710.7222686257155,
+                "normalized_intensity": 64.6111153296105
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 428.4984667083438,
+                "normalized_intensity": 38.954406064394895
+            }
+        ]
+    }
+}

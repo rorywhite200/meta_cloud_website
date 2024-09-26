@@ -1,0 +1,27 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 73.12630871722226,
+                "normalized_intensity": 73.12630871722226
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 59.46725027211818,
+                "normalized_intensity": 59.46725027211818
+            },
+            {
+                "topic": "science",
+                "weighted_count": 57.146898623940686,
+                "normalized_intensity": 57.146898623940686
+            },
+            {
+                "topic": "film",
+                "weighted_count": 49.669135947287714,
+                "normalized_intensity": 49.669135947287714
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 129.2647381523937,
+                "normalized_intensity": 43.0882460507979
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 114.01953404055337,
+                "normalized_intensity": 38.00651134685112
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 99.19844389552605,
+                "normalized_intensity": 33.066147965175354
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 98.00441620787541,
+                "normalized_intensity": 32.66813873595847
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.43374290499345,
+                "normalized_intensity": 22.14458096833115
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.436824351459066,
+                "normalized_intensity": 18.14560811715302
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 53.641569624763896,
+                "normalized_intensity": 17.880523208254633
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 52.07076565790585,
+                "normalized_intensity": 17.356921885968617
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.15189195246622,
+                "normalized_intensity": 16.383963984155407
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 259.3744852218934,
+                "normalized_intensity": 51.87489704437868
+            },
+            {
+                "topic": "community",
+                "weighted_count": 157.25175679241926,
+                "normalized_intensity": 31.45035135848385
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 67.85161343661069,
+                "normalized_intensity": 13.570322687322138
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 52.81630133088184,
+                "normalized_intensity": 10.563260266176368
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.508525652580886,
+                "normalized_intensity": 10.101705130516176
+            }
+        ]
+    }
+}

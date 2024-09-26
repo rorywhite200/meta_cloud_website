@@ -1,0 +1,72 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 68.00868136481995,
+                "normalized_intensity": 68.00868136481995
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 67.35582480266648,
+                "normalized_intensity": 67.35582480266648
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 56.21967464046165,
+                "normalized_intensity": 56.21967464046165
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 54.25885528080442,
+                "normalized_intensity": 54.25885528080442
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.489773098176464,
+                "normalized_intensity": 51.489773098176464
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.07949776058513,
+                "normalized_intensity": 51.07949776058513
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 129.66477679785615,
+                "normalized_intensity": 64.83238839892807
+            },
+            {
+                "topic": "health",
+                "weighted_count": 119.9758340089092,
+                "normalized_intensity": 59.9879170044546
+            },
+            {
+                "topic": "community",
+                "weighted_count": 113.19902540214436,
+                "normalized_intensity": 56.59951270107218
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 103.6253528984797,
+                "normalized_intensity": 51.81267644923985
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 101.40756634068488,
+                "normalized_intensity": 50.70378317034244
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.21716998066977,
+                "normalized_intensity": 25.108584990334887
+            }
+        ]
+    }
+}

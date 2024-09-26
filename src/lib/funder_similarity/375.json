@@ -1,0 +1,1005 @@
+{
+    "funder_name": "Transition Salt Spring",
+    "similar_funders": [
+        {
+            "funder_id": "717",
+            "funder_name": "London Environmental Network",
+            "similarity_score": 0.8705321222938648
+        },
+        {
+            "funder_id": "1307",
+            "funder_name": "District of North Vancouver",
+            "similarity_score": 0.8677333086948033
+        },
+        {
+            "funder_id": "222",
+            "funder_name": "Cariboo Chilcotin Conservation Society",
+            "similarity_score": 0.8669573809490214
+        },
+        {
+            "funder_id": "139",
+            "funder_name": "Government of the Northwest Territories",
+            "similarity_score": 0.8633691000888652
+        },
+        {
+            "funder_id": "1505",
+            "funder_name": "Kamloops Food Policy Council",
+            "similarity_score": 0.8630286669817384
+        },
+        {
+            "funder_id": "373",
+            "funder_name": "David Suzuki Foundation",
+            "similarity_score": 0.860286795856431
+        },
+        {
+            "funder_id": "1463",
+            "funder_name": "City of Kingston",
+            "similarity_score": 0.8593198610199809
+        },
+        {
+            "funder_id": "12947",
+            "funder_name": "Climate Justice Montreal - Justice Climatique Montr\u00e9al",
+            "similarity_score": 0.8584375986139804
+        },
+        {
+            "funder_id": "832",
+            "funder_name": "Mennonite Central Committee",
+            "similarity_score": 0.8583159844215565
+        },
+        {
+            "funder_id": "510",
+            "funder_name": "Fondation David Suzuki",
+            "similarity_score": 0.8576649714695231
+        },
+        {
+            "funder_id": "480",
+            "funder_name": "Metro Vancouver",
+            "similarity_score": 0.8561205735382157
+        },
+        {
+            "funder_id": "234",
+            "funder_name": "Encorp Atlantic / Atlantique",
+            "similarity_score": 0.855688574236931
+        },
+        {
+            "funder_id": "13",
+            "funder_name": "City of Toronto - Your Local Government",
+            "similarity_score": 0.8554323426655586
+        },
+        {
+            "funder_id": "455",
+            "funder_name": "Mennonite Central Committee Canada",
+            "similarity_score": 0.8554127279311771
+        },
+        {
+            "funder_id": "1478",
+            "funder_name": "Bonterra Tissue",
+            "similarity_score": 0.8548674933841045
+        },
+        {
+            "funder_id": "1154",
+            "funder_name": "Tree Canada / Arbres Canada",
+            "similarity_score": 0.8526036346868617
+        },
+        {
+            "funder_id": "1509",
+            "funder_name": "A\u00e9ro Mag",
+            "similarity_score": 0.8522497624542925
+        },
+        {
+            "funder_id": "1400",
+            "funder_name": "D\u00e9fi GEStes",
+            "similarity_score": 0.8520793638490369
+        },
+        {
+            "funder_id": "1036",
+            "funder_name": "Hartmann North America",
+            "similarity_score": 0.8518286341669071
+        },
+        {
+            "funder_id": "252",
+            "funder_name": "EcoSchools Canada",
+            "similarity_score": 0.8513232533339408
+        },
+        {
+            "funder_id": "1791",
+            "funder_name": "Idea Factory",
+            "similarity_score": 0.8511371262312386
+        },
+        {
+            "funder_id": "377",
+            "funder_name": "TD Friends of the Environment Foundation",
+            "similarity_score": 0.850915595224868
+        },
+        {
+            "funder_id": "1671",
+            "funder_name": "Carboneutre Qu\u00e9bec",
+            "similarity_score": 0.8505689161205648
+        },
+        {
+            "funder_id": "828",
+            "funder_name": "Shelley Carroll",
+            "similarity_score": 0.8501957642454886
+        },
+        {
+            "funder_id": "860",
+            "funder_name": "Councillor Paula Fletcher",
+            "similarity_score": 0.849606527544675
+        },
+        {
+            "funder_id": "334",
+            "funder_name": "Ecojustice",
+            "similarity_score": 0.8489492885734341
+        },
+        {
+            "funder_id": "398",
+            "funder_name": "Conseil r\u00e9gional de l'environnement Mauricie",
+            "similarity_score": 0.8474334051728155
+        },
+        {
+            "funder_id": "200",
+            "funder_name": "Sierra Club BC",
+            "similarity_score": 0.8473036610476153
+        },
+        {
+            "funder_id": "12992",
+            "funder_name": "Atalanta Climate",
+            "similarity_score": 0.8459762438588196
+        },
+        {
+            "funder_id": "132",
+            "funder_name": "FSC Canada",
+            "similarity_score": 0.8458307697701298
+        },
+        {
+            "funder_id": "1047",
+            "funder_name": "Change for Climate Edmonton",
+            "similarity_score": 0.8458082982694789
+        },
+        {
+            "funder_id": "986",
+            "funder_name": "Electrolux",
+            "similarity_score": 0.8443878539407583
+        },
+        {
+            "funder_id": "945",
+            "funder_name": "City of Toronto",
+            "similarity_score": 0.8438722150820447
+        },
+        {
+            "funder_id": "1464",
+            "funder_name": "My Climate Plan",
+            "similarity_score": 0.8434755044510208
+        },
+        {
+            "funder_id": "645",
+            "funder_name": "The Climate Reality Project",
+            "similarity_score": 0.8433005286101919
+        },
+        {
+            "funder_id": "247",
+            "funder_name": "Last Generation Canada",
+            "similarity_score": 0.8432812847379099
+        },
+        {
+            "funder_id": "1918",
+            "funder_name": "Perth County Sustainability",
+            "similarity_score": 0.8429684396488278
+        },
+        {
+            "funder_id": "298",
+            "funder_name": "Stand.earth",
+            "similarity_score": 0.8427195797505757
+        },
+        {
+            "funder_id": "1022",
+            "funder_name": "Guru Harkrishan Foundation",
+            "similarity_score": 0.8420133990726262
+        },
+        {
+            "funder_id": "1016",
+            "funder_name": "Front \u00e9tudiant d'action climatique",
+            "similarity_score": 0.8411757447175792
+        },
+        {
+            "funder_id": "805",
+            "funder_name": "Nova Scotia Environmental Network",
+            "similarity_score": 0.8409903817726495
+        },
+        {
+            "funder_id": "841",
+            "funder_name": "ROYALE Kittens / Chatons",
+            "similarity_score": 0.8404868505557345
+        },
+        {
+            "funder_id": "121",
+            "funder_name": "Town of Georgina",
+            "similarity_score": 0.8404212141365085
+        },
+        {
+            "funder_id": "1883",
+            "funder_name": "Nicole Helgason - Coral",
+            "similarity_score": 0.838970010548749
+        },
+        {
+            "funder_id": "127",
+            "funder_name": "My Climate Plan Society",
+            "similarity_score": 0.8389453140869174
+        },
+        {
+            "funder_id": "515",
+            "funder_name": "J.D.Irving",
+            "similarity_score": 0.838715738742189
+        },
+        {
+            "funder_id": "1848",
+            "funder_name": "Facult\u00e9 des arts et des sciences",
+            "similarity_score": 0.8378897769434872
+        },
+        {
+            "funder_id": "1440",
+            "funder_name": "Alliance pour l'engagement jeunesse",
+            "similarity_score": 0.8375810514617233
+        },
+        {
+            "funder_id": "1207",
+            "funder_name": "Manitoba's Climate Action Team",
+            "similarity_score": 0.8374221532419336
+        },
+        {
+            "funder_id": "92",
+            "funder_name": "Fridays For Future Ottawa",
+            "similarity_score": 0.8368610339771032
+        },
+        {
+            "funder_id": "1622",
+            "funder_name": "Climate Emergency Unit",
+            "similarity_score": 0.8362223857048912
+        },
+        {
+            "funder_id": "552",
+            "funder_name": "Lily Cheng, City Councillor of Willowdale",
+            "similarity_score": 0.8358288525971621
+        },
+        {
+            "funder_id": "557",
+            "funder_name": "Nature Qu\u00e9bec",
+            "similarity_score": 0.8356893172078577
+        },
+        {
+            "funder_id": "138",
+            "funder_name": "Gouvernement des Territoires du Nord-Ouest",
+            "similarity_score": 0.8355608117980207
+        },
+        {
+            "funder_id": "285",
+            "funder_name": "Greenpeace Canada",
+            "similarity_score": 0.8345801784717932
+        },
+        {
+            "funder_id": "1669",
+            "funder_name": "Sierra Club Canada",
+            "similarity_score": 0.8344413514747991
+        },
+        {
+            "funder_id": "982",
+            "funder_name": "City of Coquitlam",
+            "similarity_score": 0.8341530363523563
+        },
+        {
+            "funder_id": "1185",
+            "funder_name": "Eco Solutions",
+            "similarity_score": 0.8333704789666346
+        },
+        {
+            "funder_id": "681",
+            "funder_name": "Mediaplanet Canada",
+            "similarity_score": 0.8332991724552852
+        },
+        {
+            "funder_id": "1339",
+            "funder_name": "County of Brant",
+            "similarity_score": 0.832988067761535
+        },
+        {
+            "funder_id": "634",
+            "funder_name": "Enbridge",
+            "similarity_score": 0.8329421600374853
+        },
+        {
+            "funder_id": "1600",
+            "funder_name": "Office of MP Richard Cannings",
+            "similarity_score": 0.8320976715964928
+        },
+        {
+            "funder_id": "1196",
+            "funder_name": "SADC des Sources",
+            "similarity_score": 0.8315467536499154
+        },
+        {
+            "funder_id": "1183",
+            "funder_name": "Irving Oil",
+            "similarity_score": 0.8313376848924492
+        },
+        {
+            "funder_id": "1917",
+            "funder_name": "Imperial Oil Limited",
+            "similarity_score": 0.8311774288816581
+        },
+        {
+            "funder_id": "886",
+            "funder_name": "Canadian Biosphere Reserves Association",
+            "similarity_score": 0.8311697136619264
+        },
+        {
+            "funder_id": "689",
+            "funder_name": "Lil D'Bunk",
+            "similarity_score": 0.8309841065371326
+        },
+        {
+            "funder_id": "1657",
+            "funder_name": "Clear Seas",
+            "similarity_score": 0.8309496878053604
+        },
+        {
+            "funder_id": "1265",
+            "funder_name": "Canada Green Building Council",
+            "similarity_score": 0.8307067012261654
+        },
+        {
+            "funder_id": "155",
+            "funder_name": "BMO Financial Group",
+            "similarity_score": 0.8304466447617538
+        },
+        {
+            "funder_id": "1352",
+            "funder_name": "Natural Burial Association",
+            "similarity_score": 0.8302470563096344
+        },
+        {
+            "funder_id": "1330",
+            "funder_name": "Pacific Northern Gas Ltd.",
+            "similarity_score": 0.8301192221596141
+        },
+        {
+            "funder_id": "440",
+            "funder_name": "GenAction/GenerationAction",
+            "similarity_score": 0.830108693941014
+        },
+        {
+            "funder_id": "807",
+            "funder_name": "Times Colonist",
+            "similarity_score": 0.8299138508658743
+        },
+        {
+            "funder_id": "1422",
+            "funder_name": "Save Georgian Bay",
+            "similarity_score": 0.8296661776860889
+        },
+        {
+            "funder_id": "1314",
+            "funder_name": "Centre de formation en environnement et d\u00e9veloppement durable de l'UdeS",
+            "similarity_score": 0.829477821754342
+        },
+        {
+            "funder_id": "1762",
+            "funder_name": "Mind Your Plastic",
+            "similarity_score": 0.8289573979812439
+        },
+        {
+            "funder_id": "955",
+            "funder_name": "EverWind Fuels NS",
+            "similarity_score": 0.8288849617879109
+        },
+        {
+            "funder_id": "1337",
+            "funder_name": "COMMUNITIES IN BLOOM FOUNDATION (CNLA)",
+            "similarity_score": 0.8287442277269306
+        },
+        {
+            "funder_id": "416",
+            "funder_name": "R\u00e9seau d'experts Nutrite",
+            "similarity_score": 0.8283783480074159
+        },
+        {
+            "funder_id": "182",
+            "funder_name": "Fair Share Report",
+            "similarity_score": 0.8277894769399868
+        },
+        {
+            "funder_id": "947",
+            "funder_name": "Clear Rush Co.",
+            "similarity_score": 0.8276587117451047
+        },
+        {
+            "funder_id": "1328",
+            "funder_name": "Efficiency Canada",
+            "similarity_score": 0.8274512001383207
+        },
+        {
+            "funder_id": "544",
+            "funder_name": "TheFutureEconomy.ca",
+            "similarity_score": 0.82744211870218
+        },
+        {
+            "funder_id": "1146",
+            "funder_name": "BC Mining Law Reform",
+            "similarity_score": 0.8274104981402761
+        },
+        {
+            "funder_id": "291",
+            "funder_name": "Coast Funds",
+            "similarity_score": 0.8271810515434814
+        },
+        {
+            "funder_id": "1631",
+            "funder_name": "Thompson Okanagan Tourism Association",
+            "similarity_score": 0.8271503420986506
+        },
+        {
+            "funder_id": "1766",
+            "funder_name": "Federated Co-operatives Limited",
+            "similarity_score": 0.8268377837874868
+        },
+        {
+            "funder_id": "972",
+            "funder_name": "National Poll",
+            "similarity_score": 0.8268232154559461
+        },
+        {
+            "funder_id": "1672",
+            "funder_name": "Canadian Association of Petroleum Producers",
+            "similarity_score": 0.8264780946653563
+        },
+        {
+            "funder_id": "714",
+            "funder_name": "Glencore Canada",
+            "similarity_score": 0.826433870730484
+        },
+        {
+            "funder_id": "1384",
+            "funder_name": "UBC Sustainability",
+            "similarity_score": 0.8263432307014589
+        },
+        {
+            "funder_id": "12985",
+            "funder_name": "Nutrite Mario Lambert",
+            "similarity_score": 0.8262793419763771
+        },
+        {
+            "funder_id": "12986",
+            "funder_name": "Nutrite Gauthier Fleurs et Jardins",
+            "similarity_score": 0.8262461739854783
+        },
+        {
+            "funder_id": "12981",
+            "funder_name": "Nutrite Abitibi",
+            "similarity_score": 0.826179838003681
+        },
+        {
+            "funder_id": "12984",
+            "funder_name": "Nutrite Gasp\u00e9sie",
+            "similarity_score": 0.826179838003681
+        },
+        {
+            "funder_id": "12987",
+            "funder_name": "Nutrite Belle Pelouse",
+            "similarity_score": 0.826179838003681
+        },
+        {
+            "funder_id": "1222",
+            "funder_name": "West Coast Environmental Law",
+            "similarity_score": 0.8261215425323435
+        },
+        {
+            "funder_id": "91",
+            "funder_name": "City of Vancouver - Local Government",
+            "similarity_score": 0.8241984500384311
+        },
+        {
+            "funder_id": "918",
+            "funder_name": "Globe Content Studio",
+            "similarity_score": 0.8241233006080286
+        },
+        {
+            "funder_id": "77",
+            "funder_name": "Patrick Weiler",
+            "similarity_score": 0.8237196523868093
+        },
+        {
+            "funder_id": "471",
+            "funder_name": "Soci\u00e9t\u00e9 pour la nature et les parcs - SNAP Qu\u00e9bec",
+            "similarity_score": 0.8236525837869471
+        },
+        {
+            "funder_id": "74",
+            "funder_name": "WWF-Canada",
+            "similarity_score": 0.8234035923145518
+        },
+        {
+            "funder_id": "1397",
+            "funder_name": "R\u00e9frig\u00e9ration J F Demers",
+            "similarity_score": 0.8232600587875109
+        },
+        {
+            "funder_id": "754",
+            "funder_name": "Oceans North",
+            "similarity_score": 0.823203924694457
+        },
+        {
+            "funder_id": "1468",
+            "funder_name": "Port de Belledune",
+            "similarity_score": 0.8230688115340236
+        },
+        {
+            "funder_id": "1346",
+            "funder_name": "Conseil r\u00e9gional de l'environnement du Centre-du-Qu\u00e9bec",
+            "similarity_score": 0.8230321850370467
+        },
+        {
+            "funder_id": "1469",
+            "funder_name": "Lab22 - Laboratoire d\u2019innovations sociales et environnementales",
+            "similarity_score": 0.8230179687291647
+        },
+        {
+            "funder_id": "808",
+            "funder_name": "Environmental Leadership Canada",
+            "similarity_score": 0.822922041378574
+        },
+        {
+            "funder_id": "269",
+            "funder_name": "Regional Municipality of Wood Buffalo",
+            "similarity_score": 0.8228578196460135
+        },
+        {
+            "funder_id": "1437",
+            "funder_name": "Annapolis Waterkeepers",
+            "similarity_score": 0.8228074082313256
+        },
+        {
+            "funder_id": "856",
+            "funder_name": "My Sea to Sky",
+            "similarity_score": 0.8227266596201726
+        },
+        {
+            "funder_id": "591",
+            "funder_name": "Protect Our Winters Canada",
+            "similarity_score": 0.8226317280089002
+        },
+        {
+            "funder_id": "670",
+            "funder_name": "Desjardins",
+            "similarity_score": 0.8223845013650672
+        },
+        {
+            "funder_id": "1288",
+            "funder_name": "National Observer",
+            "similarity_score": 0.8222660652413977
+        },
+        {
+            "funder_id": "1217",
+            "funder_name": "City of Courtenay",
+            "similarity_score": 0.8222079005223755
+        },
+        {
+            "funder_id": "1607",
+            "funder_name": "Northern Cables Inc.",
+            "similarity_score": 0.8219257537095839
+        },
+        {
+            "funder_id": "327",
+            "funder_name": "Energy Gap",
+            "similarity_score": 0.8218565485405755
+        },
+        {
+            "funder_id": "1294",
+            "funder_name": "Canada Post",
+            "similarity_score": 0.8217392282923047
+        },
+        {
+            "funder_id": "891",
+            "funder_name": "Gabriola Land & Trails Trust",
+            "similarity_score": 0.8216739408399059
+        },
+        {
+            "funder_id": "1586",
+            "funder_name": "5th World",
+            "similarity_score": 0.8215790917460712
+        },
+        {
+            "funder_id": "111",
+            "funder_name": "Rio Tinto",
+            "similarity_score": 0.8213572622700778
+        },
+        {
+            "funder_id": "1035",
+            "funder_name": "Cenovus",
+            "similarity_score": 0.8212891692349998
+        },
+        {
+            "funder_id": "16",
+            "funder_name": "Sierra Club Canada Foundation",
+            "similarity_score": 0.8212236490387006
+        },
+        {
+            "funder_id": "1549",
+            "funder_name": "UBC Faculty of Forestry",
+            "similarity_score": 0.8211150694768784
+        },
+        {
+            "funder_id": "1624",
+            "funder_name": "Nixon Metals",
+            "similarity_score": 0.8210211335007562
+        },
+        {
+            "funder_id": "141",
+            "funder_name": "We Are A Coal Town",
+            "similarity_score": 0.8209512958472573
+        },
+        {
+            "funder_id": "278",
+            "funder_name": "J.D. Irving",
+            "similarity_score": 0.8208804007330581
+        },
+        {
+            "funder_id": "845",
+            "funder_name": "Rosem\u00e8re Vert Green Rosem\u00e8re",
+            "similarity_score": 0.8204757313666511
+        },
+        {
+            "funder_id": "859",
+            "funder_name": "R\u00c9PAC 03-12",
+            "similarity_score": 0.8203000624927947
+        },
+        {
+            "funder_id": "453",
+            "funder_name": "Nature Canada",
+            "similarity_score": 0.8201696550876543
+        },
+        {
+            "funder_id": "1688",
+            "funder_name": "Canadian Trees for Life",
+            "similarity_score": 0.8198809455982092
+        },
+        {
+            "funder_id": "997",
+            "funder_name": "Relay Education",
+            "similarity_score": 0.8198623396612096
+        },
+        {
+            "funder_id": "493",
+            "funder_name": "Jean Bourgeois - Parti Vert NB / Green Party NB",
+            "similarity_score": 0.8195983555854266
+        },
+        {
+            "funder_id": "1886",
+            "funder_name": "Conservatives for Clean Growth",
+            "similarity_score": 0.8195484632461533
+        },
+        {
+            "funder_id": "1564",
+            "funder_name": "Ocean Wise Conservation Association",
+            "similarity_score": 0.8194923647463321
+        },
+        {
+            "funder_id": "551",
+            "funder_name": "the Nuclear Waste Management Organization",
+            "similarity_score": 0.8194143751794442
+        },
+        {
+            "funder_id": "140",
+            "funder_name": "Brighter Futures Energy Inc.",
+            "similarity_score": 0.8193715803884218
+        },
+        {
+            "funder_id": "1490",
+            "funder_name": "Truck Loggers Association BC",
+            "similarity_score": 0.8192756477033954
+        },
+        {
+            "funder_id": "664",
+            "funder_name": "Save on Energy",
+            "similarity_score": 0.8191380657461209
+        },
+        {
+            "funder_id": "1639",
+            "funder_name": "Georgia Strait Alliance",
+            "similarity_score": 0.8191046256003616
+        },
+        {
+            "funder_id": "1585",
+            "funder_name": "Solana Energy",
+            "similarity_score": 0.8190459620227272
+        },
+        {
+            "funder_id": "1493",
+            "funder_name": "Financial Agent for Mike Harris, Bob Bray",
+            "similarity_score": 0.8189218528741234
+        },
+        {
+            "funder_id": "869",
+            "funder_name": "Keepers of the Water",
+            "similarity_score": 0.818829487566839
+        },
+        {
+            "funder_id": "1636",
+            "funder_name": "Pro\u00c9colo",
+            "similarity_score": 0.8187909034560401
+        },
+        {
+            "funder_id": "630",
+            "funder_name": "Pathways Alliance",
+            "similarity_score": 0.8187242320531158
+        },
+        {
+            "funder_id": "1570",
+            "funder_name": "Planet Friendly News",
+            "similarity_score": 0.8186015275215845
+        },
+        {
+            "funder_id": "742",
+            "funder_name": "Ian Paton",
+            "similarity_score": 0.8185479496713285
+        },
+        {
+            "funder_id": "44",
+            "funder_name": "350 Canada",
+            "similarity_score": 0.8184743085867321
+        },
+        {
+            "funder_id": "748",
+            "funder_name": "Legal Advocates for Nature's Defence",
+            "similarity_score": 0.8183820165433615
+        },
+        {
+            "funder_id": "1123",
+            "funder_name": "CIBLES - Carrefour international bas-laurentien pour l'engagement social",
+            "similarity_score": 0.8182835841096435
+        },
+        {
+            "funder_id": "992",
+            "funder_name": "Deep Earth Energy Production Corp",
+            "similarity_score": 0.8181862782681552
+        },
+        {
+            "funder_id": "1838",
+            "funder_name": "EPCOR Canada",
+            "similarity_score": 0.8181549010979715
+        },
+        {
+            "funder_id": "1306",
+            "funder_name": "Nova Scotia Power",
+            "similarity_score": 0.8180888308436933
+        },
+        {
+            "funder_id": "1642",
+            "funder_name": "\u00c9nergir",
+            "similarity_score": 0.8180752513282578
+        },
+        {
+            "funder_id": "307",
+            "funder_name": "CPAWS",
+            "similarity_score": 0.818015419123908
+        },
+        {
+            "funder_id": "173",
+            "funder_name": "Leadnow Society",
+            "similarity_score": 0.8179199828960081
+        },
+        {
+            "funder_id": "261",
+            "funder_name": "Mark Gerretsen",
+            "similarity_score": 0.8178523962066235
+        },
+        {
+            "funder_id": "1048",
+            "funder_name": "Ontario Power Generation",
+            "similarity_score": 0.8177667096657515
+        },
+        {
+            "funder_id": "562",
+            "funder_name": "CPAWS Northern Alberta",
+            "similarity_score": 0.817520345333354
+        },
+        {
+            "funder_id": "30",
+            "funder_name": "Endangered Ecosystems Alliance",
+            "similarity_score": 0.8168360502447011
+        },
+        {
+            "funder_id": "170",
+            "funder_name": "Canadian Light Source",
+            "similarity_score": 0.8168006491887079
+        },
+        {
+            "funder_id": "673",
+            "funder_name": "Nature Conservancy of Canada / Conservation de la nature Canada",
+            "similarity_score": 0.816713814517956
+        },
+        {
+            "funder_id": "1910",
+            "funder_name": "Le Devoir",
+            "similarity_score": 0.8166292739125431
+        },
+        {
+            "funder_id": "1821",
+            "funder_name": "Wood Buffalo Community Foundation",
+            "similarity_score": 0.8164286059235969
+        },
+        {
+            "funder_id": "79",
+            "funder_name": "Dan Mazier",
+            "similarity_score": 0.8163843566951771
+        },
+        {
+            "funder_id": "791",
+            "funder_name": "Wilderness Committee",
+            "similarity_score": 0.8163014575898508
+        },
+        {
+            "funder_id": "1161",
+            "funder_name": "Sunny Kals",
+            "similarity_score": 0.8162242436678318
+        },
+        {
+            "funder_id": "761",
+            "funder_name": "Edmonton Public Schools",
+            "similarity_score": 0.8160520173309249
+        },
+        {
+            "funder_id": "1006",
+            "funder_name": "Land Needs Guardians",
+            "similarity_score": 0.816043878502847
+        },
+        {
+            "funder_id": "311",
+            "funder_name": "Indigenous Resource Network",
+            "similarity_score": 0.8160350784639071
+        },
+        {
+            "funder_id": "1806",
+            "funder_name": "Global Forum for Climate Justice",
+            "similarity_score": 0.8156347819400444
+        },
+        {
+            "funder_id": "1470",
+            "funder_name": "ENERGYminute",
+            "similarity_score": 0.8156095822418565
+        },
+        {
+            "funder_id": "1489",
+            "funder_name": "Association of Power Producers of Ontario",
+            "similarity_score": 0.8154434656798017
+        },
+        {
+            "funder_id": "491",
+            "funder_name": "Awesome Ottawa",
+            "similarity_score": 0.8153472732620857
+        },
+        {
+            "funder_id": "1323",
+            "funder_name": "Forest NB (New Brunswick Forest Product Association, Inc.)",
+            "similarity_score": 0.8152827857008584
+        },
+        {
+            "funder_id": "1000",
+            "funder_name": "Friends of Sooke Parks Society",
+            "similarity_score": 0.8152624574510066
+        },
+        {
+            "funder_id": "205",
+            "funder_name": "Forest Products Association of Canada",
+            "similarity_score": 0.815006144040541
+        },
+        {
+            "funder_id": "365",
+            "funder_name": "Women's Advisory Voice of Edmonton",
+            "similarity_score": 0.8145514132214596
+        },
+        {
+            "funder_id": "1163",
+            "funder_name": "Solar My Bill",
+            "similarity_score": 0.8145141745284215
+        },
+        {
+            "funder_id": "1419",
+            "funder_name": "Nature Saskatchewan",
+            "similarity_score": 0.8144889418064943
+        },
+        {
+            "funder_id": "1309",
+            "funder_name": "The Indigenous Leadership Initiative",
+            "similarity_score": 0.8144741754786107
+        },
+        {
+            "funder_id": "463",
+            "funder_name": "Resort Municipality of Whistler (RMOW)",
+            "similarity_score": 0.8144648551748639
+        },
+        {
+            "funder_id": "90",
+            "funder_name": "Bill Gordon",
+            "similarity_score": 0.8143042016974799
+        },
+        {
+            "funder_id": "1592",
+            "funder_name": "EverWind Fuels",
+            "similarity_score": 0.8142434468476242
+        },
+        {
+            "funder_id": "796",
+            "funder_name": "Sors de ta bulle",
+            "similarity_score": 0.8141516662575624
+        },
+        {
+            "funder_id": "797",
+            "funder_name": "Sundamentals",
+            "similarity_score": 0.8141091123811632
+        },
+        {
+            "funder_id": "1523",
+            "funder_name": "SeedChange / S\u00e8me l\u2019avenir - USC Canada",
+            "similarity_score": 0.8138888599124582
+        },
+        {
+            "funder_id": "417",
+            "funder_name": "Bell Canada",
+            "similarity_score": 0.8138164421332532
+        },
+        {
+            "funder_id": "1476",
+            "funder_name": "Carrefour de Solidarit\u00e9 Internationale",
+            "similarity_score": 0.813768412629644
+        },
+        {
+            "funder_id": "1056",
+            "funder_name": "Jour de la Terre Canada",
+            "similarity_score": 0.8137445029651553
+        },
+        {
+            "funder_id": "108",
+            "funder_name": "Clean Energy Canada",
+            "similarity_score": 0.8137194787255356
+        },
+        {
+            "funder_id": "974",
+            "funder_name": "RBC",
+            "similarity_score": 0.8135502738893626
+        },
+        {
+            "funder_id": "418",
+            "funder_name": "Science North",
+            "similarity_score": 0.8135112807553172
+        },
+        {
+            "funder_id": "105",
+            "funder_name": "Oil and Gas World/Oil Sands Strong",
+            "similarity_score": 0.8131697384997755
+        },
+        {
+            "funder_id": "470",
+            "funder_name": "Forests Ontario",
+            "similarity_score": 0.8128474782066047
+        },
+        {
+            "funder_id": "981",
+            "funder_name": "Our Line in the Sand Inc.",
+            "similarity_score": 0.8126576262798542
+        },
+        {
+            "funder_id": "465",
+            "funder_name": "Curium",
+            "similarity_score": 0.8124028867779316
+        },
+        {
+            "funder_id": "1091",
+            "funder_name": "Solidarit\u00e9 NordSud des BoisFrancs",
+            "similarity_score": 0.8121548754311634
+        },
+        {
+            "funder_id": "126",
+            "funder_name": "Energy United",
+            "similarity_score": 0.8121455673946125
+        }
+    ]
+}

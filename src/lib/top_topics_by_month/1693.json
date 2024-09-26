@@ -1,0 +1,67 @@
+{
+    "2023-11": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 346.5786448494464,
+                "normalized_intensity": 38.508738316605154
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 281.48430521631667,
+                "normalized_intensity": 31.276033912924074
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 212.99514064881373,
+                "normalized_intensity": 23.666126738757082
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 162.73595671201952,
+                "normalized_intensity": 18.08177296800217
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 150.53398677630975,
+                "normalized_intensity": 16.725998530701084
+            },
+            {
+                "topic": "community",
+                "weighted_count": 71.83036596517715,
+                "normalized_intensity": 7.9811517739085724
+            },
+            {
+                "topic": "military",
+                "weighted_count": 67.27924013166398,
+                "normalized_intensity": 7.475471125740443
+            },
+            {
+                "topic": "family",
+                "weighted_count": 61.104599073841136,
+                "normalized_intensity": 6.7893998970934595
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 58.73645147662532,
+                "normalized_intensity": 6.526272386291702
+            },
+            {
+                "topic": "history",
+                "weighted_count": 56.40651284371432,
+                "normalized_intensity": 6.267390315968258
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.30829969796537,
+                "normalized_intensity": 5.700922188662819
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.82699258986075,
+                "normalized_intensity": 5.536332509984528
+            }
+        ]
+    }
+}

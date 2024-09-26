@@ -1,0 +1,117 @@
+{
+    "2023-09": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 566.3163282508178,
+                "normalized_intensity": 70.78954103135223
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 563.5819166083354,
+                "normalized_intensity": 70.44773957604193
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 163.2465058377933,
+                "normalized_intensity": 20.405813229724163
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 152.69152812418068,
+                "normalized_intensity": 19.086441015522585
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 152.04229467717153,
+                "normalized_intensity": 19.00528683464644
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.65087548100823,
+                "normalized_intensity": 12.706359435126029
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 345.84391227982337,
+                "normalized_intensity": 69.16878245596467
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 345.1260711413282,
+                "normalized_intensity": 69.02521422826564
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 100.71116827692796,
+                "normalized_intensity": 20.142233655385592
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 53.25337517526416,
+                "normalized_intensity": 10.650675035052831
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.292299927321245,
+                "normalized_intensity": 62.292299927321245
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 56.392985714982046,
+                "normalized_intensity": 56.392985714982046
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 374.26338368674226,
+                "normalized_intensity": 53.46619766953461
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 127.05076091638998,
+                "normalized_intensity": 18.150108702341424
+            },
+            {
+                "topic": "business",
+                "weighted_count": 110.5801585111379,
+                "normalized_intensity": 15.797165501591127
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 101.14291181490958,
+                "normalized_intensity": 14.44898740212994
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 58.38362577776975,
+                "normalized_intensity": 8.340517968252822
+            },
+            {
+                "topic": "music",
+                "weighted_count": 53.75051110292699,
+                "normalized_intensity": 7.678644443275284
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.37858714721961,
+                "normalized_intensity": 7.4826553067456585
+            }
+        ]
+    }
+}

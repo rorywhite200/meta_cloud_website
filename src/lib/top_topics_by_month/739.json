@@ -1,0 +1,57 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 63.09634613438436,
+                "normalized_intensity": 63.09634613438436
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 61.939365507613594,
+                "normalized_intensity": 61.939365507613594
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 60.50879164870358,
+                "normalized_intensity": 60.50879164870358
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 56.22881932149123,
+                "normalized_intensity": 56.22881932149123
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 54.72899912013055,
+                "normalized_intensity": 54.72899912013055
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 54.41909689046771,
+                "normalized_intensity": 54.41909689046771
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 62.59507503226802,
+                "normalized_intensity": 62.59507503226802
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 56.68829700901935,
+                "normalized_intensity": 56.68829700901935
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 54.4496762952401,
+                "normalized_intensity": 54.4496762952401
+            }
+        ]
+    }
+}

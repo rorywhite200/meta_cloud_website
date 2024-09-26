@@ -1,0 +1,52 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 154.16156713460222,
+                "normalized_intensity": 77.08078356730111
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 143.99639472675165,
+                "normalized_intensity": 71.99819736337582
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 125.6283873252448,
+                "normalized_intensity": 62.8141936626224
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 125.50490162376255,
+                "normalized_intensity": 62.752450811881275
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 122.55469950680377,
+                "normalized_intensity": 61.277349753401886
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 115.9672825904625,
+                "normalized_intensity": 57.98364129523125
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 104.55242777891362,
+                "normalized_intensity": 52.27621388945681
+            },
+            {
+                "topic": "science",
+                "weighted_count": 102.0160678736696,
+                "normalized_intensity": 51.0080339368348
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 49.946586547891535,
+                "normalized_intensity": 24.973293273945767
+            }
+        ]
+    }
+}

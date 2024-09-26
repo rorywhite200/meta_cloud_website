@@ -1,0 +1,67 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 160.4659508085909,
+                "normalized_intensity": 80.23297540429544
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 120.68083575908733,
+                "normalized_intensity": 60.340417879543665
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 135.8885660123662,
+                "normalized_intensity": 45.29618867078873
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 127.35900935119764,
+                "normalized_intensity": 42.45300311706588
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 74.22939827622565,
+                "normalized_intensity": 24.743132758741883
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 57.11296911270669,
+                "normalized_intensity": 19.03765637090223
+            },
+            {
+                "topic": "education",
+                "weighted_count": 55.31976471806607,
+                "normalized_intensity": 18.43992157268869
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.412776751238056,
+                "normalized_intensity": 16.47092558374602
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 78.83923863451705,
+                "normalized_intensity": 78.83923863451705
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 62.39137888148652,
+                "normalized_intensity": 62.39137888148652
+            }
+        ]
+    }
+}

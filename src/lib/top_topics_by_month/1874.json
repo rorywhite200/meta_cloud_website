@@ -1,0 +1,37 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 63.0543313477018,
+                "normalized_intensity": 63.0543313477018
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 60.22933188499564,
+                "normalized_intensity": 60.22933188499564
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 57.72976316125605,
+                "normalized_intensity": 57.72976316125605
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 56.62233574158695,
+                "normalized_intensity": 56.62233574158695
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.76281490315736,
+                "normalized_intensity": 50.76281490315736
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.80469348492728,
+                "normalized_intensity": 49.80469348492728
+            }
+        ]
+    }
+}

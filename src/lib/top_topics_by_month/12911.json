@@ -1,0 +1,52 @@
+{
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 240.66738703821144,
+                "normalized_intensity": 60.16684675955286
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 227.90505468130314,
+                "normalized_intensity": 56.976263670325785
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 220.4793454751862,
+                "normalized_intensity": 55.11983636879655
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 218.3820640149687,
+                "normalized_intensity": 54.595516003742176
+            },
+            {
+                "topic": "history",
+                "weighted_count": 218.30310796366592,
+                "normalized_intensity": 54.57577699091648
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 213.6377638298345,
+                "normalized_intensity": 53.40944095745863
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 210.42582041136546,
+                "normalized_intensity": 52.606455102841366
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.68658704228282,
+                "normalized_intensity": 24.921646760570706
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.20183627001516,
+                "normalized_intensity": 24.80045906750379
+            }
+        ]
+    }
+}

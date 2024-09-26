@@ -1,0 +1,22 @@
+{
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 74.7714875770931,
+                "normalized_intensity": 74.7714875770931
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.96748696223097,
+                "normalized_intensity": 55.96748696223097
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 49.63174300192468,
+                "normalized_intensity": 49.63174300192468
+            }
+        ]
+    }
+}

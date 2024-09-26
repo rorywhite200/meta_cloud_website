@@ -1,0 +1,117 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 52.69543701697611,
+                "normalized_intensity": 52.69543701697611
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.33474234609774,
+                "normalized_intensity": 49.33474234609774
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.296021539350996,
+                "normalized_intensity": 49.296021539350996
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 52.69543701697611,
+                "normalized_intensity": 52.69543701697611
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.33474234609774,
+                "normalized_intensity": 49.33474234609774
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.296021539350996,
+                "normalized_intensity": 49.296021539350996
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 55.25263695706247,
+                "normalized_intensity": 55.25263695706247
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "prince edward island",
+                "weighted_count": 121.91546767084391,
+                "normalized_intensity": 60.957733835421955
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 110.1312525526618,
+                "normalized_intensity": 55.0656262763309
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 98.00915624096645,
+                "normalized_intensity": 49.004578120483224
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 120.89073825173838,
+                "normalized_intensity": 40.29691275057946
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.649373785722446,
+                "normalized_intensity": 18.549791261907483
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.77071380397393,
+                "normalized_intensity": 16.590237934657978
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.09470710882765,
+                "normalized_intensity": 16.364902369609215
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 50.8082935671462,
+                "normalized_intensity": 50.8082935671462
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.7927677797124,
+                "normalized_intensity": 50.7927677797124
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.50310241093158,
+                "normalized_intensity": 49.50310241093158
+            }
+        ]
+    }
+}

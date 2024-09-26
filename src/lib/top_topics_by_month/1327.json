@@ -1,0 +1,187 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 60.722185269309804,
+                "normalized_intensity": 60.722185269309804
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 54.159164339443336,
+                "normalized_intensity": 54.159164339443336
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.26037747678775,
+                "normalized_intensity": 52.26037747678775
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "economy",
+                "weighted_count": 64.08177328081823,
+                "normalized_intensity": 21.360591093606075
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 63.49510092264003,
+                "normalized_intensity": 21.165033640880008
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 58.865670129986015,
+                "normalized_intensity": 19.621890043328673
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 58.2761670999856,
+                "normalized_intensity": 19.425389033328532
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 54.98985117373483,
+                "normalized_intensity": 18.329950391244942
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.06351897141595,
+                "normalized_intensity": 16.68783965713865
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 64.37246755420414,
+                "normalized_intensity": 21.457489184734712
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 59.77012876359278,
+                "normalized_intensity": 19.923376254530925
+            },
+            {
+                "topic": "health",
+                "weighted_count": 57.39984369770612,
+                "normalized_intensity": 19.133281232568706
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 55.22453707255954,
+                "normalized_intensity": 18.408179024186513
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 51.997921948333634,
+                "normalized_intensity": 17.332640649444546
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.85333768644285,
+                "normalized_intensity": 17.28444589548095
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.36314814024451,
+                "normalized_intensity": 16.454382713414837
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.29460868409647,
+                "normalized_intensity": 16.431536228032154
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "anti-woke",
+                "weighted_count": 56.94989714906077,
+                "normalized_intensity": 28.474948574530384
+            },
+            {
+                "topic": "law",
+                "weighted_count": 56.132213159562774,
+                "normalized_intensity": 28.066106579781387
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.83237304163128,
+                "normalized_intensity": 27.91618652081564
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 54.519037966021344,
+                "normalized_intensity": 27.259518983010672
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 54.22746940743773,
+                "normalized_intensity": 27.113734703718865
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.88388503489345,
+                "normalized_intensity": 26.941942517446726
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.478474590572205,
+                "normalized_intensity": 24.739237295286102
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 147.3363236538024,
+                "normalized_intensity": 73.6681618269012
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 121.46423034435733,
+                "normalized_intensity": 60.732115172178666
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 72.65041146498264,
+                "normalized_intensity": 36.32520573249132
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 60.79804574310458,
+                "normalized_intensity": 30.39902287155229
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 55.04398976115,
+                "normalized_intensity": 27.521994880575
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.69928684299422,
+                "normalized_intensity": 25.34964342149711
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 50.35650483459596,
+                "normalized_intensity": 25.17825241729798
+            }
+        ]
+    }
+}

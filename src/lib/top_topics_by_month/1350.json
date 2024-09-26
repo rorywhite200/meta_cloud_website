@@ -1,0 +1,87 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 78.41043085424636,
+                "normalized_intensity": 78.41043085424636
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 70.9404372407622,
+                "normalized_intensity": 70.9404372407622
+            },
+            {
+                "topic": "community",
+                "weighted_count": 68.39271138278743,
+                "normalized_intensity": 68.39271138278743
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 68.18608800529532,
+                "normalized_intensity": 68.18608800529532
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 63.47282816415576,
+                "normalized_intensity": 63.47282816415576
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.524314346035794,
+                "normalized_intensity": 61.524314346035794
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 57.75469278207767,
+                "normalized_intensity": 57.75469278207767
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 57.39037514663734,
+                "normalized_intensity": 57.39037514663734
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.339438233868336,
+                "normalized_intensity": 56.339438233868336
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 54.934104333651966,
+                "normalized_intensity": 54.934104333651966
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 51.24038028731118,
+                "normalized_intensity": 51.24038028731118
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.62501042320727,
+                "normalized_intensity": 50.62501042320727
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.61826788999336,
+                "normalized_intensity": 49.61826788999336
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.598702137622496,
+                "normalized_intensity": 49.598702137622496
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.54500411360666,
+                "normalized_intensity": 49.54500411360666
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.31152931804696,
+                "normalized_intensity": 49.31152931804696
+            }
+        ]
+    }
+}

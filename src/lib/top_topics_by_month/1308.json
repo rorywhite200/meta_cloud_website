@@ -1,0 +1,37 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 238.16909497200623,
+                "normalized_intensity": 59.54227374300156
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 209.91562381352225,
+                "normalized_intensity": 52.47890595338056
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 209.53292776992373,
+                "normalized_intensity": 52.38323194248093
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 203.94978575813698,
+                "normalized_intensity": 50.987446439534246
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.99479559835277,
+                "normalized_intensity": 24.99869889958819
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 50.419850073360486,
+                "normalized_intensity": 12.604962518340121
+            }
+        ]
+    }
+}

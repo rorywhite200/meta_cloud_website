@@ -1,0 +1,552 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 261.857106868924,
+                "normalized_intensity": 52.3714213737848
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 248.6165467084948,
+                "normalized_intensity": 49.723309341698965
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 187.80310242957398,
+                "normalized_intensity": 37.5606204859148
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 162.85025282158293,
+                "normalized_intensity": 32.57005056431659
+            },
+            {
+                "topic": "community",
+                "weighted_count": 121.11722791965092,
+                "normalized_intensity": 24.223445583930182
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 102.95848019577356,
+                "normalized_intensity": 20.591696039154712
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 102.00516931438479,
+                "normalized_intensity": 20.401033862876957
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 66.37760261835535,
+                "normalized_intensity": 13.275520523671071
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 65.22056706123793,
+                "normalized_intensity": 13.044113412247587
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 56.519983224856276,
+                "normalized_intensity": 11.303996644971255
+            },
+            {
+                "topic": "science",
+                "weighted_count": 54.15321060721284,
+                "normalized_intensity": 10.830642121442569
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 52.842356332673205,
+                "normalized_intensity": 10.56847126653464
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.186388963123576,
+                "normalized_intensity": 10.237277792624715
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.5944130444823,
+                "normalized_intensity": 10.11888260889646
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.05927423060892,
+                "normalized_intensity": 10.011854846121784
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 213.68778294489542,
+                "normalized_intensity": 53.421945736223854
+            },
+            {
+                "topic": "community",
+                "weighted_count": 191.91378368591927,
+                "normalized_intensity": 47.97844592147982
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 170.97505976972013,
+                "normalized_intensity": 42.74376494243003
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 113.03996644971255,
+                "normalized_intensity": 28.259991612428138
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 101.31198633221737,
+                "normalized_intensity": 25.327996583054343
+            },
+            {
+                "topic": "history",
+                "weighted_count": 100.11854846121784,
+                "normalized_intensity": 25.02963711530446
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 99.63787145922237,
+                "normalized_intensity": 24.909467864805592
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 66.64469599834744,
+                "normalized_intensity": 16.66117399958686
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 63.154845971067516,
+                "normalized_intensity": 15.788711492766879
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 58.94094616476077,
+                "normalized_intensity": 14.735236541190192
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 53.780094337825226,
+                "normalized_intensity": 13.445023584456306
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.39035486723286,
+                "normalized_intensity": 12.847588716808215
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.900278146623535,
+                "normalized_intensity": 12.475069536655884
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 495.83608675497345,
+                "normalized_intensity": 61.97951084437168
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 372.1317189571996,
+                "normalized_intensity": 46.51646486964995
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 324.8813455307378,
+                "normalized_intensity": 40.610168191342225
+            },
+            {
+                "topic": "science",
+                "weighted_count": 319.5333711593353,
+                "normalized_intensity": 39.94167139491691
+            },
+            {
+                "topic": "community",
+                "weighted_count": 283.15411288887253,
+                "normalized_intensity": 35.39426411110907
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 258.1295913895501,
+                "normalized_intensity": 32.266198923693764
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 221.36996250764608,
+                "normalized_intensity": 27.67124531345576
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 218.04314580836825,
+                "normalized_intensity": 27.25539322604603
+            },
+            {
+                "topic": "business",
+                "weighted_count": 183.5925358393005,
+                "normalized_intensity": 22.949066979912562
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 160.55472923867998,
+                "normalized_intensity": 20.069341154834998
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 158.51881227068603,
+                "normalized_intensity": 19.814851533835753
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 158.21620676208826,
+                "normalized_intensity": 19.777025845261033
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 152.95495256943005,
+                "normalized_intensity": 19.119369071178756
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 133.2294835616576,
+                "normalized_intensity": 16.6536854452072
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 122.7574816376458,
+                "normalized_intensity": 15.344685204705725
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 114.15016395391459,
+                "normalized_intensity": 14.268770494239323
+            },
+            {
+                "topic": "history",
+                "weighted_count": 103.05695689415938,
+                "normalized_intensity": 12.882119611769923
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 100.33057005022638,
+                "normalized_intensity": 12.541321256278298
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 61.09946362988733,
+                "normalized_intensity": 7.6374329537359165
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 53.780094337825226,
+                "normalized_intensity": 6.722511792228153
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 53.608595029336946,
+                "normalized_intensity": 6.701074378667118
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.91077790781965,
+                "normalized_intensity": 6.613847238477456
+            },
+            {
+                "topic": "television",
+                "weighted_count": 51.43146398527193,
+                "normalized_intensity": 6.4289329981589916
+            },
+            {
+                "topic": "film",
+                "weighted_count": 50.76644422818839,
+                "normalized_intensity": 6.345805528523549
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.900278146623535,
+                "normalized_intensity": 6.237534768327942
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 231.23961728008643,
+                "normalized_intensity": 57.80990432002161
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 229.68302870826625,
+                "normalized_intensity": 57.42075717706656
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 190.99690370110721,
+                "normalized_intensity": 47.749225925276804
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 162.63994721811068,
+                "normalized_intensity": 40.65998680452767
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 119.8948513051656,
+                "normalized_intensity": 29.9737128262914
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 111.78311496220648,
+                "normalized_intensity": 27.94577874055162
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 103.27129494008067,
+                "normalized_intensity": 25.817823735020166
+            },
+            {
+                "topic": "science",
+                "weighted_count": 102.44166315180283,
+                "normalized_intensity": 25.610415787950707
+            },
+            {
+                "topic": "business",
+                "weighted_count": 102.22871489297835,
+                "normalized_intensity": 25.557178723244586
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 101.6393568433997,
+                "normalized_intensity": 25.409839210849924
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 100.56702061900022,
+                "normalized_intensity": 25.141755154750054
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 53.9222899512839,
+                "normalized_intensity": 13.480572487820975
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.525525952279516,
+                "normalized_intensity": 13.381381488069879
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.130924456952776,
+                "normalized_intensity": 12.532731114238194
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 50.112881722213956,
+                "normalized_intensity": 12.528220430553489
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.01943642267483,
+                "normalized_intensity": 12.254859105668707
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 154.5936822982834,
+                "normalized_intensity": 77.2968411491417
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 150.0462562113815,
+                "normalized_intensity": 75.02312810569074
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 122.91472222059164,
+                "normalized_intensity": 61.45736111029582
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 105.49421940220782,
+                "normalized_intensity": 52.74710970110391
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 60.36267901107135,
+                "normalized_intensity": 30.181339505535675
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.7896296506535,
+                "normalized_intensity": 27.39481482532675
+            },
+            {
+                "topic": "science",
+                "weighted_count": 52.186284882550794,
+                "normalized_intensity": 26.093142441275397
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.179514866169676,
+                "normalized_intensity": 26.089757433084838
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.52659364349789,
+                "normalized_intensity": 25.763296821748945
+            },
+            {
+                "topic": "business",
+                "weighted_count": 51.10136857470696,
+                "normalized_intensity": 25.55068428735348
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.32569702998544,
+                "normalized_intensity": 25.16284851499272
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.01943642267483,
+                "normalized_intensity": 24.509718211337415
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 361.3351246249745,
+                "normalized_intensity": 60.222520770829085
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 299.04783892287503,
+                "normalized_intensity": 49.841306487145836
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 215.4620590595857,
+                "normalized_intensity": 35.910343176597614
+            },
+            {
+                "topic": "education",
+                "weighted_count": 129.78160434892675,
+                "normalized_intensity": 21.63026739148779
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 118.05569245078041,
+                "normalized_intensity": 19.675948741796734
+            },
+            {
+                "topic": "science",
+                "weighted_count": 114.4540301969669,
+                "normalized_intensity": 19.07567169949448
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 106.02901657693133,
+                "normalized_intensity": 17.671502762821888
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 54.400541419170835,
+                "normalized_intensity": 9.06675690319514
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.870943288002756,
+                "normalized_intensity": 8.311823881333792
+            },
+            {
+                "topic": "film",
+                "weighted_count": 49.14903583839653,
+                "normalized_intensity": 8.191505973066088
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 154.5936822982834,
+                "normalized_intensity": 77.2968411491417
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 150.0462562113815,
+                "normalized_intensity": 75.02312810569074
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 122.91472222059164,
+                "normalized_intensity": 61.45736111029582
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 105.49421940220782,
+                "normalized_intensity": 52.74710970110391
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 60.36267901107135,
+                "normalized_intensity": 30.181339505535675
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.7896296506535,
+                "normalized_intensity": 27.39481482532675
+            },
+            {
+                "topic": "science",
+                "weighted_count": 52.186284882550794,
+                "normalized_intensity": 26.093142441275397
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.179514866169676,
+                "normalized_intensity": 26.089757433084838
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.52659364349789,
+                "normalized_intensity": 25.763296821748945
+            },
+            {
+                "topic": "business",
+                "weighted_count": 51.10136857470696,
+                "normalized_intensity": 25.55068428735348
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.32569702998544,
+                "normalized_intensity": 25.16284851499272
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.01943642267483,
+                "normalized_intensity": 24.509718211337415
+            }
+        ]
+    }
+}

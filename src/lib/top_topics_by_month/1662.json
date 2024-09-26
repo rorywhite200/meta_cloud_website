@@ -1,0 +1,72 @@
+{
+    "2023-09": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 686.8931029492473,
+                "normalized_intensity": 45.79287352994982
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 652.2716643739831,
+                "normalized_intensity": 43.48477762493221
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 575.345773979288,
+                "normalized_intensity": 38.35638493195253
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 274.51713125360425,
+                "normalized_intensity": 18.301142083573616
+            },
+            {
+                "topic": "security",
+                "weighted_count": 183.52456447520677,
+                "normalized_intensity": 12.234970965013785
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 105.35591625967855,
+                "normalized_intensity": 7.023727750645237
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 100.12824381009344,
+                "normalized_intensity": 6.675216254006229
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 56.47654680139343,
+                "normalized_intensity": 3.7651031200928955
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.6905099454397,
+                "normalized_intensity": 3.7127006630293136
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 52.778124484648906,
+                "normalized_intensity": 3.518541632309927
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 50.86079129180487,
+                "normalized_intensity": 3.3907194194536583
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 50.63417455307558,
+                "normalized_intensity": 3.3756116368717053
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.1361494440757,
+                "normalized_intensity": 3.34240996293838
+            }
+        ]
+    }
+}

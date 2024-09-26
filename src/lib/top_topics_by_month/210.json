@@ -1,0 +1,72 @@
+{
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 144.0869204862126,
+                "normalized_intensity": 36.02173012155315
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 127.34648422120684,
+                "normalized_intensity": 31.83662105530171
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 74.85307228186325,
+                "normalized_intensity": 18.713268070465812
+            },
+            {
+                "topic": "health",
+                "weighted_count": 69.25407434512861,
+                "normalized_intensity": 17.313518586282154
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 65.02844990914892,
+                "normalized_intensity": 16.25711247728723
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 64.49369081973573,
+                "normalized_intensity": 16.123422704933933
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 59.537449593095126,
+                "normalized_intensity": 14.884362398273781
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 55.403608428997096,
+                "normalized_intensity": 13.850902107249274
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.192682073556,
+                "normalized_intensity": 13.298170518389
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.45691472772045,
+                "normalized_intensity": 13.114228681930113
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.731694407740115,
+                "normalized_intensity": 12.432923601935029
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.7221241026424,
+                "normalized_intensity": 12.4305310256606
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.45922905773856,
+                "normalized_intensity": 12.36480726443464
+            }
+        ]
+    }
+}

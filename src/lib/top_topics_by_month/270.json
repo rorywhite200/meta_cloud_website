@@ -1,0 +1,82 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 59.38857890915264,
+                "normalized_intensity": 59.38857890915264
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 55.97786092515662,
+                "normalized_intensity": 55.97786092515662
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 250.79981112841782,
+                "normalized_intensity": 62.699952782104454
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 196.98186105029572,
+                "normalized_intensity": 49.24546526257393
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 185.05652602860727,
+                "normalized_intensity": 61.685508676202424
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 182.64641620143095,
+                "normalized_intensity": 60.882138733810315
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 181.78754371020153,
+                "normalized_intensity": 60.59584790340051
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 165.34476131549349,
+                "normalized_intensity": 55.114920438497826
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 153.96461030841047,
+                "normalized_intensity": 51.32153676947016
+            },
+            {
+                "topic": "community",
+                "weighted_count": 150.934717900564,
+                "normalized_intensity": 50.31157263352134
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.372018451942566,
+                "normalized_intensity": 17.12400615064752
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 50.20003805104978,
+                "normalized_intensity": 16.733346017016594
+            }
+        ]
+    }
+}

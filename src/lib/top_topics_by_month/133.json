@@ -1,0 +1,852 @@
+{
+    "2023-09": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 326.21902452100926,
+                "normalized_intensity": 46.60271778871561
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 267.60196328616183,
+                "normalized_intensity": 38.228851898023116
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 202.8748032493109,
+                "normalized_intensity": 28.98211474990156
+            },
+            {
+                "topic": "community",
+                "weighted_count": 149.61041862292024,
+                "normalized_intensity": 21.37291694613146
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 63.08029248511411,
+                "normalized_intensity": 9.011470355016302
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 59.22484753205046,
+                "normalized_intensity": 8.460692504578637
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 59.18512122432716,
+                "normalized_intensity": 8.455017317761023
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 52.42688788344496,
+                "normalized_intensity": 7.489555411920709
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 51.99707860457515,
+                "normalized_intensity": 7.428154086367878
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.32398762211788,
+                "normalized_intensity": 7.331998231731126
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.124346502692454,
+                "normalized_intensity": 7.303478071813208
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.84000207842355,
+                "normalized_intensity": 7.120000296917651
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.51772540208779,
+                "normalized_intensity": 7.073960771726827
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 76,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 5272.15950587344,
+                "normalized_intensity": 69.37051981412421
+            },
+            {
+                "topic": "health",
+                "weighted_count": 4196.579446764156,
+                "normalized_intensity": 55.218150615317846
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 3261.8974623295067,
+                "normalized_intensity": 42.91970345170404
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2550.2606431256268,
+                "normalized_intensity": 33.556061093758245
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1299.4944891528019,
+                "normalized_intensity": 17.09861169937897
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 551.285217735482,
+                "normalized_intensity": 7.2537528649405525
+            },
+            {
+                "topic": "community",
+                "weighted_count": 523.2881507803535,
+                "normalized_intensity": 6.885370405004651
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 399.60202754376814,
+                "normalized_intensity": 5.257921415049581
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 313.65084017828264,
+                "normalized_intensity": 4.12698473918793
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 304.5765227660938,
+                "normalized_intensity": 4.007585825869655
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 218.49744413079267,
+                "normalized_intensity": 2.8749663701420087
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 201.32186182475374,
+                "normalized_intensity": 2.648971866115181
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 113.97303511848733,
+                "normalized_intensity": 1.4996451989274648
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 61.392248110165994,
+                "normalized_intensity": 0.8077927382916578
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.40891241346516,
+                "normalized_intensity": 0.6632751633350679
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.59115366142996,
+                "normalized_intensity": 0.6525151797556574
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.33986958394911,
+                "normalized_intensity": 0.6492088103151199
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 96,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 5597.545844947846,
+                "normalized_intensity": 58.30776921820672
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 4248.589824114458,
+                "normalized_intensity": 44.25614400119227
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2633.0284903152565,
+                "normalized_intensity": 27.42738010745059
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 2027.3049760836584,
+                "normalized_intensity": 21.11776016753811
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1717.4243042565108,
+                "normalized_intensity": 17.889836502671987
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1641.1433566626752,
+                "normalized_intensity": 17.09524329856953
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1605.303432572926,
+                "normalized_intensity": 16.72191075596798
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1600.3262474145315,
+                "normalized_intensity": 16.670065077234703
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1583.5699427630452,
+                "normalized_intensity": 16.495520237115056
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 1495.6149495590876,
+                "normalized_intensity": 15.579322391240495
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 1119.201126625661,
+                "normalized_intensity": 11.658345069017301
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1067.2959951491523,
+                "normalized_intensity": 11.117666616137003
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 837.7793996113952,
+                "normalized_intensity": 8.726868745952034
+            },
+            {
+                "topic": "family",
+                "weighted_count": 520.8291478523039,
+                "normalized_intensity": 5.425303623461499
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 504.29206984379573,
+                "normalized_intensity": 5.253042394206205
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 503.30458923852,
+                "normalized_intensity": 5.24275613790125
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 476.43781207249606,
+                "normalized_intensity": 4.962893875755167
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 310.1193583125906,
+                "normalized_intensity": 3.2304099824228185
+            },
+            {
+                "topic": "military",
+                "weighted_count": 256.11260814372736,
+                "normalized_intensity": 2.667839668163827
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 201.01969072104788,
+                "normalized_intensity": 2.093955111677582
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 156.44204968488205,
+                "normalized_intensity": 1.6296046842175214
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.53362284569632,
+                "normalized_intensity": 0.6305585713093367
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 858.5001428273705,
+                "normalized_intensity": 57.233342855158035
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 644.1580104749215,
+                "normalized_intensity": 42.943867364994766
+            },
+            {
+                "topic": "health",
+                "weighted_count": 581.6690391034267,
+                "normalized_intensity": 38.777935940228446
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 366.0878526157497,
+                "normalized_intensity": 24.405856841049978
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 231.43779498472998,
+                "normalized_intensity": 15.429186332315332
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 220.48278764902625,
+                "normalized_intensity": 14.698852509935083
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 210.71679372974523,
+                "normalized_intensity": 14.047786248649683
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 208.35000156502144,
+                "normalized_intensity": 13.890000104334764
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 206.68339322720038,
+                "normalized_intensity": 13.77889288181336
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 187.87632585999398,
+                "normalized_intensity": 12.525088390666266
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 129.60288214250954,
+                "normalized_intensity": 8.64019214283397
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 110.71406134944051,
+                "normalized_intensity": 7.380937423296034
+            },
+            {
+                "topic": "family",
+                "weighted_count": 103.1488804853335,
+                "normalized_intensity": 6.876592032355567
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 70.62196925743561,
+                "normalized_intensity": 4.708131283829041
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.773241092195775,
+                "normalized_intensity": 3.3182160728130516
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 219.2025318260225,
+                "normalized_intensity": 73.06751060867417
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 216.63420385088028,
+                "normalized_intensity": 72.21140128362676
+            },
+            {
+                "topic": "health",
+                "weighted_count": 191.28947034508084,
+                "normalized_intensity": 63.76315678169362
+            },
+            {
+                "topic": "community",
+                "weighted_count": 186.7662622208311,
+                "normalized_intensity": 62.25542074027703
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 170.40919848144446,
+                "normalized_intensity": 56.803066160481485
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 169.20851095127068,
+                "normalized_intensity": 56.40283698375689
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 149.41575153263676,
+                "normalized_intensity": 49.80525051087892
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 148.9184291314054,
+                "normalized_intensity": 49.63947637713513
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 503.6184399436104,
+                "normalized_intensity": 55.95760443817893
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 347.4721273931514,
+                "normalized_intensity": 38.6080141547946
+            },
+            {
+                "topic": "health",
+                "weighted_count": 227.37670193907098,
+                "normalized_intensity": 25.26407799323011
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 105.99141005566756,
+                "normalized_intensity": 11.776823339518618
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 102.18170365941486,
+                "normalized_intensity": 11.353522628823875
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "family",
+                "weighted_count": 429.8274067054539,
+                "normalized_intensity": 53.728425838181735
+            },
+            {
+                "topic": "history",
+                "weighted_count": 322.200085411863,
+                "normalized_intensity": 40.27501067648287
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 298.10408958052244,
+                "normalized_intensity": 37.263011197565305
+            },
+            {
+                "topic": "community",
+                "weighted_count": 256.26179122248203,
+                "normalized_intensity": 32.032723902810254
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 222.29463097561447,
+                "normalized_intensity": 27.78682887195181
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 190.57368864250984,
+                "normalized_intensity": 23.82171108031373
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 185.68399851501673,
+                "normalized_intensity": 23.21049981437709
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 177.10207019530654,
+                "normalized_intensity": 22.137758774413317
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 176.30459764421505,
+                "normalized_intensity": 22.03807470552688
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 173.61421090232554,
+                "normalized_intensity": 21.701776362790692
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 166.51038319682203,
+                "normalized_intensity": 20.813797899602754
+            },
+            {
+                "topic": "music",
+                "weighted_count": 162.08329077078974,
+                "normalized_intensity": 20.260411346348718
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 158.8506048941964,
+                "normalized_intensity": 19.85632561177455
+            },
+            {
+                "topic": "education",
+                "weighted_count": 156.59314003491502,
+                "normalized_intensity": 19.574142504364378
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 148.88246682565324,
+                "normalized_intensity": 18.610308353206655
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 125.4702693944898,
+                "normalized_intensity": 15.683783674311226
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 113.93522276883009,
+                "normalized_intensity": 14.241902846103761
+            },
+            {
+                "topic": "health",
+                "weighted_count": 113.78678781396223,
+                "normalized_intensity": 14.22334847674528
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 112.11201592608033,
+                "normalized_intensity": 14.014001990760041
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 106.66099431905067,
+                "normalized_intensity": 13.332624289881334
+            },
+            {
+                "topic": "film",
+                "weighted_count": 105.86235876365673,
+                "normalized_intensity": 13.232794845457091
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 103.94457876526553,
+                "normalized_intensity": 12.993072345658192
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 102.41951647483131,
+                "normalized_intensity": 12.802439559353914
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.91144078439585,
+                "normalized_intensity": 6.613930098049481
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.94855509312796,
+                "normalized_intensity": 6.493569386640995
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.15634404403879,
+                "normalized_intensity": 6.394543005504849
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 809.8878884622069,
+                "normalized_intensity": 53.99252589748046
+            },
+            {
+                "topic": "health",
+                "weighted_count": 418.47388185132303,
+                "normalized_intensity": 27.898258790088203
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 410.7817979163965,
+                "normalized_intensity": 27.385453194426432
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 347.4721273931514,
+                "normalized_intensity": 23.164808492876762
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 264.5436739709355,
+                "normalized_intensity": 17.6362449313957
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 214.33664450033453,
+                "normalized_intensity": 14.289109633355634
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.4514384156916,
+                "normalized_intensity": 6.696762561046106
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.267868066810365,
+                "normalized_intensity": 3.2845245377873575
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1806.2945303982842,
+                "normalized_intensity": 56.44670407494638
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1212.0375019397784,
+                "normalized_intensity": 37.876171935618075
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1028.858871684264,
+                "normalized_intensity": 32.15183974013325
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 672.3351850055088,
+                "normalized_intensity": 21.01047453142215
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 502.8303806856271,
+                "normalized_intensity": 15.713449396425847
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 356.8080979522834,
+                "normalized_intensity": 11.150253061008856
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 112.13030037590809,
+                "normalized_intensity": 3.504071886747128
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 109.47166600519522,
+                "normalized_intensity": 3.4209895626623505
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 99.11170717142642,
+                "normalized_intensity": 3.0972408491070755
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 99.07421174863303,
+                "normalized_intensity": 3.0960691171447823
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 98.84278314184229,
+                "normalized_intensity": 3.0888369731825716
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 174,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 13037.696570269394,
+                "normalized_intensity": 74.92929063373215
+            },
+            {
+                "topic": "health",
+                "weighted_count": 11305.882498578956,
+                "normalized_intensity": 64.97633619872963
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 11104.20507690153,
+                "normalized_intensity": 63.81727055690534
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 9342.835708431196,
+                "normalized_intensity": 53.69445809443216
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 7747.645193517689,
+                "normalized_intensity": 44.52669651446948
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 7006.230811248316,
+                "normalized_intensity": 40.265694317519056
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 6161.586345064976,
+                "normalized_intensity": 35.41141577623549
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 4991.103465006821,
+                "normalized_intensity": 28.684502672452997
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 3319.515769024854,
+                "normalized_intensity": 19.077676833476172
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1756.0921391041393,
+                "normalized_intensity": 10.092483558069766
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 487.4147244607075,
+                "normalized_intensity": 2.801234048624756
+            },
+            {
+                "topic": "community",
+                "weighted_count": 405.5890363878507,
+                "normalized_intensity": 2.3309714734933946
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 360.04692394999495,
+                "normalized_intensity": 2.0692351951149135
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 254.91076883055246,
+                "normalized_intensity": 1.4650044185663935
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 214.09557628995657,
+                "normalized_intensity": 1.2304343464940033
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 103.74644540065923,
+                "normalized_intensity": 0.5962439390842484
+            },
+            {
+                "topic": "family",
+                "weighted_count": 100.99926515846822,
+                "normalized_intensity": 0.5804555468877484
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 51.03058660903964,
+                "normalized_intensity": 0.2932792333852853
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 51.004065000379754,
+                "normalized_intensity": 0.2931268103470101
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 50.39202409132941,
+                "normalized_intensity": 0.289609333858215
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.287344708776985,
+                "normalized_intensity": 0.289007728211362
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 122.77139912658761,
+                "normalized_intensity": 61.385699563293805
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 62.075917950370815,
+                "normalized_intensity": 31.037958975185408
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 58.9124276608747,
+                "normalized_intensity": 29.45621383043735
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 55.324403471662244,
+                "normalized_intensity": 27.662201735831122
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 53.60025120185672,
+                "normalized_intensity": 26.80012560092836
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.841419407572545,
+                "normalized_intensity": 25.920709703786272
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.8471297399815,
+                "normalized_intensity": 24.92356486999075
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.019262762110905,
+                "normalized_intensity": 24.509631381055453
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 207.72790019525257,
+                "normalized_intensity": 69.24263339841752
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 169.41681112960796,
+                "normalized_intensity": 56.47227037653599
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 160.6078189039584,
+                "normalized_intensity": 53.5359396346528
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 99.74782605665358,
+                "normalized_intensity": 33.24927535221786
+            }
+        ]
+    }
+}

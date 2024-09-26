@@ -1,0 +1,57 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 59.32322120424598,
+                "normalized_intensity": 59.32322120424598
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 57.53675199048786,
+                "normalized_intensity": 57.53675199048786
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.80712413848127,
+                "normalized_intensity": 56.80712413848127
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.10206856917001,
+                "normalized_intensity": 50.10206856917001
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 65.60927563017032,
+                "normalized_intensity": 65.60927563017032
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.930372716169856,
+                "normalized_intensity": 62.930372716169856
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 62.321927536010136,
+                "normalized_intensity": 62.321927536010136
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 57.56143601023373,
+                "normalized_intensity": 57.56143601023373
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 56.1039082241837,
+                "normalized_intensity": 56.1039082241837
+            }
+        ]
+    }
+}

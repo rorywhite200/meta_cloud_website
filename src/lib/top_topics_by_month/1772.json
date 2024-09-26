@@ -1,0 +1,37 @@
+{
+    "2023-10": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 539.3371959087357,
+                "normalized_intensity": 67.41714948859196
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 406.99749572796287,
+                "normalized_intensity": 50.87468696599536
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 403.345103562329,
+                "normalized_intensity": 50.41813794529112
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 349.9847123009858,
+                "normalized_intensity": 43.748089037623224
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 53.10543024276937,
+                "normalized_intensity": 6.638178780346172
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.87410626062514,
+                "normalized_intensity": 6.3592632825781426
+            }
+        ]
+    }
+}

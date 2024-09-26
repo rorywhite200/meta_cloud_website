@@ -1,0 +1,117 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 134.08520623732204,
+                "normalized_intensity": 33.52130155933051
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 111.87846865417711,
+                "normalized_intensity": 27.969617163544278
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 108.71847771157479,
+                "normalized_intensity": 27.179619427893698
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 106.97314517859401,
+                "normalized_intensity": 26.743286294648502
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 106.27456181415121,
+                "normalized_intensity": 26.568640453537803
+            },
+            {
+                "topic": "security",
+                "weighted_count": 103.45463646201846,
+                "normalized_intensity": 25.863659115504614
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.59137505571319,
+                "normalized_intensity": 25.147843763928297
+            },
+            {
+                "topic": "history",
+                "weighted_count": 58.370051013448034,
+                "normalized_intensity": 14.592512753362008
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 56.68402850764962,
+                "normalized_intensity": 14.171007126912405
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 55.56067775843931,
+                "normalized_intensity": 13.890169439609828
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.62250973321577,
+                "normalized_intensity": 12.405627433303943
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 137.38378071074965,
+                "normalized_intensity": 34.34594517768741
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 112.378913972331,
+                "normalized_intensity": 28.09472849308275
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 109.9972855308969,
+                "normalized_intensity": 27.499321382724226
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 105.94931132921349,
+                "normalized_intensity": 26.48732783230337
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 104.4197728701176,
+                "normalized_intensity": 26.1049432175294
+            },
+            {
+                "topic": "security",
+                "weighted_count": 101.54058315842667,
+                "normalized_intensity": 25.385145789606668
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.73094551922969,
+                "normalized_intensity": 25.182736379807423
+            },
+            {
+                "topic": "history",
+                "weighted_count": 58.12586610811433,
+                "normalized_intensity": 14.531466527028583
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 55.71607597729956,
+                "normalized_intensity": 13.92901899432489
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.64810723729495,
+                "normalized_intensity": 13.662026809323738
+            }
+        ]
+    }
+}

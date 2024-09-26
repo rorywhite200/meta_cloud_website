@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 62.375319476786764,
+                "normalized_intensity": 62.375319476786764
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 59.672591112237285,
+                "normalized_intensity": 59.672591112237285
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.310847034345976,
+                "normalized_intensity": 54.310847034345976
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.958521247154124,
+                "normalized_intensity": 49.958521247154124
+            }
+        ]
+    }
+}

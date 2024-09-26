@@ -1,0 +1,312 @@
+{
+    "2023-12": {
+        "total_ads": 46,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 3504.174678436594,
+                "normalized_intensity": 76.17771040079552
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 3379.2441033903347,
+                "normalized_intensity": 73.46182833457249
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 3125.6721482955604,
+                "normalized_intensity": 67.94939452816436
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 2392.359465019973,
+                "normalized_intensity": 52.007814456955934
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1254.3120042470578,
+                "normalized_intensity": 27.267652266240386
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 244.8352037159446,
+                "normalized_intensity": 5.322504428607491
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 31,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 2358.577832527296,
+                "normalized_intensity": 76.08315588797728
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 2320.878046301246,
+                "normalized_intensity": 74.8670337516531
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 2213.3912418396267,
+                "normalized_intensity": 71.39971747869764
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 1742.5350984404927,
+                "normalized_intensity": 56.21080962711267
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 803.2682784034407,
+                "normalized_intensity": 25.911879948498086
+            },
+            {
+                "topic": "science",
+                "weighted_count": 171.90810022466113,
+                "normalized_intensity": 5.545422587892294
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 156.27046946549996,
+                "normalized_intensity": 5.04098288598387
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 60.771477333049205,
+                "normalized_intensity": 1.9603702365499744
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 54.48422809014968,
+                "normalized_intensity": 1.757555744843538
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 52.15913899738028,
+                "normalized_intensity": 1.682552870883235
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 143,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 10817.139595850653,
+                "normalized_intensity": 75.64433283811645
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 10374.290456716994,
+                "normalized_intensity": 72.54748571130764
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 9924.457053623666,
+                "normalized_intensity": 69.40179757778787
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 8436.896930902736,
+                "normalized_intensity": 58.99927923708207
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 3612.336753708202,
+                "normalized_intensity": 25.26109617977764
+            },
+            {
+                "topic": "food",
+                "weighted_count": 58.06809555821057,
+                "normalized_intensity": 0.40607059830916487
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 52.94928166304851,
+                "normalized_intensity": 0.3702746969443952
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.546960999770974,
+                "normalized_intensity": 0.36046825873965715
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 49.826092191623076,
+                "normalized_intensity": 0.3484342111302313
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.63206537658548,
+                "normalized_intensity": 0.3470773802558425
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 29,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 2212.9745074106586,
+                "normalized_intensity": 76.30946577278134
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 2158.8265733687017,
+                "normalized_intensity": 74.4422956334035
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 2031.2683560309783,
+                "normalized_intensity": 70.04373641486133
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 1648.701118154115,
+                "normalized_intensity": 56.85176269496948
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 623.6242742896351,
+                "normalized_intensity": 21.504285320332244
+            },
+            {
+                "topic": "food",
+                "weighted_count": 58.06809555821057,
+                "normalized_intensity": 2.002348122696916
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 49.826092191623076,
+                "normalized_intensity": 1.718141110055968
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.63206537658548,
+                "normalized_intensity": 1.7114505302270855
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 146,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 10358.878879076468,
+                "normalized_intensity": 70.9512251991539
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 10339.271913945984,
+                "normalized_intensity": 70.81693091743824
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 10058.509078897727,
+                "normalized_intensity": 68.89389780066936
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 4766.319629393613,
+                "normalized_intensity": 32.64602485886036
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 3547.9494897553736,
+                "normalized_intensity": 24.301023902434068
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1997.4733974124988,
+                "normalized_intensity": 13.681324639811635
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 724.3949948339779,
+                "normalized_intensity": 4.961609553657382
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 673.9651246639019,
+                "normalized_intensity": 4.616199483999328
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 665.233571669467,
+                "normalized_intensity": 4.556394326503199
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 522.5569993573789,
+                "normalized_intensity": 3.579157529845061
+            },
+            {
+                "topic": "food",
+                "weighted_count": 295.259899716815,
+                "normalized_intensity": 2.0223280802521577
+            },
+            {
+                "topic": "family",
+                "weighted_count": 246.16177054051124,
+                "normalized_intensity": 1.686039524250077
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 246.05542240903733,
+                "normalized_intensity": 1.6853111123906668
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 158.1811927759494,
+                "normalized_intensity": 1.0834328272325302
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 75.01858925090727,
+                "normalized_intensity": 0.5138259537733375
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.548786226647216,
+                "normalized_intensity": 0.3462245631962138
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 214.95934748589536,
+                "normalized_intensity": 71.65311582863178
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 209.50353043538541,
+                "normalized_intensity": 69.83451014512848
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 207.50444105284225,
+                "normalized_intensity": 69.16814701761409
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 119.94847319221012,
+                "normalized_intensity": 39.98282439740337
+            },
+            {
+                "topic": "food",
+                "weighted_count": 59.56933436851305,
+                "normalized_intensity": 19.856444789504348
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.63419023446,
+                "normalized_intensity": 17.878063411486668
+            }
+        ]
+    }
+}

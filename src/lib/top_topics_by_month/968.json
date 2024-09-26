@@ -1,0 +1,52 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 68.80441925963032,
+                "normalized_intensity": 68.80441925963032
+            },
+            {
+                "topic": "community",
+                "weighted_count": 66.45880973861384,
+                "normalized_intensity": 66.45880973861384
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.87551436101834,
+                "normalized_intensity": 50.87551436101834
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.45620030483061,
+                "normalized_intensity": 50.45620030483061
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 69.53944976747144,
+                "normalized_intensity": 69.53944976747144
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.086541589183675,
+                "normalized_intensity": 53.086541589183675
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.65613004282324,
+                "normalized_intensity": 50.65613004282324
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.787247229937094,
+                "normalized_intensity": 49.787247229937094
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 240.35581955930346,
+                "normalized_intensity": 60.088954889825864
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 230.6923650933439,
+                "normalized_intensity": 57.67309127333598
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 212.48890324630244,
+                "normalized_intensity": 53.12222581157561
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 197.57156543102346,
+                "normalized_intensity": 49.392891357755865
+            }
+        ]
+    }
+}

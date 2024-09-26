@@ -1,0 +1,47 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 66.50205685419255,
+                "normalized_intensity": 33.25102842709627
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 64.88992999709534,
+                "normalized_intensity": 32.44496499854767
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.49823866730308,
+                "normalized_intensity": 24.74911933365154
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 56.38694865916868,
+                "normalized_intensity": 56.38694865916868
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.88810386560026,
+                "normalized_intensity": 51.88810386560026
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 51.354788488635414,
+                "normalized_intensity": 51.354788488635414
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.42351765318118,
+                "normalized_intensity": 49.42351765318118
+            }
+        ]
+    }
+}

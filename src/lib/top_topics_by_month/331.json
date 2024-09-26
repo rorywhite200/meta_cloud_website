@@ -1,0 +1,402 @@
+{
+    "2023-12": {
+        "total_ads": 17,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1255.314167463333,
+                "normalized_intensity": 73.8420098507843
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 1229.3541623160181,
+                "normalized_intensity": 72.31495072447166
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1073.7224225411492,
+                "normalized_intensity": 63.16014250242054
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1065.602862671425,
+                "normalized_intensity": 62.68252133361324
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1049.027384033753,
+                "normalized_intensity": 61.707493178456055
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 984.8509653645535,
+                "normalized_intensity": 57.93240972732668
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 688.3640640396378,
+                "normalized_intensity": 40.49200376703752
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 636.4745956751711,
+                "normalized_intensity": 37.43968209853948
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 467.633665199078,
+                "normalized_intensity": 27.507862658769294
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 204.81501609355666,
+                "normalized_intensity": 12.047942123150392
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.12386844156403,
+                "normalized_intensity": 5.830815790680237
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 74,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 5067.038047951471,
+                "normalized_intensity": 68.47348713447933
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 4460.674064941928,
+                "normalized_intensity": 60.279379255972
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 4335.834224687571,
+                "normalized_intensity": 58.59235438766988
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 3685.9263813379403,
+                "normalized_intensity": 49.80981596402622
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 3261.9601411469766,
+                "normalized_intensity": 44.08054244793212
+            },
+            {
+                "topic": "family",
+                "weighted_count": 3158.617612928439,
+                "normalized_intensity": 42.684021796330256
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 2530.3650314684537,
+                "normalized_intensity": 34.194122046870994
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1341.8216653739823,
+                "normalized_intensity": 18.13272520775652
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 920.7682121538155,
+                "normalized_intensity": 12.442813677754264
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 534.5921990283167,
+                "normalized_intensity": 7.224218905788064
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 399.56054053715076,
+                "normalized_intensity": 5.399466764015551
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 322.96972607066203,
+                "normalized_intensity": 4.364455757711649
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 275.4622744355354,
+                "normalized_intensity": 3.7224631680477756
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 263.34295814688977,
+                "normalized_intensity": 3.5586886236066184
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 259.5957773582133,
+                "normalized_intensity": 3.5080510453812606
+            },
+            {
+                "topic": "business",
+                "weighted_count": 248.44647949377136,
+                "normalized_intensity": 3.3573848580239374
+            },
+            {
+                "topic": "community",
+                "weighted_count": 148.68580266234605,
+                "normalized_intensity": 2.009267603545217
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 373.74604841539457,
+                "normalized_intensity": 74.74920968307892
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 330.2808877679871,
+                "normalized_intensity": 66.05617755359742
+            },
+            {
+                "topic": "family",
+                "weighted_count": 325.0061501960406,
+                "normalized_intensity": 65.00123003920812
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 312.34164846449744,
+                "normalized_intensity": 62.46832969289949
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 260.0698856573958,
+                "normalized_intensity": 52.01397713147916
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 240.14540475853616,
+                "normalized_intensity": 48.02908095170723
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 224.5949763843319,
+                "normalized_intensity": 44.918995276866376
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 209.43818501739156,
+                "normalized_intensity": 41.88763700347831
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 71.86257374060837,
+                "normalized_intensity": 14.372514748121674
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 405.46101587059246,
+                "normalized_intensity": 81.0922031741185
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 397.2443517946406,
+                "normalized_intensity": 79.44887035892812
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 352.12058077809183,
+                "normalized_intensity": 70.42411615561836
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 294.26959388937837,
+                "normalized_intensity": 58.85391877787568
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 283.66183262054983,
+                "normalized_intensity": 56.73236652410996
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 279.8506618167492,
+                "normalized_intensity": 55.97013236334984
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 271.04820111853326,
+                "normalized_intensity": 54.20964022370665
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 209.77355273033805,
+                "normalized_intensity": 41.95471054606761
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 953.8597868505942,
+                "normalized_intensity": 79.48831557088285
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 941.0765290728912,
+                "normalized_intensity": 78.4230440894076
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 789.0190796974088,
+                "normalized_intensity": 65.75158997478407
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 671.240156935132,
+                "normalized_intensity": 55.93667974459433
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 664.4356498096929,
+                "normalized_intensity": 55.36963748414107
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 629.5495902471587,
+                "normalized_intensity": 52.46246585392989
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 346.125021802811,
+                "normalized_intensity": 28.843751816900916
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 326.36370672364734,
+                "normalized_intensity": 27.196975560303944
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 307.25228223105177,
+                "normalized_intensity": 25.604356852587646
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1739.1774661785923,
+                "normalized_intensity": 79.05352118993602
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1493.2618494129472,
+                "normalized_intensity": 67.87553860967942
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1322.68491022495,
+                "normalized_intensity": 60.122041373861364
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1252.2040230080065,
+                "normalized_intensity": 56.918364682182116
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 1252.1366028270836,
+                "normalized_intensity": 56.9153001285038
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 1222.2956355257322,
+                "normalized_intensity": 55.55889252389692
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 827.9688187217737,
+                "normalized_intensity": 37.634946305535166
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 790.8633798841679,
+                "normalized_intensity": 35.94833544928036
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 349.98595411274295,
+                "normalized_intensity": 15.908452459670134
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 305.26576965282123,
+                "normalized_intensity": 13.875716802400966
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 297.58418410693713,
+                "normalized_intensity": 13.526553823042597
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 965.135628272294,
+                "normalized_intensity": 74.24120217479184
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 959.4936450490461,
+                "normalized_intensity": 73.80720346531123
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 816.1209229771209,
+                "normalized_intensity": 62.77853253670161
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 758.3029005776099,
+                "normalized_intensity": 58.330992352123836
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 746.2123411150545,
+                "normalized_intensity": 57.40094931654266
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 661.4091675811127,
+                "normalized_intensity": 50.87762827547021
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 659.3337098182034,
+                "normalized_intensity": 50.71797767832334
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 644.7657322316973,
+                "normalized_intensity": 49.59736401782287
+            }
+        ]
+    }
+}

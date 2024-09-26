@@ -1,0 +1,32 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 130.75246594831862,
+                "normalized_intensity": 65.37623297415931
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 105.67115937969407,
+                "normalized_intensity": 52.83557968984704
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 55.46739631714325,
+                "normalized_intensity": 55.46739631714325
+            },
+            {
+                "topic": "education",
+                "weighted_count": 50.65935201714847,
+                "normalized_intensity": 50.65935201714847
+            }
+        ]
+    }
+}

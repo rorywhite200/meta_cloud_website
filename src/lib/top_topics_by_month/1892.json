@@ -1,0 +1,22 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 159.5361276579107,
+                "normalized_intensity": 53.17870921930356
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 129.2943771998933,
+                "normalized_intensity": 43.09812573329776
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.08421556533426,
+                "normalized_intensity": 35.361405188444756
+            }
+        ]
+    }
+}

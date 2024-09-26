@@ -1,0 +1,97 @@
+{
+    "2024-06": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "family",
+                "weighted_count": 853.2948146439301,
+                "normalized_intensity": 53.33092591524563
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 704.6212047798745,
+                "normalized_intensity": 44.038825298742154
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 661.4711589726405,
+                "normalized_intensity": 41.34194743579003
+            },
+            {
+                "topic": "health",
+                "weighted_count": 591.202521115031,
+                "normalized_intensity": 36.95015756968944
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 513.4192829877637,
+                "normalized_intensity": 32.08870518673523
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 509.81029473959035,
+                "normalized_intensity": 31.863143421224397
+            },
+            {
+                "topic": "community",
+                "weighted_count": 472.50460601820316,
+                "normalized_intensity": 29.531537876137698
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 409.56078596774654,
+                "normalized_intensity": 25.59754912298416
+            },
+            {
+                "topic": "history",
+                "weighted_count": 319.0149550875583,
+                "normalized_intensity": 19.938434692972393
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 315.3798411992518,
+                "normalized_intensity": 19.71124007495324
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 299.33064534770443,
+                "normalized_intensity": 18.708165334231527
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 297.6876193761704,
+                "normalized_intensity": 18.60547621101065
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 221.79093656231942,
+                "normalized_intensity": 13.861933535144964
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 205.0815915632933,
+                "normalized_intensity": 12.817599472705831
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 200.646086523321,
+                "normalized_intensity": 12.540380407707563
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 108.83092018288806,
+                "normalized_intensity": 6.801932511430504
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 99.2737346219316,
+                "normalized_intensity": 6.204608413870725
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 98.78184878241103,
+                "normalized_intensity": 6.1738655489006895
+            }
+        ]
+    }
+}

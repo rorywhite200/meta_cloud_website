@@ -1,0 +1,97 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 75.47907405430013,
+                "normalized_intensity": 75.47907405430013
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 65.39023996642443,
+                "normalized_intensity": 65.39023996642443
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 52.108716026241794,
+                "normalized_intensity": 52.108716026241794
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.80725259186224,
+                "normalized_intensity": 50.80725259186224
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 49.65104970868398,
+                "normalized_intensity": 49.65104970868398
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 78.28691053575142,
+                "normalized_intensity": 78.28691053575142
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 53.44385171799285,
+                "normalized_intensity": 53.44385171799285
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 58.81528803799332,
+                "normalized_intensity": 58.81528803799332
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 55.239382660459604,
+                "normalized_intensity": 55.239382660459604
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.37055885338586,
+                "normalized_intensity": 49.37055885338586
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 132.2882771615641,
+                "normalized_intensity": 44.09609238718804
+            },
+            {
+                "topic": "health",
+                "weighted_count": 132.14190291190025,
+                "normalized_intensity": 44.047300970633415
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 110.69220204456084,
+                "normalized_intensity": 36.89740068152028
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 60.29204845681709,
+                "normalized_intensity": 20.097349485605697
+            }
+        ]
+    }
+}

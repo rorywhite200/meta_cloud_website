@@ -1,0 +1,37 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 197.93139971070335,
+                "normalized_intensity": 65.97713323690111
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 149.9704043754572,
+                "normalized_intensity": 49.99013479181907
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 109.23565478749299,
+                "normalized_intensity": 36.41188492916433
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 104.87231917152045,
+                "normalized_intensity": 34.957439723840146
+            },
+            {
+                "topic": "military",
+                "weighted_count": 101.8395055046355,
+                "normalized_intensity": 33.9465018348785
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.342350639659564,
+                "normalized_intensity": 16.780783546553188
+            }
+        ]
+    }
+}

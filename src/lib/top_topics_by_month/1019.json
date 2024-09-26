@@ -1,0 +1,387 @@
+{
+    "2023-09": {
+        "total_ads": 34,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 3104.027920826036,
+                "normalized_intensity": 91.29493884782458
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1924.1642226318822,
+                "normalized_intensity": 56.593065371525945
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1889.2665980795666,
+                "normalized_intensity": 55.566664649399016
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1238.2879255531732,
+                "normalized_intensity": 36.420233104505094
+            },
+            {
+                "topic": "community",
+                "weighted_count": 947.8884490514854,
+                "normalized_intensity": 27.87907203092604
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 662.9326443483837,
+                "normalized_intensity": 19.498018951423052
+            },
+            {
+                "topic": "family",
+                "weighted_count": 361.2074072821901,
+                "normalized_intensity": 10.623747273005591
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 281.4337188388574,
+                "normalized_intensity": 93.81123961295246
+            },
+            {
+                "topic": "health",
+                "weighted_count": 171.24079056597907,
+                "normalized_intensity": 57.080263521993025
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 167.62734612532313,
+                "normalized_intensity": 55.87578204177438
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.21937657651023,
+                "normalized_intensity": 35.07312552550341
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 69.66489662823776,
+                "normalized_intensity": 23.221632209412586
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 56.81353614944303,
+                "normalized_intensity": 18.93784538314768
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.652418961099144,
+                "normalized_intensity": 17.217472987033048
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 2587.66121372688,
+                "normalized_intensity": 86.255373790896
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1742.0495613558724,
+                "normalized_intensity": 58.06831871186241
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1730.176428050411,
+                "normalized_intensity": 57.672547601680364
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1429.161821330084,
+                "normalized_intensity": 47.63872737766947
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 937.9137855873295,
+                "normalized_intensity": 31.26379285291098
+            },
+            {
+                "topic": "community",
+                "weighted_count": 637.4725265283328,
+                "normalized_intensity": 21.24908421761109
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 269.9193737968194,
+                "normalized_intensity": 8.99731245989398
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.715598267019146,
+                "normalized_intensity": 1.6905199422339716
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 49.695896867824445,
+                "normalized_intensity": 1.656529895594148
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.10399611294604,
+                "normalized_intensity": 1.6367998704315347
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 28,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 2257.7571193772574,
+                "normalized_intensity": 80.63418283490205
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1527.821277773463,
+                "normalized_intensity": 54.565045634766534
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1417.568150523354,
+                "normalized_intensity": 50.627433947262645
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1052.5851930776132,
+                "normalized_intensity": 37.59232832420047
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1006.2182326675058,
+                "normalized_intensity": 35.936365452410925
+            },
+            {
+                "topic": "community",
+                "weighted_count": 706.1891382664678,
+                "normalized_intensity": 25.22104065237385
+            },
+            {
+                "topic": "family",
+                "weighted_count": 258.26209480549574,
+                "normalized_intensity": 9.22364624305342
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 215.93549903745551,
+                "normalized_intensity": 7.711982108480554
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 142.67864095280265,
+                "normalized_intensity": 5.095665748314381
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 139.52485229524166,
+                "normalized_intensity": 4.983030439115773
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 117.10552172954493,
+                "normalized_intensity": 4.1823400617694615
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 115.90995355381528,
+                "normalized_intensity": 4.139641198350546
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 111.44612258791511,
+                "normalized_intensity": 3.980218663854111
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 105.61908871609016,
+                "normalized_intensity": 3.7721103112889343
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 101.03643353333544,
+                "normalized_intensity": 3.60844405476198
+            },
+            {
+                "topic": "business",
+                "weighted_count": 62.188857136632336,
+                "normalized_intensity": 2.2210306120225836
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 58.215564614150374,
+                "normalized_intensity": 2.0791273076482275
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 58.16357424947349,
+                "normalized_intensity": 2.0772705089097676
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 499.20918938411796,
+                "normalized_intensity": 62.401148673014745
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 445.2443140433381,
+                "normalized_intensity": 55.65553925541726
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 403.67360429187886,
+                "normalized_intensity": 50.45920053648486
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 398.86357408525544,
+                "normalized_intensity": 49.85794676065693
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 274.71989196504836,
+                "normalized_intensity": 34.339986495631045
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 222.0627776147725,
+                "normalized_intensity": 27.757847201846563
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 216.2268424257799,
+                "normalized_intensity": 27.028355303222487
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 99.48495406966791,
+                "normalized_intensity": 12.435619258708488
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.3188432480867,
+                "normalized_intensity": 7.039855406010838
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 54.62743724086535,
+                "normalized_intensity": 6.8284296551081685
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 54.58559658475802,
+                "normalized_intensity": 6.823199573094753
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.983902711868105,
+                "normalized_intensity": 6.747987838983513
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.26543106219443,
+                "normalized_intensity": 6.408178882774304
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.37018831830279,
+                "normalized_intensity": 6.171273539787848
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 195.8450352505442,
+                "normalized_intensity": 65.28167841684807
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 179.8664510248676,
+                "normalized_intensity": 59.955483674955865
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 178.7097848017438,
+                "normalized_intensity": 59.56992826724794
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 170.0739165408289,
+                "normalized_intensity": 56.69130551360963
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 124.9274431487862,
+                "normalized_intensity": 41.642481049595396
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 115.13484231173288,
+                "normalized_intensity": 38.378280770577625
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 113.05008735173278,
+                "normalized_intensity": 37.6833624505776
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 111.78598667308927,
+                "normalized_intensity": 37.26199555769642
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 64.02394626233189,
+                "normalized_intensity": 21.341315420777295
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.51882340928156,
+                "normalized_intensity": 17.839607803093852
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.51300793548506,
+                "normalized_intensity": 17.837669311828353
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 50.58431007397795,
+                "normalized_intensity": 16.861436691325984
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.31839105531333,
+                "normalized_intensity": 16.772797018437775
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.79598007240748,
+                "normalized_intensity": 16.598660024135828
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.22780965729486,
+                "normalized_intensity": 16.409269885764953
+            }
+        ]
+    }
+}

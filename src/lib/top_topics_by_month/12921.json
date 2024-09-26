@@ -1,0 +1,47 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 143.4986621333128,
+                "normalized_intensity": 71.7493310666564
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 132.25609744496177,
+                "normalized_intensity": 66.12804872248088
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 60.97955405156965,
+                "normalized_intensity": 30.489777025784825
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 51.4398144928841,
+                "normalized_intensity": 25.71990724644205
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 50.73600438136214,
+                "normalized_intensity": 25.36800219068107
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 72.37881228108775,
+                "normalized_intensity": 72.37881228108775
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 66.7087210729296,
+                "normalized_intensity": 66.7087210729296
+            }
+        ]
+    }
+}

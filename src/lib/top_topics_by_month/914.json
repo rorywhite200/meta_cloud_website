@@ -1,0 +1,117 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 214.4855766545978,
+                "normalized_intensity": 71.49519221819926
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 203.36776781898894,
+                "normalized_intensity": 67.78925593966298
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 201.7588185501937,
+                "normalized_intensity": 67.25293951673123
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 193.68468988246735,
+                "normalized_intensity": 64.56156329415579
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 173.19712204022989,
+                "normalized_intensity": 57.73237401340996
+            },
+            {
+                "topic": "education",
+                "weighted_count": 172.87239616723707,
+                "normalized_intensity": 57.62413205574569
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 151.60135673611893,
+                "normalized_intensity": 50.53378557870631
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 722.6455673763523,
+                "normalized_intensity": 48.17637115842349
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 490.1924698491847,
+                "normalized_intensity": 32.679497989945645
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 291.2748367210543,
+                "normalized_intensity": 19.41832244807029
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 214.37964893479557,
+                "normalized_intensity": 14.291976595653038
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 199.1263027290497,
+                "normalized_intensity": 13.275086848603314
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 111.53667411768292,
+                "normalized_intensity": 7.435778274512194
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 98.51856064210793,
+                "normalized_intensity": 6.5679040428071955
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.2552034213201,
+                "normalized_intensity": 3.6836802280880065
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 51.18504925632605,
+                "normalized_intensity": 3.4123366170884037
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 739.458404290827,
+                "normalized_intensity": 73.94584042908271
+            },
+            {
+                "topic": "community",
+                "weighted_count": 507.27938676437185,
+                "normalized_intensity": 50.727938676437184
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 155.14412061289744,
+                "normalized_intensity": 15.514412061289743
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 150.4305952863749,
+                "normalized_intensity": 15.04305952863749
+            }
+        ]
+    }
+}

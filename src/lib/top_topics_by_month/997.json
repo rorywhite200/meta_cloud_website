@@ -1,0 +1,152 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 123.59226518366088,
+                "normalized_intensity": 61.79613259183044
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 120.62738220263918,
+                "normalized_intensity": 60.31369110131959
+            },
+            {
+                "topic": "science",
+                "weighted_count": 117.11623951508858,
+                "normalized_intensity": 58.55811975754429
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 113.70988527361492,
+                "normalized_intensity": 56.85494263680746
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 108.24764911311995,
+                "normalized_intensity": 54.123824556559974
+            },
+            {
+                "topic": "education",
+                "weighted_count": 105.69313074725397,
+                "normalized_intensity": 52.84656537362699
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 98.8314494928267,
+                "normalized_intensity": 49.41572474641335
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 690.5577318246085,
+                "normalized_intensity": 62.77797562041895
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 583.7309929742365,
+                "normalized_intensity": 53.06645390674878
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 572.0473130199404,
+                "normalized_intensity": 52.00430118363094
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 505.802669885446,
+                "normalized_intensity": 45.982060898676906
+            },
+            {
+                "topic": "education",
+                "weighted_count": 450.00959587989496,
+                "normalized_intensity": 40.909963261808635
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 125.07642512032825,
+                "normalized_intensity": 62.538212560164126
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 107.51768654815312,
+                "normalized_intensity": 53.75884327407656
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 103.55998721346359,
+                "normalized_intensity": 51.77999360673179
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 100.60701045041202,
+                "normalized_intensity": 50.30350522520601
+            },
+            {
+                "topic": "education",
+                "weighted_count": 50.71682455690459,
+                "normalized_intensity": 25.358412278452295
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 66.66391184377744,
+                "normalized_intensity": 66.66391184377744
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 64.39014354975056,
+                "normalized_intensity": 64.39014354975056
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 63.00910363063418,
+                "normalized_intensity": 63.00910363063418
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 60.66623518711681,
+                "normalized_intensity": 60.66623518711681
+            },
+            {
+                "topic": "history",
+                "weighted_count": 57.88071314232203,
+                "normalized_intensity": 57.88071314232203
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 56.88049278288722,
+                "normalized_intensity": 56.88049278288722
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.66399184659764,
+                "normalized_intensity": 53.66399184659764
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.81511769411134,
+                "normalized_intensity": 51.81511769411134
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.23546105913333,
+                "normalized_intensity": 49.23546105913333
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 53.97536501390091,
+                "normalized_intensity": 53.97536501390091
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 58.70062716694859,
+                "normalized_intensity": 58.70062716694859
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 80.12736560897405,
+                "normalized_intensity": 80.12736560897405
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 72.98139834949254,
+                "normalized_intensity": 72.98139834949254
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.50008099825728,
+                "normalized_intensity": 49.50008099825728
+            }
+        ]
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "2023-10": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1568.7936425942503,
+                "normalized_intensity": 52.293121419808344
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 1537.9569163839067,
+                "normalized_intensity": 51.26523054613022
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1373.2378711220235,
+                "normalized_intensity": 45.77459570406745
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1325.2738590983488,
+                "normalized_intensity": 44.17579530327829
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 619.7792126723252,
+                "normalized_intensity": 20.659307089077508
+            },
+            {
+                "topic": "family",
+                "weighted_count": 214.27131860799733,
+                "normalized_intensity": 7.142377286933244
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 208.8722520150068,
+                "normalized_intensity": 6.962408400500227
+            },
+            {
+                "topic": "history",
+                "weighted_count": 200.1941461940425,
+                "normalized_intensity": 6.673138206468083
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 198.8553535089208,
+                "normalized_intensity": 6.628511783630694
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 41,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 2602.672620152662,
+                "normalized_intensity": 63.47982000372347
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 2480.2660385103645,
+                "normalized_intensity": 60.49429362220401
+            },
+            {
+                "topic": "family",
+                "weighted_count": 2258.2654160107945,
+                "normalized_intensity": 55.079644292946206
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 2193.4440244225807,
+                "normalized_intensity": 53.49863474201416
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1923.3645199422945,
+                "normalized_intensity": 46.91132975469011
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1496.5315169579012,
+                "normalized_intensity": 36.50076870629027
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 822.309998751068,
+                "normalized_intensity": 20.056341432952877
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 605.2386222244453,
+                "normalized_intensity": 14.761917615230374
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 459.22409487175526,
+                "normalized_intensity": 11.20058767979891
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 26,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 1274.1685133761162,
+                "normalized_intensity": 49.00648128369677
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1210.1388790837652,
+                "normalized_intensity": 46.543803041683276
+            },
+            {
+                "topic": "family",
+                "weighted_count": 982.2583997160069,
+                "normalized_intensity": 37.77916921984642
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 794.6926859756977,
+                "normalized_intensity": 30.565103306757603
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 698.9425566106073,
+                "normalized_intensity": 26.882406023484897
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 524.4520761262587,
+                "normalized_intensity": 20.171233697163796
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 482.02710958272456,
+                "normalized_intensity": 18.539504214720175
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 267.8180118790021,
+                "normalized_intensity": 10.300692764577004
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 218.46558790295677,
+                "normalized_intensity": 8.402522611652184
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 206.28960322287776,
+                "normalized_intensity": 7.934215508572222
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 199.1017196165674,
+                "normalized_intensity": 7.657758446791054
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 165.46048125891483,
+                "normalized_intensity": 6.363864663804416
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 109.38225863441085,
+                "normalized_intensity": 4.20700994747734
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 108.1270673485382,
+                "normalized_intensity": 4.158733359559162
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 451.6130834606312,
+                "normalized_intensity": 75.26884724343853
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 349.3150393868631,
+                "normalized_intensity": 58.21917323114385
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 313.01110804565315,
+                "normalized_intensity": 52.16851800760886
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 307.98105905043695,
+                "normalized_intensity": 51.33017650840616
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 306.0589936554601,
+                "normalized_intensity": 51.009832275910014
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 304.13061625596663,
+                "normalized_intensity": 76.03265406399166
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 214.59850280796883,
+                "normalized_intensity": 53.64962570199221
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 124.12445620722146,
+                "normalized_intensity": 31.031114051805364
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 123.46243414675048,
+                "normalized_intensity": 30.86560853668762
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 117.50801952983234,
+                "normalized_intensity": 29.377004882458085
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 109.6465195209267,
+                "normalized_intensity": 27.411629880231676
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 108.56130821664203,
+                "normalized_intensity": 27.140327054160508
+            },
+            {
+                "topic": "family",
+                "weighted_count": 104.79047072616066,
+                "normalized_intensity": 26.197617681540166
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 203.29544650910958,
+                "normalized_intensity": 50.823861627277395
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 192.06607654802988,
+                "normalized_intensity": 48.01651913700747
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 57.18121204010782,
+                "normalized_intensity": 14.295303010026956
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 55.902564061902495,
+                "normalized_intensity": 13.975641015475624
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.42478712963341,
+                "normalized_intensity": 12.856196782408352
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 62,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 3969.8292934086708,
+                "normalized_intensity": 64.02950473239791
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 3826.3445531441275,
+                "normalized_intensity": 61.71523472813109
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 2227.9111874179866,
+                "normalized_intensity": 35.93405140996752
+            },
+            {
+                "topic": "family",
+                "weighted_count": 2058.6818494141644,
+                "normalized_intensity": 33.204545958292975
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 1893.8371667834451,
+                "normalized_intensity": 30.545760754571695
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1013.0760696654675,
+                "normalized_intensity": 16.33993660750754
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 645.7541938612007,
+                "normalized_intensity": 10.415390223567753
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 168.15667561354306,
+                "normalized_intensity": 2.7122044453797267
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 165.86080247235603,
+                "normalized_intensity": 2.675174233425097
+            },
+            {
+                "topic": "food",
+                "weighted_count": 163.8903057846162,
+                "normalized_intensity": 2.6433920287841324
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 44,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 2571.784882693868,
+                "normalized_intensity": 58.449656424860635
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 2418.367954628458,
+                "normalized_intensity": 54.96290805973768
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 2301.067380088761,
+                "normalized_intensity": 52.29698591110821
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1141.167749406918,
+                "normalized_intensity": 25.935630668339044
+            },
+            {
+                "topic": "family",
+                "weighted_count": 749.8254179597657,
+                "normalized_intensity": 17.041486771812856
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 680.06710236429,
+                "normalized_intensity": 15.456070508279318
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 596.0807943334161,
+                "normalized_intensity": 13.54729078030491
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 224.2089008180574,
+                "normalized_intensity": 5.095656836774032
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 221.14773662980804,
+                "normalized_intensity": 5.026084923404728
+            },
+            {
+                "topic": "food",
+                "weighted_count": 218.5204077128216,
+                "normalized_intensity": 4.966372902564127
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 37,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 2098.4460663225163,
+                "normalized_intensity": 56.7147585492572
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 2003.9394784981841,
+                "normalized_intensity": 54.16052644589687
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 1478.5376733475982,
+                "normalized_intensity": 39.960477658043196
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 1379.12427475572,
+                "normalized_intensity": 37.27362904745189
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 1345.1746358493044,
+                "normalized_intensity": 36.35607123917039
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1333.700966232093,
+                "normalized_intensity": 36.04597206032683
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 997.7659830328868,
+                "normalized_intensity": 26.966648190078022
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 814.4802872862807,
+                "normalized_intensity": 22.012980737467046
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 628.2498769391001,
+                "normalized_intensity": 16.97972640375946
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 409.25728802139474,
+                "normalized_intensity": 11.06100778436202
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 382.63371691351836,
+                "normalized_intensity": 10.341451808473469
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 366.7178427316911,
+                "normalized_intensity": 9.911293046802463
+            },
+            {
+                "topic": "history",
+                "weighted_count": 364.8318768288831,
+                "normalized_intensity": 9.860320995375218
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 364.35985541308963,
+                "normalized_intensity": 9.847563659813233
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 246.34890883931618,
+                "normalized_intensity": 6.658078617278815
+            },
+            {
+                "topic": "food",
+                "weighted_count": 216.65710224513757,
+                "normalized_intensity": 5.855597357976691
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 198.6935981111387,
+                "normalized_intensity": 5.370097246246992
+            }
+        ]
+    }
+}

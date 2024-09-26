@@ -1,0 +1,57 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 180.70208463186202,
+                "normalized_intensity": 60.23402821062067
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 105.73281371368451,
+                "normalized_intensity": 35.244271237894836
+            },
+            {
+                "topic": "law",
+                "weighted_count": 70.02959399414648,
+                "normalized_intensity": 23.343197998048826
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 58.023828156575405,
+                "normalized_intensity": 19.3412760521918
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 55.22174767400977,
+                "normalized_intensity": 18.407249224669922
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 51.9936765894778,
+                "normalized_intensity": 17.331225529825932
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 66.63788462601889,
+                "normalized_intensity": 66.63788462601889
+            },
+            {
+                "topic": "military",
+                "weighted_count": 64.79892310761598,
+                "normalized_intensity": 64.79892310761598
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.82167947998359,
+                "normalized_intensity": 56.82167947998359
+            }
+        ]
+    }
+}

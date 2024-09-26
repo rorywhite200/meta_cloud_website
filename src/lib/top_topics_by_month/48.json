@@ -1,0 +1,97 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 64.70959070572422,
+                "normalized_intensity": 32.35479535286211
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.331117055732264,
+                "normalized_intensity": 30.665558527866132
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.60264275553015,
+                "normalized_intensity": 27.301321377765074
+            },
+            {
+                "topic": "food",
+                "weighted_count": 51.63987637662356,
+                "normalized_intensity": 25.81993818831178
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.34633068874691,
+                "normalized_intensity": 24.673165344373455
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.20308269865194,
+                "normalized_intensity": 24.60154134932597
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 64.89298504169653,
+                "normalized_intensity": 64.89298504169653
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.26700176139536,
+                "normalized_intensity": 57.26700176139536
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.43627219487832,
+                "normalized_intensity": 53.43627219487832
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.13595119716383,
+                "normalized_intensity": 55.13595119716383
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.15874366957388,
+                "normalized_intensity": 52.15874366957388
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 52.066344264642616,
+                "normalized_intensity": 52.066344264642616
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 50.717202434260635,
+                "normalized_intensity": 50.717202434260635
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.3521870147724,
+                "normalized_intensity": 49.3521870147724
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 50.1406538643296,
+                "normalized_intensity": 50.1406538643296
+            }
+        ]
+    }
+}

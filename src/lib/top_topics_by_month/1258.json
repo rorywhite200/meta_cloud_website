@@ -1,0 +1,47 @@
+{
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 210.7454282938964,
+                "normalized_intensity": 52.6863570734741
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 207.43078929680453,
+                "normalized_intensity": 51.85769732420113
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 207.20573307070205,
+                "normalized_intensity": 51.80143326767551
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 62.412963139294376,
+                "normalized_intensity": 62.412963139294376
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 59.2444810767451,
+                "normalized_intensity": 59.2444810767451
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 58.33864206750016,
+                "normalized_intensity": 58.33864206750016
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.67799800864379,
+                "normalized_intensity": 49.67799800864379
+            }
+        ]
+    }
+}

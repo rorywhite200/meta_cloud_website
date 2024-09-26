@@ -1,0 +1,122 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 55.33046836659922,
+                "normalized_intensity": 55.33046836659922
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 283.54762320925573,
+                "normalized_intensity": 47.257937201542624
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 106.60534157206837,
+                "normalized_intensity": 17.76755692867806
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 80.76743345336271,
+                "normalized_intensity": 13.461238908893785
+            },
+            {
+                "topic": "business",
+                "weighted_count": 77.57409633158555,
+                "normalized_intensity": 12.929016055264258
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 59.82744918083268,
+                "normalized_intensity": 9.97124153013878
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 57.15519773960259,
+                "normalized_intensity": 9.525866289933765
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.32651170714568,
+                "normalized_intensity": 9.22108528452428
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.49082269242733,
+                "normalized_intensity": 8.581803782071221
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.46903834045523,
+                "normalized_intensity": 8.411506390075871
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 49.861948703520255,
+                "normalized_intensity": 8.310324783920043
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.24623277112462,
+                "normalized_intensity": 8.207705461854102
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 296.6059691050025,
+                "normalized_intensity": 42.37228130071464
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 168.9778724176644,
+                "normalized_intensity": 24.139696059666342
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.05474749524598,
+                "normalized_intensity": 14.72210678503514
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 69.16356726212756,
+                "normalized_intensity": 9.880509608875366
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 55.582408836899745,
+                "normalized_intensity": 7.940344119557106
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 53.58950042294398,
+                "normalized_intensity": 7.6556429175634255
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.55684735116907,
+                "normalized_intensity": 7.6509781930241525
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.95277919270276,
+                "normalized_intensity": 7.1361113132432505
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.30782718960206,
+                "normalized_intensity": 7.043975312800294
+            }
+        ]
+    }
+}

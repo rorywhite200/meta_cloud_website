@@ -1,0 +1,27 @@
+{
+    "2024-07": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 270.60655054419806,
+                "normalized_intensity": 45.10109175736634
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 190.44064265933997,
+                "normalized_intensity": 31.740107109889994
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 169.70768550441716,
+                "normalized_intensity": 28.284614250736194
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.603655355685255,
+                "normalized_intensity": 9.26727589261421
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 62.77373492881323,
+                "normalized_intensity": 62.77373492881323
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 60.575938427420674,
+                "normalized_intensity": 60.575938427420674
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 57.86767732718917,
+                "normalized_intensity": 57.86767732718917
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.30967181803368,
+                "normalized_intensity": 50.30967181803368
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.967409255894864,
+                "normalized_intensity": 49.967409255894864
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.875686376627065,
+                "normalized_intensity": 49.875686376627065
+            }
+        ]
+    }
+}

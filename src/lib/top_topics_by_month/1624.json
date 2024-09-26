@@ -1,0 +1,52 @@
+{
+    "2023-11": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 596.5929626962566,
+                "normalized_intensity": 74.57412033703207
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 577.5757941245362,
+                "normalized_intensity": 72.19697426556702
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 545.0557180481808,
+                "normalized_intensity": 68.1319647560226
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 514.6302500816878,
+                "normalized_intensity": 64.32878126021097
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 196.30082671906757,
+                "normalized_intensity": 24.537603339883447
+            },
+            {
+                "topic": "music",
+                "weighted_count": 161.82764298359876,
+                "normalized_intensity": 20.228455372949846
+            },
+            {
+                "topic": "science",
+                "weighted_count": 161.4218303511725,
+                "normalized_intensity": 20.177728793896563
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 159.62626917283103,
+                "normalized_intensity": 19.95328364660388
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 153.1092218656412,
+                "normalized_intensity": 19.13865273320515
+            }
+        ]
+    }
+}

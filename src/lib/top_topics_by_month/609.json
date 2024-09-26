@@ -1,0 +1,92 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 74.40502446987179,
+                "normalized_intensity": 74.40502446987179
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.41284161557393,
+                "normalized_intensity": 60.41284161557393
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.52456349518078,
+                "normalized_intensity": 52.52456349518078
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 73.41055757388268,
+                "normalized_intensity": 73.41055757388268
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.58453777180418,
+                "normalized_intensity": 56.58453777180418
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 55.89077993567958,
+                "normalized_intensity": 55.89077993567958
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.70160872868082,
+                "normalized_intensity": 55.70160872868082
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 77.04283189398299,
+                "normalized_intensity": 77.04283189398299
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.17165319536759,
+                "normalized_intensity": 57.17165319536759
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 54.7436680478148,
+                "normalized_intensity": 54.7436680478148
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.6977667377026,
+                "normalized_intensity": 54.6977667377026
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 73.01037918290336,
+                "normalized_intensity": 73.01037918290336
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 64.82898234171569,
+                "normalized_intensity": 64.82898234171569
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 55.78223668099918,
+                "normalized_intensity": 55.78223668099918
+            }
+        ]
+    }
+}

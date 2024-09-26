@@ -1,0 +1,122 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 175.82331835978852,
+                "normalized_intensity": 87.91165917989426
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 147.9208238518981,
+                "normalized_intensity": 73.96041192594905
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 139.7661706760326,
+                "normalized_intensity": 69.8830853380163
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 128.7956976041778,
+                "normalized_intensity": 64.3978488020889
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 128.01848685771296,
+                "normalized_intensity": 64.00924342885648
+            },
+            {
+                "topic": "community",
+                "weighted_count": 123.71091021793431,
+                "normalized_intensity": 61.855455108967156
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 115.11621711711382,
+                "normalized_intensity": 57.55810855855691
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 115.00753180226286,
+                "normalized_intensity": 57.50376590113143
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 63.21798920662083,
+                "normalized_intensity": 31.608994603310414
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 55.18507297525932,
+                "normalized_intensity": 27.59253648762966
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.70310772471163,
+                "normalized_intensity": 25.351553862355814
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 170.6174243821472,
+                "normalized_intensity": 85.3087121910736
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 139.09017407196322,
+                "normalized_intensity": 69.54508703598161
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 134.32349534408272,
+                "normalized_intensity": 67.16174767204136
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 132.9006307772512,
+                "normalized_intensity": 66.4503153886256
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 129.1118849258956,
+                "normalized_intensity": 64.5559424629478
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 111.42455774592943,
+                "normalized_intensity": 55.71227887296472
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 109.6345868326313,
+                "normalized_intensity": 54.81729341631565
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 109.42503186929551,
+                "normalized_intensity": 54.712515934647755
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 109.41028042790812,
+                "normalized_intensity": 54.70514021395406
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.64388513492779,
+                "normalized_intensity": 53.32194256746389
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 51.39546874635076,
+                "normalized_intensity": 25.69773437317538
+            }
+        ]
+    }
+}

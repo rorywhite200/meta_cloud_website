@@ -1,0 +1,52 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 117.79549569350219,
+                "normalized_intensity": 58.897747846751095
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 115.59313162474922,
+                "normalized_intensity": 57.79656581237461
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 114.62313980287182,
+                "normalized_intensity": 57.31156990143591
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 112.97440778986419,
+                "normalized_intensity": 56.487203894932094
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 58.897747846751095,
+                "normalized_intensity": 58.897747846751095
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 57.79656581237461,
+                "normalized_intensity": 57.79656581237461
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.31156990143591,
+                "normalized_intensity": 57.31156990143591
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 56.487203894932094,
+                "normalized_intensity": 56.487203894932094
+            }
+        ]
+    }
+}

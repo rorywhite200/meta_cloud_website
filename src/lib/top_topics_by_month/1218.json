@@ -1,0 +1,87 @@
+{
+    "2024-01": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 919.0794618752539,
+                "normalized_intensity": 76.58995515627116
+            },
+            {
+                "topic": "science",
+                "weighted_count": 760.2668711486523,
+                "normalized_intensity": 63.35557259572102
+            },
+            {
+                "topic": "health",
+                "weighted_count": 730.1293082422417,
+                "normalized_intensity": 60.844109020186806
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 675.9089239202822,
+                "normalized_intensity": 56.32574366002351
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 306.3598206250847,
+                "normalized_intensity": 76.58995515627117
+            },
+            {
+                "topic": "science",
+                "weighted_count": 253.42229038288409,
+                "normalized_intensity": 63.35557259572102
+            },
+            {
+                "topic": "health",
+                "weighted_count": 243.37643608074723,
+                "normalized_intensity": 60.844109020186806
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 225.30297464009408,
+                "normalized_intensity": 56.32574366002352
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 306.5145470631861,
+                "normalized_intensity": 76.62863676579653
+            },
+            {
+                "topic": "science",
+                "weighted_count": 251.54871627676076,
+                "normalized_intensity": 62.88717906919019
+            },
+            {
+                "topic": "health",
+                "weighted_count": 243.56589697931005,
+                "normalized_intensity": 60.89147424482751
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 224.09523954507077,
+                "normalized_intensity": 56.02380988626769
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 203.97436051881482,
+                "normalized_intensity": 50.993590129703705
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 196.8387539614649,
+                "normalized_intensity": 49.209688490366226
+            }
+        ]
+    }
+}

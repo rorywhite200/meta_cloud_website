@@ -1,0 +1,192 @@
+{
+    "2024-05": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "animal-rights",
+                "weighted_count": 653.7568649146929,
+                "normalized_intensity": 65.37568649146928
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 546.8852923562354,
+                "normalized_intensity": 54.688529235623534
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 401.4948134802455,
+                "normalized_intensity": 40.14948134802455
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 173.06737434936366,
+                "normalized_intensity": 17.306737434936366
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 169.082702753315,
+                "normalized_intensity": 16.9082702753315
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 167.8785677820771,
+                "normalized_intensity": 16.78785677820771
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 165.82187639284567,
+                "normalized_intensity": 16.582187639284566
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 161.70107182482127,
+                "normalized_intensity": 16.170107182482127
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 158.19517928880262,
+                "normalized_intensity": 15.819517928880263
+            },
+            {
+                "topic": "family",
+                "weighted_count": 153.4438015271578,
+                "normalized_intensity": 15.34438015271578
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 132.39237353171728,
+                "normalized_intensity": 13.239237353171728
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 123.7122990058943,
+                "normalized_intensity": 12.37122990058943
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 105.62548403731505,
+                "normalized_intensity": 10.562548403731505
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 105.50042645283304,
+                "normalized_intensity": 10.550042645283304
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "animal-rights",
+                "weighted_count": 1343.2842948519954,
+                "normalized_intensity": 67.16421474259977
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 1112.880905448893,
+                "normalized_intensity": 55.64404527244464
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 791.367940383594,
+                "normalized_intensity": 39.5683970191797
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 629.4416487974704,
+                "normalized_intensity": 31.47208243987352
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 322.42693890430627,
+                "normalized_intensity": 16.121346945215315
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 320.9939080839053,
+                "normalized_intensity": 16.049695404195266
+            },
+            {
+                "topic": "family",
+                "weighted_count": 302.073535860565,
+                "normalized_intensity": 15.103676793028251
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 263.21248218401746,
+                "normalized_intensity": 13.160624109200873
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 231.45161597026788,
+                "normalized_intensity": 11.572580798513394
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 225.02252931541489,
+                "normalized_intensity": 11.251126465770744
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 223.78636978179648,
+                "normalized_intensity": 11.189318489089825
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 215.77021762890558,
+                "normalized_intensity": 10.78851088144528
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 183.18091043409743,
+                "normalized_intensity": 9.159045521704872
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 164.81633667337806,
+                "normalized_intensity": 8.240816833668903
+            },
+            {
+                "topic": "food",
+                "weighted_count": 109.17274570488405,
+                "normalized_intensity": 5.458637285244203
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 104.19016880957327,
+                "normalized_intensity": 5.209508440478663
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 69.93476543966398,
+                "normalized_intensity": 69.93476543966398
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 66.53287490416885,
+                "normalized_intensity": 66.53287490416885
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 61.46683414293579,
+                "normalized_intensity": 61.46683414293579
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.95433390591485,
+                "normalized_intensity": 51.95433390591485
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.86823903423981,
+                "normalized_intensity": 50.86823903423981
+            }
+        ]
+    }
+}

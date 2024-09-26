@@ -1,0 +1,822 @@
+{
+    "2023-09": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 513.9640514588468,
+                "normalized_intensity": 42.83033762157057
+            },
+            {
+                "topic": "community",
+                "weighted_count": 352.5364952528247,
+                "normalized_intensity": 29.378041271068724
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 180.86842949298048,
+                "normalized_intensity": 15.07236912441504
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 133.841351984793,
+                "normalized_intensity": 11.15344599873275
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 125.92362479163509,
+                "normalized_intensity": 10.493635399302924
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 110.72953033953982,
+                "normalized_intensity": 9.227460861628318
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 102.78814761293086,
+                "normalized_intensity": 8.565678967744239
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 99.35017193703148,
+                "normalized_intensity": 8.279180994752624
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.1285509024768,
+                "normalized_intensity": 8.2607125752064
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 61.96468144354704,
+                "normalized_intensity": 5.16372345362892
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 56.24803180324971,
+                "normalized_intensity": 4.687335983604142
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.6555412904609,
+                "normalized_intensity": 4.137961774205075
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.60363880224676,
+                "normalized_intensity": 4.133636566853897
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 280.32799455163797,
+                "normalized_intensity": 70.08199863790949
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 131.2914753982438,
+                "normalized_intensity": 32.82286884956095
+            },
+            {
+                "topic": "community",
+                "weighted_count": 123.05549929728303,
+                "normalized_intensity": 30.76387482432076
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 110.31782668323984,
+                "normalized_intensity": 27.57945667080996
+            },
+            {
+                "topic": "health",
+                "weighted_count": 109.49414853787499,
+                "normalized_intensity": 27.373537134468748
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 100.71611562200853,
+                "normalized_intensity": 25.179028905502133
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 56.53139906389556,
+                "normalized_intensity": 14.13284976597389
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 53.90216117978176,
+                "normalized_intensity": 13.47554029494544
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.21965001547747,
+                "normalized_intensity": 12.304912503869367
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 55.55254397212542,
+                "normalized_intensity": 18.51751465737514
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.60946120940966,
+                "normalized_intensity": 16.53648706980322
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 698.4012440443566,
+                "normalized_intensity": 69.84012440443567
+            },
+            {
+                "topic": "health",
+                "weighted_count": 426.89687482361467,
+                "normalized_intensity": 42.689687482361464
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 264.9170269042398,
+                "normalized_intensity": 26.491702690423978
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 230.17827930907538,
+                "normalized_intensity": 23.017827930907536
+            },
+            {
+                "topic": "community",
+                "weighted_count": 229.52268026684834,
+                "normalized_intensity": 22.952268026684834
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 212.29873227332988,
+                "normalized_intensity": 21.229873227332988
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 206.5200935806463,
+                "normalized_intensity": 20.65200935806463
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 205.92915570912027,
+                "normalized_intensity": 20.592915570912027
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 194.82438268203896,
+                "normalized_intensity": 19.482438268203897
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 178.30849825280347,
+                "normalized_intensity": 17.830849825280346
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 152.4426333812096,
+                "normalized_intensity": 15.244263338120959
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 133.95979192709308,
+                "normalized_intensity": 13.395979192709309
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 101.91590242455902,
+                "normalized_intensity": 10.191590242455902
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 101.21557465184073,
+                "normalized_intensity": 10.121557465184072
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.525211186396554,
+                "normalized_intensity": 5.052521118639655
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.070569365977526,
+                "normalized_intensity": 5.007056936597753
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.78890268810847,
+                "normalized_intensity": 4.978890268810847
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.51704305336103,
+                "normalized_intensity": 4.9517043053361025
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 906.4812020939053,
+                "normalized_intensity": 64.74865729242181
+            },
+            {
+                "topic": "health",
+                "weighted_count": 349.26914750995826,
+                "normalized_intensity": 24.947796250711303
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 286.07034775598515,
+                "normalized_intensity": 20.433596268284653
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 270.03347096211405,
+                "normalized_intensity": 19.288105068722434
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 268.3505469470853,
+                "normalized_intensity": 19.167896210506093
+            },
+            {
+                "topic": "community",
+                "weighted_count": 246.08158881544625,
+                "normalized_intensity": 17.577256343960446
+            },
+            {
+                "topic": "law",
+                "weighted_count": 236.60930089761183,
+                "normalized_intensity": 16.900664349829416
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 220.8271393379797,
+                "normalized_intensity": 15.773367095569979
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 211.33401824685092,
+                "normalized_intensity": 15.095287017632208
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 204.87939154281256,
+                "normalized_intensity": 14.634242253058039
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 176.74734954094228,
+                "normalized_intensity": 12.624810681495877
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 170.64811794390647,
+                "normalized_intensity": 12.189151281707606
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 169.9149765860336,
+                "normalized_intensity": 12.136784041859542
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 149.85190861571627,
+                "normalized_intensity": 10.703707758265448
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 127.71232009612561,
+                "normalized_intensity": 9.122308578294687
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 110.98750656258777,
+                "normalized_intensity": 7.927679040184841
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 102.81852267688069,
+                "normalized_intensity": 7.344180191205764
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 102.57021800597171,
+                "normalized_intensity": 7.326444143283694
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 100.20778373555832,
+                "normalized_intensity": 7.1576988382541655
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 65.16503241426278,
+                "normalized_intensity": 4.654645172447341
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 63.04565476622114,
+                "normalized_intensity": 4.503261054730081
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.82359639195614,
+                "normalized_intensity": 3.773114027996867
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.34564292726568,
+                "normalized_intensity": 3.5961173519475484
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.92684965363795,
+                "normalized_intensity": 3.566203546688425
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.51437833550036,
+                "normalized_intensity": 3.536741309678597
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 894.4734203208262,
+                "normalized_intensity": 42.59397239622982
+            },
+            {
+                "topic": "community",
+                "weighted_count": 747.221009089291,
+                "normalized_intensity": 35.581952813775764
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 634.0672912687314,
+                "normalized_intensity": 30.19368053660626
+            },
+            {
+                "topic": "health",
+                "weighted_count": 555.064858967612,
+                "normalized_intensity": 26.431659950838668
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 508.7335738648975,
+                "normalized_intensity": 24.225408279280835
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 393.19996942446187,
+                "normalized_intensity": 18.723808067831516
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 332.82428397108026,
+                "normalized_intensity": 15.848775427194298
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 315.1938774059946,
+                "normalized_intensity": 15.009232257428314
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 261.1547024186288,
+                "normalized_intensity": 12.435938210410896
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 236.11903419123763,
+                "normalized_intensity": 11.243763532916077
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 161.01710655601613,
+                "normalized_intensity": 7.667481264572197
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 153.20533805544974,
+                "normalized_intensity": 7.295492288354749
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 114.8627260975566,
+                "normalized_intensity": 5.469653623693172
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 105.75860361806893,
+                "normalized_intensity": 5.036123981812806
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 104.15231880697482,
+                "normalized_intensity": 4.959634228903563
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 103.74288909320899,
+                "normalized_intensity": 4.9401375758670945
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 66.10829244665197,
+                "normalized_intensity": 3.1480139260310462
+            },
+            {
+                "topic": "art",
+                "weighted_count": 63.41694074939204,
+                "normalized_intensity": 3.019854321399621
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 59.75948770606434,
+                "normalized_intensity": 2.8456898907649686
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.53724197946629,
+                "normalized_intensity": 2.6446305704507758
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.04603945160541,
+                "normalized_intensity": 2.478382831028829
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 50.87588948043812,
+                "normalized_intensity": 2.4226614038303866
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.094895966328565,
+                "normalized_intensity": 2.3854712364918362
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 49.810400071053806,
+                "normalized_intensity": 2.371923812907324
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 1180.049055127728,
+                "normalized_intensity": 65.55828084042933
+            },
+            {
+                "topic": "health",
+                "weighted_count": 421.85398158945844,
+                "normalized_intensity": 23.43633231052547
+            },
+            {
+                "topic": "community",
+                "weighted_count": 371.74257851097656,
+                "normalized_intensity": 20.65236547283203
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 323.4200901360689,
+                "normalized_intensity": 17.96778278533716
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 321.31994607367324,
+                "normalized_intensity": 17.85110811520407
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 257.9966822364885,
+                "normalized_intensity": 14.333149013138248
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 256.61456343497997,
+                "normalized_intensity": 14.256364635276665
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 250.24254884207895,
+                "normalized_intensity": 13.902363824559941
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 236.54755480876804,
+                "normalized_intensity": 13.141530822709335
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 203.87664443295574,
+                "normalized_intensity": 11.326480246275318
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 164.66630920270111,
+                "normalized_intensity": 9.14812828903895
+            },
+            {
+                "topic": "family",
+                "weighted_count": 149.5102315993791,
+                "normalized_intensity": 8.306123977743283
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 129.7483645929172,
+                "normalized_intensity": 7.208242477384289
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 118.58236371473578,
+                "normalized_intensity": 6.5879090952630985
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 116.64852651884917,
+                "normalized_intensity": 6.480473695491621
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 110.50348561492655,
+                "normalized_intensity": 6.139082534162586
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 110.07188094260619,
+                "normalized_intensity": 6.115104496811455
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 77.1652446663498,
+                "normalized_intensity": 4.286958037019434
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 71.03998957267666,
+                "normalized_intensity": 3.9466660873709256
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.90399430037716,
+                "normalized_intensity": 2.994666350020953
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 51.37761539378347,
+                "normalized_intensity": 2.854311966321304
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 49.61563754364297,
+                "normalized_intensity": 2.756424307980165
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 375.3696743426805,
+                "normalized_intensity": 41.70774159363117
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 320.7306785645981,
+                "normalized_intensity": 35.63674206273313
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 234.4606797613347,
+                "normalized_intensity": 26.0511866401483
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 222.01172888563917,
+                "normalized_intensity": 24.66796987618213
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 208.11443595063204,
+                "normalized_intensity": 23.123826216736894
+            },
+            {
+                "topic": "health",
+                "weighted_count": 160.68008445570297,
+                "normalized_intensity": 17.85334271730033
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 118.07490103415111,
+                "normalized_intensity": 13.119433448239013
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 113.18917606966308,
+                "normalized_intensity": 12.576575118851453
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.62334370531303,
+                "normalized_intensity": 11.958149300590337
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.81934304095748,
+                "normalized_intensity": 5.86881589343972
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 50.87978265438514,
+                "normalized_intensity": 5.653309183820571
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.70988636285041,
+                "normalized_intensity": 5.63443181809449
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.21296053440908,
+                "normalized_intensity": 5.579217837156564
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.910613883707995,
+                "normalized_intensity": 5.545623764856444
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 49.424868865555524,
+                "normalized_intensity": 5.491652096172836
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 49.23075363508658,
+                "normalized_intensity": 5.4700837372318425
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.07270415155584,
+                "normalized_intensity": 5.452522683506205
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 64.23841003853008,
+                "normalized_intensity": 64.23841003853008
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.75340053606277,
+                "normalized_intensity": 52.75340053606277
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.04237691734663,
+                "normalized_intensity": 51.04237691734663
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.47570351137834,
+                "normalized_intensity": 49.47570351137834
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 514.9870968226762,
+                "normalized_intensity": 57.22078853585291
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 444.1759747828743,
+                "normalized_intensity": 49.35288608698603
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 386.8137804780595,
+                "normalized_intensity": 42.97930894200661
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 260.07258906389285,
+                "normalized_intensity": 28.89695434043254
+            },
+            {
+                "topic": "health",
+                "weighted_count": 215.39362432244076,
+                "normalized_intensity": 23.93262492471564
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 152.06503015473848,
+                "normalized_intensity": 16.89611446163761
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 100.72745838675381,
+                "normalized_intensity": 11.191939820750424
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 56.29578541140532,
+                "normalized_intensity": 6.2550872679339244
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.05938438921283,
+                "normalized_intensity": 6.117709376579203
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 53.761000394808114,
+                "normalized_intensity": 5.973444488312013
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.38335818926101,
+                "normalized_intensity": 5.820373132140112
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.50343857730698,
+                "normalized_intensity": 5.6114931752563315
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 425.51795166247257,
+                "normalized_intensity": 60.78827880892465
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 294.7773934403735,
+                "normalized_intensity": 42.11105620576764
+            },
+            {
+                "topic": "community",
+                "weighted_count": 222.42016951128952,
+                "normalized_intensity": 31.774309930184216
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 114.5489492222971,
+                "normalized_intensity": 16.3641356031853
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 103.59886329275506,
+                "normalized_intensity": 14.799837613250721
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 60.355420348870545,
+                "normalized_intensity": 8.622202906981506
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.284807508404974,
+                "normalized_intensity": 7.326401072629282
+            }
+        ]
+    }
+}

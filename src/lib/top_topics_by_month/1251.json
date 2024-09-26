@@ -1,0 +1,362 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 363.15915792830975,
+                "normalized_intensity": 72.63183158566196
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 147.1977774768253,
+                "normalized_intensity": 29.439555495365063
+            },
+            {
+                "topic": "community",
+                "weighted_count": 114.18609418248548,
+                "normalized_intensity": 22.837218836497094
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 112.32140168087415,
+                "normalized_intensity": 22.46428033617483
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 82.01384996524193,
+                "normalized_intensity": 16.402769993048388
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 68.73182926826678,
+                "normalized_intensity": 13.746365853653355
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 67.77147460579295,
+                "normalized_intensity": 13.55429492115859
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 62.749522412505044,
+                "normalized_intensity": 12.54990448250101
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 61.829897866664474,
+                "normalized_intensity": 12.365979573332895
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 61.716006089973,
+                "normalized_intensity": 12.3432012179946
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 59.33805400366901,
+                "normalized_intensity": 11.867610800733802
+            },
+            {
+                "topic": "security",
+                "weighted_count": 56.61463218847267,
+                "normalized_intensity": 11.322926437694534
+            },
+            {
+                "topic": "health",
+                "weighted_count": 55.020234854291516,
+                "normalized_intensity": 11.004046970858303
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 54.018674324721815,
+                "normalized_intensity": 10.803734864944364
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 53.648672808029396,
+                "normalized_intensity": 10.729734561605879
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.51223047846022,
+                "normalized_intensity": 10.302446095692044
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.03403610045111,
+                "normalized_intensity": 9.806807220090223
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 431.88469321335987,
+                "normalized_intensity": 61.697813316194264
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 280.0260872077744,
+                "normalized_intensity": 40.003726743967775
+            },
+            {
+                "topic": "community",
+                "weighted_count": 171.36390919301087,
+                "normalized_intensity": 24.48055845614441
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 154.78317222188585,
+                "normalized_intensity": 22.11188174598369
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 132.03649635454124,
+                "normalized_intensity": 18.86235662207732
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 69.5558134549096,
+                "normalized_intensity": 9.936544779272799
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 68.47709341658508,
+                "normalized_intensity": 9.782441916655012
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 62.749522412505044,
+                "normalized_intensity": 8.96421748750072
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 62.26305225849028,
+                "normalized_intensity": 8.894721751212897
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 61.38814768731437,
+                "normalized_intensity": 8.769735383902054
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 59.969404306633386,
+                "normalized_intensity": 8.567057758090483
+            },
+            {
+                "topic": "security",
+                "weighted_count": 56.61463218847267,
+                "normalized_intensity": 8.08780459835324
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.844435300856865,
+                "normalized_intensity": 7.834919328693838
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 54.018674324721815,
+                "normalized_intensity": 7.716953474960259
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.70409456295491,
+                "normalized_intensity": 7.529156366136415
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.59515269000116,
+                "normalized_intensity": 7.513593241428737
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.550000952632395,
+                "normalized_intensity": 7.5071429932332
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.125704088640745,
+                "normalized_intensity": 7.446529155520106
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 52.030092890274936,
+                "normalized_intensity": 7.43287041289642
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 49.70003355879297,
+                "normalized_intensity": 7.100004794113281
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 49.56751142086126,
+                "normalized_intensity": 7.081073060123037
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 49.26637459466791,
+                "normalized_intensity": 7.038053513523987
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.24721494224831,
+                "normalized_intensity": 7.0353164203211875
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.03403610045111,
+                "normalized_intensity": 7.0048623000644445
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 81.04534487008927,
+                "normalized_intensity": 81.04534487008927
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 64.93555028003203,
+                "normalized_intensity": 64.93555028003203
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 64.5744077624925,
+                "normalized_intensity": 64.5744077624925
+            },
+            {
+                "topic": "community",
+                "weighted_count": 63.23821798341711,
+                "normalized_intensity": 63.23821798341711
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 61.64542122508264,
+                "normalized_intensity": 61.64542122508264
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 59.867861766889405,
+                "normalized_intensity": 59.867861766889405
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.95431715574972,
+                "normalized_intensity": 54.95431715574972
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.679452821126716,
+                "normalized_intensity": 54.679452821126716
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.23248349334745,
+                "normalized_intensity": 53.23248349334745
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 51.991240026153804,
+                "normalized_intensity": 51.991240026153804
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.823954923672225,
+                "normalized_intensity": 49.823954923672225
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 325.2172451837083,
+                "normalized_intensity": 65.04344903674166
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 218.40978105182631,
+                "normalized_intensity": 43.681956210365264
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 154.78317222188585,
+                "normalized_intensity": 30.95663444437717
+            },
+            {
+                "topic": "community",
+                "weighted_count": 114.9168461816999,
+                "normalized_intensity": 22.98336923633998
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 69.5558134549096,
+                "normalized_intensity": 13.91116269098192
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 68.47709341658508,
+                "normalized_intensity": 13.695418683317016
+            },
+            {
+                "topic": "security",
+                "weighted_count": 64.70487568619205,
+                "normalized_intensity": 12.94097513723841
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 62.26305225849028,
+                "normalized_intensity": 12.452610451698057
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 61.64784004494817,
+                "normalized_intensity": 12.329568008989634
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 61.38814768731437,
+                "normalized_intensity": 12.277629537462875
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 59.969404306633386,
+                "normalized_intensity": 11.993880861326677
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 55.27148250720785,
+                "normalized_intensity": 11.05429650144157
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.844435300856865,
+                "normalized_intensity": 10.968887060171372
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.59515269000116,
+                "normalized_intensity": 10.519030538000232
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.125704088640745,
+                "normalized_intensity": 10.425140817728149
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 49.70003355879297,
+                "normalized_intensity": 9.940006711758594
+            }
+        ]
+    }
+}

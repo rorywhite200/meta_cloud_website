@@ -1,0 +1,42 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 77.15159775736325,
+                "normalized_intensity": 38.575798878681624
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 70.52498457057835,
+                "normalized_intensity": 35.26249228528918
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 61.51974738520275,
+                "normalized_intensity": 30.759873692601374
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.58410816317763,
+                "normalized_intensity": 29.292054081588816
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.408040954346525,
+                "normalized_intensity": 28.204020477173263
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 52.172277368718845,
+                "normalized_intensity": 26.086138684359423
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.73295140520142,
+                "normalized_intensity": 25.86647570260071
+            }
+        ]
+    }
+}

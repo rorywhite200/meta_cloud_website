@@ -1,0 +1,22 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 62.3132113397557,
+                "normalized_intensity": 62.3132113397557
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 58.984200295105914,
+                "normalized_intensity": 58.984200295105914
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 54.17721609355005,
+                "normalized_intensity": 54.17721609355005
+            }
+        ]
+    }
+}

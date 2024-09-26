@@ -1,0 +1,27 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 142.3547197884841,
+                "normalized_intensity": 71.17735989424204
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 128.92905804970155,
+                "normalized_intensity": 64.46452902485078
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 108.55688919856632,
+                "normalized_intensity": 54.27844459928316
+            },
+            {
+                "topic": "music",
+                "weighted_count": 107.55199388640551,
+                "normalized_intensity": 53.775996943202756
+            }
+        ]
+    }
+}

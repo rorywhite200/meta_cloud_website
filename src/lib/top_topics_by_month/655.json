@@ -1,0 +1,47 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 63.137912310919795,
+                "normalized_intensity": 63.137912310919795
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 58.05828577198325,
+                "normalized_intensity": 58.05828577198325
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 129.42842764648873,
+                "normalized_intensity": 43.14280921549624
+            },
+            {
+                "topic": "art",
+                "weighted_count": 82.85979956094995,
+                "normalized_intensity": 27.619933186983317
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 72.9996127067869,
+                "normalized_intensity": 24.333204235595634
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.73764692211244,
+                "normalized_intensity": 18.579215640704145
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.05659206130735,
+                "normalized_intensity": 17.68553068710245
+            }
+        ]
+    }
+}

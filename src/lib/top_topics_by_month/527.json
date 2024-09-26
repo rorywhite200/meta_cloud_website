@@ -1,0 +1,87 @@
+{
+    "2024-05": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 534.634458412743,
+                "normalized_intensity": 76.37635120182043
+            },
+            {
+                "topic": "health",
+                "weighted_count": 502.89341984437857,
+                "normalized_intensity": 71.84191712062551
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 442.1667052624911,
+                "normalized_intensity": 63.166672180355874
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 432.7082829144324,
+                "normalized_intensity": 61.81546898777606
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 432.511970440091,
+                "normalized_intensity": 61.78742434858442
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 403.0100306979256,
+                "normalized_intensity": 57.572861528275084
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 362.3250248672413,
+                "normalized_intensity": 51.760717838177335
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 296.9859154957386,
+                "normalized_intensity": 42.426559356534085
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 865.6370011839334,
+                "normalized_intensity": 78.69427283490303
+            },
+            {
+                "topic": "health",
+                "weighted_count": 792.9945742206731,
+                "normalized_intensity": 72.09041583824302
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 660.5341117814249,
+                "normalized_intensity": 60.048555616493175
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 655.160408739009,
+                "normalized_intensity": 59.560037158091724
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 645.4370147861423,
+                "normalized_intensity": 58.67609225328567
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 555.4193117864731,
+                "normalized_intensity": 50.492664707861195
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 163.27425359412962,
+                "normalized_intensity": 14.843113963102693
+            }
+        ]
+    }
+}

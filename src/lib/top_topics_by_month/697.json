@@ -1,0 +1,67 @@
+{
+    "2024-05": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 1271.1229698583845,
+                "normalized_intensity": 63.55614849291923
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1123.568393646848,
+                "normalized_intensity": 56.17841968234241
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 714.6598360364212,
+                "normalized_intensity": 35.73299180182106
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 668.3966522807933,
+                "normalized_intensity": 33.41983261403966
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 630.693045867801,
+                "normalized_intensity": 31.534652293390046
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 342.36298704881574,
+                "normalized_intensity": 17.11814935244079
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 150.27232117825167,
+                "normalized_intensity": 7.513616058912584
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 53.096351538367436,
+                "normalized_intensity": 2.6548175769183717
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.26876693300498,
+                "normalized_intensity": 2.563438346650249
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 53.096351538367436,
+                "normalized_intensity": 53.096351538367436
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.26876693300498,
+                "normalized_intensity": 51.26876693300498
+            }
+        ]
+    }
+}

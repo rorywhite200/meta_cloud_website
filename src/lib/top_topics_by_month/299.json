@@ -1,0 +1,32 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 63.03055744787927,
+                "normalized_intensity": 63.03055744787927
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 60.9616101215879,
+                "normalized_intensity": 60.9616101215879
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 55.337084087504984,
+                "normalized_intensity": 55.337084087504984
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 54.9813434936802,
+                "normalized_intensity": 54.9813434936802
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.74184690706925,
+                "normalized_intensity": 49.74184690706925
+            }
+        ]
+    }
+}

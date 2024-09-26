@@ -1,0 +1,47 @@
+{
+    "2024-08": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 1752.9273291473735,
+                "normalized_intensity": 73.03863871447389
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 1655.8339583094328,
+                "normalized_intensity": 68.99308159622636
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1394.852012102689,
+                "normalized_intensity": 58.118833837612044
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1276.9639808324691,
+                "normalized_intensity": 53.206832534686214
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 904.5445740415715,
+                "normalized_intensity": 37.68935725173215
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 508.6341701074841,
+                "normalized_intensity": 21.193090421145172
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 364.49173722281296,
+                "normalized_intensity": 15.187155717617207
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 202.187548332361,
+                "normalized_intensity": 8.424481180515041
+            }
+        ]
+    }
+}

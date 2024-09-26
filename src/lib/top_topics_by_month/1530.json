@@ -1,0 +1,87 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 67.19323467690792,
+                "normalized_intensity": 67.19323467690792
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 64.99434430832106,
+                "normalized_intensity": 64.99434430832106
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 63.10651490884378,
+                "normalized_intensity": 63.10651490884378
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.3519732987384,
+                "normalized_intensity": 60.3519732987384
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 59.31845750132023,
+                "normalized_intensity": 59.31845750132023
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.244752126975925,
+                "normalized_intensity": 50.244752126975925
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.38658413292318,
+                "normalized_intensity": 49.38658413292318
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 129.25393089078761,
+                "normalized_intensity": 64.62696544539381
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 117.3480026682971,
+                "normalized_intensity": 58.67400133414855
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 114.68752296524525,
+                "normalized_intensity": 57.343761482622625
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 69.32899384776306,
+                "normalized_intensity": 34.66449692388153
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.96275871324619,
+                "normalized_intensity": 27.481379356623094
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.92053601451223,
+                "normalized_intensity": 25.960268007256115
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.52927237238464,
+                "normalized_intensity": 25.76463618619232
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 49.375190987816346,
+                "normalized_intensity": 24.687595493908173
+            }
+        ]
+    }
+}

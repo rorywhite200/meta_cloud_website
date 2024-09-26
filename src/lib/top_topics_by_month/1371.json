@@ -1,0 +1,42 @@
+{
+    "2024-02": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 959.303091015697,
+                "normalized_intensity": 79.94192425130808
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 838.4631009983607,
+                "normalized_intensity": 69.87192508319673
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 667.2708398287497,
+                "normalized_intensity": 55.60590331906247
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 427.1573214968264,
+                "normalized_intensity": 35.59644345806887
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 422.2323843523306,
+                "normalized_intensity": 35.18603202936088
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 198.41649258978907,
+                "normalized_intensity": 16.534707715815756
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 104.09047818404042,
+                "normalized_intensity": 8.674206515336701
+            }
+        ]
+    }
+}

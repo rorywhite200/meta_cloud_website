@@ -1,0 +1,42 @@
+{
+    "2024-08": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 344.1485099259837,
+                "normalized_intensity": 38.238723325109305
+            },
+            {
+                "topic": "community",
+                "weighted_count": 131.72316020105683,
+                "normalized_intensity": 14.635906689006314
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 124.69508458548404,
+                "normalized_intensity": 13.855009398387116
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 114.08660777544048,
+                "normalized_intensity": 12.67628975282672
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 110.22900109379606,
+                "normalized_intensity": 12.247666788199561
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 104.77210077202062,
+                "normalized_intensity": 11.641344530224513
+            },
+            {
+                "topic": "business",
+                "weighted_count": 101.92368443986115,
+                "normalized_intensity": 11.324853826651239
+            }
+        ]
+    }
+}

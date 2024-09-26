@@ -1,0 +1,87 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 146.47701930122682,
+                "normalized_intensity": 73.23850965061341
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 116.23897067804376,
+                "normalized_intensity": 58.11948533902188
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 107.27821844705956,
+                "normalized_intensity": 53.63910922352978
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 123.40437641557456,
+                "normalized_intensity": 61.70218820778728
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 118.87818697687011,
+                "normalized_intensity": 59.439093488435056
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 109.06195364382027,
+                "normalized_intensity": 54.53097682191014
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 107.2195558601389,
+                "normalized_intensity": 53.60977793006945
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 104.08936209176647,
+                "normalized_intensity": 52.04468104588324
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 100.65468209382493,
+                "normalized_intensity": 50.327341046912466
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 190.75210904892532,
+                "normalized_intensity": 63.58403634964177
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 165.26278814932337,
+                "normalized_intensity": 55.087596049774454
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 159.29273155024833,
+                "normalized_intensity": 53.097577183416114
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 156.53699819539406,
+                "normalized_intensity": 52.17899939846469
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 150.10877319122903,
+                "normalized_intensity": 50.03625773040968
+            }
+        ]
+    }
+}

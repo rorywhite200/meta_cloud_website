@@ -1,0 +1,87 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 270.17432894722947,
+                "normalized_intensity": 67.54358223680737
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 223.68725171994242,
+                "normalized_intensity": 55.921812929985606
+            },
+            {
+                "topic": "community",
+                "weighted_count": 162.75798918613714,
+                "normalized_intensity": 40.689497296534284
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 107.99835233225578,
+                "normalized_intensity": 26.999588083063944
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.73941195436382,
+                "normalized_intensity": 24.684852988590954
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 64.96595737015114,
+                "normalized_intensity": 64.96595737015114
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 58.80211178222174,
+                "normalized_intensity": 58.80211178222174
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 58.46436768500435,
+                "normalized_intensity": 58.46436768500435
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.06698143999555,
+                "normalized_intensity": 54.06698143999555
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.844415201146155,
+                "normalized_intensity": 51.844415201146155
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.66420344260813,
+                "normalized_intensity": 50.66420344260813
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.432861377570745,
+                "normalized_intensity": 50.432861377570745
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 63.77605805061442,
+                "normalized_intensity": 63.77605805061442
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.903194960546834,
+                "normalized_intensity": 49.903194960546834
+            }
+        ]
+    }
+}

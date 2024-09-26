@@ -1,0 +1,27 @@
+{
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 123.50096750507197,
+                "normalized_intensity": 61.750483752535985
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 109.57561629837784,
+                "normalized_intensity": 54.78780814918892
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 109.41421236147801,
+                "normalized_intensity": 54.707106180739004
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.77649918067499,
+                "normalized_intensity": 51.388249590337495
+            }
+        ]
+    }
+}

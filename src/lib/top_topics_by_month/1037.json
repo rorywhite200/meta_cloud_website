@@ -1,0 +1,152 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 138.58827562564278,
+                "normalized_intensity": 69.29413781282139
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 115.54437446134946,
+                "normalized_intensity": 57.77218723067473
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 63.93487122757182,
+                "normalized_intensity": 31.96743561378591
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 56.38544489437704,
+                "normalized_intensity": 28.19272244718852
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 52.82508658422119,
+                "normalized_intensity": 26.412543292110595
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.89928792725684,
+                "normalized_intensity": 25.44964396362842
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.61523440684009,
+                "normalized_intensity": 24.807617203420044
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 73.57643435597993,
+                "normalized_intensity": 73.57643435597993
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 59.157309481617574,
+                "normalized_intensity": 59.157309481617574
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 238.13048597748536,
+                "normalized_intensity": 59.53262149437134
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 130.84297791777897,
+                "normalized_intensity": 32.71074447944474
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 107.29058184767658,
+                "normalized_intensity": 26.822645461919144
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 69.15774684298374,
+                "normalized_intensity": 17.289436710745935
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 52.437654931084666,
+                "normalized_intensity": 13.109413732771166
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.51803806889838,
+                "normalized_intensity": 12.629509517224594
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 640.094550318371,
+                "normalized_intensity": 64.0094550318371
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 415.72138049356823,
+                "normalized_intensity": 41.57213804935682
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 400.96706912894706,
+                "normalized_intensity": 40.0967069128947
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 363.33616615960085,
+                "normalized_intensity": 36.33361661596008
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 166.81681517002568,
+                "normalized_intensity": 16.681681517002566
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 100.6159804369524,
+                "normalized_intensity": 10.06159804369524
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 61.32188051404209,
+                "normalized_intensity": 6.132188051404209
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 59.000919969492884,
+                "normalized_intensity": 5.900091996949288
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.15647679275316,
+                "normalized_intensity": 5.215647679275316
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.7840899662125,
+                "normalized_intensity": 5.07840899662125
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.34183358105454,
+                "normalized_intensity": 4.934183358105454
+            }
+        ]
+    }
+}

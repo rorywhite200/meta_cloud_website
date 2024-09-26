@@ -1,0 +1,557 @@
+{
+    "2023-11": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 1742.2875424999554,
+                "normalized_intensity": 72.59531427083148
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1259.8693553034807,
+                "normalized_intensity": 52.49455647097836
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 768.7904637449818,
+                "normalized_intensity": 32.032935989374245
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 760.048648395716,
+                "normalized_intensity": 31.66869368315483
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 638.8522117779346,
+                "normalized_intensity": 26.61884215741394
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 464.59313171578884,
+                "normalized_intensity": 19.358047154824536
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 257.92541394298917,
+                "normalized_intensity": 10.74689224762455
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 253.6847188916792,
+                "normalized_intensity": 10.570196620486634
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 249.68173395577688,
+                "normalized_intensity": 10.403405581490704
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 158.97624959475297,
+                "normalized_intensity": 6.6240103997813735
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 152.77058869809105,
+                "normalized_intensity": 6.365441195753793
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 139.3294316229201,
+                "normalized_intensity": 5.805392984288338
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.786680905124,
+                "normalized_intensity": 4.407778371046834
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 105.72473367778525,
+                "normalized_intensity": 4.405197236574385
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 104.27229839047962,
+                "normalized_intensity": 4.344679099603318
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 103.21694137497036,
+                "normalized_intensity": 4.300705890623765
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 100.13331493053217,
+                "normalized_intensity": 4.17222145543884
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 99.43691195436669,
+                "normalized_intensity": 4.143204664765279
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 99.41355397149843,
+                "normalized_intensity": 4.142231415479102
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 73.88920994350977,
+                "normalized_intensity": 3.078717080979574
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.662448051149255,
+                "normalized_intensity": 2.1942686687978856
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.84203467721472,
+                "normalized_intensity": 2.1184181115506133
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 50.63048847504147,
+                "normalized_intensity": 2.109603686460061
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 50.563584730664246,
+                "normalized_intensity": 2.1068160304443437
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.211188311614194,
+                "normalized_intensity": 2.092132846317258
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.234238549894954,
+                "normalized_intensity": 2.0514266062456232
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 27,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 2100.7580422284777,
+                "normalized_intensity": 77.80585341586955
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1862.9724710997982,
+                "normalized_intensity": 68.99898041110363
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 1480.942778768777,
+                "normalized_intensity": 54.849732546991746
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 1095.2548307614136,
+                "normalized_intensity": 40.56499373190421
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 1067.0941149530574,
+                "normalized_intensity": 39.52200425752065
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 735.1051585575872,
+                "normalized_intensity": 27.22611698361434
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 563.9904687997566,
+                "normalized_intensity": 20.888535881472468
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 350.16237625446627,
+                "normalized_intensity": 12.968976898313565
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 258.0171470026415,
+                "normalized_intensity": 9.556190629727462
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 162.77188143344864,
+                "normalized_intensity": 6.028588201238839
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 152.07482615061645,
+                "normalized_intensity": 5.63240096854135
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 150.84201116050875,
+                "normalized_intensity": 5.586741154092916
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 100.2863346117525,
+                "normalized_intensity": 3.7143086893241666
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 33,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 2569.517179557968,
+                "normalized_intensity": 77.86415695630207
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 2228.2485177923813,
+                "normalized_intensity": 67.52268235734489
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 1351.2369083245378,
+                "normalized_intensity": 40.946572979531446
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 1348.6143787048031,
+                "normalized_intensity": 40.867102384994034
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 1330.3287097020968,
+                "normalized_intensity": 40.312991203093844
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 1170.7417342625224,
+                "normalized_intensity": 35.47702225037947
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 841.6836345771558,
+                "normalized_intensity": 25.505564684156237
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 596.8302319226451,
+                "normalized_intensity": 18.08576460371652
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 553.0873742551988,
+                "normalized_intensity": 16.760223462278752
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 397.3406476861048,
+                "normalized_intensity": 12.04062568745772
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 335.1480792766935,
+                "normalized_intensity": 10.156002402324047
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 100.2863346117525,
+                "normalized_intensity": 3.0389798367197725
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 152.66265962870966,
+                "normalized_intensity": 76.33132981435483
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 134.68020354787623,
+                "normalized_intensity": 67.34010177393812
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 481.2299539351769,
+                "normalized_intensity": 80.20499232252949
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 404.43329849788836,
+                "normalized_intensity": 67.40554974964806
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 113.63122827170582,
+                "normalized_intensity": 18.938538045284304
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 105.08868969552755,
+                "normalized_intensity": 17.514781615921258
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 67.97355409827586,
+                "normalized_intensity": 11.328925683045975
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 56.21797654824556,
+                "normalized_intensity": 9.369662758040926
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 53.195404355086886,
+                "normalized_intensity": 8.865900725847814
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.73962302680671,
+                "normalized_intensity": 8.623270504467785
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.39359060074151,
+                "normalized_intensity": 8.398931766790252
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 50.07737942375575,
+                "normalized_intensity": 8.346229903959292
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 49.491430782468356,
+                "normalized_intensity": 8.248571797078059
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 49.41965150235581,
+                "normalized_intensity": 8.23660858372597
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 49.25250213111229,
+                "normalized_intensity": 8.208750355185382
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 37,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 2143.305473630269,
+                "normalized_intensity": 57.92717496298024
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1887.9933762926864,
+                "normalized_intensity": 51.026848007910445
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 1596.5812855257227,
+                "normalized_intensity": 43.15084555474926
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 540.0222478453923,
+                "normalized_intensity": 14.595195887713304
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 498.53190807332163,
+                "normalized_intensity": 13.473835353333017
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 422.06850909166366,
+                "normalized_intensity": 11.407257002477396
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 169.54400007925264,
+                "normalized_intensity": 4.5822702724122335
+            },
+            {
+                "topic": "history",
+                "weighted_count": 168.39077863439383,
+                "normalized_intensity": 4.5511021252538875
+            },
+            {
+                "topic": "family",
+                "weighted_count": 157.7195053193975,
+                "normalized_intensity": 4.26268933295669
+            },
+            {
+                "topic": "film",
+                "weighted_count": 156.90628644015345,
+                "normalized_intensity": 4.240710444328472
+            },
+            {
+                "topic": "community",
+                "weighted_count": 152.2449505643216,
+                "normalized_intensity": 4.114728393630314
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 113.47299522543275,
+                "normalized_intensity": 3.0668377087954797
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 112.65077697948969,
+                "normalized_intensity": 3.0446155940402617
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 110.67389636403895,
+                "normalized_intensity": 2.991186388217269
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 108.6157312522692,
+                "normalized_intensity": 2.9355603041153837
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 105.90046781109483,
+                "normalized_intensity": 2.8621748057052656
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 104.21447837932733,
+                "normalized_intensity": 2.8166075237656036
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 101.00699293230552,
+                "normalized_intensity": 2.729918727900149
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 98.90136602000669,
+                "normalized_intensity": 2.673009892432613
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 98.74741444116472,
+                "normalized_intensity": 2.668849038950398
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 49.438557751281955,
+                "normalized_intensity": 1.336177236521134
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 68,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 4028.6158368001743,
+                "normalized_intensity": 59.24435054117903
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 3795.0095018596908,
+                "normalized_intensity": 55.808963262642514
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 3658.1261016938493,
+                "normalized_intensity": 53.795972083733076
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1747.4182699761643,
+                "normalized_intensity": 25.697327499649475
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 674.7596051639171,
+                "normalized_intensity": 9.922935370057603
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 522.505606641168,
+                "normalized_intensity": 7.683905980017177
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 403.6449747071177,
+                "normalized_intensity": 5.93595551039879
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 395.6026668515895,
+                "normalized_intensity": 5.8176862772292575
+            },
+            {
+                "topic": "history",
+                "weighted_count": 392.9118168135856,
+                "normalized_intensity": 5.778114953140964
+            },
+            {
+                "topic": "family",
+                "weighted_count": 368.0121790785943,
+                "normalized_intensity": 5.411943809979327
+            },
+            {
+                "topic": "film",
+                "weighted_count": 366.11466836035805,
+                "normalized_intensity": 5.384039240593501
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.69217928181712,
+                "normalized_intensity": 1.4660614600267223
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 471.27037966810246,
+                "normalized_intensity": 78.54506327801708
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 427.8171523868822,
+                "normalized_intensity": 71.30285873114703
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 405.2187006313121,
+                "normalized_intensity": 67.53645010521869
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 297.0314117881074,
+                "normalized_intensity": 49.5052352980179
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2024-08": {
+        "total_ads": 48,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 2932.9820830058616,
+                "normalized_intensity": 61.10379339595545
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2719.7342318290894,
+                "normalized_intensity": 56.6611298297727
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 2209.3817851954336,
+                "normalized_intensity": 46.02878719157153
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 2060.2843465126152,
+                "normalized_intensity": 42.92259055234615
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 1866.3954760815334,
+                "normalized_intensity": 38.883239085031946
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 1828.3454291244727,
+                "normalized_intensity": 38.09052977342652
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1817.6318035070924,
+                "normalized_intensity": 37.86732923973109
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1668.9479609967357,
+                "normalized_intensity": 34.76974918743199
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 1644.6008640892123,
+                "normalized_intensity": 34.26251800185859
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1032.1392726158133,
+                "normalized_intensity": 21.502901512829443
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 985.328199621645,
+                "normalized_intensity": 20.527670825450937
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 652.5895036522712,
+                "normalized_intensity": 13.595614659422317
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 441.0122284892202,
+                "normalized_intensity": 9.187754760192087
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 396.65867028310936,
+                "normalized_intensity": 8.263722297564778
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 249.34725493851434,
+                "normalized_intensity": 5.194734477885715
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 198.23707505370777,
+                "normalized_intensity": 4.129939063618912
+            }
+        ]
+    }
+}

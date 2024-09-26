@@ -1,0 +1,327 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 74.66327957459109,
+                "normalized_intensity": 74.66327957459109
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 66.45486701564953,
+                "normalized_intensity": 66.45486701564953
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.34522121775634,
+                "normalized_intensity": 58.34522121775634
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 54.732097909117606,
+                "normalized_intensity": 54.732097909117606
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 52.234173038691424,
+                "normalized_intensity": 52.234173038691424
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.03622863652628,
+                "normalized_intensity": 49.03622863652628
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 277.7159649346895,
+                "normalized_intensity": 69.42899123367238
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 200.57202339527623,
+                "normalized_intensity": 50.14300584881906
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 158.72936420661114,
+                "normalized_intensity": 39.682341051652784
+            },
+            {
+                "topic": "community",
+                "weighted_count": 157.77285978188155,
+                "normalized_intensity": 39.44321494547039
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.77896889953079,
+                "normalized_intensity": 12.944742224882697
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.9828295152114,
+                "normalized_intensity": 12.49570737880285
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.84815934460441,
+                "normalized_intensity": 12.462039836151103
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 125.86252232452551,
+                "normalized_intensity": 41.954174108175174
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 113.53607574666228,
+                "normalized_intensity": 37.84535858222076
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 72.0656326075654,
+                "normalized_intensity": 24.021877535855136
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 65.20072250492397,
+                "normalized_intensity": 21.733574168307992
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 61.093362829601716,
+                "normalized_intensity": 20.364454276533905
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.64081702933643,
+                "normalized_intensity": 19.21360567644548
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.36474386119959,
+                "normalized_intensity": 18.454914620399865
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 53.606121198728765,
+                "normalized_intensity": 17.868707066242923
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.97358141909106,
+                "normalized_intensity": 17.657860473030354
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.03993530518181,
+                "normalized_intensity": 17.34664510172727
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 51.37504038357923,
+                "normalized_intensity": 17.125013461193078
+            },
+            {
+                "topic": "film",
+                "weighted_count": 51.284522402952945,
+                "normalized_intensity": 17.094840800984315
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.94113271015946,
+                "normalized_intensity": 16.647044236719818
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 303.54339190822736,
+                "normalized_intensity": 60.70867838164547
+            },
+            {
+                "topic": "community",
+                "weighted_count": 303.5009911684741,
+                "normalized_intensity": 60.70019823369482
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 174.94119061044486,
+                "normalized_intensity": 34.98823812208897
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 143.46929555665082,
+                "normalized_intensity": 28.693859111330163
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 123.05629878118467,
+                "normalized_intensity": 24.611259756236933
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 120.48903185663048,
+                "normalized_intensity": 24.097806371326094
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 120.27826857457265,
+                "normalized_intensity": 24.05565371491453
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 119.8702256777525,
+                "normalized_intensity": 23.9740451355505
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 107.40419914168095,
+                "normalized_intensity": 21.48083982833619
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 102.77774078224621,
+                "normalized_intensity": 20.55554815644924
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 75.55516960895419,
+                "normalized_intensity": 15.111033921790838
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 62.40322199616703,
+                "normalized_intensity": 12.480644399233405
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 62.26912236140144,
+                "normalized_intensity": 12.453824472280289
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 60.63828696619474,
+                "normalized_intensity": 12.127657393238948
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 59.20839151851802,
+                "normalized_intensity": 11.841678303703604
+            },
+            {
+                "topic": "health",
+                "weighted_count": 56.77372081840152,
+                "normalized_intensity": 11.354744163680305
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 55.74371096891161,
+                "normalized_intensity": 11.148742193782322
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.47881087429202,
+                "normalized_intensity": 10.295762174858405
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.006933168325574,
+                "normalized_intensity": 10.201386633665114
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 140.76148241518882,
+                "normalized_intensity": 46.92049413839627
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 125.86186822132458,
+                "normalized_intensity": 41.95395607377486
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 104.9278428582029,
+                "normalized_intensity": 34.97594761940096
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 102.87864396655608,
+                "normalized_intensity": 34.29288132218536
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 53.77466600471141,
+                "normalized_intensity": 17.924888668237138
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.95392972148086,
+                "normalized_intensity": 17.651309907160286
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.620183013274904,
+                "normalized_intensity": 17.540061004424967
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.46280948555433,
+                "normalized_intensity": 16.487603161851442
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 67.29371567249967,
+                "normalized_intensity": 67.29371567249967
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 55.173987956302916,
+                "normalized_intensity": 55.173987956302916
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 131.57938434027335,
+                "normalized_intensity": 65.78969217013668
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 61.358782981607504,
+                "normalized_intensity": 30.679391490803752
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 52.20267844357033,
+                "normalized_intensity": 26.101339221785164
+            }
+        ]
+    }
+}

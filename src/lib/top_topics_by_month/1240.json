@@ -1,0 +1,187 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "government-ethics",
+                "weighted_count": 138.16060235933946,
+                "normalized_intensity": 69.08030117966973
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 136.4134443108677,
+                "normalized_intensity": 68.20672215543385
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 126.90019170670118,
+                "normalized_intensity": 63.45009585335059
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 125.7261292323243,
+                "normalized_intensity": 62.86306461616215
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 108.13939920434314,
+                "normalized_intensity": 54.06969960217157
+            },
+            {
+                "topic": "law",
+                "weighted_count": 49.39575962171736,
+                "normalized_intensity": 24.69787981085868
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 488.1531971386438,
+                "normalized_intensity": 69.73617101980626
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 408.0743893289002,
+                "normalized_intensity": 58.29634133270003
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 217.19115790701264,
+                "normalized_intensity": 31.02730827243038
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 152.63131319611483,
+                "normalized_intensity": 21.80447331373069
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 120.65530290778534,
+                "normalized_intensity": 17.236471843969333
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 113.52740843742833,
+                "normalized_intensity": 16.218201205346904
+            },
+            {
+                "topic": "business",
+                "weighted_count": 67.8199302095891,
+                "normalized_intensity": 9.688561458512728
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 66.47823947618605,
+                "normalized_intensity": 9.496891353740864
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 65.9794158143244,
+                "normalized_intensity": 9.425630830617772
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 63.789436081139215,
+                "normalized_intensity": 9.112776583019889
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 62.56123610079036,
+                "normalized_intensity": 8.937319442970052
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.60599378310334,
+                "normalized_intensity": 8.229427683300477
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 57.10673072457206,
+                "normalized_intensity": 8.15810438922458
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 56.9624384907999,
+                "normalized_intensity": 8.137491212971414
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 56.02782253360902,
+                "normalized_intensity": 8.003974647658431
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 54.603679761731385,
+                "normalized_intensity": 7.800525680247341
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 54.420929339551826,
+                "normalized_intensity": 7.774418477078832
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.65358454095743,
+                "normalized_intensity": 7.664797791565348
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 52.41613763476218,
+                "normalized_intensity": 7.488019662108883
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.85893433548499,
+                "normalized_intensity": 7.40841919078357
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.482942621548155,
+                "normalized_intensity": 7.211848945935451
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.26206600518685,
+                "normalized_intensity": 7.180295143598122
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.58327212824916,
+                "normalized_intensity": 7.08332458974988
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.23030381992472,
+                "normalized_intensity": 7.032900545703532
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.0863816637904,
+                "normalized_intensity": 7.0123402376843424
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 64.24595464904438,
+                "normalized_intensity": 64.24595464904438
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 63.822661747916655,
+                "normalized_intensity": 63.822661747916655
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 63.474976777248095,
+                "normalized_intensity": 63.474976777248095
+            }
+        ]
+    }
+}

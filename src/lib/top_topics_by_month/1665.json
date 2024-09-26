@@ -1,0 +1,32 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 78.57625037840702,
+                "normalized_intensity": 78.57625037840702
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 72.1271031983468,
+                "normalized_intensity": 72.1271031983468
+            },
+            {
+                "topic": "community",
+                "weighted_count": 63.17704171499764,
+                "normalized_intensity": 63.17704171499764
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.90874470737261,
+                "normalized_intensity": 55.90874470737261
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 51.39665416653786,
+                "normalized_intensity": 51.39665416653786
+            }
+        ]
+    }
+}

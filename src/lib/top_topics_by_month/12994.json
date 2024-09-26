@@ -1,0 +1,32 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 106.9943966760567,
+                "normalized_intensity": 53.49719833802835
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 65.16568756625027,
+                "normalized_intensity": 32.582843783125135
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 59.62636726180344,
+                "normalized_intensity": 29.81318363090172
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.665621131115,
+                "normalized_intensity": 25.3328105655575
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 50.52081785402051,
+                "normalized_intensity": 25.260408927010253
+            }
+        ]
+    }
+}

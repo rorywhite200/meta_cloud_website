@@ -1,0 +1,22 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 282.41300051437906,
+                "normalized_intensity": 70.60325012859477
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 155.99183089431784,
+                "normalized_intensity": 38.99795772357946
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.82364565880483,
+                "normalized_intensity": 13.205911414701207
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 74.70720348845651,
+                "normalized_intensity": 74.70720348845651
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 59.65514661403907,
+                "normalized_intensity": 59.65514661403907
+            },
+            {
+                "topic": "health",
+                "weighted_count": 57.01772393737357,
+                "normalized_intensity": 57.01772393737357
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 56.98811981756319,
+                "normalized_intensity": 56.98811981756319
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.19706599334675,
+                "normalized_intensity": 51.19706599334675
+            }
+        ]
+    }
+}

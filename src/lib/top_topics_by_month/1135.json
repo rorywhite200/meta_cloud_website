@@ -1,0 +1,182 @@
+{
+    "2023-12": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 566.5793992117304,
+                "normalized_intensity": 43.58303070859465
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 471.5107679944823,
+                "normalized_intensity": 36.27005907649864
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 408.1937662086905,
+                "normalized_intensity": 31.399520477591576
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 346.3204077716764,
+                "normalized_intensity": 26.640031367052032
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 311.958633228104,
+                "normalized_intensity": 23.996817940623387
+            },
+            {
+                "topic": "community",
+                "weighted_count": 299.3994807872885,
+                "normalized_intensity": 23.030729291329884
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 168.68212852761297,
+                "normalized_intensity": 12.975548348277922
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 153.01804929153897,
+                "normalized_intensity": 11.770619176272229
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 150.61399339424793,
+                "normalized_intensity": 11.585691799557534
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 150.27367969791908,
+                "normalized_intensity": 11.559513822916852
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 149.54844001048733,
+                "normalized_intensity": 11.50372615465287
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 295.3462390157255,
+                "normalized_intensity": 59.069247803145096
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 189.5096142349065,
+                "normalized_intensity": 37.9019228469813
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 103.71289275919169,
+                "normalized_intensity": 20.74257855183834
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 100.15257924786587,
+                "normalized_intensity": 20.030515849573174
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.50282007376994,
+                "normalized_intensity": 10.700564014753988
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 328.8852212598774,
+                "normalized_intensity": 46.98360303712535
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 267.1002982336217,
+                "normalized_intensity": 38.15718546194596
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 244.51520846442673,
+                "normalized_intensity": 34.930744066346676
+            },
+            {
+                "topic": "law",
+                "weighted_count": 106.14759669143987,
+                "normalized_intensity": 15.16394238449141
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 105.8029861984121,
+                "normalized_intensity": 15.114712314058872
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 104.19292562693076,
+                "normalized_intensity": 14.884703660990109
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 101.0992699308574,
+                "normalized_intensity": 14.442752847265343
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 53.60540888887283,
+                "normalized_intensity": 7.657915555553261
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 252.45931396263006,
+                "normalized_intensity": 63.114828490657516
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 220.1684896803311,
+                "normalized_intensity": 55.04212242008278
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 187.4138934450911,
+                "normalized_intensity": 46.853473361272776
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 59.86856449151306,
+                "normalized_intensity": 14.967141122878266
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.75636019025897,
+                "normalized_intensity": 12.939090047564742
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.44692630518004,
+                "normalized_intensity": 12.61173157629501
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.98239246962714,
+                "normalized_intensity": 12.495598117406786
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.598618752049134,
+                "normalized_intensity": 12.399654688012284
+            }
+        ]
+    }
+}

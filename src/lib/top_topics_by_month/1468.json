@@ -1,0 +1,62 @@
+{
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 411.6329151253615,
+                "normalized_intensity": 82.3265830250723
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 363.4015339663648,
+                "normalized_intensity": 72.68030679327296
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 330.70654463351417,
+                "normalized_intensity": 66.14130892670283
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 314.4220980526135,
+                "normalized_intensity": 62.8844196105227
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 311.01734475238135,
+                "normalized_intensity": 62.20346895047627
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 157.58348696533898,
+                "normalized_intensity": 31.516697393067794
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 112.91820716188334,
+                "normalized_intensity": 22.58364143237667
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 99.76866509463105,
+                "normalized_intensity": 19.953733018926208
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.06220119185708,
+                "normalized_intensity": 11.812440238371416
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.805109574743945,
+                "normalized_intensity": 10.36102191494879
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.815407095658394,
+                "normalized_intensity": 9.96308141913168
+            }
+        ]
+    }
+}

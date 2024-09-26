@@ -1,0 +1,102 @@
+{
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 489.5090882667507,
+                "normalized_intensity": 69.92986975239296
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 436.0006138702215,
+                "normalized_intensity": 62.28580198146022
+            },
+            {
+                "topic": "community",
+                "weighted_count": 415.8257507410749,
+                "normalized_intensity": 59.40367867729641
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 170.45716646108036,
+                "normalized_intensity": 24.35102378015434
+            },
+            {
+                "topic": "family",
+                "weighted_count": 124.87244682342623,
+                "normalized_intensity": 17.838920974775174
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 108.65733895657462,
+                "normalized_intensity": 15.522476993796374
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 78.89928178235265,
+                "normalized_intensity": 11.27132596890752
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 69.57131940005122,
+                "normalized_intensity": 9.938759914293032
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 69.5339353716506,
+                "normalized_intensity": 9.933419338807228
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 65.26061173145324,
+                "normalized_intensity": 9.322944533064748
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 53.53810393491616,
+                "normalized_intensity": 7.6483005621308795
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.56586959332074,
+                "normalized_intensity": 7.223695656188677
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 49.764403930642494,
+                "normalized_intensity": 7.109200561520356
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 70.77644635504505,
+                "normalized_intensity": 70.77644635504505
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 69.92911694748035,
+                "normalized_intensity": 69.92911694748035
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.968503550408435,
+                "normalized_intensity": 59.968503550408435
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 54.75173583231493,
+                "normalized_intensity": 54.75173583231493
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 52.9780144583859,
+                "normalized_intensity": 52.9780144583859
+            }
+        ]
+    }
+}

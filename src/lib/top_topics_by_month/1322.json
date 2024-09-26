@@ -1,0 +1,82 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 67.44732420460451,
+                "normalized_intensity": 67.44732420460451
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.233242914702814,
+                "normalized_intensity": 53.233242914702814
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 188.25683152215083,
+                "normalized_intensity": 62.75227717405028
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.38879906435064,
+                "normalized_intensity": 33.129599688116876
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 71.35464971403982,
+                "normalized_intensity": 23.784883238013276
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 72.51930309141561,
+                "normalized_intensity": 72.51930309141561
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.59322077275259,
+                "normalized_intensity": 50.59322077275259
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.59584102307618,
+                "normalized_intensity": 49.59584102307618
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 60.56584156297453,
+                "normalized_intensity": 60.56584156297453
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 58.21936912682724,
+                "normalized_intensity": 58.21936912682724
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 56.01834502419627,
+                "normalized_intensity": 56.01834502419627
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.81877413174631,
+                "normalized_intensity": 54.81877413174631
+            }
+        ]
+    }
+}

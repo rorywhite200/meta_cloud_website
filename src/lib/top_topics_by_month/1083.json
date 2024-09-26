@@ -1,0 +1,102 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 67.10927178422875,
+                "normalized_intensity": 33.554635892114376
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.67651084148055,
+                "normalized_intensity": 25.338255420740275
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 197.3701585214467,
+                "normalized_intensity": 65.79005284048223
+            },
+            {
+                "topic": "community",
+                "weighted_count": 164.13641915072512,
+                "normalized_intensity": 54.712139716908375
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 108.15036089273042,
+                "normalized_intensity": 36.050120297576804
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 53.54148748677024,
+                "normalized_intensity": 17.84716249559008
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.817990291902476,
+                "normalized_intensity": 17.605996763967493
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 212.5348295360822,
+                "normalized_intensity": 70.84494317869407
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.56881634409181,
+                "normalized_intensity": 17.85627211469727
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 50.42657476445331,
+                "normalized_intensity": 16.80885825481777
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 67.10775450358113,
+                "normalized_intensity": 67.10775450358113
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 60.19387610057204,
+                "normalized_intensity": 60.19387610057204
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 59.51280999791598,
+                "normalized_intensity": 59.51280999791598
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 62.528119669975055,
+                "normalized_intensity": 62.528119669975055
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.180281436043984,
+                "normalized_intensity": 50.180281436043984
+            }
+        ]
+    }
+}

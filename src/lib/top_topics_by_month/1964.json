@@ -1,0 +1,22 @@
+{
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 54.504576967387806,
+                "normalized_intensity": 54.504576967387806
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.61362948820511,
+                "normalized_intensity": 52.61362948820511
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.90513327743156,
+                "normalized_intensity": 50.90513327743156
+            }
+        ]
+    }
+}

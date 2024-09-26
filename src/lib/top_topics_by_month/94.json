@@ -1,0 +1,227 @@
+{
+    "2024-06": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 569.5377895263618,
+                "normalized_intensity": 71.19222369079523
+            },
+            {
+                "topic": "community",
+                "weighted_count": 403.62817987099464,
+                "normalized_intensity": 50.45352248387433
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 388.235672023093,
+                "normalized_intensity": 48.529459002886625
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 102.88247997711007,
+                "normalized_intensity": 12.860309997138758
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 101.82592991712231,
+                "normalized_intensity": 12.728241239640289
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 100.52709437311643,
+                "normalized_intensity": 12.565886796639553
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.784648593420975,
+                "normalized_intensity": 7.223081074177622
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.39438523638175,
+                "normalized_intensity": 6.799298154547719
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.36438863858284,
+                "normalized_intensity": 6.795548579822855
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.851458717407205,
+                "normalized_intensity": 6.356432339675901
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.52721803538507,
+                "normalized_intensity": 6.315902254423134
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 413.01156345067466,
+                "normalized_intensity": 59.00165192152495
+            },
+            {
+                "topic": "community",
+                "weighted_count": 370.982858615801,
+                "normalized_intensity": 52.99755123082871
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 241.52820197435878,
+                "normalized_intensity": 34.504028853479824
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 218.74821030036765,
+                "normalized_intensity": 31.24974432862395
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 202.93229219769515,
+                "normalized_intensity": 28.990327456813592
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 163.39350970660735,
+                "normalized_intensity": 23.341929958086762
+            },
+            {
+                "topic": "health",
+                "weighted_count": 112.8448034350546,
+                "normalized_intensity": 16.1206862050078
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 111.75132370816459,
+                "normalized_intensity": 15.964474815452084
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 104.84540951684909,
+                "normalized_intensity": 14.977915645264156
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 104.56519860459676,
+                "normalized_intensity": 14.937885514942394
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 104.2104306615768,
+                "normalized_intensity": 14.887204380225256
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 101.45504690204626,
+                "normalized_intensity": 14.493578128863751
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 51.393957855088836,
+                "normalized_intensity": 7.3419939792984055
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.679199907151784,
+                "normalized_intensity": 7.2398857010216835
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 244.8496868765844,
+                "normalized_intensity": 40.8082811460974
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 211.78825051341832,
+                "normalized_intensity": 35.29804175223639
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 206.9885696726119,
+                "normalized_intensity": 34.49809494543532
+            },
+            {
+                "topic": "community",
+                "weighted_count": 169.42571146257188,
+                "normalized_intensity": 28.237618577095315
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 162.39773772610812,
+                "normalized_intensity": 27.06628962101802
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 127.10658713149064,
+                "normalized_intensity": 21.184431188581772
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 107.82039985396055,
+                "normalized_intensity": 17.97006664232676
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 100.1891613619036,
+                "normalized_intensity": 16.698193560317268
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 100.10175719678136,
+                "normalized_intensity": 16.68362619946356
+            },
+            {
+                "topic": "family",
+                "weighted_count": 65.70584064777425,
+                "normalized_intensity": 10.950973441295709
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 59.80674411435435,
+                "normalized_intensity": 9.967790685725726
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 59.51445941114696,
+                "normalized_intensity": 9.919076568524494
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 58.08884769708263,
+                "normalized_intensity": 9.681474616180438
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 55.38535779696101,
+                "normalized_intensity": 9.230892966160168
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.53723037352841,
+                "normalized_intensity": 8.422871728921402
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.385792262084685,
+                "normalized_intensity": 8.397632043680781
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.63456573828595,
+                "normalized_intensity": 8.272427623047658
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 69.52868280600833,
+                "normalized_intensity": 69.52868280600833
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 68.13655723108899,
+                "normalized_intensity": 68.13655723108899
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.80198403645243,
+                "normalized_intensity": 52.80198403645243
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.13114723915085,
+                "normalized_intensity": 49.13114723915085
+            }
+        ]
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "2023-10": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 1205.5497698542754,
+                "normalized_intensity": 63.449987887067124
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1059.481847583635,
+                "normalized_intensity": 55.76220250440184
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 212.03445681311314,
+                "normalized_intensity": 11.159708253321744
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 193.5760047423999,
+                "normalized_intensity": 10.188210775915785
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 816.5353459264979,
+                "normalized_intensity": 58.32395328046414
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 655.5733492857896,
+                "normalized_intensity": 46.82666780612783
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 258.8991167965371,
+                "normalized_intensity": 18.49279405689551
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 75.98103758202829,
+                "normalized_intensity": 5.427216970144878
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 56.04571808522626,
+                "normalized_intensity": 4.003265577516162
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 52.10219858579171,
+                "normalized_intensity": 3.7215856132708365
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 51.615352708199524,
+                "normalized_intensity": 3.6868109077285376
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 1091.1257423713907,
+                "normalized_intensity": 57.42767065112583
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 489.03419831464385,
+                "normalized_intensity": 25.738642016560203
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 444.50793444545144,
+                "normalized_intensity": 23.395154444497443
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 413.63244441707207,
+                "normalized_intensity": 21.770128653530108
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 151.96207516405659,
+                "normalized_intensity": 7.998003956002978
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 103.23070541639905,
+                "normalized_intensity": 5.433195021915739
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 254.45816672092323,
+                "normalized_intensity": 63.61454168023081
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 172.34008501203877,
+                "normalized_intensity": 43.08502125300969
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 64.72477919913428,
+                "normalized_intensity": 16.18119479978357
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 54.75978133977338,
+                "normalized_intensity": 13.689945334943346
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 51.04048382937118,
+                "normalized_intensity": 12.760120957342796
+            }
+        ]
+    }
+}

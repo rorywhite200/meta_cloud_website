@@ -1,0 +1,442 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 60.71465566386598,
+                "normalized_intensity": 60.71465566386598
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 53.64019246308918,
+                "normalized_intensity": 53.64019246308918
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.86540965468554,
+                "normalized_intensity": 51.86540965468554
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.79092391621164,
+                "normalized_intensity": 51.79092391621164
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.77438904033244,
+                "normalized_intensity": 51.77438904033244
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 62.881804782728864,
+                "normalized_intensity": 62.881804782728864
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 61.5925900462059,
+                "normalized_intensity": 61.5925900462059
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 61.12282099383669,
+                "normalized_intensity": 61.12282099383669
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.42974364639528,
+                "normalized_intensity": 54.42974364639528
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.93624557827372,
+                "normalized_intensity": 52.93624557827372
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.77559851019116,
+                "normalized_intensity": 51.77559851019116
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.46037512228576,
+                "normalized_intensity": 50.46037512228576
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.90124976899735,
+                "normalized_intensity": 49.90124976899735
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 366.159509077797,
+                "normalized_intensity": 52.30850129682814
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 337.0662509170576,
+                "normalized_intensity": 48.152321559579654
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 333.9296099078681,
+                "normalized_intensity": 47.7042299868383
+            },
+            {
+                "topic": "community",
+                "weighted_count": 261.888412227889,
+                "normalized_intensity": 37.412630318269855
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 215.97042287856908,
+                "normalized_intensity": 30.852917554081298
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 114.8724277475595,
+                "normalized_intensity": 16.41034682107993
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 105.89962181574593,
+                "normalized_intensity": 15.128517402249418
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 70.8064666497967,
+                "normalized_intensity": 10.11520952139953
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 65.71272978638507,
+                "normalized_intensity": 9.387532826626439
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 56.56810167994056,
+                "normalized_intensity": 8.081157382848652
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.8213010815425,
+                "normalized_intensity": 7.403043011648928
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 51.74459792953818,
+                "normalized_intensity": 7.392085418505454
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.19418970042684,
+                "normalized_intensity": 7.313455671489549
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.46742177561574,
+                "normalized_intensity": 7.20963168223082
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.237334242630396,
+                "normalized_intensity": 7.176762034661485
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 159.09797103986676,
+                "normalized_intensity": 79.54898551993338
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 122.17645189768828,
+                "normalized_intensity": 61.08822594884414
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.0112373342171,
+                "normalized_intensity": 53.50561866710855
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 212.58785857390473,
+                "normalized_intensity": 70.86261952463491
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 194.90714012950036,
+                "normalized_intensity": 64.96904670983345
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 181.6599969003658,
+                "normalized_intensity": 60.55333230012193
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 119.26577806305652,
+                "normalized_intensity": 39.75525935435217
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 110.14286696179059,
+                "normalized_intensity": 36.71428898726353
+            },
+            {
+                "topic": "community",
+                "weighted_count": 109.90817422470987,
+                "normalized_intensity": 36.63605807490329
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.841000411805865,
+                "normalized_intensity": 17.94700013726862
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.71612798389561,
+                "normalized_intensity": 17.238709327965203
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 68.41300922380374,
+                "normalized_intensity": 34.20650461190187
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 64.8263204953244,
+                "normalized_intensity": 32.4131602476622
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 63.1489409009309,
+                "normalized_intensity": 31.57447045046545
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 61.368201925210094,
+                "normalized_intensity": 30.684100962605047
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 60.33505117566872,
+                "normalized_intensity": 30.16752558783436
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 60.25342475378829,
+                "normalized_intensity": 30.126712376894144
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.26811072397822,
+                "normalized_intensity": 25.13405536198911
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.11871987405013,
+                "normalized_intensity": 24.559359937025064
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 133.40161719830533,
+                "normalized_intensity": 33.35040429957633
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 122.63520831867922,
+                "normalized_intensity": 30.658802079669805
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 115.2869306242625,
+                "normalized_intensity": 28.821732656065624
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 114.3254712200156,
+                "normalized_intensity": 28.5813678050039
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 104.99473326324815,
+                "normalized_intensity": 26.248683315812038
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 64.0769632437272,
+                "normalized_intensity": 16.0192408109318
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 61.945823521808286,
+                "normalized_intensity": 15.486455880452072
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 60.460383533392346,
+                "normalized_intensity": 15.115095883348086
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 57.24175345013533,
+                "normalized_intensity": 14.310438362533832
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.590315359224476,
+                "normalized_intensity": 13.897578839806119
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.89877073957144,
+                "normalized_intensity": 12.72469268489286
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 61.59712707306518,
+                "normalized_intensity": 61.59712707306518
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.92785930850885,
+                "normalized_intensity": 50.92785930850885
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 50.30940607504674,
+                "normalized_intensity": 50.30940607504674
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 136.9279688878648,
+                "normalized_intensity": 45.642656295954936
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 130.845749581716,
+                "normalized_intensity": 43.615249860572
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 112.64260408333388,
+                "normalized_intensity": 37.54753469444463
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 64.4263153819556,
+                "normalized_intensity": 21.47543846065187
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 62.524754943960545,
+                "normalized_intensity": 20.84158498132018
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 62.454975647265066,
+                "normalized_intensity": 20.81832521575502
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 57.57515161914149,
+                "normalized_intensity": 19.191717206380495
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.79624890296368,
+                "normalized_intensity": 17.598749634321226
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.91211974486621,
+                "normalized_intensity": 16.97070658162207
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 182.03054733879213,
+                "normalized_intensity": 45.50763683469803
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 165.28900646046077,
+                "normalized_intensity": 41.32225161511519
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 68.76099967966191,
+                "normalized_intensity": 17.190249919915477
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.26239938146699,
+                "normalized_intensity": 15.315599845366748
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.39255803572643,
+                "normalized_intensity": 12.848139508931608
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 51.072994710647336,
+                "normalized_intensity": 12.768248677661834
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.358162032402255,
+                "normalized_intensity": 12.339540508100564
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.06173060813119,
+                "normalized_intensity": 12.265432652032798
+            }
+        ]
+    }
+}

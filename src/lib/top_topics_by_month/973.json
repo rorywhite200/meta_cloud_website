@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 66.25709355954606,
+                "normalized_intensity": 66.25709355954606
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 60.679150132275126,
+                "normalized_intensity": 60.679150132275126
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.77525601656278,
+                "normalized_intensity": 51.77525601656278
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 362.7849722864897,
+                "normalized_intensity": 72.55699445729793
+            },
+            {
+                "topic": "community",
+                "weighted_count": 343.8998152682906,
+                "normalized_intensity": 68.77996305365812
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 232.4997129334236,
+                "normalized_intensity": 46.499942586684725
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 99.5243059130893,
+                "normalized_intensity": 19.904861182617857
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 98.58455515230123,
+                "normalized_intensity": 19.716911030460246
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.111477362407626,
+                "normalized_intensity": 10.822295472481525
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.58998030147396,
+                "normalized_intensity": 9.917996060294792
+            }
+        ]
+    }
+}

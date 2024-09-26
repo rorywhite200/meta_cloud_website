@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 145.61518584618332,
+                "normalized_intensity": 72.80759292309166
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 112.57424230458824,
+                "normalized_intensity": 56.28712115229412
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 107.83850192603748,
+                "normalized_intensity": 53.91925096301874
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 103.21911206746253,
+                "normalized_intensity": 51.609556033731266
+            }
+        ]
+    }
+}

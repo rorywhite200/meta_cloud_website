@@ -1,0 +1,82 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "trade-policy",
+                "weighted_count": 400.0,
+                "normalized_intensity": 100.0
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 299.1752256900313,
+                "normalized_intensity": 74.79380642250783
+            },
+            {
+                "topic": "business",
+                "weighted_count": 287.7659201053513,
+                "normalized_intensity": 71.94148002633783
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 263.65780788792415,
+                "normalized_intensity": 65.91445197198104
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 244.94005772571344,
+                "normalized_intensity": 61.23501443142836
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 206.94857567120414,
+                "normalized_intensity": 51.737143917801035
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 196.1886255600061,
+                "normalized_intensity": 49.047156390001525
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "trade-policy",
+                "weighted_count": 363.7267400810497,
+                "normalized_intensity": 90.93168502026242
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 289.7766453903236,
+                "normalized_intensity": 72.4441613475809
+            },
+            {
+                "topic": "business",
+                "weighted_count": 251.87224336349595,
+                "normalized_intensity": 62.96806084087399
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 131.82890394396208,
+                "normalized_intensity": 32.95722598599052
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 122.47002886285672,
+                "normalized_intensity": 30.61750721571418
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 103.47428783560207,
+                "normalized_intensity": 25.868571958900517
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 98.09431278000305,
+                "normalized_intensity": 24.523578195000763
+            }
+        ]
+    }
+}

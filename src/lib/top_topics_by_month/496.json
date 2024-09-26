@@ -1,0 +1,27 @@
+{
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 179.0533880777469,
+                "normalized_intensity": 59.684462692582294
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 169.45473201627223,
+                "normalized_intensity": 56.48491067209074
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 62.29854280800235,
+                "normalized_intensity": 20.766180936000783
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.22415453440704,
+                "normalized_intensity": 16.408051511469015
+            }
+        ]
+    }
+}

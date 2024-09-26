@@ -1,0 +1,52 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 50.98276863444807,
+                "normalized_intensity": 50.98276863444807
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 135.55432719826445,
+                "normalized_intensity": 33.88858179956611
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 133.23463371674814,
+                "normalized_intensity": 33.308658429187034
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 102.95342630362747,
+                "normalized_intensity": 25.738356575906867
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 177.34161451015456,
+                "normalized_intensity": 59.11387150338485
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 139.2856823180149,
+                "normalized_intensity": 46.42856077267163
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.52758800690125,
+                "normalized_intensity": 20.84252933563375
+            }
+        ]
+    }
+}

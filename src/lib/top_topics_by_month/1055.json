@@ -1,0 +1,77 @@
+{
+    "2024-02": {
+        "total_ads": 54,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 3360.897609057022,
+                "normalized_intensity": 62.23884461216707
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 3224.2673709669866,
+                "normalized_intensity": 59.70865501790716
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 2960.284420222869,
+                "normalized_intensity": 54.820081855979055
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 2646.6140747924483,
+                "normalized_intensity": 49.01137175541571
+            },
+            {
+                "topic": "family",
+                "weighted_count": 2523.292408261649,
+                "normalized_intensity": 46.72763719003054
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1907.871513796412,
+                "normalized_intensity": 35.33095395919282
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 745.2871653049269,
+                "normalized_intensity": 13.801614172313462
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 707.7390622026522,
+                "normalized_intensity": 13.106278929678744
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 152.3986228565866,
+                "normalized_intensity": 2.8221967195664184
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 1022.4224325013948,
+                "normalized_intensity": 63.90140203133718
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1004.0153968691176,
+                "normalized_intensity": 62.75096230431985
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 971.3639406123328,
+                "normalized_intensity": 60.7102462882708
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 965.9309489112458,
+                "normalized_intensity": 60.37068430695286
+            }
+        ]
+    }
+}

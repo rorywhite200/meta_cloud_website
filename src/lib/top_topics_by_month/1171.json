@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 65.97981952046432,
+                "normalized_intensity": 65.97981952046432
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 59.273874711743325,
+                "normalized_intensity": 59.273874711743325
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 50.15483603444771,
+                "normalized_intensity": 50.15483603444771
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.91241179421696,
+                "normalized_intensity": 49.91241179421696
+            }
+        ]
+    }
+}

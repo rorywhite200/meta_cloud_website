@@ -1,0 +1,37 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 64.91015656165804,
+                "normalized_intensity": 64.91015656165804
+            },
+            {
+                "topic": "food",
+                "weighted_count": 55.22159758691897,
+                "normalized_intensity": 55.22159758691897
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 54.29722779690559,
+                "normalized_intensity": 54.29722779690559
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.926993268436014,
+                "normalized_intensity": 51.926993268436014
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.25847094945508,
+                "normalized_intensity": 50.25847094945508
+            }
+        ]
+    }
+}

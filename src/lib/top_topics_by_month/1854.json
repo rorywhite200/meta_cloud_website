@@ -1,0 +1,97 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 203.83030489695426,
+                "normalized_intensity": 40.76606097939085
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 186.9799530759457,
+                "normalized_intensity": 37.39599061518914
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 162.5865028210941,
+                "normalized_intensity": 32.517300564218814
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 113.24030754068292,
+                "normalized_intensity": 22.648061508136585
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.50740158292562,
+                "normalized_intensity": 12.501480316585123
+            },
+            {
+                "topic": "health",
+                "weighted_count": 59.8074531406283,
+                "normalized_intensity": 11.96149062812566
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 59.41893986176757,
+                "normalized_intensity": 11.883787972353513
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 54.79655581154259,
+                "normalized_intensity": 10.959311162308518
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 51.5608038386985,
+                "normalized_intensity": 10.3121607677397
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.21043623719284,
+                "normalized_intensity": 10.242087247438567
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.762029749689255,
+                "normalized_intensity": 10.152405949937851
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.41424423541238,
+                "normalized_intensity": 10.082848847082477
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.39694624480487,
+                "normalized_intensity": 10.079389248960975
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.36353631246969,
+                "normalized_intensity": 10.072707262493939
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 120.80557760567578,
+                "normalized_intensity": 60.40278880283789
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 109.79885849506894,
+                "normalized_intensity": 54.89942924753447
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 106.54796408824268,
+                "normalized_intensity": 53.27398204412134
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 64.57059971724969,
+                "normalized_intensity": 64.57059971724969
+            },
+            {
+                "topic": "health",
+                "weighted_count": 58.19951134532712,
+                "normalized_intensity": 58.19951134532712
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 50.31602533693721,
+                "normalized_intensity": 50.31602533693721
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 136.55115090180112,
+                "normalized_intensity": 68.27557545090056
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 134.78140992691885,
+                "normalized_intensity": 67.39070496345943
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 106.79581282667743,
+                "normalized_intensity": 53.39790641333872
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 105.29963341415234,
+                "normalized_intensity": 52.64981670707617
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 68.07927659746309,
+                "normalized_intensity": 68.07927659746309
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.67248721662101,
+                "normalized_intensity": 57.67248721662101
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "animal-rights",
+                "weighted_count": 69.8769220368958,
+                "normalized_intensity": 69.8769220368958
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 64.40049268171222,
+                "normalized_intensity": 64.40049268171222
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 55.210891920143766,
+                "normalized_intensity": 55.210891920143766
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.33039943849009,
+                "normalized_intensity": 51.33039943849009
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.06431807169315,
+                "normalized_intensity": 51.06431807169315
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 50.327745128390035,
+                "normalized_intensity": 50.327745128390035
+            }
+        ]
+    }
+}

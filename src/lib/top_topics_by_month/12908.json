@@ -1,0 +1,52 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 78.87949178566981,
+                "normalized_intensity": 78.87949178566981
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 63.272535112853326,
+                "normalized_intensity": 63.272535112853326
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.806206344831295,
+                "normalized_intensity": 61.806206344831295
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.828905675567476,
+                "normalized_intensity": 49.828905675567476
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 85.89643238347836,
+                "normalized_intensity": 85.89643238347836
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 63.13583443099442,
+                "normalized_intensity": 63.13583443099442
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 60.12350787367444,
+                "normalized_intensity": 60.12350787367444
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 55.383896258371394,
+                "normalized_intensity": 55.383896258371394
+            }
+        ]
+    }
+}

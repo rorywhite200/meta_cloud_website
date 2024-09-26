@@ -1,0 +1,162 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "dance",
+                "weighted_count": 71.03793773248731,
+                "normalized_intensity": 71.03793773248731
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 60.07954400061066,
+                "normalized_intensity": 60.07954400061066
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.21719188056626,
+                "normalized_intensity": 52.21719188056626
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.62285720890768,
+                "normalized_intensity": 50.62285720890768
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.18793270993132,
+                "normalized_intensity": 50.18793270993132
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 156.67236010689595,
+                "normalized_intensity": 52.224120035631984
+            },
+            {
+                "topic": "community",
+                "weighted_count": 154.90957965864527,
+                "normalized_intensity": 51.636526552881755
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 149.04490713817202,
+                "normalized_intensity": 49.68163571272401
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 66.54881108310846,
+                "normalized_intensity": 16.637202770777115
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.76544662371485,
+                "normalized_intensity": 15.441361655928713
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.43436763454366,
+                "normalized_intensity": 15.108591908635916
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.42817250627535,
+                "normalized_intensity": 14.607043126568838
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 57.95525895997763,
+                "normalized_intensity": 14.488814739994407
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 55.50232969761812,
+                "normalized_intensity": 13.87558242440453
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.314384866566776,
+                "normalized_intensity": 13.828596216641694
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 55.16468057445047,
+                "normalized_intensity": 13.791170143612618
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 54.348778037528625,
+                "normalized_intensity": 13.587194509382156
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.0644073339672,
+                "normalized_intensity": 13.5161018334918
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.90414641962933,
+                "normalized_intensity": 12.976036604907332
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.33984645481375,
+                "normalized_intensity": 12.584961613703438
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.745365821885905,
+                "normalized_intensity": 12.436341455471476
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 82.4463378407925,
+                "normalized_intensity": 82.4463378407925
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.07916963396087,
+                "normalized_intensity": 67.07916963396087
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 59.77966377237325,
+                "normalized_intensity": 59.77966377237325
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 73.75703904669263,
+                "normalized_intensity": 73.75703904669263
+            },
+            {
+                "topic": "health",
+                "weighted_count": 66.00772904969355,
+                "normalized_intensity": 66.00772904969355
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 53.24045347124908,
+                "normalized_intensity": 53.24045347124908
+            }
+        ]
+    }
+}

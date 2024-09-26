@@ -1,0 +1,62 @@
+{
+    "2024-07": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 1209.014405542683,
+                "normalized_intensity": 63.63233713382542
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 806.2705965001917,
+                "normalized_intensity": 42.435294552641665
+            },
+            {
+                "topic": "community",
+                "weighted_count": 311.7228901613488,
+                "normalized_intensity": 16.406467903228883
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 222.22381277882897,
+                "normalized_intensity": 11.695990146254156
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 148.98488299769792,
+                "normalized_intensity": 7.8413096314577855
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 303.2105586731229,
+                "normalized_intensity": 75.80263966828072
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 228.44644741884088,
+                "normalized_intensity": 57.11161185471022
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 99.73773699757464,
+                "normalized_intensity": 24.93443424939366
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.08789637133747,
+                "normalized_intensity": 13.021974092834368
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.54519175887909,
+                "normalized_intensity": 12.386297939719773
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 158.3738039368666,
+                "normalized_intensity": 79.1869019684333
+            },
+            {
+                "topic": "music",
+                "weighted_count": 107.84085220439832,
+                "normalized_intensity": 53.92042610219916
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.83372304973027,
+                "normalized_intensity": 51.41686152486513
+            }
+        ]
+    }
+}

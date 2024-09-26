@@ -1,0 +1,107 @@
+{
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 299.25799297814467,
+                "normalized_intensity": 59.851598595628936
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 275.55415165589625,
+                "normalized_intensity": 55.11083033117925
+            },
+            {
+                "topic": "education",
+                "weighted_count": 262.93367418227484,
+                "normalized_intensity": 52.586734836454966
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 176.66263307223235,
+                "normalized_intensity": 35.33252661444647
+            },
+            {
+                "topic": "family",
+                "weighted_count": 79.26502919975856,
+                "normalized_intensity": 15.853005839951711
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 78.49543217095567,
+                "normalized_intensity": 15.699086434191134
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.17219941204991,
+                "normalized_intensity": 12.434439882409983
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 51.058402596845085,
+                "normalized_intensity": 10.211680519369017
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 517.6683036205304,
+                "normalized_intensity": 64.7085379525663
+            },
+            {
+                "topic": "education",
+                "weighted_count": 496.3620519319978,
+                "normalized_intensity": 62.04525649149973
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 471.4229165066696,
+                "normalized_intensity": 58.9278645633337
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 205.44179099638774,
+                "normalized_intensity": 25.680223874548467
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 205.18670298473913,
+                "normalized_intensity": 25.64833787309239
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 757.9763313837825,
+                "normalized_intensity": 63.16469428198187
+            },
+            {
+                "topic": "education",
+                "weighted_count": 726.8754499995068,
+                "normalized_intensity": 60.57295416662557
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 704.617775363205,
+                "normalized_intensity": 58.718147946933755
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 205.44179099638774,
+                "normalized_intensity": 17.12014924969898
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 205.18670298473913,
+                "normalized_intensity": 17.098891915394926
+            }
+        ]
+    }
+}

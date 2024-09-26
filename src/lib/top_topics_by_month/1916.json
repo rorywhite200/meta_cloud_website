@@ -1,0 +1,47 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 101.01758013914508,
+                "normalized_intensity": 50.50879006957254
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 74.3062723644371,
+                "normalized_intensity": 37.15313618221855
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 61.82237104377381,
+                "normalized_intensity": 30.911185521886907
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 58.743755494647566,
+                "normalized_intensity": 29.371877747323783
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.24278271729752,
+                "normalized_intensity": 27.12139135864876
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 53.63303660180161,
+                "normalized_intensity": 26.816518300900803
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 50.31337785997678,
+                "normalized_intensity": 25.15668892998839
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.251776218496786,
+                "normalized_intensity": 24.625888109248393
+            }
+        ]
+    }
+}

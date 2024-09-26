@@ -1,0 +1,167 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 256.7327703333722,
+                "normalized_intensity": 85.57759011112405
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 167.90097024063488,
+                "normalized_intensity": 55.96699008021162
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 159.23221047085585,
+                "normalized_intensity": 53.077403490285285
+            },
+            {
+                "topic": "media",
+                "weighted_count": 155.4911806764817,
+                "normalized_intensity": 51.83039355882723
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 152.78879037522532,
+                "normalized_intensity": 50.92959679174177
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 51.866637201465295,
+                "normalized_intensity": 17.288879067155097
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 51.19467804521698,
+                "normalized_intensity": 17.064892681738993
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.88617513491154,
+                "normalized_intensity": 16.962058378303848
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 79.46658803503406,
+                "normalized_intensity": 79.46658803503406
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 62.21794448976399,
+                "normalized_intensity": 62.21794448976399
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.03156525186302,
+                "normalized_intensity": 50.03156525186302
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.53506704948338,
+                "normalized_intensity": 49.53506704948338
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 239.15314869437674,
+                "normalized_intensity": 79.71771623145891
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 190.23484192390754,
+                "normalized_intensity": 63.41161397463585
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 151.4985871115495,
+                "normalized_intensity": 50.49952903718317
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 123.34364126322706,
+                "normalized_intensity": 41.11454708774235
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 99.47855793723772,
+                "normalized_intensity": 33.15951931241258
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.07632938514763,
+                "normalized_intensity": 16.69210979504921
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 151.05846973407225,
+                "normalized_intensity": 50.35282324469075
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.8698501041368,
+                "normalized_intensity": 32.956616701378934
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.08715805146367,
+                "normalized_intensity": 16.695719350487888
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 252.9907817732526,
+                "normalized_intensity": 63.24769544331315
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 228.41897561339675,
+                "normalized_intensity": 57.10474390334919
+            },
+            {
+                "topic": "community",
+                "weighted_count": 226.1162275452777,
+                "normalized_intensity": 56.529056886319424
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 205.32921942501247,
+                "normalized_intensity": 51.33230485625312
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 127.1072179773512,
+                "normalized_intensity": 31.7768044943378
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 100.04307549787669,
+                "normalized_intensity": 25.01076887446917
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 99.16545542980182,
+                "normalized_intensity": 24.791363857450456
+            }
+        ]
+    }
+}

@@ -1,0 +1,372 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 85.90202637046863,
+                "normalized_intensity": 85.90202637046863
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 63.77129184335837,
+                "normalized_intensity": 63.77129184335837
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 62.08645934075846,
+                "normalized_intensity": 62.08645934075846
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 55.6737579899917,
+                "normalized_intensity": 55.6737579899917
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "digital-rights",
+                "weighted_count": 69.69327042631343,
+                "normalized_intensity": 69.69327042631343
+            },
+            {
+                "topic": "media",
+                "weighted_count": 68.86078540951382,
+                "normalized_intensity": 68.86078540951382
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 61.83377777845175,
+                "normalized_intensity": 61.83377777845175
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 54.61429775234651,
+                "normalized_intensity": 54.61429775234651
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 53.81609797472756,
+                "normalized_intensity": 53.81609797472756
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 52.875550446396225,
+                "normalized_intensity": 52.875550446396225
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 50.33282563531405,
+                "normalized_intensity": 50.33282563531405
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 148.47436048664605,
+                "normalized_intensity": 74.23718024332302
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 105.57694226249671,
+                "normalized_intensity": 52.78847113124836
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 101.76806701600563,
+                "normalized_intensity": 50.884033508002815
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 101.55645113772141,
+                "normalized_intensity": 50.778225568860705
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.41864475426416,
+                "normalized_intensity": 26.70932237713208
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.32183749268609,
+                "normalized_intensity": 26.160918746343047
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.08516581401133,
+                "normalized_intensity": 24.542582907005666
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 296.84114437043576,
+                "normalized_intensity": 42.405877767205105
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 225.26576662556107,
+                "normalized_intensity": 32.180823803651585
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 222.0112906527585,
+                "normalized_intensity": 31.715898664679788
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 141.5601993052168,
+                "normalized_intensity": 20.22288561503097
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 124.23895668898591,
+                "normalized_intensity": 17.748422384140845
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 101.76806701600563,
+                "normalized_intensity": 14.538295288000805
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 101.75569719384393,
+                "normalized_intensity": 14.536528170549133
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 86.16892453616765,
+                "normalized_intensity": 12.309846362309665
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 71.60370555700368,
+                "normalized_intensity": 10.229100793857668
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 66.52074392429131,
+                "normalized_intensity": 9.502963417755902
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 62.76373352498458,
+                "normalized_intensity": 8.96624764642637
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 59.99068284159665,
+                "normalized_intensity": 8.570097548799522
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 59.113102677447515,
+                "normalized_intensity": 8.444728953921073
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 58.57635043166699,
+                "normalized_intensity": 8.368050061666713
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 58.36599744065223,
+                "normalized_intensity": 8.33799963437889
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 56.700464043536606,
+                "normalized_intensity": 8.100066291933802
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 56.32312108409111,
+                "normalized_intensity": 8.04616015487016
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 56.101039831534585,
+                "normalized_intensity": 8.014434261647798
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 55.6737579899917,
+                "normalized_intensity": 7.953393998570243
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 54.18454227842254,
+                "normalized_intensity": 7.740648896917506
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.86748951470264,
+                "normalized_intensity": 7.6953556449575204
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.41864475426416,
+                "normalized_intensity": 7.63123496489488
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 53.409343810734434,
+                "normalized_intensity": 7.629906258676348
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 53.25272496417516,
+                "normalized_intensity": 7.607532137739308
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 50.78712987166719,
+                "normalized_intensity": 7.255304267381027
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.08516581401133,
+                "normalized_intensity": 7.012166544858762
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 214.14733244832308,
+                "normalized_intensity": 71.38244414944103
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 101.5998567054359,
+                "normalized_intensity": 33.86661890181197
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 58.070249357147134,
+                "normalized_intensity": 19.35674978571571
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 57.48568616090064,
+                "normalized_intensity": 19.16189538696688
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 56.746799631117426,
+                "normalized_intensity": 18.915599877039142
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 54.720924006768165,
+                "normalized_intensity": 18.240308002256054
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.725390450759015,
+                "normalized_intensity": 17.90846348358634
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.56283134740969,
+                "normalized_intensity": 17.85427711580323
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 52.06800734599675,
+                "normalized_intensity": 17.35600244866558
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.61082950702852,
+                "normalized_intensity": 17.203609835676172
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.60870131817843,
+                "normalized_intensity": 17.20290043939281
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.77366833108672,
+                "normalized_intensity": 16.92455611036224
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.22927798575459,
+                "normalized_intensity": 16.743092661918197
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.853161783661676,
+                "normalized_intensity": 16.61772059455389
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.53692651508387,
+                "normalized_intensity": 16.51230883836129
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.135014411547175,
+                "normalized_intensity": 16.378338137182393
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 61.55896500739112,
+                "normalized_intensity": 20.519655002463708
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 61.373203454071366,
+                "normalized_intensity": 20.457734484690455
+            },
+            {
+                "topic": "media",
+                "weighted_count": 59.14571535479853,
+                "normalized_intensity": 19.71523845159951
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 58.12158759666968,
+                "normalized_intensity": 19.373862532223225
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 71.17774788531888,
+                "normalized_intensity": 71.17774788531888
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.98337533940693,
+                "normalized_intensity": 51.98337533940693
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 49.66516885178412,
+                "normalized_intensity": 49.66516885178412
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 126.10211784325934,
+                "normalized_intensity": 42.03403928108644
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 101.35273040181244,
+                "normalized_intensity": 33.78424346727081
+            },
+            {
+                "topic": "family",
+                "weighted_count": 66.24660048783932,
+                "normalized_intensity": 22.082200162613105
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 61.28845727450335,
+                "normalized_intensity": 20.429485758167782
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 58.661525815655146,
+                "normalized_intensity": 19.553841938551717
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.62424477347266,
+                "normalized_intensity": 17.208081591157555
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.16507745262568,
+                "normalized_intensity": 17.055025817541893
+            }
+        ]
+    }
+}

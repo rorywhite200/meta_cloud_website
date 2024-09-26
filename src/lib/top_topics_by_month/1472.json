@@ -1,0 +1,42 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 53.56647662293776,
+                "normalized_intensity": 53.56647662293776
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.652270847466816,
+                "normalized_intensity": 49.652270847466816
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 57.26468724417836,
+                "normalized_intensity": 57.26468724417836
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.09073716282956,
+                "normalized_intensity": 54.09073716282956
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.051968369760125,
+                "normalized_intensity": 51.051968369760125
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.393366360143865,
+                "normalized_intensity": 50.393366360143865
+            }
+        ]
+    }
+}

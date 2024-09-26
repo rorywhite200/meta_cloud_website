@@ -1,0 +1,127 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 251.86704203863042,
+                "normalized_intensity": 50.37340840772608
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 246.3009513206105,
+                "normalized_intensity": 49.2601902641221
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 199.7723585236319,
+                "normalized_intensity": 39.95447170472638
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 159.69134661279588,
+                "normalized_intensity": 31.938269322559176
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 159.45510574917296,
+                "normalized_intensity": 31.891021149834593
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 158.70175681088614,
+                "normalized_intensity": 31.74035136217723
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 149.89127445456998,
+                "normalized_intensity": 29.978254890913995
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 129.15726058052414,
+                "normalized_intensity": 25.831452116104828
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 113.55336150196797,
+                "normalized_intensity": 22.710672300393593
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 108.85552620472983,
+                "normalized_intensity": 21.771105240945964
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 73.54692693458789,
+                "normalized_intensity": 14.709385386917578
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 64.9589229075483,
+                "normalized_intensity": 12.991784581509659
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 62.18071856597712,
+                "normalized_intensity": 12.436143713195424
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 60.31339456647821,
+                "normalized_intensity": 12.062678913295642
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 59.712028756074886,
+                "normalized_intensity": 11.942405751214977
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 58.71211927989475,
+                "normalized_intensity": 11.74242385597895
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 58.420559724825004,
+                "normalized_intensity": 11.684111944965
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 57.31499881672114,
+                "normalized_intensity": 11.462999763344229
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.17978509264172,
+                "normalized_intensity": 11.035957018528345
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.683908713824536,
+                "normalized_intensity": 10.736781742764908
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 52.93300106106427,
+                "normalized_intensity": 10.586600212212854
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 52.89466385693235,
+                "normalized_intensity": 10.57893277138647
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 51.93830087302068,
+                "normalized_intensity": 10.387660174604136
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.88878152873003,
+                "normalized_intensity": 9.977756305746006
+            }
+        ]
+    }
+}

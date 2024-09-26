@@ -1,0 +1,32 @@
+{
+    "2023-09": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 628.698747132106,
+                "normalized_intensity": 69.85541634801177
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 562.5229074090258,
+                "normalized_intensity": 62.50254526766954
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 389.29842985267425,
+                "normalized_intensity": 43.25538109474158
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 98.83891710091395,
+                "normalized_intensity": 10.982101900101549
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.69417389329749,
+                "normalized_intensity": 5.854908210366387
+            }
+        ]
+    }
+}

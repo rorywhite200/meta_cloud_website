@@ -1,0 +1,47 @@
+{
+    "2024-04": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 558.4975074013879,
+                "normalized_intensity": 62.05527860015421
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 466.05384208508576,
+                "normalized_intensity": 51.7837602316762
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 120.30949891299474,
+                "normalized_intensity": 60.15474945649737
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 110.2868216011993,
+                "normalized_intensity": 55.14341080059965
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 109.94052968603482,
+                "normalized_intensity": 54.97026484301741
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 102.03639585757185,
+                "normalized_intensity": 51.01819792878592
+            },
+            {
+                "topic": "business",
+                "weighted_count": 100.79582371082611,
+                "normalized_intensity": 50.39791185541306
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 79.82316952917998,
+                "normalized_intensity": 79.82316952917998
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 61.84194340114607,
+                "normalized_intensity": 61.84194340114607
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 57.13689717472013,
+                "normalized_intensity": 57.13689717472013
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.01676692525532,
+                "normalized_intensity": 51.01676692525532
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.571832762327276,
+                "normalized_intensity": 49.571832762327276
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 49.30759942486998,
+                "normalized_intensity": 49.30759942486998
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 237.8552738077389,
+                "normalized_intensity": 79.28509126924631
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 180.4488424526775,
+                "normalized_intensity": 60.149614150892496
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 157.1424900853491,
+                "normalized_intensity": 52.3808300284497
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 152.94902211625902,
+                "normalized_intensity": 50.98300737208634
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 103.21856037701096,
+                "normalized_intensity": 34.40618679233699
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 99.47456484833101,
+                "normalized_intensity": 33.158188282777004
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 98.79476436255821,
+                "normalized_intensity": 32.93158812085274
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 57.13689717472013,
+                "normalized_intensity": 19.045632391573378
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 49.30759942486998,
+                "normalized_intensity": 16.435866474956658
+            }
+        ]
+    }
+}

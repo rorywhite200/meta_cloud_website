@@ -1,0 +1,92 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 123.36345792641448,
+                "normalized_intensity": 61.68172896320724
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 121.75314936950994,
+                "normalized_intensity": 60.87657468475497
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 116.34061780965965,
+                "normalized_intensity": 58.170308904829824
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 110.07439006093959,
+                "normalized_intensity": 55.037195030469796
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 104.67515975187949,
+                "normalized_intensity": 52.337579875939745
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.70676142605515,
+                "normalized_intensity": 49.853380713027576
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.03340224327194,
+                "normalized_intensity": 60.03340224327194
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.428810781949075,
+                "normalized_intensity": 50.428810781949075
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 70.79288371083155,
+                "normalized_intensity": 70.79288371083155
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 61.13330192093706,
+                "normalized_intensity": 61.13330192093706
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 57.18506284362183,
+                "normalized_intensity": 57.18506284362183
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.03253581239834,
+                "normalized_intensity": 54.03253581239834
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.12062796506668,
+                "normalized_intensity": 51.12062796506668
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 50.501665670252585,
+                "normalized_intensity": 50.501665670252585
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.18395412537281,
+                "normalized_intensity": 50.18395412537281
+            }
+        ]
+    }
+}

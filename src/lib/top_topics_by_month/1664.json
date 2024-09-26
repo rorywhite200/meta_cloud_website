@@ -1,0 +1,22 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 178.24368640187947,
+                "normalized_intensity": 59.414562133959826
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.8879212466015,
+                "normalized_intensity": 35.29597374886716
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.263534362794196,
+                "normalized_intensity": 18.087844787598065
+            }
+        ]
+    }
+}

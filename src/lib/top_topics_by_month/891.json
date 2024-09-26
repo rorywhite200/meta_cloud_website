@@ -1,0 +1,67 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 58.590500723522176,
+                "normalized_intensity": 58.590500723522176
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 54.915282108275875,
+                "normalized_intensity": 54.915282108275875
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.653471279518506,
+                "normalized_intensity": 50.653471279518506
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.40757584126575,
+                "normalized_intensity": 50.40757584126575
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.0183626681034,
+                "normalized_intensity": 50.0183626681034
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.177528013138726,
+                "normalized_intensity": 49.177528013138726
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 59.35221245684258,
+                "normalized_intensity": 59.35221245684258
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 57.54353712416479,
+                "normalized_intensity": 57.54353712416479
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 55.02319935195007,
+                "normalized_intensity": 55.02319935195007
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 52.32455656023291,
+                "normalized_intensity": 52.32455656023291
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.462829647905046,
+                "normalized_intensity": 49.462829647905046
+            }
+        ]
+    }
+}

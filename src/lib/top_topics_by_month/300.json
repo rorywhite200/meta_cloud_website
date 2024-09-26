@@ -1,0 +1,247 @@
+{
+    "2023-09": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 647.4698132449528,
+                "normalized_intensity": 71.9410903605503
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 619.6803704134868,
+                "normalized_intensity": 68.85337449038742
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 520.6731495522166,
+                "normalized_intensity": 57.85257217246851
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 506.6387095442385,
+                "normalized_intensity": 56.293189949359835
+            },
+            {
+                "topic": "science",
+                "weighted_count": 391.784371741497,
+                "normalized_intensity": 43.53159686016633
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 314.85295128712363,
+                "normalized_intensity": 34.98366125412485
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 210.77009490818642,
+                "normalized_intensity": 23.418899434242935
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 202.07410328415682,
+                "normalized_intensity": 22.452678142684093
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 199.6936066998696,
+                "normalized_intensity": 22.188178522207735
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 155.90891049184992,
+                "normalized_intensity": 17.323212276872212
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 105.41596540418598,
+                "normalized_intensity": 11.712885044909553
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 98.22778253834802,
+                "normalized_intensity": 10.914198059816448
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.138316414431884,
+                "normalized_intensity": 5.459812934936876
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 39,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 2826.6224312472827,
+                "normalized_intensity": 72.47749823710981
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 2694.2836380196404,
+                "normalized_intensity": 69.08419584665745
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 2281.131207083862,
+                "normalized_intensity": 58.49054377138108
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 2194.721677475917,
+                "normalized_intensity": 56.2749148070748
+            },
+            {
+                "topic": "science",
+                "weighted_count": 1909.5971346144056,
+                "normalized_intensity": 48.964029092677066
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1225.048980798223,
+                "normalized_intensity": 31.411512328159567
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1053.850474540932,
+                "normalized_intensity": 27.021807039511078
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 779.5445524592495,
+                "normalized_intensity": 19.988321857929474
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 700.5948941698579,
+                "normalized_intensity": 17.963971645380973
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 694.9585364024549,
+                "normalized_intensity": 17.819449651344996
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 527.0798270209299,
+                "normalized_intensity": 13.514867359511022
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 491.13891269174013,
+                "normalized_intensity": 12.593305453634363
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 245.6915820721594,
+                "normalized_intensity": 6.299784155696395
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 70,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 4652.687167879576,
+                "normalized_intensity": 66.4669595411368
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 4252.997673248615,
+                "normalized_intensity": 60.75710961783735
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 3614.861155770001,
+                "normalized_intensity": 51.640873653857156
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 3576.979659341632,
+                "normalized_intensity": 51.099709419166174
+            },
+            {
+                "topic": "science",
+                "weighted_count": 3196.8557729363665,
+                "normalized_intensity": 45.669368184805236
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 2373.943604569982,
+                "normalized_intensity": 33.91348006528546
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1577.4888167573413,
+                "normalized_intensity": 22.535554525104875
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1528.6174535928642,
+                "normalized_intensity": 21.837392194183774
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1463.8850789955895,
+                "normalized_intensity": 20.91264398565128
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 1198.3490550154345,
+                "normalized_intensity": 17.119272214506207
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 737.9117578293018,
+                "normalized_intensity": 10.541596540418597
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 687.5944777684361,
+                "normalized_intensity": 9.822778253834802
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 475.8339008767748,
+                "normalized_intensity": 6.797627155382497
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 343.96821490102315,
+                "normalized_intensity": 4.9138316414431875
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 209.581795452811,
+                "normalized_intensity": 2.9940256493258715
+            },
+            {
+                "topic": "business",
+                "weighted_count": 158.01825674059657,
+                "normalized_intensity": 2.257403667722808
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 152.29554490675667,
+                "normalized_intensity": 2.1756506415250954
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 111.03873902499957,
+                "normalized_intensity": 1.5862677003571368
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 105.45888066958035,
+                "normalized_intensity": 1.5065554381368622
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 50.31560666649651,
+                "normalized_intensity": 0.7187943809499501
+            }
+        ]
+    }
+}

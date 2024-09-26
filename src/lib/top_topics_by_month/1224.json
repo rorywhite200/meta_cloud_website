@@ -1,0 +1,52 @@
+{
+    "2023-08": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 425.286312306377,
+                "normalized_intensity": 60.75518747233957
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 416.7169531295649,
+                "normalized_intensity": 59.53099330422356
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 377.3883327412751,
+                "normalized_intensity": 53.9126189630393
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 317.9633070800523,
+                "normalized_intensity": 45.42332958286461
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 213.24396006246565,
+                "normalized_intensity": 30.46342286606652
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 51.42688999116453,
+                "normalized_intensity": 51.42688999116453
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 61.84665185098235,
+                "normalized_intensity": 61.84665185098235
+            }
+        ]
+    }
+}

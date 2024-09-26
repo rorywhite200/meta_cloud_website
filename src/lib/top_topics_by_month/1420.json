@@ -1,0 +1,312 @@
+{
+    "2023-09": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "trade-policy",
+                "weighted_count": 165.03876700942598,
+                "normalized_intensity": 27.506461168237664
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 116.3239893606794,
+                "normalized_intensity": 19.387331560113235
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 112.2683865224504,
+                "normalized_intensity": 18.711397753741732
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 107.37118000575306,
+                "normalized_intensity": 17.89519666762551
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 70.52987364011537,
+                "normalized_intensity": 11.754978940019228
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 69.65199835600592,
+                "normalized_intensity": 11.608666392667653
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 65.23012006613644,
+                "normalized_intensity": 10.871686677689405
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 62.99901260781452,
+                "normalized_intensity": 10.499835434635754
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 61.35127457265116,
+                "normalized_intensity": 10.225212428775192
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 59.45022808647495,
+                "normalized_intensity": 9.908371347745826
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 56.86053832578138,
+                "normalized_intensity": 9.47675638763023
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 55.086180681393934,
+                "normalized_intensity": 9.181030113565656
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 54.18648402655988,
+                "normalized_intensity": 9.031080671093314
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 54.124517016672336,
+                "normalized_intensity": 9.020752836112056
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.89861695094443,
+                "normalized_intensity": 8.816436158490738
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.391034335880484,
+                "normalized_intensity": 8.23183905598008
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 72.28373730213431,
+                "normalized_intensity": 24.09457910071144
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 69.56424391593539,
+                "normalized_intensity": 23.188081305311798
+            },
+            {
+                "topic": "community",
+                "weighted_count": 63.80191359956794,
+                "normalized_intensity": 21.267304533189314
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.564187803779475,
+                "normalized_intensity": 18.188062601259826
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 54.24117130280109,
+                "normalized_intensity": 18.08039043426703
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.41340834931319,
+                "normalized_intensity": 17.47113611643773
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.300873199824814,
+                "normalized_intensity": 17.433624399941603
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 51.472224349090226,
+                "normalized_intensity": 17.15740811636341
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 51.36191327663355,
+                "normalized_intensity": 17.12063775887785
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 117.8386027656957,
+                "normalized_intensity": 14.729825345711962
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 114.4920977900772,
+                "normalized_intensity": 14.31151222375965
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 113.69986737456188,
+                "normalized_intensity": 14.212483421820234
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 111.02807563476398,
+                "normalized_intensity": 13.878509454345497
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 107.6288194016752,
+                "normalized_intensity": 13.4536024252094
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 107.5321277971958,
+                "normalized_intensity": 13.441515974649475
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 103.73393447141301,
+                "normalized_intensity": 12.966741808926626
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 66.15354900657587,
+                "normalized_intensity": 8.269193625821984
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 62.434095818392024,
+                "normalized_intensity": 7.804261977299003
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 61.280952520677225,
+                "normalized_intensity": 7.660119065084653
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.45581174006339,
+                "normalized_intensity": 7.556976467507924
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 59.45022808647495,
+                "normalized_intensity": 7.431278510809369
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 59.2872837152907,
+                "normalized_intensity": 7.410910464411337
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 58.89123045445497,
+                "normalized_intensity": 7.361403806806871
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.63622324796022,
+                "normalized_intensity": 7.204527905995027
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 56.82954330977408,
+                "normalized_intensity": 7.10369291372176
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.75107631773134,
+                "normalized_intensity": 6.843884539716417
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 54.301766760114,
+                "normalized_intensity": 6.78772084501425
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 54.18648402655988,
+                "normalized_intensity": 6.773310503319985
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.73593288131821,
+                "normalized_intensity": 6.591991610164777
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.60497039365596,
+                "normalized_intensity": 6.575621299206995
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 51.9622319819233,
+                "normalized_intensity": 6.495278997740413
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 51.893471883123766,
+                "normalized_intensity": 6.486683985390471
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.42863558544705,
+                "normalized_intensity": 6.303579448180881
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 50.25367745454059,
+                "normalized_intensity": 6.281709681817574
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.24894586773384,
+                "normalized_intensity": 6.15611823346673
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 49.11783775122785,
+                "normalized_intensity": 6.139729718903482
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 56.90096201033943,
+                "normalized_intensity": 56.90096201033943
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 50.05542073883419,
+                "normalized_intensity": 50.05542073883419
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 111.5126620997506,
+                "normalized_intensity": 55.7563310498753
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 103.42736062818624,
+                "normalized_intensity": 51.71368031409312
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.649967154185525,
+                "normalized_intensity": 31.824983577092762
+            }
+        ]
+    }
+}

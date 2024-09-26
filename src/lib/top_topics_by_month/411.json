@@ -1,0 +1,212 @@
+{
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 249.1515966097742,
+                "normalized_intensity": 62.28789915244355
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 421.6359410523315,
+                "normalized_intensity": 60.233705864618784
+            },
+            {
+                "topic": "community",
+                "weighted_count": 364.4546486722025,
+                "normalized_intensity": 52.064949810314644
+            },
+            {
+                "topic": "security",
+                "weighted_count": 344.1848656014995,
+                "normalized_intensity": 49.16926651449993
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 325.2994613714929,
+                "normalized_intensity": 46.471351624498986
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 324.07026957130904,
+                "normalized_intensity": 46.29575279590129
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 313.0377948042465,
+                "normalized_intensity": 44.71968497203522
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 309.9986110820431,
+                "normalized_intensity": 44.2855158688633
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 295.67472034666065,
+                "normalized_intensity": 42.23924576380866
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 60.08215921109672,
+                "normalized_intensity": 8.583165601585247
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 56.79324439933402,
+                "normalized_intensity": 8.11332062847629
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 52.50092109074416,
+                "normalized_intensity": 7.500131584392022
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.01403299569503,
+                "normalized_intensity": 7.287718999385005
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 656.3467309852155,
+                "normalized_intensity": 54.69556091543462
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 421.6359410523315,
+                "normalized_intensity": 35.13632842102762
+            },
+            {
+                "topic": "security",
+                "weighted_count": 344.1848656014995,
+                "normalized_intensity": 28.68207213345829
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 325.2994613714929,
+                "normalized_intensity": 27.108288447624407
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 324.07026957130904,
+                "normalized_intensity": 27.005855797609087
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 313.0377948042465,
+                "normalized_intensity": 26.086482900353875
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 309.9986110820431,
+                "normalized_intensity": 25.83321759017026
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 295.67472034666065,
+                "normalized_intensity": 24.639560028888386
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 328.1733654926077,
+                "normalized_intensity": 54.69556091543461
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 210.8179705261657,
+                "normalized_intensity": 35.13632842102762
+            },
+            {
+                "topic": "security",
+                "weighted_count": 172.09243280074975,
+                "normalized_intensity": 28.68207213345829
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 162.64973068574645,
+                "normalized_intensity": 27.108288447624407
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 162.03513478565452,
+                "normalized_intensity": 27.005855797609087
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 156.51889740212326,
+                "normalized_intensity": 26.086482900353875
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 154.99930554102158,
+                "normalized_intensity": 25.833217590170264
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 147.83736017333035,
+                "normalized_intensity": 24.639560028888393
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 816.5579020369587,
+                "normalized_intensity": 58.32556443121133
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 210.511662527956,
+                "normalized_intensity": 15.036547323425427
+            },
+            {
+                "topic": "security",
+                "weighted_count": 171.8020806586623,
+                "normalized_intensity": 12.27157718990445
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 163.37939413285488,
+                "normalized_intensity": 11.669956723775348
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 160.91748881345143,
+                "normalized_intensity": 11.49410634381796
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 156.42867095066268,
+                "normalized_intensity": 11.173476496475905
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 154.9278428582029,
+                "normalized_intensity": 11.066274489871635
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 148.92295428319392,
+                "normalized_intensity": 10.637353877370995
+            }
+        ]
+    }
+}

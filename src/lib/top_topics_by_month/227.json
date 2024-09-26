@@ -1,0 +1,112 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 129.13365126511636,
+                "normalized_intensity": 43.04455042170545
+            },
+            {
+                "topic": "health",
+                "weighted_count": 124.49241913242648,
+                "normalized_intensity": 41.49747304414216
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 111.91158266890602,
+                "normalized_intensity": 37.30386088963534
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 104.83927931699246,
+                "normalized_intensity": 34.946426438997484
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 104.43789391894794,
+                "normalized_intensity": 34.81263130631598
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 102.85264769528351,
+                "normalized_intensity": 34.28421589842784
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 100.67718936424842,
+                "normalized_intensity": 33.55906312141614
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.31766706684243,
+                "normalized_intensity": 23.772555688947477
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.141577098958415,
+                "normalized_intensity": 16.380525699652804
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.31766706684243,
+                "normalized_intensity": 71.31766706684243
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 74.76918050105779,
+                "normalized_intensity": 37.384590250528895
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 65.14049924116748,
+                "normalized_intensity": 32.57024962058374
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.920872228257196,
+                "normalized_intensity": 25.460436114128598
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.31766706684243,
+                "normalized_intensity": 35.658833533421216
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.31766706684243,
+                "normalized_intensity": 23.772555688947477
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.31766706684243,
+                "normalized_intensity": 71.31766706684243
+            }
+        ]
+    }
+}

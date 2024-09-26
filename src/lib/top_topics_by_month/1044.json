@@ -1,0 +1,57 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 143.67860862343457,
+                "normalized_intensity": 71.83930431171729
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 72.96460649946575,
+                "normalized_intensity": 36.48230324973287
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 69.30145006651982,
+                "normalized_intensity": 34.65072503325991
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 66.77209681287951,
+                "normalized_intensity": 33.386048406439755
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 62.4824586925714,
+                "normalized_intensity": 31.2412293462857
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.479528540642654,
+                "normalized_intensity": 27.239764270321327
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 54.105043356106805,
+                "normalized_intensity": 27.052521678053402
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 52.46287316892353,
+                "normalized_intensity": 26.231436584461765
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 51.33400235126586,
+                "normalized_intensity": 25.66700117563293
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.675444922212925,
+                "normalized_intensity": 24.837722461106463
+            }
+        ]
+    }
+}

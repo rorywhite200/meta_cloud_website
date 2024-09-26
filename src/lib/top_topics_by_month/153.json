@@ -1,0 +1,67 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 68.68276875664337,
+                "normalized_intensity": 68.68276875664337
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.478878598739406,
+                "normalized_intensity": 52.478878598739406
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 73.53303382689715,
+                "normalized_intensity": 36.76651691344858
+            },
+            {
+                "topic": "community",
+                "weighted_count": 63.08066208826616,
+                "normalized_intensity": 31.54033104413308
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 60.834535331496284,
+                "normalized_intensity": 30.417267665748142
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 51.57038176113795,
+                "normalized_intensity": 25.785190880568976
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 73.95215917488859,
+                "normalized_intensity": 73.95215917488859
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 66.05174449969914,
+                "normalized_intensity": 66.05174449969914
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.35783594883314,
+                "normalized_intensity": 50.35783594883314
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.766422085923935,
+                "normalized_intensity": 49.766422085923935
+            }
+        ]
+    }
+}

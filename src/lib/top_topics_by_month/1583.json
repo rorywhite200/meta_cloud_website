@@ -1,0 +1,37 @@
+{
+    "2023-12": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 288.37514049627435,
+                "normalized_intensity": 57.675028099254874
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 285.2095312291289,
+                "normalized_intensity": 57.041906245825786
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 253.2643433896898,
+                "normalized_intensity": 50.65286867793796
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 105.01331780088894,
+                "normalized_intensity": 21.002663560177787
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 98.35381061554753,
+                "normalized_intensity": 19.670762123109505
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 51.526582091307915,
+                "normalized_intensity": 10.305316418261583
+            }
+        ]
+    }
+}

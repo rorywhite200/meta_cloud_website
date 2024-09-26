@@ -1,0 +1,107 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "manitoba",
+                "weighted_count": 70.06398053850464,
+                "normalized_intensity": 70.06398053850464
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 52.896472025918804,
+                "normalized_intensity": 52.896472025918804
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 62.522727943196564,
+                "normalized_intensity": 62.522727943196564
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 58.533528823197244,
+                "normalized_intensity": 58.533528823197244
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.52694663335846,
+                "normalized_intensity": 50.52694663335846
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.64711947415904,
+                "normalized_intensity": 49.64711947415904
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 68.8266887877018,
+                "normalized_intensity": 68.8266887877018
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 51.69726397242962,
+                "normalized_intensity": 51.69726397242962
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 63.75369610139848,
+                "normalized_intensity": 63.75369610139848
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 61.13397579999871,
+                "normalized_intensity": 61.13397579999871
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.36074498689793,
+                "normalized_intensity": 60.36074498689793
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.48964097966099,
+                "normalized_intensity": 52.48964097966099
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.21066881295052,
+                "normalized_intensity": 52.21066881295052
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.075017411184845,
+                "normalized_intensity": 52.075017411184845
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 50.0174014009525,
+                "normalized_intensity": 50.0174014009525
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 49.856646112125205,
+                "normalized_intensity": 49.856646112125205
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.40258624393178,
+                "normalized_intensity": 49.40258624393178
+            }
+        ]
+    }
+}

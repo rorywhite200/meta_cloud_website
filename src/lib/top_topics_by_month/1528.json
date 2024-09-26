@@ -1,0 +1,122 @@
+{
+    "2023-11": {
+        "total_ads": 26,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 1566.721822002745,
+                "normalized_intensity": 60.25853161549019
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 1416.65507773962,
+                "normalized_intensity": 54.48673375921616
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1365.0550141227932,
+                "normalized_intensity": 52.502115927799736
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 842.5887425993374,
+                "normalized_intensity": 32.40725933074374
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 546.5657134024152,
+                "normalized_intensity": 21.0217582077852
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 518.7197497129683,
+                "normalized_intensity": 19.950759604344935
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 425.2876485068131,
+                "normalized_intensity": 16.357217250262043
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 414.9847834895496,
+                "normalized_intensity": 15.960953211136523
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 401.5823247574412,
+                "normalized_intensity": 15.445474029132354
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 228.33438092556767,
+                "normalized_intensity": 8.782091574060296
+            },
+            {
+                "topic": "community",
+                "weighted_count": 207.89767949969007,
+                "normalized_intensity": 7.996064596141926
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 50.54228344083067,
+                "normalized_intensity": 1.9439339784934875
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.57417331921623,
+                "normalized_intensity": 1.9066989738160087
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 34,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2121.698396951835,
+                "normalized_intensity": 62.40289402799515
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1898.9240929534055,
+                "normalized_intensity": 55.850708616276634
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1753.0875300104885,
+                "normalized_intensity": 51.561397941484955
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1531.3603004805477,
+                "normalized_intensity": 45.040008837663166
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 1452.6362476978093,
+                "normalized_intensity": 42.7245955205238
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1162.6336707015741,
+                "normalized_intensity": 34.195107961811004
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1036.8694006603205,
+                "normalized_intensity": 30.496158842950603
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 983.5845808712188,
+                "normalized_intensity": 28.9289582609182
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 55.83992007121938,
+                "normalized_intensity": 1.6423505903299818
+            }
+        ]
+    }
+}

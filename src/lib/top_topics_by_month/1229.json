@@ -1,0 +1,37 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 50.37882765521135,
+                "normalized_intensity": 50.37882765521135
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 81.11120360040387,
+                "normalized_intensity": 81.11120360040387
+            },
+            {
+                "topic": "health",
+                "weighted_count": 64.98486714968192,
+                "normalized_intensity": 64.98486714968192
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 56.32999883166192,
+                "normalized_intensity": 56.32999883166192
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 55.954234400173284,
+                "normalized_intensity": 55.954234400173284
+            }
+        ]
+    }
+}

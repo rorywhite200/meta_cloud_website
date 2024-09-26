@@ -1,0 +1,37 @@
+{
+    "2024-05": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1731.1115397986523,
+                "normalized_intensity": 75.26571912168053
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1640.1042532598628,
+                "normalized_intensity": 71.30888057651578
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1404.8742893886108,
+                "normalized_intensity": 61.08149084298308
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 1227.3455555874957,
+                "normalized_intensity": 53.3628502429346
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 837.323155892065,
+                "normalized_intensity": 36.405354604002824
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 742.9865972109175,
+                "normalized_intensity": 32.303765096126845
+            }
+        ]
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 147.07456316698153,
+                "normalized_intensity": 73.53728158349077
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 56.36960375943124,
+                "normalized_intensity": 28.18480187971562
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 55.29865304060867,
+                "normalized_intensity": 27.649326520304335
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 222.30695912082962,
+                "normalized_intensity": 74.1023197069432
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 117.8354212189947,
+                "normalized_intensity": 39.278473739664896
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 61.81759061915232,
+                "normalized_intensity": 20.60586353971744
+            },
+            {
+                "topic": "health",
+                "weighted_count": 52.64877565904938,
+                "normalized_intensity": 17.54959188634979
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.01573954502193,
+                "normalized_intensity": 17.338579848340643
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.94695768453062,
+                "normalized_intensity": 16.648985894843538
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 135.24585390075305,
+                "normalized_intensity": 67.62292695037652
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 122.93647795287747,
+                "normalized_intensity": 61.468238976438734
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.65718600754041,
+                "normalized_intensity": 25.828593003770205
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 304.93313733654566,
+                "normalized_intensity": 76.23328433413641
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 162.3457342212352,
+                "normalized_intensity": 40.5864335553088
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 55.3145787325105,
+                "normalized_intensity": 13.828644683127624
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.574284444555495,
+                "normalized_intensity": 12.893571111138874
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.04182154364122,
+                "normalized_intensity": 12.760455385910305
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.3263866302148,
+                "normalized_intensity": 12.3315966575537
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.179509664186696,
+                "normalized_intensity": 12.294877416046674
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 74.81809625575063,
+                "normalized_intensity": 74.81809625575063
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 58.70255435083802,
+                "normalized_intensity": 58.70255435083802
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 56.8977916795457,
+                "normalized_intensity": 56.8977916795457
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.2651489637644,
+                "normalized_intensity": 49.2651489637644
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 76.97239128188077,
+                "normalized_intensity": 76.97239128188077
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 64.84947605448014,
+                "normalized_intensity": 64.84947605448014
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.417094437055155,
+                "normalized_intensity": 52.417094437055155
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.119348776278386,
+                "normalized_intensity": 51.119348776278386
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 209.42977452549596,
+                "normalized_intensity": 52.35744363137399
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 66.9083828455878,
+                "normalized_intensity": 16.72709571139695
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 63.8923064425294,
+                "normalized_intensity": 15.97307661063235
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 59.93328551156242,
+                "normalized_intensity": 14.983321377890604
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 58.47640022023124,
+                "normalized_intensity": 14.61910005505781
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 54.201324368758705,
+                "normalized_intensity": 13.550331092189676
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 149.22628580320657,
+                "normalized_intensity": 74.61314290160328
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 114.8959832614576,
+                "normalized_intensity": 57.4479916307288
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 106.37637039917979,
+                "normalized_intensity": 53.188185199589896
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.80857006705348,
+                "normalized_intensity": 25.90428503352674
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.84420678915479,
+                "normalized_intensity": 25.422103394577395
+            }
+        ]
+    }
+}

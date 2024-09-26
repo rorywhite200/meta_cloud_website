@@ -1,0 +1,137 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 74.66831435344767,
+                "normalized_intensity": 74.66831435344767
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 57.00480048342672,
+                "normalized_intensity": 57.00480048342672
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.327596038357285,
+                "normalized_intensity": 54.327596038357285
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 50.618037907752864,
+                "normalized_intensity": 50.618037907752864
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 138.95988069154714,
+                "normalized_intensity": 69.47994034577357
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 123.56982608145957,
+                "normalized_intensity": 61.78491304072978
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 117.13091407925205,
+                "normalized_intensity": 58.565457039626025
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 103.68407290744202,
+                "normalized_intensity": 51.84203645372101
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 102.58223640468749,
+                "normalized_intensity": 51.291118202343746
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 169.37387079181605,
+                "normalized_intensity": 84.68693539590802
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 166.1356877712433,
+                "normalized_intensity": 83.06784388562166
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 145.83831903686206,
+                "normalized_intensity": 72.91915951843103
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 114.4023670258415,
+                "normalized_intensity": 57.20118351292075
+            },
+            {
+                "topic": "community",
+                "weighted_count": 109.76632973075814,
+                "normalized_intensity": 54.88316486537907
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 107.12965228342075,
+                "normalized_intensity": 53.56482614171038
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.50641301752512,
+                "normalized_intensity": 25.25320650876256
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 139.88566317006243,
+                "normalized_intensity": 69.94283158503121
+            },
+            {
+                "topic": "community",
+                "weighted_count": 130.93869484899258,
+                "normalized_intensity": 65.46934742449629
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 119.33288177644509,
+                "normalized_intensity": 59.666440888222546
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 114.49902444702259,
+                "normalized_intensity": 57.249512223511296
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 106.86957173585762,
+                "normalized_intensity": 53.43478586792881
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.66669453984917,
+                "normalized_intensity": 25.333347269924584
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.84821665969715,
+                "normalized_intensity": 24.924108329848575
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "2024-08": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 1153.2825078150418,
+                "normalized_intensity": 76.88550052100278
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 910.82014146468,
+                "normalized_intensity": 60.721342764312
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 642.5679193032073,
+                "normalized_intensity": 42.83786128688049
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 590.5567021398175,
+                "normalized_intensity": 39.370446809321166
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 567.1642691941677,
+                "normalized_intensity": 37.81095127961118
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 541.4159234446935,
+                "normalized_intensity": 36.0943948963129
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 533.6029978231202,
+                "normalized_intensity": 35.57353318820801
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 531.5994231244902,
+                "normalized_intensity": 35.43996154163268
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 521.6462142144983,
+                "normalized_intensity": 34.776414280966556
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 286.00845758082806,
+                "normalized_intensity": 19.067230505388537
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 267.584920904296,
+                "normalized_intensity": 17.838994726953064
+            },
+            {
+                "topic": "business",
+                "weighted_count": 257.31582884282994,
+                "normalized_intensity": 17.154388589521997
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 252.71263900708834,
+                "normalized_intensity": 16.847509267139223
+            },
+            {
+                "topic": "science",
+                "weighted_count": 246.9906039050467,
+                "normalized_intensity": 16.466040260336445
+            }
+        ]
+    }
+}

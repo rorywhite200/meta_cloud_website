@@ -1,0 +1,72 @@
+{
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 328.5159519099756,
+                "normalized_intensity": 65.70319038199513
+            },
+            {
+                "topic": "community",
+                "weighted_count": 309.0288512879053,
+                "normalized_intensity": 61.80577025758106
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 290.5053842267418,
+                "normalized_intensity": 58.10107684534836
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 264.6472395686793,
+                "normalized_intensity": 52.92944791373586
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 250.09901644090098,
+                "normalized_intensity": 50.0198032881802
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 196.18844528495734,
+                "normalized_intensity": 39.23768905699147
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 66.3049943630994,
+                "normalized_intensity": 66.3049943630994
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.15263380774401,
+                "normalized_intensity": 62.15263380774401
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 58.056824148281706,
+                "normalized_intensity": 58.056824148281706
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 53.26764693821986,
+                "normalized_intensity": 53.26764693821986
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 50.17583082315752,
+                "normalized_intensity": 50.17583082315752
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.047111321239335,
+                "normalized_intensity": 49.047111321239335
+            }
+        ]
+    }
+}

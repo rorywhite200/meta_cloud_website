@@ -1,0 +1,137 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 66.6867834884148,
+                "normalized_intensity": 66.6867834884148
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 57.03267529116529,
+                "normalized_intensity": 57.03267529116529
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 54.84201480442851,
+                "normalized_intensity": 54.84201480442851
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.7953296144699,
+                "normalized_intensity": 52.7953296144699
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.85825370230577,
+                "normalized_intensity": 51.85825370230577
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 50.52190330431132,
+                "normalized_intensity": 50.52190330431132
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.04174706505694,
+                "normalized_intensity": 50.04174706505694
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.790288571972326,
+                "normalized_intensity": 49.790288571972326
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.387966823330125,
+                "normalized_intensity": 49.387966823330125
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.20897933526641,
+                "normalized_intensity": 49.20897933526641
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 237.30205728259273,
+                "normalized_intensity": 47.46041145651854
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 190.28619074285444,
+                "normalized_intensity": 38.05723814857089
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.80865845500463,
+                "normalized_intensity": 21.361731691000927
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 106.16944770416947,
+                "normalized_intensity": 21.233889540833893
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 99.35595901561406,
+                "normalized_intensity": 19.871191803122812
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 63.03273761735396,
+                "normalized_intensity": 12.606547523470791
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 60.857575409656604,
+                "normalized_intensity": 12.171515081931322
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 58.46207751281249,
+                "normalized_intensity": 11.692415502562499
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 56.10072207695536,
+                "normalized_intensity": 11.220144415391072
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 55.485589211610396,
+                "normalized_intensity": 11.09711784232208
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 52.21231401066333,
+                "normalized_intensity": 10.442462802132665
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.45958642192305,
+                "normalized_intensity": 10.09191728438461
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 50.310040589799044,
+                "normalized_intensity": 10.06200811795981
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 50.23664879479828,
+                "normalized_intensity": 10.047329758959656
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 49.892864898719864,
+                "normalized_intensity": 9.978572979743973
+            }
+        ]
+    }
+}

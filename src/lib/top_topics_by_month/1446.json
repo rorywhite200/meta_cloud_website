@@ -1,0 +1,37 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 127.38742348841556,
+                "normalized_intensity": 63.69371174420778
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 121.50409324997615,
+                "normalized_intensity": 60.752046624988076
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 116.69410204956145,
+                "normalized_intensity": 58.347051024780725
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.31447965189426,
+                "normalized_intensity": 50.65723982594713
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 57.399943075315605,
+                "normalized_intensity": 28.699971537657802
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 53.96874250906507,
+                "normalized_intensity": 26.984371254532537
+            }
+        ]
+    }
+}

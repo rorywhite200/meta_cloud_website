@@ -1,0 +1,17 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 128.20562811875618,
+                "normalized_intensity": 64.10281405937809
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 113.47175227296765,
+                "normalized_intensity": 56.735876136483824
+            }
+        ]
+    }
+}

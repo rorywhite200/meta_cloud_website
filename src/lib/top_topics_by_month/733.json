@@ -1,0 +1,47 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 107.72609042232526,
+                "normalized_intensity": 53.86304521116263
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 104.71151387699774,
+                "normalized_intensity": 52.35575693849887
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 101.4896421750224,
+                "normalized_intensity": 50.7448210875112
+            },
+            {
+                "topic": "family",
+                "weighted_count": 101.45237103232805,
+                "normalized_intensity": 50.72618551616402
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "sports",
+                "weighted_count": 102.33610650732852,
+                "normalized_intensity": 51.16805325366426
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "sports",
+                "weighted_count": 102.33610650732852,
+                "normalized_intensity": 51.16805325366426
+            }
+        ]
+    }
+}

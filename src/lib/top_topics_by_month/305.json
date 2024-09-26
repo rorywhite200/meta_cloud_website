@@ -1,0 +1,637 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 221.94110567414072,
+                "normalized_intensity": 55.48527641853518
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 98.6048380949218,
+                "normalized_intensity": 24.65120952373045
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 80.29975558462517,
+                "normalized_intensity": 20.074938896156294
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 66.21834894979773,
+                "normalized_intensity": 16.554587237449432
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.7603976835158,
+                "normalized_intensity": 15.69009942087895
+            },
+            {
+                "topic": "health",
+                "weighted_count": 61.91893413802144,
+                "normalized_intensity": 15.47973353450536
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 60.38132457110024,
+                "normalized_intensity": 15.09533114277506
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 58.73610561026301,
+                "normalized_intensity": 14.684026402565753
+            },
+            {
+                "topic": "law",
+                "weighted_count": 57.26074774370302,
+                "normalized_intensity": 14.315186935925755
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.6991018949062,
+                "normalized_intensity": 14.17477547372655
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 54.87183340078633,
+                "normalized_intensity": 13.717958350196582
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.80210818726648,
+                "normalized_intensity": 13.70052704681662
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 54.01379225991211,
+                "normalized_intensity": 13.503448064978027
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 53.747065536070295,
+                "normalized_intensity": 13.436766384017574
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 53.13197939306157,
+                "normalized_intensity": 13.282994848265393
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 53.09224555669858,
+                "normalized_intensity": 13.273061389174645
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.697770387539634,
+                "normalized_intensity": 13.174442596884909
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 51.02141533000726,
+                "normalized_intensity": 12.755353832501815
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 50.79405131139371,
+                "normalized_intensity": 12.698512827848427
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.742612335772975,
+                "normalized_intensity": 12.685653083943244
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.501990971952374,
+                "normalized_intensity": 12.625497742988093
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 49.74027440642217,
+                "normalized_intensity": 12.435068601605542
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 49.597196444893626,
+                "normalized_intensity": 12.399299111223407
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 49.491258361450924,
+                "normalized_intensity": 12.372814590362731
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.30783237474069,
+                "normalized_intensity": 12.326958093685173
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 33,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 666.8586429404835,
+                "normalized_intensity": 20.207837664863135
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 566.8605421140026,
+                "normalized_intensity": 17.177592185272804
+            },
+            {
+                "topic": "community",
+                "weighted_count": 341.54735207654403,
+                "normalized_intensity": 10.349919759895274
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 292.06452239380405,
+                "normalized_intensity": 8.850440072539516
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 212.4113029785042,
+                "normalized_intensity": 6.436706150863764
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 210.643506339694,
+                "normalized_intensity": 6.383136555748303
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 128.972075594735,
+                "normalized_intensity": 3.90824471499197
+            },
+            {
+                "topic": "family",
+                "weighted_count": 116.93283707499262,
+                "normalized_intensity": 3.5434193053028067
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 116.06768787017992,
+                "normalized_intensity": 3.517202662732725
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 114.54772116527099,
+                "normalized_intensity": 3.4711430656142723
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 112.46108706271565,
+                "normalized_intensity": 3.4079117291732013
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 101.75642310751056,
+                "normalized_intensity": 3.0835279729548652
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 65.54508935345932,
+                "normalized_intensity": 1.9862148288927066
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 60.12945561816828,
+                "normalized_intensity": 1.822104715702069
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 57.984859343689585,
+                "normalized_intensity": 1.7571169498087753
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 57.54841841435265,
+                "normalized_intensity": 1.7438914671015955
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 54.95137281598511,
+                "normalized_intensity": 1.6651931156359123
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 53.32160716561029,
+                "normalized_intensity": 1.6158062777457662
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.755333625672954,
+                "normalized_intensity": 1.598646473505241
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 51.56782257167969,
+                "normalized_intensity": 1.5626612900508998
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.01877161652706,
+                "normalized_intensity": 1.546023382319002
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.54971394804804,
+                "normalized_intensity": 1.5318095135772132
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.46397330127823,
+                "normalized_intensity": 1.5292113121599464
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.497032053142185,
+                "normalized_intensity": 1.4999100622164299
+            },
+            {
+                "topic": "business",
+                "weighted_count": 49.01794446300357,
+                "normalized_intensity": 1.4853922564546538
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 126.51294632088505,
+                "normalized_intensity": 63.256473160442525
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 116.9727205452096,
+                "normalized_intensity": 58.4863602726048
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 103.64568974671258,
+                "normalized_intensity": 51.82284487335629
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 100.07180022950558,
+                "normalized_intensity": 50.03590011475279
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 199.18960482290203,
+                "normalized_intensity": 39.837920964580405
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 161.14085421469605,
+                "normalized_intensity": 32.22817084293921
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 158.93205870048047,
+                "normalized_intensity": 31.786411740096092
+            },
+            {
+                "topic": "community",
+                "weighted_count": 152.83223783133565,
+                "normalized_intensity": 30.56644756626713
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 148.61602287058062,
+                "normalized_intensity": 29.723204574116124
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 111.35284248815793,
+                "normalized_intensity": 22.270568497631587
+            },
+            {
+                "topic": "law",
+                "weighted_count": 104.58820273140113,
+                "normalized_intensity": 20.917640546280225
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 102.76531220485407,
+                "normalized_intensity": 20.553062440970812
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 101.41303574529479,
+                "normalized_intensity": 20.282607149058958
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 76.56239329028242,
+                "normalized_intensity": 15.312478658056483
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 70.72340985581057,
+                "normalized_intensity": 14.144681971162115
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 67.09196539770768,
+                "normalized_intensity": 13.418393079541536
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 60.78595275743424,
+                "normalized_intensity": 12.157190551486847
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 60.40559512780025,
+                "normalized_intensity": 12.08111902556005
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 58.25724836752363,
+                "normalized_intensity": 11.651449673504725
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 54.4123760546899,
+                "normalized_intensity": 10.88247521093798
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.21832835385782,
+                "normalized_intensity": 10.443665670771564
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 50.71020065423494,
+                "normalized_intensity": 10.142040130846988
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 127.61976220572701,
+                "normalized_intensity": 63.80988110286351
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 109.10413116200704,
+                "normalized_intensity": 54.55206558100352
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 107.96096635199592,
+                "normalized_intensity": 53.98048317599796
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.49748065226865,
+                "normalized_intensity": 51.748740326134325
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 63.40759647015432,
+                "normalized_intensity": 31.70379823507716
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 402.64019093616093,
+                "normalized_intensity": 67.10669848936016
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 247.02848327174956,
+                "normalized_intensity": 41.171413878624925
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 131.00995623886013,
+                "normalized_intensity": 21.834992706476687
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 122.30722781323232,
+                "normalized_intensity": 20.384537968872053
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 104.79693576750051,
+                "normalized_intensity": 17.466155961250085
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 73.0424438940469,
+                "normalized_intensity": 12.173740649007817
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 62.92622181971084,
+                "normalized_intensity": 10.487703636618473
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.76042286323923,
+                "normalized_intensity": 10.460070477206537
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 58.25724836752363,
+                "normalized_intensity": 9.709541394587271
+            },
+            {
+                "topic": "law",
+                "weighted_count": 57.26074774370302,
+                "normalized_intensity": 9.543457957283836
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.6991018949062,
+                "normalized_intensity": 9.4498503158177
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.802082687880116,
+                "normalized_intensity": 9.13368044798002
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 53.13197939306157,
+                "normalized_intensity": 8.855329898843594
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.697770387539634,
+                "normalized_intensity": 8.782961731256606
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.65437737781774,
+                "normalized_intensity": 8.609062896302957
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 51.060220758431484,
+                "normalized_intensity": 8.510036793071913
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 51.02143271942599,
+                "normalized_intensity": 8.503572119904332
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 50.79405131139371,
+                "normalized_intensity": 8.465675218565618
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.742590561318224,
+                "normalized_intensity": 8.45709842688637
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.48713799940049,
+                "normalized_intensity": 8.247856333233415
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 163.8726404846248,
+                "normalized_intensity": 81.9363202423124
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 80.29975558462517,
+                "normalized_intensity": 40.14987779231259
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.76042286323923,
+                "normalized_intensity": 31.380211431619614
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 59.27325786073072,
+                "normalized_intensity": 29.63662893036536
+            },
+            {
+                "topic": "law",
+                "weighted_count": 57.26074774370302,
+                "normalized_intensity": 28.63037387185151
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.6991018949062,
+                "normalized_intensity": 28.3495509474531
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.802082687880116,
+                "normalized_intensity": 27.401041343940058
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 53.13197939306157,
+                "normalized_intensity": 26.565989696530785
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.697770387539634,
+                "normalized_intensity": 26.348885193769817
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 51.02143271942599,
+                "normalized_intensity": 25.510716359712994
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 50.79405131139371,
+                "normalized_intensity": 25.397025655696854
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.742590561318224,
+                "normalized_intensity": 25.371295280659112
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 69.04090685918318,
+                "normalized_intensity": 69.04090685918318
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.43349965324447,
+                "normalized_intensity": 54.43349965324447
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.86605804330728,
+                "normalized_intensity": 53.86605804330728
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.64615386796271,
+                "normalized_intensity": 52.64615386796271
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 83.62540368322941,
+                "normalized_intensity": 83.62540368322941
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 66.15026752256108,
+                "normalized_intensity": 66.15026752256108
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.86836745626502,
+                "normalized_intensity": 55.86836745626502
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.2987532234079,
+                "normalized_intensity": 51.2987532234079
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.63587347786444,
+                "normalized_intensity": 50.63587347786444
+            }
+        ]
+    }
+}

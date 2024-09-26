@@ -1,0 +1,47 @@
+{
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 271.3308603086221,
+                "normalized_intensity": 67.83271507715553
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 269.337464661678,
+                "normalized_intensity": 67.3343661654195
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 266.32421768952577,
+                "normalized_intensity": 66.58105442238144
+            },
+            {
+                "topic": "family",
+                "weighted_count": 233.89269126015878,
+                "normalized_intensity": 58.473172815039696
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 152.16507586297524,
+                "normalized_intensity": 38.04126896574381
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.89089699036293,
+                "normalized_intensity": 13.472724247590733
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.06985582377847,
+                "normalized_intensity": 13.267463955944617
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.48502674248739,
+                "normalized_intensity": 12.371256685621848
+            }
+        ]
+    }
+}

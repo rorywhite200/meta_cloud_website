@@ -1,0 +1,132 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 224.9855863087911,
+                "normalized_intensity": 74.9951954362637
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 204.06520047710433,
+                "normalized_intensity": 68.02173349236811
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 164.90696069398902,
+                "normalized_intensity": 54.96898689799634
+            },
+            {
+                "topic": "food",
+                "weighted_count": 62.91536540985063,
+                "normalized_intensity": 20.97178846995021
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.672393354884015,
+                "normalized_intensity": 17.557464451628004
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 51.51532787318398,
+                "normalized_intensity": 17.17177595772799
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.12334091836523,
+                "normalized_intensity": 16.37444697278841
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 176.55721054458905,
+                "normalized_intensity": 19.617467838287673
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 165.78105173578854,
+                "normalized_intensity": 18.420116859532058
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 143.92263008099155,
+                "normalized_intensity": 15.991403342332395
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 115.54502758758454,
+                "normalized_intensity": 12.838336398620505
+            },
+            {
+                "topic": "film",
+                "weighted_count": 96.0276248679376,
+                "normalized_intensity": 10.66973609643751
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 61.385121636303,
+                "normalized_intensity": 6.8205690707003335
+            },
+            {
+                "topic": "television",
+                "weighted_count": 56.31643291825411,
+                "normalized_intensity": 6.257381435361568
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 55.254020646633386,
+                "normalized_intensity": 6.139335627403709
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 53.59608172208801,
+                "normalized_intensity": 5.955120191343112
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.307807258757066,
+                "normalized_intensity": 5.923089695417452
+            },
+            {
+                "topic": "military",
+                "weighted_count": 53.067396743188844,
+                "normalized_intensity": 5.896377415909871
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 51.92693206780975,
+                "normalized_intensity": 5.769659118645528
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 50.78981394362193,
+                "normalized_intensity": 5.643312660402437
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.837997943245774,
+                "normalized_intensity": 5.537555327027309
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.67317513065158,
+                "normalized_intensity": 5.519241681183509
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.29691292519247,
+                "normalized_intensity": 5.47743476946583
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.2662992607498,
+                "normalized_intensity": 5.474033251194422
+            }
+        ]
+    }
+}

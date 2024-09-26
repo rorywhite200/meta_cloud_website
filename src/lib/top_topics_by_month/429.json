@@ -1,0 +1,207 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 62.062870622181364,
+                "normalized_intensity": 62.062870622181364
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 56.40024086345383,
+                "normalized_intensity": 56.40024086345383
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 777.6937919263909,
+                "normalized_intensity": 77.7693791926391
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 610.5698175739807,
+                "normalized_intensity": 61.05698175739807
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 367.5592837802671,
+                "normalized_intensity": 36.75592837802671
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 309.0278712350042,
+                "normalized_intensity": 30.902787123500424
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 271.8798300944565,
+                "normalized_intensity": 27.187983009445652
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 212.80074147134235,
+                "normalized_intensity": 21.280074147134236
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 101.68671776710055,
+                "normalized_intensity": 10.168671776710054
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.99788878046385,
+                "normalized_intensity": 5.599788878046385
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.46885781513954,
+                "normalized_intensity": 5.146885781513954
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 140.17142430892545,
+                "normalized_intensity": 70.08571215446273
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 115.15907803011261,
+                "normalized_intensity": 57.579539015056305
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 98.9214328465451,
+                "normalized_intensity": 49.46071642327255
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 98.88404419747896,
+                "normalized_intensity": 49.44202209873948
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 65.70673588792137,
+                "normalized_intensity": 65.70673588792137
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 52.55769748476597,
+                "normalized_intensity": 52.55769748476597
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 61.4815440951258,
+                "normalized_intensity": 61.4815440951258
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 53.45297818864139,
+                "normalized_intensity": 53.45297818864139
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.638795027408726,
+                "normalized_intensity": 51.638795027408726
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 137.83066061317456,
+                "normalized_intensity": 68.91533030658728
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 128.19563099092287,
+                "normalized_intensity": 64.09781549546143
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 100.88190530301179,
+                "normalized_intensity": 50.440952651505896
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 98.63153677365811,
+                "normalized_intensity": 49.315768386829056
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 144.56254287214873,
+                "normalized_intensity": 72.28127143607436
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 121.67468648291222,
+                "normalized_intensity": 60.83734324145611
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 102.49457660165224,
+                "normalized_intensity": 51.24728830082612
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 386.22718848204295,
+                "normalized_intensity": 64.37119808034049
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 228.17731575899222,
+                "normalized_intensity": 38.029552626498706
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 118.41190327810995,
+                "normalized_intensity": 19.735317213018323
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 103.70684625678237,
+                "normalized_intensity": 17.284474376130394
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 100.29014252016175,
+                "normalized_intensity": 16.715023753360292
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 98.32380900266044,
+                "normalized_intensity": 16.387301500443407
+            }
+        ]
+    }
+}

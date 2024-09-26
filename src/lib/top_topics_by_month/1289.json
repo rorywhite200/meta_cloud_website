@@ -1,0 +1,87 @@
+{
+    "2024-02": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 801.1170681205504,
+                "normalized_intensity": 42.164056216871074
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 448.5397769174937,
+                "normalized_intensity": 23.60735667986809
+            },
+            {
+                "topic": "community",
+                "weighted_count": 215.2324489532893,
+                "normalized_intensity": 11.328023629120489
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 155.0945297405186,
+                "normalized_intensity": 8.162869986343084
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 123.56542895394733,
+                "normalized_intensity": 6.5034436291551225
+            },
+            {
+                "topic": "health",
+                "weighted_count": 117.07893619532865,
+                "normalized_intensity": 6.16204927343835
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 106.02684933377668,
+                "normalized_intensity": 5.580360491251405
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 105.07993262792526,
+                "normalized_intensity": 5.530522769890803
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 99.2502820980166,
+                "normalized_intensity": 5.2236990577903475
+            },
+            {
+                "topic": "business",
+                "weighted_count": 60.56852375004236,
+                "normalized_intensity": 3.1878170394759135
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.08692250475682,
+                "normalized_intensity": 2.899311710776675
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 53.39993736035581,
+                "normalized_intensity": 2.8105230189660952
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.46377855204356,
+                "normalized_intensity": 2.603356765897029
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 74.33877623787875,
+                "normalized_intensity": 74.33877623787875
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 65.56396259520945,
+                "normalized_intensity": 65.56396259520945
+            }
+        ]
+    }
+}

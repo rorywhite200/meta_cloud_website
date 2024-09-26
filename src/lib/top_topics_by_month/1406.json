@@ -1,0 +1,97 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 119.95657270512278,
+                "normalized_intensity": 59.97828635256139
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.50252996216453,
+                "normalized_intensity": 24.751264981082265
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 73.81834302527169,
+                "normalized_intensity": 73.81834302527169
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 69.93302285661373,
+                "normalized_intensity": 69.93302285661373
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 61.718177634503355,
+                "normalized_intensity": 61.718177634503355
+            },
+            {
+                "topic": "family",
+                "weighted_count": 56.24187721682996,
+                "normalized_intensity": 56.24187721682996
+            },
+            {
+                "topic": "history",
+                "weighted_count": 54.26402814185135,
+                "normalized_intensity": 54.26402814185135
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 54.20340306260072,
+                "normalized_intensity": 54.20340306260072
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 53.40653883884641,
+                "normalized_intensity": 53.40653883884641
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.37892708314155,
+                "normalized_intensity": 50.37892708314155
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 50.15981150844008,
+                "normalized_intensity": 50.15981150844008
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.65486985845143,
+                "normalized_intensity": 49.65486985845143
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 63.53977191263874,
+                "normalized_intensity": 63.53977191263874
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 53.70921875285903,
+                "normalized_intensity": 53.70921875285903
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 67.4714610274676,
+                "normalized_intensity": 67.4714610274676
+            }
+        ]
+    }
+}

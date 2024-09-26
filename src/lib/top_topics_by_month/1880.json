@@ -1,0 +1,72 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 71.89122236520143,
+                "normalized_intensity": 71.89122236520143
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 71.8495611538786,
+                "normalized_intensity": 71.8495611538786
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 68.94815972131522,
+                "normalized_intensity": 68.94815972131522
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 62.61785880616617,
+                "normalized_intensity": 62.61785880616617
+            },
+            {
+                "topic": "science",
+                "weighted_count": 57.97897834448198,
+                "normalized_intensity": 57.97897834448198
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.33968691407312,
+                "normalized_intensity": 57.33968691407312
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 56.930058683242656,
+                "normalized_intensity": 56.930058683242656
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 56.44500288146743,
+                "normalized_intensity": 56.44500288146743
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 55.25179076912995,
+                "normalized_intensity": 55.25179076912995
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.621719392673974,
+                "normalized_intensity": 52.621719392673974
+            },
+            {
+                "topic": "business",
+                "weighted_count": 51.979755213099196,
+                "normalized_intensity": 51.979755213099196
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.432543949092526,
+                "normalized_intensity": 51.432543949092526
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.27521371533231,
+                "normalized_intensity": 50.27521371533231
+            }
+        ]
+    }
+}

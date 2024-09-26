@@ -1,0 +1,312 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 114.1239713055695,
+                "normalized_intensity": 57.06198565278475
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 60.945688237963104,
+                "normalized_intensity": 30.472844118981552
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 57.512216320196394,
+                "normalized_intensity": 28.756108160098197
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.96109587023364,
+                "normalized_intensity": 26.48054793511682
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.18905555360682,
+                "normalized_intensity": 26.09452777680341
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.98058944427436,
+                "normalized_intensity": 24.99029472213718
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.926223241301706,
+                "normalized_intensity": 24.963111620650853
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.17813682057599,
+                "normalized_intensity": 24.589068410287997
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 279.4274014910989,
+                "normalized_intensity": 39.91820021301413
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 167.84298121970468,
+                "normalized_intensity": 23.977568745672098
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 158.60571360428332,
+                "normalized_intensity": 22.65795908632619
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 127.75883353646583,
+                "normalized_intensity": 18.25126193378083
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 120.79822992786603,
+                "normalized_intensity": 17.256889989695146
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 115.14019678533022,
+                "normalized_intensity": 16.44859954076146
+            },
+            {
+                "topic": "community",
+                "weighted_count": 108.82011059353502,
+                "normalized_intensity": 15.545730084790717
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 103.58758681070191,
+                "normalized_intensity": 14.79822668724313
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 72.31874274771441,
+                "normalized_intensity": 10.331248963959201
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 66.24232614263,
+                "normalized_intensity": 9.463189448947144
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.69070148041172,
+                "normalized_intensity": 7.955814497201674
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.6284008005538,
+                "normalized_intensity": 7.946914400079114
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 54.373698934931014,
+                "normalized_intensity": 7.767671276418716
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.87452864049467,
+                "normalized_intensity": 7.410646948642095
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 50.77052703957236,
+                "normalized_intensity": 7.252932434224623
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.25721371435964,
+                "normalized_intensity": 7.179601959194234
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 182.11218271310852,
+                "normalized_intensity": 60.704060904369506
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 138.70657114110858,
+                "normalized_intensity": 46.23552371370286
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 117.77040198262749,
+                "normalized_intensity": 39.25680066087583
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.60055679922406,
+                "normalized_intensity": 20.86685226640802
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 60.73726802622248,
+                "normalized_intensity": 20.245756008740827
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 56.830471037238794,
+                "normalized_intensity": 18.943490345746266
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 56.25366292740619,
+                "normalized_intensity": 18.751220975802063
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 53.60776998091138,
+                "normalized_intensity": 17.869256660303794
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 52.19547415981361,
+                "normalized_intensity": 17.398491386604537
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 51.8499795381004,
+                "normalized_intensity": 17.283326512700132
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 171.83612360717453,
+                "normalized_intensity": 42.95903090179363
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 150.70166165698265,
+                "normalized_intensity": 37.67541541424566
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 117.67185309382404,
+                "normalized_intensity": 29.41796327345601
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 111.68249501719347,
+                "normalized_intensity": 27.92062375429837
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 103.92813825897096,
+                "normalized_intensity": 25.98203456474274
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 94.04660625451814,
+                "normalized_intensity": 23.511651563629535
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 70.68894967679674,
+                "normalized_intensity": 17.672237419199185
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 61.11847460511758,
+                "normalized_intensity": 15.279618651279394
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 59.76207190458641,
+                "normalized_intensity": 14.940517976146603
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 57.31605083281126,
+                "normalized_intensity": 14.329012708202814
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 57.03960699329704,
+                "normalized_intensity": 14.25990174832426
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.84776890015589,
+                "normalized_intensity": 14.211942225038973
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 56.43094004540073,
+                "normalized_intensity": 14.107735011350183
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.55238956376763,
+                "normalized_intensity": 13.638097390941908
+            },
+            {
+                "topic": "military",
+                "weighted_count": 54.034969012638726,
+                "normalized_intensity": 13.508742253159681
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.19279621840336,
+                "normalized_intensity": 13.04819905460084
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 51.701376716533446,
+                "normalized_intensity": 12.925344179133361
+            },
+            {
+                "topic": "security",
+                "weighted_count": 51.502149973823855,
+                "normalized_intensity": 12.875537493455964
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.005437617758794,
+                "normalized_intensity": 12.501359404439699
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.91879196886675,
+                "normalized_intensity": 12.479697992216687
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 74.45435501884552,
+                "normalized_intensity": 74.45435501884552
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 68.53680178193412,
+                "normalized_intensity": 68.53680178193412
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 64.07219793248385,
+                "normalized_intensity": 64.07219793248385
+            }
+        ]
+    }
+}

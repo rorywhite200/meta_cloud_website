@@ -1,0 +1,22 @@
+{
+    "2023-11": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 355.257594906925,
+                "normalized_intensity": 59.20959915115417
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 240.056779814234,
+                "normalized_intensity": 40.00946330237233
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 61.144349467460124,
+                "normalized_intensity": 10.190724911243354
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 78.50066384373072,
+                "normalized_intensity": 78.50066384373072
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 70.00706983837497,
+                "normalized_intensity": 70.00706983837497
+            },
+            {
+                "topic": "health",
+                "weighted_count": 57.71539571699883,
+                "normalized_intensity": 57.71539571699883
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 56.11050264357321,
+                "normalized_intensity": 56.11050264357321
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 55.231720248612426,
+                "normalized_intensity": 55.231720248612426
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.65831858774909,
+                "normalized_intensity": 50.65831858774909
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 147.76901811840753,
+                "normalized_intensity": 73.88450905920376
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 145.11644051901388,
+                "normalized_intensity": 72.55822025950694
+            },
+            {
+                "topic": "health",
+                "weighted_count": 122.16172291520431,
+                "normalized_intensity": 61.080861457602154
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 114.37342572719001,
+                "normalized_intensity": 57.186712863595005
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 113.57585112818771,
+                "normalized_intensity": 56.787925564093854
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 455.83357676079993,
+                "normalized_intensity": 75.97226279346665
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 426.85747521395933,
+                "normalized_intensity": 71.14291253565989
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 373.14573473994193,
+                "normalized_intensity": 62.19095578999032
+            },
+            {
+                "topic": "health",
+                "weighted_count": 330.61976084835334,
+                "normalized_intensity": 55.103293474725554
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 309.4235609357956,
+                "normalized_intensity": 51.57059348929926
+            }
+        ]
+    }
+}

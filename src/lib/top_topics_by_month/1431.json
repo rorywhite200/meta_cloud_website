@@ -1,0 +1,102 @@
+{
+    "2023-12": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 1102.3145158121622,
+                "normalized_intensity": 68.89465723826014
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1079.4714340949681,
+                "normalized_intensity": 67.46696463093551
+            },
+            {
+                "topic": "health",
+                "weighted_count": 903.2017948679027,
+                "normalized_intensity": 56.450112179243916
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 822.5995158067219,
+                "normalized_intensity": 51.41246973792012
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 806.3796879274161,
+                "normalized_intensity": 50.398730495463504
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 767.1299979124831,
+                "normalized_intensity": 47.94562486953019
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.83200449072611,
+                "normalized_intensity": 3.864500280670382
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 55.02488657996983,
+                "normalized_intensity": 3.4390554112481144
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.5512388080091,
+                "normalized_intensity": 3.159452425500569
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.792851352067686,
+                "normalized_intensity": 3.1120532095042304
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 44,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 3081.3234355416553,
+                "normalized_intensity": 70.03007808049216
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2976.2378067865884,
+                "normalized_intensity": 67.64176833605883
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2856.543968530862,
+                "normalized_intensity": 64.92145383024686
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2766.3176516989397,
+                "normalized_intensity": 62.87085572043045
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 2560.149492822139,
+                "normalized_intensity": 58.185215745957706
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 2528.723165403279,
+                "normalized_intensity": 57.470981031892705
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 148.42126979709923,
+                "normalized_intensity": 3.3732106772068007
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 147.83330311018852,
+                "normalized_intensity": 3.35984779795883
+            }
+        ]
+    }
+}

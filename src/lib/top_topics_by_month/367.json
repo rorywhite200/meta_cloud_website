@@ -1,0 +1,132 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 123.27727951203212,
+                "normalized_intensity": 61.63863975601606
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 67.83002078353006,
+                "normalized_intensity": 67.83002078353006
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 58.63954344797321,
+                "normalized_intensity": 58.63954344797321
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.95194520648832,
+                "normalized_intensity": 49.95194520648832
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 68.55801681775901,
+                "normalized_intensity": 68.55801681775901
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.61791836208642,
+                "normalized_intensity": 51.61791836208642
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 65.26608981942454,
+                "normalized_intensity": 65.26608981942454
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.72695916876868,
+                "normalized_intensity": 50.72695916876868
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 80.7324899228059,
+                "normalized_intensity": 80.7324899228059
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 76.95867193113955,
+                "normalized_intensity": 76.95867193113955
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 72.17078859487354,
+                "normalized_intensity": 72.17078859487354
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 70.94111729231174,
+                "normalized_intensity": 70.94111729231174
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 59.03387033513332,
+                "normalized_intensity": 59.03387033513332
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 57.98786554177251,
+                "normalized_intensity": 57.98786554177251
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 55.90736024151449,
+                "normalized_intensity": 55.90736024151449
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 55.80227135651621,
+                "normalized_intensity": 55.80227135651621
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 55.17517106213972,
+                "normalized_intensity": 55.17517106213972
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.74638060562123,
+                "normalized_intensity": 54.74638060562123
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 54.38955146031106,
+                "normalized_intensity": 54.38955146031106
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.237492994578204,
+                "normalized_intensity": 53.237492994578204
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.18705933960654,
+                "normalized_intensity": 50.18705933960654
+            }
+        ]
+    }
+}

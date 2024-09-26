@@ -1,0 +1,82 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 156.58373494283143,
+                "normalized_intensity": 78.29186747141571
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 94.47494516941411,
+                "normalized_intensity": 47.23747258470706
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 83.43931661339433,
+                "normalized_intensity": 41.71965830669716
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 81.84889797761906,
+                "normalized_intensity": 40.92444898880953
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 74.93175434256719,
+                "normalized_intensity": 37.465877171283594
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 65.37751836084253,
+                "normalized_intensity": 32.688759180421265
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 65.21176646120051,
+                "normalized_intensity": 32.605883230600256
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.61299327287534,
+                "normalized_intensity": 27.30649663643767
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.07149371436707,
+                "normalized_intensity": 27.035746857183536
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.62676628649288,
+                "normalized_intensity": 26.81338314324644
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 52.551156093624066,
+                "normalized_intensity": 26.275578046812033
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 52.46107416845764,
+                "normalized_intensity": 26.23053708422882
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 50.07760650824235,
+                "normalized_intensity": 25.038803254121174
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.804837367577456,
+                "normalized_intensity": 24.902418683788728
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.73144551028299,
+                "normalized_intensity": 24.865722755141494
+            }
+        ]
+    }
+}

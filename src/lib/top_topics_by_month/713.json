@@ -1,0 +1,292 @@
+{
+    "2023-11": {
+        "total_ads": 80,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 4496.443760711309,
+                "normalized_intensity": 56.20554700889136
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 2869.444593762912,
+                "normalized_intensity": 35.8680574220364
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 2774.9096723481352,
+                "normalized_intensity": 34.68637090435169
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 2134.288340918715,
+                "normalized_intensity": 26.67860426148394
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 1229.5600397411433,
+                "normalized_intensity": 15.369500496764292
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 987.9133550609164,
+                "normalized_intensity": 12.348916938261455
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 492.55213592999837,
+                "normalized_intensity": 6.15690169912498
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 33,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 1562.0460652555753,
+                "normalized_intensity": 47.33472925016895
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 1029.7139523834037,
+                "normalized_intensity": 31.203453102527384
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 980.6756532657364,
+                "normalized_intensity": 29.717444038355648
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 799.9877815947457,
+                "normalized_intensity": 24.242053987719565
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 737.73605556992,
+                "normalized_intensity": 22.355638047573336
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 296.374006518275,
+                "normalized_intensity": 8.981030500553787
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 147.7656407789995,
+                "normalized_intensity": 4.4777466902727125
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 303.98533240697196,
+                "normalized_intensity": 75.99633310174299
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 230.6509232360845,
+                "normalized_intensity": 57.66273080902113
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 228.09007738291575,
+                "normalized_intensity": 57.02251934572894
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 160.1950743188281,
+                "normalized_intensity": 40.04876857970702
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 98.79133550609167,
+                "normalized_intensity": 24.697833876522918
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.25521359299984,
+                "normalized_intensity": 12.31380339824996
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 123,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 9220.847948692943,
+                "normalized_intensity": 74.96624348530848
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 1069.560591376885,
+                "normalized_intensity": 8.695614564039715
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 589.6147240985707,
+                "normalized_intensity": 4.7936156430778105
+            },
+            {
+                "topic": "community",
+                "weighted_count": 494.6800950048791,
+                "normalized_intensity": 4.02178939028357
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 324.19081975891515,
+                "normalized_intensity": 2.635697721617196
+            },
+            {
+                "topic": "business",
+                "weighted_count": 321.5692130604657,
+                "normalized_intensity": 2.614383846020046
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 340.8078166198206,
+                "normalized_intensity": 68.16156332396412
+            },
+            {
+                "topic": "community",
+                "weighted_count": 273.3924474803454,
+                "normalized_intensity": 54.67848949606908
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 266.98157275514575,
+                "normalized_intensity": 53.39631455102915
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 60,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 4571.548711936374,
+                "normalized_intensity": 76.1924785322729
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 883.7718257733005,
+                "normalized_intensity": 14.729530429555009
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 598.624013670979,
+                "normalized_intensity": 9.977066894516318
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 49,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 3582.695890162646,
+                "normalized_intensity": 73.11624265638052
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 3455.9941863546655,
+                "normalized_intensity": 70.5304935990748
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 3224.817369819336,
+                "normalized_intensity": 65.81259938406808
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 3037.4407477454815,
+                "normalized_intensity": 61.9885866886833
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 2783.0933235671137,
+                "normalized_intensity": 56.7978229299411
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 2734.8560759432194,
+                "normalized_intensity": 55.813389304963664
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 2669.5496400378624,
+                "normalized_intensity": 54.48060489873188
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 2658.0862765652555,
+                "normalized_intensity": 54.24665870541338
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 2621.480026359452,
+                "normalized_intensity": 53.49959237468269
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 1462.3248531276097,
+                "normalized_intensity": 73.11624265638048
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 1410.609871981496,
+                "normalized_intensity": 70.5304935990748
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 1316.2519876813608,
+                "normalized_intensity": 65.81259938406804
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 1239.7717337736653,
+                "normalized_intensity": 61.98858668868327
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 1135.956458598823,
+                "normalized_intensity": 56.79782292994115
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1116.2677860992742,
+                "normalized_intensity": 55.81338930496371
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 1089.6120979746368,
+                "normalized_intensity": 54.48060489873184
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 1084.9331741082683,
+                "normalized_intensity": 54.24665870541342
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 1069.9918474936542,
+                "normalized_intensity": 53.499592374682706
+            }
+        ]
+    }
+}

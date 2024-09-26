@@ -1,0 +1,157 @@
+{
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 374.95105211507826,
+                "normalized_intensity": 74.99021042301565
+            },
+            {
+                "topic": "health",
+                "weighted_count": 324.67093032286607,
+                "normalized_intensity": 64.93418606457321
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 313.2803160305283,
+                "normalized_intensity": 62.65606320610566
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 275.93388977060744,
+                "normalized_intensity": 55.18677795412149
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 171.91264526190687,
+                "normalized_intensity": 34.38252905238137
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 163.73296478241642,
+                "normalized_intensity": 32.74659295648328
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 153.23741044071568,
+                "normalized_intensity": 30.647482088143136
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 110.60537060580755,
+                "normalized_intensity": 22.12107412116151
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 61.54104150931112,
+                "normalized_intensity": 12.308208301862225
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.718412661285726,
+                "normalized_intensity": 12.143682532257145
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 59.794790679486724,
+                "normalized_intensity": 11.958958135897344
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 52.007917054559385,
+                "normalized_intensity": 10.401583410911877
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.31997829340583,
+                "normalized_intensity": 9.863995658681166
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 586.0722709980982,
+                "normalized_intensity": 73.25903387476228
+            },
+            {
+                "topic": "health",
+                "weighted_count": 497.0669814130547,
+                "normalized_intensity": 62.133372676631836
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 478.4109369185885,
+                "normalized_intensity": 59.80136711482356
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 463.950059837504,
+                "normalized_intensity": 57.993757479688
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 457.2638901582264,
+                "normalized_intensity": 57.1579862697783
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 241.53972058349862,
+                "normalized_intensity": 30.192465072937328
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 211.81611859169067,
+                "normalized_intensity": 26.477014823961333
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 200.24357480342246,
+                "normalized_intensity": 25.030446850427808
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 182.15523798385718,
+                "normalized_intensity": 22.769404747982147
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 100.87698720642295,
+                "normalized_intensity": 12.60962340080287
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 71.50591447851458,
+                "normalized_intensity": 71.50591447851458
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 65.88776156158377,
+                "normalized_intensity": 65.88776156158377
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.19276835885097,
+                "normalized_intensity": 53.19276835885097
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 52.526593148521584,
+                "normalized_intensity": 52.526593148521584
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 51.64265783253404,
+                "normalized_intensity": 51.64265783253404
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 59.62904807663732,
+                "normalized_intensity": 59.62904807663732
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 55.113577867726015,
+                "normalized_intensity": 55.113577867726015
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 52.98822735038006,
+                "normalized_intensity": 52.98822735038006
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.95912580781765,
+                "normalized_intensity": 51.95912580781765
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.51354867379836,
+                "normalized_intensity": 50.51354867379836
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "demographics",
+                "weighted_count": 75.41935481851513,
+                "normalized_intensity": 75.41935481851513
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.10083656611187,
+                "normalized_intensity": 54.10083656611187
+            }
+        ]
+    }
+}

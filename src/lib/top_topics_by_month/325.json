@@ -1,0 +1,122 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 163.55513330554413,
+                "normalized_intensity": 81.77756665277207
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 107.23044678283588,
+                "normalized_intensity": 53.61522339141794
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 106.53795423553973,
+                "normalized_intensity": 53.268977117769865
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 106.50033778874331,
+                "normalized_intensity": 53.250168894371654
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 105.72479865112396,
+                "normalized_intensity": 52.86239932556198
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 105.32327026905045,
+                "normalized_intensity": 52.66163513452523
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 103.04212240899605,
+                "normalized_intensity": 51.521061204498025
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 59.65072389168115,
+                "normalized_intensity": 29.825361945840577
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 59.522654596573624,
+                "normalized_intensity": 29.761327298286812
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 56.76271775519722,
+                "normalized_intensity": 28.38135887759861
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 54.900081380823764,
+                "normalized_intensity": 27.450040690411882
+            },
+            {
+                "topic": "law",
+                "weighted_count": 54.73198864433571,
+                "normalized_intensity": 27.365994322167854
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 54.12875917493275,
+                "normalized_intensity": 27.064379587466377
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 52.914398302837654,
+                "normalized_intensity": 26.457199151418827
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.42683458226698,
+                "normalized_intensity": 26.21341729113349
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.231330102831485,
+                "normalized_intensity": 24.615665051415743
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.14794661010102,
+                "normalized_intensity": 24.57397330505051
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 76.5167022057139,
+                "normalized_intensity": 76.5167022057139
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.8628563185385,
+                "normalized_intensity": 52.8628563185385
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 51.31465911272846,
+                "normalized_intensity": 51.31465911272846
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.293919581917976,
+                "normalized_intensity": 50.293919581917976
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.67587713106238,
+                "normalized_intensity": 49.67587713106238
+            }
+        ]
+    }
+}

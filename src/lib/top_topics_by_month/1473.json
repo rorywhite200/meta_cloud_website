@@ -1,0 +1,137 @@
+{
+    "2023-12": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 286.8510960549645,
+                "normalized_intensity": 47.80851600916075
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 248.69850641781338,
+                "normalized_intensity": 41.44975106963556
+            },
+            {
+                "topic": "history",
+                "weighted_count": 217.38694444734986,
+                "normalized_intensity": 36.231157407891644
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 196.67705992693186,
+                "normalized_intensity": 32.779509987821974
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 196.08183534717082,
+                "normalized_intensity": 32.68030589119514
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 146.4766567239609,
+                "normalized_intensity": 24.41277612066015
+            },
+            {
+                "topic": "community",
+                "weighted_count": 115.23517389943476,
+                "normalized_intensity": 19.20586231657246
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 105.98191591641879,
+                "normalized_intensity": 17.663652652736463
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 67.27674713650622,
+                "normalized_intensity": 11.212791189417702
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 58.138039897862946,
+                "normalized_intensity": 9.689673316310492
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.44105450189595,
+                "normalized_intensity": 9.573509083649325
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 57.168023092645825,
+                "normalized_intensity": 9.528003848774304
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.647168777828504,
+                "normalized_intensity": 9.107861462971417
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.2835974988246,
+                "normalized_intensity": 8.380599583137434
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.71789689955715,
+                "normalized_intensity": 8.286316149926192
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 111.16353109053176,
+                "normalized_intensity": 55.58176554526588
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 87.27386773489957,
+                "normalized_intensity": 43.636933867449784
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 72.37815052308547,
+                "normalized_intensity": 36.18907526154273
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.98393263736735,
+                "normalized_intensity": 30.991966318683676
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 61.897820221973454,
+                "normalized_intensity": 30.948910110986727
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 58.10319233982375,
+                "normalized_intensity": 29.051596169911875
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 57.063549081917294,
+                "normalized_intensity": 28.531774540958647
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.86933755911676,
+                "normalized_intensity": 27.93466877955838
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.55019683166603,
+                "normalized_intensity": 27.275098415833014
+            },
+            {
+                "topic": "history",
+                "weighted_count": 53.65215829635602,
+                "normalized_intensity": 26.82607914817801
+            }
+        ]
+    }
+}

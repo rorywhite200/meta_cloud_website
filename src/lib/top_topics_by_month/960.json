@@ -1,0 +1,62 @@
+{
+    "2024-04": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 632.8373440367255,
+                "normalized_intensity": 79.10466800459069
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 624.0983430594073,
+                "normalized_intensity": 78.01229288242591
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 436.6022127021086,
+                "normalized_intensity": 54.575276587763575
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 431.62841704021065,
+                "normalized_intensity": 53.95355213002633
+            },
+            {
+                "topic": "family",
+                "weighted_count": 380.45463720803974,
+                "normalized_intensity": 47.55682965100497
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 327.76053190506616,
+                "normalized_intensity": 40.97006648813327
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 303.18600715445353,
+                "normalized_intensity": 37.89825089430669
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 300.82349465937926,
+                "normalized_intensity": 37.60293683242241
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 62.155385101303786,
+                "normalized_intensity": 7.769423137662973
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 58.89936702870446,
+                "normalized_intensity": 7.362420878588058
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.80453319750053,
+                "normalized_intensity": 6.600566649687567
+            }
+        ]
+    }
+}

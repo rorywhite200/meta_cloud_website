@@ -1,0 +1,112 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 87.82693874515716,
+                "normalized_intensity": 87.82693874515716
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 72.9319470212682,
+                "normalized_intensity": 72.9319470212682
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 69.57084666162665,
+                "normalized_intensity": 69.57084666162665
+            },
+            {
+                "topic": "military",
+                "weighted_count": 66.2006197615065,
+                "normalized_intensity": 66.2006197615065
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 64.49511606175574,
+                "normalized_intensity": 64.49511606175574
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 62.39586998674327,
+                "normalized_intensity": 62.39586998674327
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 58.79347262486009,
+                "normalized_intensity": 58.79347262486009
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 55.941677393185344,
+                "normalized_intensity": 55.941677393185344
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 54.026738992973186,
+                "normalized_intensity": 54.026738992973186
+            },
+            {
+                "topic": "law",
+                "weighted_count": 49.46444607839325,
+                "normalized_intensity": 49.46444607839325
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 439.13469372578584,
+                "normalized_intensity": 87.82693874515716
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 364.65973510634103,
+                "normalized_intensity": 72.9319470212682
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 347.85423330813325,
+                "normalized_intensity": 69.57084666162665
+            },
+            {
+                "topic": "military",
+                "weighted_count": 331.0030988075325,
+                "normalized_intensity": 66.2006197615065
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 322.4755803087787,
+                "normalized_intensity": 64.49511606175574
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 311.9793499337164,
+                "normalized_intensity": 62.39586998674328
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 293.96736312430045,
+                "normalized_intensity": 58.79347262486009
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 279.7083869659267,
+                "normalized_intensity": 55.941677393185344
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 270.1336949648659,
+                "normalized_intensity": 54.026738992973186
+            },
+            {
+                "topic": "law",
+                "weighted_count": 247.32223039196626,
+                "normalized_intensity": 49.46444607839325
+            }
+        ]
+    }
+}

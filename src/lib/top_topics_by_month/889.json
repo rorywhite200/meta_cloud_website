@@ -1,0 +1,97 @@
+{
+    "2023-09": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 477.48337826300326,
+                "normalized_intensity": 68.21191118042904
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 468.92165197910623,
+                "normalized_intensity": 66.9888074255866
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 427.11892530490337,
+                "normalized_intensity": 61.01698932927191
+            },
+            {
+                "topic": "education",
+                "weighted_count": 415.83794839676887,
+                "normalized_intensity": 59.40542119953841
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 257.4706914388555,
+                "normalized_intensity": 36.78152734840793
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 216.95729552139224,
+                "normalized_intensity": 30.993899360198892
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.30130805139114,
+                "normalized_intensity": 7.043044007341591
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.01349970548831,
+                "normalized_intensity": 7.001928529355473
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 74.71824036741278,
+                "normalized_intensity": 74.71824036741278
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 70.32010886627617,
+                "normalized_intensity": 70.32010886627617
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 66.53023026055546,
+                "normalized_intensity": 66.53023026055546
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 58.61805937800564,
+                "normalized_intensity": 58.61805937800564
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 50.44178526756682,
+                "normalized_intensity": 50.44178526756682
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.389722587021296,
+                "normalized_intensity": 49.389722587021296
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 58.54480957668048,
+                "normalized_intensity": 58.54480957668048
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 54.378024734199485,
+                "normalized_intensity": 54.378024734199485
+            }
+        ]
+    }
+}

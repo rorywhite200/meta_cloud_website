@@ -1,0 +1,167 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 134.9141297119127,
+                "normalized_intensity": 67.45706485595635
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 63.87870977527014,
+                "normalized_intensity": 31.93935488763507
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.6055265973379,
+                "normalized_intensity": 25.80276329866895
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 132.97886193032267,
+                "normalized_intensity": 33.244715482580666
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 98.42536442015697,
+                "normalized_intensity": 24.60634110503924
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 68.17333732309376,
+                "normalized_intensity": 17.04333433077344
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 68.08071877745647,
+                "normalized_intensity": 68.08071877745647
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 59.536106889353405,
+                "normalized_intensity": 59.536106889353405
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.558554228206866,
+                "normalized_intensity": 52.558554228206866
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 752.5786133399077,
+                "normalized_intensity": 68.41623757635524
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 488.4556861722888,
+                "normalized_intensity": 44.40506237929898
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 371.366410982111,
+                "normalized_intensity": 33.76058281655555
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 256.11070851606877,
+                "normalized_intensity": 23.28279168327898
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 207.15052437289017,
+                "normalized_intensity": 18.831865852080924
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 98.72933566381587,
+                "normalized_intensity": 8.975394151255989
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 52.603724079642575,
+                "normalized_intensity": 4.782156734512961
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.938881631459424,
+                "normalized_intensity": 62.938881631459424
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 56.939481240467494,
+                "normalized_intensity": 56.939481240467494
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 138.21475534854483,
+                "normalized_intensity": 69.10737767427241
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 107.75104139872201,
+                "normalized_intensity": 53.875520699361005
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 1038.3869042805197,
+                "normalized_intensity": 64.89918151753248
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 909.8251059948315,
+                "normalized_intensity": 56.864069124676966
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 668.9979721331551,
+                "normalized_intensity": 41.8123732583222
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 204.33855906851045,
+                "normalized_intensity": 12.771159941781903
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 197.10969059628414,
+                "normalized_intensity": 12.319355662267759
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 69.10737767427241,
+                "normalized_intensity": 4.319211104642026
+            }
+        ]
+    }
+}

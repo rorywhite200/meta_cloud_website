@@ -1,0 +1,272 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 278.8865015800333,
+                "normalized_intensity": 55.77730031600667
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 218.18780523332853,
+                "normalized_intensity": 43.63756104666571
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 166.68981234647978,
+                "normalized_intensity": 33.33796246929596
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 166.47061253325023,
+                "normalized_intensity": 33.29412250665005
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 162.9100393974532,
+                "normalized_intensity": 32.58200787949064
+            },
+            {
+                "topic": "law",
+                "weighted_count": 160.31104636166054,
+                "normalized_intensity": 32.06220927233211
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 157.61926912313888,
+                "normalized_intensity": 31.523853824627775
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 123.60993485280642,
+                "normalized_intensity": 24.721986970561282
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 68.38908152125664,
+                "normalized_intensity": 13.677816304251328
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 60.41629055643628,
+                "normalized_intensity": 12.083258111287256
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 55.52233378606054,
+                "normalized_intensity": 11.104466757212109
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.78448668183034,
+                "normalized_intensity": 10.756897336366068
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 53.31428758150707,
+                "normalized_intensity": 10.662857516301413
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 52.62697089390762,
+                "normalized_intensity": 10.525394178781523
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.27592790779961,
+                "normalized_intensity": 10.255185581559923
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.65909643315087,
+                "normalized_intensity": 10.131819286630174
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 50.26440202508058,
+                "normalized_intensity": 10.052880405016115
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.640446938180524,
+                "normalized_intensity": 9.928089387636104
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.60899651407048,
+                "normalized_intensity": 9.921799302814097
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.54491245168185,
+                "normalized_intensity": 9.90898249033637
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 144.07065403373844,
+                "normalized_intensity": 72.03532701686922
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 120.54610871270035,
+                "normalized_intensity": 60.27305435635017
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 118.04417226434421,
+                "normalized_intensity": 59.022086132172106
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 110.34120990780167,
+                "normalized_intensity": 55.170604953900835
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 110.21454509241526,
+                "normalized_intensity": 55.10727254620763
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 107.52448477599815,
+                "normalized_intensity": 53.76224238799907
+            },
+            {
+                "topic": "law",
+                "weighted_count": 98.789788664555,
+                "normalized_intensity": 49.3948943322775
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 52.20506768314317,
+                "normalized_intensity": 17.40168922771439
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.662888271788525,
+                "normalized_intensity": 16.554296090596175
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.21353022366267,
+                "normalized_intensity": 16.404510074554224
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 99.32577654357705,
+                "normalized_intensity": 33.10859218119235
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 81.31394659450449,
+                "normalized_intensity": 27.10464886483483
+            },
+            {
+                "topic": "community",
+                "weighted_count": 72.15645118725412,
+                "normalized_intensity": 24.052150395751372
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 67.81166755658941,
+                "normalized_intensity": 22.603889185529805
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 66.15642311509595,
+                "normalized_intensity": 22.052141038365317
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 55.846509719126914,
+                "normalized_intensity": 18.61550323970897
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.059897906179664,
+                "normalized_intensity": 18.353299302059888
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.97876218479623,
+                "normalized_intensity": 17.326254061598743
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 75.77849480123693,
+                "normalized_intensity": 75.77849480123693
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 66.03860325902768,
+                "normalized_intensity": 66.03860325902768
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 58.935217731238055,
+                "normalized_intensity": 58.935217731238055
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 55.521546720894875,
+                "normalized_intensity": 55.521546720894875
+            },
+            {
+                "topic": "television",
+                "weighted_count": 55.23715768748881,
+                "normalized_intensity": 55.23715768748881
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 60.1114843380324,
+                "normalized_intensity": 60.1114843380324
+            },
+            {
+                "topic": "law",
+                "weighted_count": 59.15807556561725,
+                "normalized_intensity": 59.15807556561725
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 56.1025258927144,
+                "normalized_intensity": 56.1025258927144
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 52.7436298788033,
+                "normalized_intensity": 52.7436298788033
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 51.17399366979798,
+                "normalized_intensity": 51.17399366979798
+            }
+        ]
+    }
+}

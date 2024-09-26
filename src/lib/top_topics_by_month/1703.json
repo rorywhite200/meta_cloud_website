@@ -1,0 +1,87 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 135.77538833141196,
+                "normalized_intensity": 33.94384708285299
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 127.81623316818039,
+                "normalized_intensity": 31.954058292045097
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 118.8762421840465,
+                "normalized_intensity": 29.719060546011626
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.53506526982491,
+                "normalized_intensity": 24.883766317456228
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 53.028876905946866,
+                "normalized_intensity": 13.257219226486717
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.48525634687681,
+                "normalized_intensity": 12.871314086719202
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 51.127219990634856,
+                "normalized_intensity": 12.781804997658714
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.76380133931629,
+                "normalized_intensity": 12.440950334829072
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 219.36706350542272,
+                "normalized_intensity": 54.84176587635568
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 69.2176131616484,
+                "normalized_intensity": 17.3044032904121
+            },
+            {
+                "topic": "family",
+                "weighted_count": 56.571432264813424,
+                "normalized_intensity": 14.142858066203356
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.0000907556924,
+                "normalized_intensity": 13.5000226889231
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.140213414806,
+                "normalized_intensity": 12.7850533537015
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.370206869276636,
+                "normalized_intensity": 12.342551717319159
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.170902882205795,
+                "normalized_intensity": 12.292725720551449
+            }
+        ]
+    }
+}

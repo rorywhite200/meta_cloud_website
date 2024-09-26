@@ -1,0 +1,47 @@
+{
+    "2023-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 131.29090724006133,
+                "normalized_intensity": 65.64545362003066
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 67.07828839010989,
+                "normalized_intensity": 33.539144195054945
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 61.59032306789943,
+                "normalized_intensity": 30.795161533949717
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 59.203158390176924,
+                "normalized_intensity": 29.601579195088462
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 57.14088020964518,
+                "normalized_intensity": 28.57044010482259
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 55.03835565962923,
+                "normalized_intensity": 27.519177829814616
+            },
+            {
+                "topic": "history",
+                "weighted_count": 54.51685882852222,
+                "normalized_intensity": 27.25842941426111
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.16022802490371,
+                "normalized_intensity": 24.580114012451855
+            }
+        ]
+    }
+}

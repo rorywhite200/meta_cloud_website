@@ -1,0 +1,112 @@
+{
+    "2024-04": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 399.76234859596894,
+                "normalized_intensity": 57.10890694228128
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 366.4952795024251,
+                "normalized_intensity": 52.356468500346445
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 364.84991624464965,
+                "normalized_intensity": 52.121416606378524
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 359.38708176035584,
+                "normalized_intensity": 51.34101168005083
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 358.5389533829425,
+                "normalized_intensity": 51.219850483277504
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 109.94214670200981,
+                "normalized_intensity": 15.706020957429972
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 107.88560116063508,
+                "normalized_intensity": 15.412228737233582
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 105.10988923987998,
+                "normalized_intensity": 15.015698462839996
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 102.44087680785867,
+                "normalized_intensity": 14.634410972551239
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 99.94233655815385,
+                "normalized_intensity": 14.277476651164836
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 234.12403587672603,
+                "normalized_intensity": 58.53100896918151
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 226.7019723637607,
+                "normalized_intensity": 56.67549309094017
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 223.36289062452852,
+                "normalized_intensity": 55.84072265613213
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 207.04730150717108,
+                "normalized_intensity": 51.76182537679277
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 205.70919671314607,
+                "normalized_intensity": 51.42729917828652
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 203.0461255621451,
+                "normalized_intensity": 50.76153139053628
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 199.4811947118902,
+                "normalized_intensity": 49.87029867797255
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 53.94280058031754,
+                "normalized_intensity": 13.485700145079385
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.55494461993999,
+                "normalized_intensity": 13.138736154984997
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.97116827907693,
+                "normalized_intensity": 12.492792069769232
+            }
+        ]
+    }
+}

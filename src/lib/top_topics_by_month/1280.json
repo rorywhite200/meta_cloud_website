@@ -1,0 +1,167 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 60.902448155444674,
+                "normalized_intensity": 60.902448155444674
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 60.27546061710641,
+                "normalized_intensity": 60.27546061710641
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.95196457676216,
+                "normalized_intensity": 51.95196457676216
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 50.800677147741226,
+                "normalized_intensity": 50.800677147741226
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.20787364305396,
+                "normalized_intensity": 50.20787364305396
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.13363977690379,
+                "normalized_intensity": 50.13363977690379
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 107.24077919886338,
+                "normalized_intensity": 53.62038959943169
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 55.829942272220244,
+                "normalized_intensity": 27.914971136110122
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.910451150430525,
+                "normalized_intensity": 26.455225575215263
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.7272817332554,
+                "normalized_intensity": 26.3636408666277
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.622902810361225,
+                "normalized_intensity": 25.311451405180613
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.85872637376521,
+                "normalized_intensity": 24.929363186882604
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 56.57441013405746,
+                "normalized_intensity": 28.28720506702873
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 56.55599326638081,
+                "normalized_intensity": 28.277996633190405
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 55.763572533238715,
+                "normalized_intensity": 27.881786266619358
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 52.759885837257826,
+                "normalized_intensity": 26.379942918628913
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 74.15529628676138,
+                "normalized_intensity": 37.07764814338069
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.788617678737424,
+                "normalized_intensity": 30.394308839368712
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.61111827125489,
+                "normalized_intensity": 27.805559135627444
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.53305126377086,
+                "normalized_intensity": 27.26652563188543
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 52.13679369022981,
+                "normalized_intensity": 26.068396845114904
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.81825155144563,
+                "normalized_intensity": 25.409125775722814
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "digital-rights",
+                "weighted_count": 59.60536258313953,
+                "normalized_intensity": 59.60536258313953
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 56.12658579271263,
+                "normalized_intensity": 56.12658579271263
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.06875920806523,
+                "normalized_intensity": 51.06875920806523
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.00557847019466,
+                "normalized_intensity": 50.00557847019466
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.9641939376601,
+                "normalized_intensity": 49.9641939376601
+            },
+            {
+                "topic": "law",
+                "weighted_count": 49.63835830277529,
+                "normalized_intensity": 49.63835830277529
+            }
+        ]
+    }
+}

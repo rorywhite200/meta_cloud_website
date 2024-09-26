@@ -1,0 +1,22 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 54.13812344118695,
+                "normalized_intensity": 54.13812344118695
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 51.574532883336644,
+                "normalized_intensity": 51.574532883336644
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.910206700011486,
+                "normalized_intensity": 50.910206700011486
+            }
+        ]
+    }
+}

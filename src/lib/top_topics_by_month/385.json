@@ -1,0 +1,62 @@
+{
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 64.43868807536217,
+                "normalized_intensity": 32.21934403768108
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 60.73678144042864,
+                "normalized_intensity": 30.36839072021432
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 56.719155656201906,
+                "normalized_intensity": 28.359577828100953
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 55.733845875022006,
+                "normalized_intensity": 27.866922937511003
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 124.90957559510744,
+                "normalized_intensity": 62.45478779755372
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 120.32489095913081,
+                "normalized_intensity": 60.162445479565406
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 106.36160429173586,
+                "normalized_intensity": 53.18080214586793
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 63.01229278848479,
+                "normalized_intensity": 31.506146394242396
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.75696845414409,
+                "normalized_intensity": 26.378484227072047
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.67485991690141,
+                "normalized_intensity": 24.837429958450706
+            }
+        ]
+    }
+}

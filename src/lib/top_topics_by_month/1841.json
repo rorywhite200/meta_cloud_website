@@ -1,0 +1,117 @@
+{
+    "2023-09": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 711.3918898024215,
+                "normalized_intensity": 50.81370641445868
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 548.128908886878,
+                "normalized_intensity": 39.152064920491284
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 387.8702890279205,
+                "normalized_intensity": 27.705020644851462
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 159.53746402880154,
+                "normalized_intensity": 11.395533144914396
+            },
+            {
+                "topic": "community",
+                "weighted_count": 151.41460301094276,
+                "normalized_intensity": 10.815328786495911
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 128.1242635210959,
+                "normalized_intensity": 9.151733108649708
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 123.46634965856434,
+                "normalized_intensity": 8.819024975611738
+            },
+            {
+                "topic": "family",
+                "weighted_count": 117.78306563159082,
+                "normalized_intensity": 8.413076116542202
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 111.6206997140754,
+                "normalized_intensity": 7.972907122433957
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 101.46030433007307,
+                "normalized_intensity": 7.247164595005219
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 100.56282545288373,
+                "normalized_intensity": 7.183058960920266
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 55.86791555630405,
+                "normalized_intensity": 3.9905653968788606
+            },
+            {
+                "topic": "health",
+                "weighted_count": 55.28907008387948,
+                "normalized_intensity": 3.949219291705677
+            },
+            {
+                "topic": "history",
+                "weighted_count": 52.07452018139005,
+                "normalized_intensity": 3.7196085843850035
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.539664932945094,
+                "normalized_intensity": 3.6814046380675065
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.362612598365295,
+                "normalized_intensity": 3.5973294713118067
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.53772136487389,
+                "normalized_intensity": 3.5384086689195633
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 170.3235440434014,
+                "normalized_intensity": 56.7745146811338
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 169.6450758445986,
+                "normalized_intensity": 56.5483586148662
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 62.05406108460826,
+                "normalized_intensity": 20.684687028202752
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.70213392742069,
+                "normalized_intensity": 17.90071130914023
+            }
+        ]
+    }
+}

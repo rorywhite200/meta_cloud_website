@@ -1,0 +1,72 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 66.38648819496868,
+                "normalized_intensity": 66.38648819496868
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 63.69435197861748,
+                "normalized_intensity": 63.69435197861748
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.838635031818406,
+                "normalized_intensity": 55.838635031818406
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 55.686847646011394,
+                "normalized_intensity": 55.686847646011394
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 55.42772213536629,
+                "normalized_intensity": 55.42772213536629
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 54.93343101031979,
+                "normalized_intensity": 54.93343101031979
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.359967851607536,
+                "normalized_intensity": 51.359967851607536
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.96080929313682,
+                "normalized_intensity": 50.96080929313682
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.79836166162033,
+                "normalized_intensity": 49.79836166162033
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 56.760429360026976,
+                "normalized_intensity": 56.760429360026976
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 52.56883157079325,
+                "normalized_intensity": 52.56883157079325
+            },
+            {
+                "topic": "art",
+                "weighted_count": 51.81177121352382,
+                "normalized_intensity": 51.81177121352382
+            }
+        ]
+    }
+}

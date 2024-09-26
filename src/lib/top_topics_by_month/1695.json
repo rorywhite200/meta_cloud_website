@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 148.96719219518843,
+                "normalized_intensity": 74.48359609759422
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 114.04071233134567,
+                "normalized_intensity": 57.02035616567284
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 298.1661986778591,
+                "normalized_intensity": 74.54154966946477
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 133.5501168055698,
+                "normalized_intensity": 33.38752920139245
+            },
+            {
+                "topic": "business",
+                "weighted_count": 123.88993183149599,
+                "normalized_intensity": 30.972482957873996
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 109.56656189682596,
+                "normalized_intensity": 27.39164047420649
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 105.64181470454025,
+                "normalized_intensity": 26.410453676135063
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 103.15149064485749,
+                "normalized_intensity": 25.787872661214372
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 102.74470450151571,
+                "normalized_intensity": 25.68617612537893
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.10126904492356,
+                "normalized_intensity": 12.27531726123089
+            }
+        ]
+    }
+}

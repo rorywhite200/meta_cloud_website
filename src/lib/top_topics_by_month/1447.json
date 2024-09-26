@@ -1,0 +1,92 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.11651904161032,
+                "normalized_intensity": 50.11651904161032
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "sports",
+                "weighted_count": 76.07904857827079,
+                "normalized_intensity": 38.03952428913539
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 61.02505567334152,
+                "normalized_intensity": 30.51252783667076
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 59.04774420229211,
+                "normalized_intensity": 29.523872101146054
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 58.37847395048382,
+                "normalized_intensity": 29.18923697524191
+            },
+            {
+                "topic": "food",
+                "weighted_count": 54.28123327164657,
+                "normalized_intensity": 27.140616635823285
+            },
+            {
+                "topic": "science",
+                "weighted_count": 53.019604367452445,
+                "normalized_intensity": 26.509802183726222
+            },
+            {
+                "topic": "art",
+                "weighted_count": 52.74645843043327,
+                "normalized_intensity": 26.373229215216636
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.09262975714838,
+                "normalized_intensity": 24.54631487857419
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 68.578869797282,
+                "normalized_intensity": 68.578869797282
+            },
+            {
+                "topic": "art",
+                "weighted_count": 54.678384360605904,
+                "normalized_intensity": 54.678384360605904
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 52.43155851963469,
+                "normalized_intensity": 52.43155851963469
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 51.54084274975313,
+                "normalized_intensity": 51.54084274975313
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.847445976715214,
+                "normalized_intensity": 50.847445976715214
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 49.02805633644114,
+                "normalized_intensity": 49.02805633644114
+            }
+        ]
+    }
+}

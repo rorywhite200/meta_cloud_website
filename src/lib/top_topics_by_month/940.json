@@ -1,0 +1,167 @@
+{
+    "2023-11": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 1361.4268232590484,
+                "normalized_intensity": 71.6540433294236
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 1110.4323500346215,
+                "normalized_intensity": 58.44380789655903
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 171.81479911725248,
+                "normalized_intensity": 9.042884164065919
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 122.04714374166363,
+                "normalized_intensity": 6.423533881140191
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 51.45382662942611,
+                "normalized_intensity": 2.708096138390848
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.07352542572087,
+                "normalized_intensity": 2.635448706616888
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 39,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 2705.650273075318,
+                "normalized_intensity": 69.37564802757227
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 2222.0448770092303,
+                "normalized_intensity": 56.97550966690334
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 592.85673873288,
+                "normalized_intensity": 15.201454839304615
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 245.08149276944954,
+                "normalized_intensity": 6.284140840242296
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 150.67401039487336,
+                "normalized_intensity": 3.863436163971112
+            },
+            {
+                "topic": "science",
+                "weighted_count": 122.34721420991532,
+                "normalized_intensity": 3.1371080566644953
+            },
+            {
+                "topic": "art",
+                "weighted_count": 106.16735284413525,
+                "normalized_intensity": 2.7222398165162884
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 100.46914937972457,
+                "normalized_intensity": 2.576132035377553
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 100.14705085144173,
+                "normalized_intensity": 2.5678730987549163
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 58.44525722249504,
+                "normalized_intensity": 1.4985963390383343
+            },
+            {
+                "topic": "history",
+                "weighted_count": 53.21456158767256,
+                "normalized_intensity": 1.3644759381454503
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.57711609999015,
+                "normalized_intensity": 1.3481311820510296
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 50.22291066614674,
+                "normalized_intensity": 1.2877669401576086
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.02423156479582,
+                "normalized_intensity": 1.257031578584508
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 273.81484488185185,
+                "normalized_intensity": 68.45371122046296
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 177.62171346747246,
+                "normalized_intensity": 44.405428366868115
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 1683.2350370753816,
+                "normalized_intensity": 73.18413204675572
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 1537.0861086947148,
+                "normalized_intensity": 66.82983081281368
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 416.77552361401945,
+                "normalized_intensity": 69.46258726900324
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 353.7650335123798,
+                "normalized_intensity": 58.96083891872996
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 160.93486645428052,
+                "normalized_intensity": 26.822477742380087
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 121.27963904815533,
+                "normalized_intensity": 20.213273174692556
+            }
+        ]
+    }
+}

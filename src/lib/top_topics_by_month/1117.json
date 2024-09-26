@@ -1,0 +1,112 @@
+{
+    "2024-02": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 408.9921382517145,
+                "normalized_intensity": 45.44357091685717
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 235.4705061002129,
+                "normalized_intensity": 26.163389566690324
+            },
+            {
+                "topic": "media",
+                "weighted_count": 229.24138976256523,
+                "normalized_intensity": 25.471265529173916
+            },
+            {
+                "topic": "military",
+                "weighted_count": 213.36924307495275,
+                "normalized_intensity": 23.70769367499475
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 211.4225634209814,
+                "normalized_intensity": 23.4913959356646
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 185.2336084978392,
+                "normalized_intensity": 20.581512055315468
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 173.44099141994428,
+                "normalized_intensity": 19.271221268882698
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 169.47873545400924,
+                "normalized_intensity": 18.830970606001028
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 166.79028251841027,
+                "normalized_intensity": 18.532253613156698
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 163.7293699454117,
+                "normalized_intensity": 18.192152216156856
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 162.71098761477128,
+                "normalized_intensity": 18.078998623863477
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 161.71729705161687,
+                "normalized_intensity": 17.968588561290762
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 160.28859258710517,
+                "normalized_intensity": 17.809843620789465
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 160.01858685429858,
+                "normalized_intensity": 17.77984298381095
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 154.73962275809868,
+                "normalized_intensity": 17.19329141756652
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 305.655186350087,
+                "normalized_intensity": 76.41379658752174
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 242.78745958365454,
+                "normalized_intensity": 60.696864895913635
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 231.25465522659238,
+                "normalized_intensity": 57.813663806648094
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 222.38704335788034,
+                "normalized_intensity": 55.596760839470086
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 218.30582659388224,
+                "normalized_intensity": 54.57645664847056
+            }
+        ]
+    }
+}

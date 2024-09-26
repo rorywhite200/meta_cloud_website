@@ -1,0 +1,67 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "technology",
+                "weighted_count": 65.19268646924618,
+                "normalized_intensity": 65.19268646924618
+            },
+            {
+                "topic": "security",
+                "weighted_count": 64.19748104298047,
+                "normalized_intensity": 64.19748104298047
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 62.23075823021347,
+                "normalized_intensity": 62.23075823021347
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 61.949374070156736,
+                "normalized_intensity": 61.949374070156736
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 59.27990652674192,
+                "normalized_intensity": 59.27990652674192
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 58.800049485431614,
+                "normalized_intensity": 58.800049485431614
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 54.58214386704313,
+                "normalized_intensity": 54.58214386704313
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 54.31854266328182,
+                "normalized_intensity": 54.31854266328182
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 54.26763952193549,
+                "normalized_intensity": 54.26763952193549
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.543925653981184,
+                "normalized_intensity": 51.543925653981184
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.07931299269919,
+                "normalized_intensity": 51.07931299269919
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.54484821195644,
+                "normalized_intensity": 49.54484821195644
+            }
+        ]
+    }
+}

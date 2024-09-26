@@ -1,0 +1,22 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 89.40374624537888,
+                "normalized_intensity": 89.40374624537888
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 60.70929060666538,
+                "normalized_intensity": 60.70929060666538
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.85182435646458,
+                "normalized_intensity": 49.85182435646458
+            }
+        ]
+    }
+}

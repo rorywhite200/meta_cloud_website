@@ -1,0 +1,32 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 233.44040266510365,
+                "normalized_intensity": 77.81346755503455
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 179.2020803157232,
+                "normalized_intensity": 59.734026771907736
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 145.84918381120409,
+                "normalized_intensity": 48.6163946037347
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.5683108402531,
+                "normalized_intensity": 18.856103613417698
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.257117165699306,
+                "normalized_intensity": 16.752372388566435
+            }
+        ]
+    }
+}

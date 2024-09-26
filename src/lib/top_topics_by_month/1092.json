@@ -1,0 +1,167 @@
+{
+    "2023-11": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 577.6964808662708,
+                "normalized_intensity": 57.76964808662708
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 442.73110740497606,
+                "normalized_intensity": 44.27311074049761
+            },
+            {
+                "topic": "law",
+                "weighted_count": 431.75981361446406,
+                "normalized_intensity": 43.175981361446404
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 288.37258285671265,
+                "normalized_intensity": 28.837258285671265
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 229.33619731772714,
+                "normalized_intensity": 22.933619731772716
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 210.60213049620512,
+                "normalized_intensity": 21.06021304962051
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 202.80682378602398,
+                "normalized_intensity": 20.2806823786024
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 180.29435641721972,
+                "normalized_intensity": 18.02943564172197
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 166.13530329207873,
+                "normalized_intensity": 16.613530329207872
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 155.7203368913361,
+                "normalized_intensity": 15.57203368913361
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 435.0420797242921,
+                "normalized_intensity": 62.148868532041725
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 409.3421996575204,
+                "normalized_intensity": 58.477457093931484
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 394.6302978508619,
+                "normalized_intensity": 56.375756835837414
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 191.65523667389857,
+                "normalized_intensity": 27.379319524842654
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 153.93899872942032,
+                "normalized_intensity": 21.99128553277433
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 149.0908651757657,
+                "normalized_intensity": 21.29869502510939
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 127.77016441819455,
+                "normalized_intensity": 63.88508220909728
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 126.41243355382241,
+                "normalized_intensity": 63.206216776911205
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 109.02573481042627,
+                "normalized_intensity": 54.512867405213136
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 104.11753772733547,
+                "normalized_intensity": 52.05876886366774
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 100.82780496942438,
+                "normalized_intensity": 50.41390248471219
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 100.48823201188564,
+                "normalized_intensity": 50.24411600594282
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 195.87384258204656,
+                "normalized_intensity": 65.29128086068219
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 186.0975176738417,
+                "normalized_intensity": 62.03250589128057
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 169.1650995436301,
+                "normalized_intensity": 56.38836651454337
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 165.667407235649,
+                "normalized_intensity": 55.222469078549665
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 159.7714133014232,
+                "normalized_intensity": 53.25713776714107
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 148.70545209389968,
+                "normalized_intensity": 49.568484031299896
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 148.2737058754849,
+                "normalized_intensity": 49.42456862516163
+            }
+        ]
+    }
+}

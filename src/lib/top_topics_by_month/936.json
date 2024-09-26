@@ -1,0 +1,312 @@
+{
+    "2023-11": {
+        "total_ads": 60,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 3662.4215288259124,
+                "normalized_intensity": 61.04035881376521
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 2437.708412832775,
+                "normalized_intensity": 40.62847354721292
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1869.8697387715629,
+                "normalized_intensity": 31.164495646192716
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1304.340078361258,
+                "normalized_intensity": 21.739001306020967
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1200.5304267201338,
+                "normalized_intensity": 20.008840445335565
+            },
+            {
+                "topic": "community",
+                "weighted_count": 216.73102203892256,
+                "normalized_intensity": 3.612183700648709
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 211.33516211879729,
+                "normalized_intensity": 3.5222527019799545
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 211.27876229459318,
+                "normalized_intensity": 3.5213127049098865
+            },
+            {
+                "topic": "law",
+                "weighted_count": 207.2363389143772,
+                "normalized_intensity": 3.4539389819062865
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 206.83546117022354,
+                "normalized_intensity": 3.4472576861703925
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 968.9117139720873,
+                "normalized_intensity": 64.59411426480582
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 890.2571944606151,
+                "normalized_intensity": 59.350479630707675
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 833.5438632781984,
+                "normalized_intensity": 55.56959088521322
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 805.33286894427,
+                "normalized_intensity": 53.688857929618
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 602.0842067574897,
+                "normalized_intensity": 40.13894711716598
+            },
+            {
+                "topic": "media",
+                "weighted_count": 159.742190816069,
+                "normalized_intensity": 10.649479387737934
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 148.22512327900628,
+                "normalized_intensity": 9.881674885267085
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 587.5282628823538,
+                "normalized_intensity": 73.44103286029423
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 540.1748053227655,
+                "normalized_intensity": 67.52185066534568
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 499.41758715647063,
+                "normalized_intensity": 62.42719839455883
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 468.89301719251915,
+                "normalized_intensity": 58.611627149064894
+            },
+            {
+                "topic": "community",
+                "weighted_count": 416.22671060949193,
+                "normalized_intensity": 52.02833882618649
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 264.91372319809074,
+                "normalized_intensity": 33.11421539976134
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 199.62401752282693,
+                "normalized_intensity": 24.953002190353367
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 17,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 1108.5151885819864,
+                "normalized_intensity": 65.20677579894038
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 888.3351415203467,
+                "normalized_intensity": 52.255008324726276
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 796.768103845646,
+                "normalized_intensity": 46.86871199092035
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 698.8482490183322,
+                "normalized_intensity": 41.10872053049013
+            },
+            {
+                "topic": "law",
+                "weighted_count": 408.55709919053817,
+                "normalized_intensity": 24.032770540619893
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 311.8292714452789,
+                "normalized_intensity": 18.342898320310525
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 271.743070398591,
+                "normalized_intensity": 15.984886494034765
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 243.9910676079709,
+                "normalized_intensity": 14.352415741645347
+            },
+            {
+                "topic": "military",
+                "weighted_count": 215.86865363174846,
+                "normalized_intensity": 12.698156095985203
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 198.442378842183,
+                "normalized_intensity": 11.673081108363705
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 197.74457391022338,
+                "normalized_intensity": 11.632033759424905
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 196.91684400429705,
+                "normalized_intensity": 11.58334376495865
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 55.910154650622204,
+                "normalized_intensity": 3.2888326265071886
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.880685409877316,
+                "normalized_intensity": 2.9929814946986655
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.8986721721919,
+                "normalized_intensity": 2.9352160101289355
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 353.1259350702518,
+                "normalized_intensity": 25.223281076446558
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 244.98183551212838,
+                "normalized_intensity": 17.4987025365806
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 237.99083536944386,
+                "normalized_intensity": 16.999345383531704
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 231.67009138817113,
+                "normalized_intensity": 16.547863670583652
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 222.2033845903404,
+                "normalized_intensity": 15.871670327881457
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 201.27278220373813,
+                "normalized_intensity": 14.376627300267009
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 199.70653796794016,
+                "normalized_intensity": 14.264752711995726
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 197.0570744820132,
+                "normalized_intensity": 14.075505320143801
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 254.41155958581854,
+                "normalized_intensity": 31.801444948227317
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 219.42290496724618,
+                "normalized_intensity": 27.427863120905773
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 217.52754332436044,
+                "normalized_intensity": 27.190942915545055
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 118.99541768472193,
+                "normalized_intensity": 14.874427210590241
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 115.83504569408557,
+                "normalized_intensity": 14.479380711760696
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 111.1016922951702,
+                "normalized_intensity": 13.887711536896274
+            },
+            {
+                "topic": "military",
+                "weighted_count": 108.55408832236965,
+                "normalized_intensity": 13.569261040296206
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 99.85326898397008,
+                "normalized_intensity": 12.48165862299626
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 98.5285372410066,
+                "normalized_intensity": 12.316067155125825
+            }
+        ]
+    }
+}

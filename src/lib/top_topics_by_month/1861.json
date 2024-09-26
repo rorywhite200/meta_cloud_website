@@ -1,0 +1,77 @@
+{
+    "2023-09": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 229.52479148638446,
+                "normalized_intensity": 38.25413191439741
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 152.83463550074256,
+                "normalized_intensity": 25.47243925012376
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 105.52224858992545,
+                "normalized_intensity": 17.587041431654242
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 82.81378406554127,
+                "normalized_intensity": 13.802297344256878
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 77.73401022166024,
+                "normalized_intensity": 12.955668370276706
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 70.65370142337727,
+                "normalized_intensity": 11.775616903896212
+            },
+            {
+                "topic": "food",
+                "weighted_count": 64.24984995719883,
+                "normalized_intensity": 10.708308326199806
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 63.217089338937605,
+                "normalized_intensity": 10.5361815564896
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 60.741326589148926,
+                "normalized_intensity": 10.123554431524822
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 58.80379380963454,
+                "normalized_intensity": 9.800632301605757
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.022660511095125,
+                "normalized_intensity": 9.003776751849188
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 52.4906476100219,
+                "normalized_intensity": 8.748441268336984
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.863007242017424,
+                "normalized_intensity": 8.643834540336238
+            },
+            {
+                "topic": "security",
+                "weighted_count": 49.705509741399865,
+                "normalized_intensity": 8.284251623566645
+            }
+        ]
+    }
+}

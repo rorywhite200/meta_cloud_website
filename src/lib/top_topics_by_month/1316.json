@@ -1,0 +1,47 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 60.48539125090898,
+                "normalized_intensity": 60.48539125090898
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.87837056557603,
+                "normalized_intensity": 54.87837056557603
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.85891994006546,
+                "normalized_intensity": 51.85891994006546
+            },
+            {
+                "topic": "law",
+                "weighted_count": 51.30491671698672,
+                "normalized_intensity": 51.30491671698672
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.014311491787154,
+                "normalized_intensity": 51.014311491787154
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 50.107614539669285,
+                "normalized_intensity": 50.107614539669285
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.9650820185426,
+                "normalized_intensity": 49.9650820185426
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.454647561183776,
+                "normalized_intensity": 49.454647561183776
+            }
+        ]
+    }
+}

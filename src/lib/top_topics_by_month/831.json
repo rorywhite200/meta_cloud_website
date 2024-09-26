@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 145.73909719288093,
+                "normalized_intensity": 72.86954859644047
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 134.03403086626884,
+                "normalized_intensity": 67.01701543313442
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 124.49221340293036,
+                "normalized_intensity": 62.24610670146518
+            },
+            {
+                "topic": "family",
+                "weighted_count": 116.13862154070117,
+                "normalized_intensity": 58.06931077035058
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 106.12093284128605,
+                "normalized_intensity": 53.060466420643024
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 106.007633062005,
+                "normalized_intensity": 53.0038165310025
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 54.40616603716416,
+                "normalized_intensity": 27.20308301858208
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 51.419727033684715,
+                "normalized_intensity": 25.709863516842358
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 50.312386901478604,
+                "normalized_intensity": 25.156193450739302
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.24213321380311,
+                "normalized_intensity": 25.121066606901554
+            }
+        ]
+    }
+}

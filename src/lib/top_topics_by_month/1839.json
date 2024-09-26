@@ -1,0 +1,187 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 269.81535421231257,
+                "normalized_intensity": 53.963070842462514
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 139.50198279762463,
+                "normalized_intensity": 27.90039655952493
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 120.80472681775856,
+                "normalized_intensity": 24.16094536355171
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 114.72397910845251,
+                "normalized_intensity": 22.9447958216905
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 66.96457543240369,
+                "normalized_intensity": 13.392915086480738
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 66.70099696808761,
+                "normalized_intensity": 13.340199393617521
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 54.27071882506653,
+                "normalized_intensity": 10.854143765013307
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.7098902047925,
+                "normalized_intensity": 10.5419780409585
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.83229265171268,
+                "normalized_intensity": 10.166458530342535
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.0672911004277,
+                "normalized_intensity": 9.81345822008554
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 257.18920577639483,
+                "normalized_intensity": 36.74131511091355
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 235.9635061276899,
+                "normalized_intensity": 33.7090723039557
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 217.52042590505994,
+                "normalized_intensity": 31.074346557865706
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 183.15599484140904,
+                "normalized_intensity": 26.165142120201292
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 176.14374125823346,
+                "normalized_intensity": 25.163391608319067
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 163.74318987838217,
+                "normalized_intensity": 23.39188426834031
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 122.57506168083972,
+                "normalized_intensity": 17.51072309726282
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 67.89221197306645,
+                "normalized_intensity": 9.698887424723779
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 66.87995753335781,
+                "normalized_intensity": 9.554279647622545
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 61.30832550655909,
+                "normalized_intensity": 8.758332215222728
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 59.11985032165208,
+                "normalized_intensity": 8.445692903093155
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 58.69844757728179,
+                "normalized_intensity": 8.385492511040257
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 56.62880839626423,
+                "normalized_intensity": 8.089829770894891
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.93396240994704,
+                "normalized_intensity": 7.84770891570672
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 54.66372123440388,
+                "normalized_intensity": 7.809103033486268
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 53.2075038556365,
+                "normalized_intensity": 7.601071979376643
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 52.63123707987876,
+                "normalized_intensity": 7.518748154268394
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 52.54256726720838,
+                "normalized_intensity": 7.506081038172626
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 51.95353557450686,
+                "normalized_intensity": 7.42193365350098
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.80084830660468,
+                "normalized_intensity": 7.400121186657811
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 51.513126306900105,
+                "normalized_intensity": 7.359018043842872
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.98721228007545,
+                "normalized_intensity": 7.283887468582207
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.99115394722719,
+                "normalized_intensity": 7.141593421032455
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.88532892362122,
+                "normalized_intensity": 7.126475560517318
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.70048866619685,
+                "normalized_intensity": 7.100069809456692
+            }
+        ]
+    }
+}

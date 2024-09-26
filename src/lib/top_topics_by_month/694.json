@@ -1,0 +1,67 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 112.75219998521018,
+                "normalized_intensity": 56.37609999260509
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 109.72753991380108,
+                "normalized_intensity": 54.86376995690054
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.24535562388378,
+                "normalized_intensity": 51.12267781194189
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 60.63674147218299,
+                "normalized_intensity": 30.318370736091495
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 119.23078511710563,
+                "normalized_intensity": 59.61539255855281
+            },
+            {
+                "topic": "community",
+                "weighted_count": 114.62682353518801,
+                "normalized_intensity": 57.313411767594005
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 62.32316393121954,
+                "normalized_intensity": 31.16158196560977
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.66592140173778,
+                "normalized_intensity": 26.33296070086889
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 51.00154354620502,
+                "normalized_intensity": 25.50077177310251
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.81010066801246,
+                "normalized_intensity": 25.40505033400623
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.750284789836066,
+                "normalized_intensity": 24.875142394918033
+            }
+        ]
+    }
+}

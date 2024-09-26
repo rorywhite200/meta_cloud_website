@@ -1,0 +1,52 @@
+{
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 71.07017575782214,
+                "normalized_intensity": 71.07017575782214
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 70.7293886382968,
+                "normalized_intensity": 70.7293886382968
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 66.71721130434912,
+                "normalized_intensity": 66.71721130434912
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 63.46053603258597,
+                "normalized_intensity": 63.46053603258597
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.67041039898366,
+                "normalized_intensity": 60.67041039898366
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.0057009463606,
+                "normalized_intensity": 60.0057009463606
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 54.824553763343864,
+                "normalized_intensity": 54.824553763343864
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.09143599561369,
+                "normalized_intensity": 54.09143599561369
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.084279529537135,
+                "normalized_intensity": 52.084279529537135
+            }
+        ]
+    }
+}

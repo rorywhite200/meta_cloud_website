@@ -1,0 +1,112 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.37244848685663,
+                "normalized_intensity": 30.686224243428313
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 52.401119946588345,
+                "normalized_intensity": 26.200559973294173
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.0638014709404,
+                "normalized_intensity": 66.0638014709404
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 52.12377752490772,
+                "normalized_intensity": 52.12377752490772
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 51.137447615408405,
+                "normalized_intensity": 51.137447615408405
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.61227632379563,
+                "normalized_intensity": 49.61227632379563
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 158.9419577624809,
+                "normalized_intensity": 79.47097888124046
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 79.03333788566135,
+                "normalized_intensity": 39.51666894283068
+            },
+            {
+                "topic": "health",
+                "weighted_count": 77.3269419263145,
+                "normalized_intensity": 38.66347096315725
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 65.41583553018494,
+                "normalized_intensity": 32.70791776509247
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 60.961301731470705,
+                "normalized_intensity": 30.480650865735353
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 59.48225943150002,
+                "normalized_intensity": 29.74112971575001
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 58.76132170710876,
+                "normalized_intensity": 29.38066085355438
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 54.12118084666411,
+                "normalized_intensity": 27.060590423332055
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.32651715936345,
+                "normalized_intensity": 26.163258579681724
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.22949014722457,
+                "normalized_intensity": 26.114745073612283
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.62100540693143,
+                "normalized_intensity": 25.310502703465716
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.16454858773237,
+                "normalized_intensity": 25.082274293866185
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.238064635336734,
+                "normalized_intensity": 24.619032317668367
+            }
+        ]
+    }
+}

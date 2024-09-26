@@ -1,0 +1,77 @@
+{
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 182.29442333970323,
+                "normalized_intensity": 36.458884667940644
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 174.15151862008554,
+                "normalized_intensity": 34.83030372401711
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 173.6051704567323,
+                "normalized_intensity": 34.72103409134646
+            },
+            {
+                "topic": "community",
+                "weighted_count": 170.8375281547082,
+                "normalized_intensity": 34.16750563094164
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 156.71106502044552,
+                "normalized_intensity": 31.342213004089103
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 152.6439577248961,
+                "normalized_intensity": 30.52879154497922
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 150.09393214163265,
+                "normalized_intensity": 30.01878642832653
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 149.52336547020997,
+                "normalized_intensity": 29.904673094041993
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 110.88655336936739,
+                "normalized_intensity": 22.177310673873478
+            },
+            {
+                "topic": "law",
+                "weighted_count": 100.1768804957517,
+                "normalized_intensity": 20.03537609915034
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.000955739424796,
+                "normalized_intensity": 10.60019114788496
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 50.46162445140023,
+                "normalized_intensity": 10.092324890280047
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.43923398968862,
+                "normalized_intensity": 10.087846797937724
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 50.29197469573885,
+                "normalized_intensity": 10.058394939147771
+            }
+        ]
+    }
+}

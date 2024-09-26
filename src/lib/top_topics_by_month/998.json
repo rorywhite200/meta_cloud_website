@@ -1,0 +1,37 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 115.18673859542528,
+                "normalized_intensity": 57.59336929771264
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 79.9071843333425,
+                "normalized_intensity": 39.95359216667125
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 54.38070472087178,
+                "normalized_intensity": 27.19035236043589
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.51902293698639,
+                "normalized_intensity": 25.759511468493194
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 53.87803376469146,
+                "normalized_intensity": 53.87803376469146
+            }
+        ]
+    }
+}

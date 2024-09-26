@@ -1,0 +1,67 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 55.58747752226293,
+                "normalized_intensity": 55.58747752226293
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.25594575382547,
+                "normalized_intensity": 51.25594575382547
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 50.154580125990314,
+                "normalized_intensity": 50.154580125990314
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 72.22974360954856,
+                "normalized_intensity": 72.22974360954856
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 67.50729570129752,
+                "normalized_intensity": 67.50729570129752
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 56.13893035130745,
+                "normalized_intensity": 56.13893035130745
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.95738282424711,
+                "normalized_intensity": 55.95738282424711
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.02376378628642,
+                "normalized_intensity": 51.02376378628642
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.873209682783404,
+                "normalized_intensity": 50.873209682783404
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 67.80370568126722,
+                "normalized_intensity": 67.80370568126722
+            }
+        ]
+    }
+}

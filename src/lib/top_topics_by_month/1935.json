@@ -1,0 +1,22 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 81.7716268850885,
+                "normalized_intensity": 81.7716268850885
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 64.83863974023704,
+                "normalized_intensity": 64.83863974023704
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 52.8972034008881,
+                "normalized_intensity": 52.8972034008881
+            }
+        ]
+    }
+}

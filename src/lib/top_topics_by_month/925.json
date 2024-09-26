@@ -1,0 +1,107 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 64.47400134484376,
+                "normalized_intensity": 64.47400134484376
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 60.988938732218514,
+                "normalized_intensity": 60.988938732218514
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 56.72761415782463,
+                "normalized_intensity": 56.72761415782463
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 67.45941504935314,
+                "normalized_intensity": 33.72970752467657
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 60.01900341522145,
+                "normalized_intensity": 30.009501707610724
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 51.00154072557147,
+                "normalized_intensity": 25.500770362785737
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 66.07854603016341,
+                "normalized_intensity": 66.07854603016341
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 62.469550586598125,
+                "normalized_intensity": 62.469550586598125
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.562865723280176,
+                "normalized_intensity": 55.562865723280176
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 54.80781234345968,
+                "normalized_intensity": 54.80781234345968
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.1288285615523,
+                "normalized_intensity": 52.1288285615523
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 51.03347635375898,
+                "normalized_intensity": 51.03347635375898
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.995497420918554,
+                "normalized_intensity": 50.995497420918554
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.13395537095284,
+                "normalized_intensity": 50.13395537095284
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 69.92625708495737,
+                "normalized_intensity": 69.92625708495737
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 55.44703139954782,
+                "normalized_intensity": 55.44703139954782
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.07968685924801,
+                "normalized_intensity": 49.07968685924801
+            }
+        ]
+    }
+}

@@ -1,0 +1,752 @@
+{
+    "2023-09": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "gig-economy",
+                "weighted_count": 610.8499320386022,
+                "normalized_intensity": 55.531812003509295
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 603.058097837722,
+                "normalized_intensity": 54.82346343979291
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 262.79649332845935,
+                "normalized_intensity": 23.890590302587214
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 48,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 1878.3241219314411,
+                "normalized_intensity": 39.13175254023836
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1687.066996825735,
+                "normalized_intensity": 35.147229100536144
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1398.4226960917088,
+                "normalized_intensity": 29.133806168577266
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 1104.206552477797,
+                "normalized_intensity": 23.00430317662077
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1045.6694376256642,
+                "normalized_intensity": 21.78477995053467
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 1005.2445366299462,
+                "normalized_intensity": 20.94259451312388
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 974.3355892923362,
+                "normalized_intensity": 20.298658110257005
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 833.9957237450018,
+                "normalized_intensity": 17.374910911354203
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 825.3068404908834,
+                "normalized_intensity": 17.193892510226735
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 198.0893429267643,
+                "normalized_intensity": 4.126861310974256
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1091.5199090313706,
+                "normalized_intensity": 54.57599545156853
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 923.5181715249412,
+                "normalized_intensity": 46.17590857624706
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 649.804211848266,
+                "normalized_intensity": 32.490210592413305
+            },
+            {
+                "topic": "family",
+                "weighted_count": 590.475081513714,
+                "normalized_intensity": 29.5237540756857
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 513.1226342518348,
+                "normalized_intensity": 25.65613171259174
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 341.18663287722063,
+                "normalized_intensity": 17.059331643861032
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 334.2771650067362,
+                "normalized_intensity": 16.71385825033681
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 315.7149924990782,
+                "normalized_intensity": 15.785749624953912
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 308.1504527081198,
+                "normalized_intensity": 15.407522635405991
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 303.3333771124457,
+                "normalized_intensity": 15.166668855622286
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 300.84249028543167,
+                "normalized_intensity": 15.042124514271583
+            },
+            {
+                "topic": "community",
+                "weighted_count": 295.41303187082286,
+                "normalized_intensity": 14.770651593541142
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 231.7302834272807,
+                "normalized_intensity": 11.586514171364035
+            },
+            {
+                "topic": "history",
+                "weighted_count": 209.5446310365524,
+                "normalized_intensity": 10.47723155182762
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 199.2262955467568,
+                "normalized_intensity": 9.96131477733784
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 163.00598913974292,
+                "normalized_intensity": 8.150299456987145
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 148.11304320009958,
+                "normalized_intensity": 7.405652160004979
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 122.33744223522945,
+                "normalized_intensity": 6.116872111761472
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 110.52784915358873,
+                "normalized_intensity": 5.526392457679437
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 104.46160755355835,
+                "normalized_intensity": 5.223080377677918
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 100.00746416925546,
+                "normalized_intensity": 5.000373208462773
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 99.04467146338214,
+                "normalized_intensity": 4.952233573169107
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 31,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1469.7377943293875,
+                "normalized_intensity": 47.410896591270564
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 1426.9861704130055,
+                "normalized_intensity": 46.03181194880663
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 973.9925112201093,
+                "normalized_intensity": 31.419113265164818
+            },
+            {
+                "topic": "family",
+                "weighted_count": 759.1787275806213,
+                "normalized_intensity": 24.489636373568427
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 660.3849890183144,
+                "normalized_intensity": 21.30274158123595
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 508.6676225469324,
+                "normalized_intensity": 16.408632985384916
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 341.18663287722063,
+                "normalized_intensity": 11.006020415394214
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 334.2771650067362,
+                "normalized_intensity": 10.783134355056006
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 318.565062175714,
+                "normalized_intensity": 10.276292328248838
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 315.7149924990782,
+                "normalized_intensity": 10.184354596744459
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 308.1504527081198,
+                "normalized_intensity": 9.940337184132897
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 303.3333771124457,
+                "normalized_intensity": 9.78494764878857
+            },
+            {
+                "topic": "community",
+                "weighted_count": 295.41303187082286,
+                "normalized_intensity": 9.529452640994286
+            },
+            {
+                "topic": "history",
+                "weighted_count": 209.5446310365524,
+                "normalized_intensity": 6.759504226985562
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 199.2262955467568,
+                "normalized_intensity": 6.426654695056671
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 163.00598913974292,
+                "normalized_intensity": 5.258257714185255
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 148.11304320009958,
+                "normalized_intensity": 4.7778401032290185
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 157.39075070259446,
+                "normalized_intensity": 39.347687675648615
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 80.00568354701568,
+                "normalized_intensity": 20.00142088675392
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 78.43781345543768,
+                "normalized_intensity": 19.60945336385942
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 53.42836274382402,
+                "normalized_intensity": 13.357090685956004
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.972956559312756,
+                "normalized_intensity": 12.743239139828189
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 289.25756262001477,
+                "normalized_intensity": 32.13972918000164
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 281.9071127103671,
+                "normalized_intensity": 31.323012523374118
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 262.76650979986556,
+                "normalized_intensity": 29.196278866651728
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 227.0932076934056,
+                "normalized_intensity": 25.23257863260062
+            },
+            {
+                "topic": "military",
+                "weighted_count": 218.29368938035418,
+                "normalized_intensity": 24.25485437559491
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 123.30376751772386,
+                "normalized_intensity": 13.700418613080428
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 106.9888104470157,
+                "normalized_intensity": 11.887645605223966
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 49.45680868738034,
+                "normalized_intensity": 5.495200965264482
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 231.4103121407278,
+                "normalized_intensity": 38.568385356787964
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 225.79443113439368,
+                "normalized_intensity": 37.632405189065615
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 210.1745494729221,
+                "normalized_intensity": 35.02909157882035
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 153.7168142431974,
+                "normalized_intensity": 25.619469040532902
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 131.6916786841705,
+                "normalized_intensity": 21.94861311402842
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 117.45525219371847,
+                "normalized_intensity": 19.575875365619744
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 108.42331227468746,
+                "normalized_intensity": 18.070552045781245
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 98.6916889166135,
+                "normalized_intensity": 16.448614819435583
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 256.14762220625204,
+                "normalized_intensity": 85.38254073541735
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 195.25553061814952,
+                "normalized_intensity": 65.0851768727165
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 177.17107242149245,
+                "normalized_intensity": 59.05702414049748
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.339016441735865,
+                "normalized_intensity": 17.11300548057862
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.289052481783116,
+                "normalized_intensity": 16.763017493927705
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 63,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 1747.8681206004233,
+                "normalized_intensity": 27.74393842222894
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 1619.7558539260704,
+                "normalized_intensity": 25.710410379778896
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 829.7628159239633,
+                "normalized_intensity": 13.170838347999418
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 734.5936787531207,
+                "normalized_intensity": 11.660217123065408
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 646.2265291261796,
+                "normalized_intensity": 10.257563954383803
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 516.9832148007392,
+                "normalized_intensity": 8.206082774614908
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 464.8412485635378,
+                "normalized_intensity": 7.378432516881553
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 330.6102465814663,
+                "normalized_intensity": 5.2477816917693065
+            },
+            {
+                "topic": "family",
+                "weighted_count": 227.52746209202124,
+                "normalized_intensity": 3.6115470173336703
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 203.46322174216124,
+                "normalized_intensity": 3.2295749482882736
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 199.24071943824882,
+                "normalized_intensity": 3.1625511021944255
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 100.81791804174767,
+                "normalized_intensity": 1.6002844133610743
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.27200402059805,
+                "normalized_intensity": 0.7979683177872706
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.59651900146172,
+                "normalized_intensity": 0.7872463333565353
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 17,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 718.2711695066142,
+                "normalized_intensity": 42.25124526509495
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 595.7043355661223,
+                "normalized_intensity": 35.04143150388955
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 405.85640581559403,
+                "normalized_intensity": 23.873906224446706
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 351.772761934627,
+                "normalized_intensity": 20.692515407919235
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 155.53067284577398,
+                "normalized_intensity": 9.14886310857494
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 148.1203785835777,
+                "normalized_intensity": 8.712963446092806
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 128.97895118058204,
+                "normalized_intensity": 7.586997128269532
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 72.84184989197308,
+                "normalized_intensity": 4.2848146995278285
+            },
+            {
+                "topic": "family",
+                "weighted_count": 56.20984846752229,
+                "normalized_intensity": 3.306461674560135
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 56.11268157597337,
+                "normalized_intensity": 3.300745975057257
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 52.211777543060755,
+                "normalized_intensity": 3.0712810319447503
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 51.48621741377889,
+                "normalized_intensity": 3.0286010243399346
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.686359140165315,
+                "normalized_intensity": 2.9815505376567835
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.27200402059805,
+                "normalized_intensity": 2.957176707094003
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 1073.9129817094968,
+                "normalized_intensity": 42.95651926837987
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 827.5473744090277,
+                "normalized_intensity": 33.10189497636111
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 549.529791315572,
+                "normalized_intensity": 21.98119165262288
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 425.6457638884143,
+                "normalized_intensity": 17.025830555536572
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 347.4369286502965,
+                "normalized_intensity": 13.89747714601186
+            },
+            {
+                "topic": "family",
+                "weighted_count": 270.64275266268186,
+                "normalized_intensity": 10.825710106507275
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 269.4345233404546,
+                "normalized_intensity": 10.777380933618183
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 253.2751136527025,
+                "normalized_intensity": 10.1310045461081
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 202.39430647698617,
+                "normalized_intensity": 8.095772259079446
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 172.7807877966075,
+                "normalized_intensity": 6.9112315118643
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 156.63533262918227,
+                "normalized_intensity": 6.265413305167291
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 102.6210710605038,
+                "normalized_intensity": 4.104842842420152
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 102.0062891417491,
+                "normalized_intensity": 4.080251565669964
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 98.85844879251971,
+                "normalized_intensity": 3.954337951700788
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.873952828972804,
+                "normalized_intensity": 2.154958113158912
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.96162985162414,
+                "normalized_intensity": 2.1184651940649655
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.27200402059805,
+                "normalized_intensity": 2.010880160823922
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 1674.2450042581845,
+                "normalized_intensity": 66.96980017032737
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 1296.1677286249706,
+                "normalized_intensity": 51.84670914499882
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 984.6213710867047,
+                "normalized_intensity": 39.38485484346819
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 753.9165386796727,
+                "normalized_intensity": 30.15666154718691
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 655.0184867698908,
+                "normalized_intensity": 26.200739470795632
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 354.03809402471654,
+                "normalized_intensity": 14.161523760988661
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 314.8231466736092,
+                "normalized_intensity": 12.592925866944368
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 254.94005383446256,
+                "normalized_intensity": 10.197602153378503
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 162.69031022587941,
+                "normalized_intensity": 6.507612409035176
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 147.9825771596951,
+                "normalized_intensity": 5.919303086387804
+            },
+            {
+                "topic": "family",
+                "weighted_count": 111.21254818979395,
+                "normalized_intensity": 4.448501927591758
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 100.65127781806501,
+                "normalized_intensity": 4.026051112722601
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 56.11268157597337,
+                "normalized_intensity": 2.2445072630389347
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.873952828972804,
+                "normalized_intensity": 2.154958113158912
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.27200402059805,
+                "normalized_intensity": 2.010880160823922
+            }
+        ]
+    }
+}

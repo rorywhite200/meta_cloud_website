@@ -1,0 +1,77 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.25025774880218,
+                "normalized_intensity": 53.25025774880218
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.430227641634495,
+                "normalized_intensity": 52.430227641634495
+            },
+            {
+                "topic": "military",
+                "weighted_count": 50.6199971409684,
+                "normalized_intensity": 50.6199971409684
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 57.77578765820891,
+                "normalized_intensity": 57.77578765820891
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.52031850490133,
+                "normalized_intensity": 52.52031850490133
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 65.41299587274061,
+                "normalized_intensity": 65.41299587274061
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 57.43221689370045,
+                "normalized_intensity": 57.43221689370045
+            },
+            {
+                "topic": "law",
+                "weighted_count": 55.41882035200193,
+                "normalized_intensity": 55.41882035200193
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 53.82562331537352,
+                "normalized_intensity": 53.82562331537352
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.89433222988614,
+                "normalized_intensity": 51.89433222988614
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 51.76448791399053,
+                "normalized_intensity": 51.76448791399053
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.93024281238857,
+                "normalized_intensity": 50.93024281238857
+            }
+        ]
+    }
+}

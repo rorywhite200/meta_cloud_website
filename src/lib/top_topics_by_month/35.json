@@ -1,0 +1,312 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 62.69586229493716,
+                "normalized_intensity": 62.69586229493716
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 51.49689650566381,
+                "normalized_intensity": 51.49689650566381
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.61423736167151,
+                "normalized_intensity": 50.61423736167151
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "demographics",
+                "weighted_count": 99.14318241077726,
+                "normalized_intensity": 24.785795602694314
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 64.21667219296717,
+                "normalized_intensity": 16.05416804824179
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.96944854587729,
+                "normalized_intensity": 15.242362136469323
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 57.36490426138933,
+                "normalized_intensity": 14.341226065347332
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 51.331046748901,
+                "normalized_intensity": 12.83276168722525
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 212.385004116825,
+                "normalized_intensity": 30.340714873832145
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 101.62603776407951,
+                "normalized_intensity": 14.518005394868501
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 66.46686301572939,
+                "normalized_intensity": 9.495266145104198
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 65.85966767758012,
+                "normalized_intensity": 9.408523953940017
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 53.51025065345314,
+                "normalized_intensity": 7.644321521921877
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 51.79746331128445,
+                "normalized_intensity": 7.399637615897779
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 63.13427334332887,
+                "normalized_intensity": 63.13427334332887
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 261.82140362878926,
+                "normalized_intensity": 32.72767545359866
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 155.6709348429867,
+                "normalized_intensity": 19.458866855373337
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 98.5980565594267,
+                "normalized_intensity": 12.324757069928337
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 72.38776645666725,
+                "normalized_intensity": 9.048470807083406
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 65.37728249746218,
+                "normalized_intensity": 8.172160312182772
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 51.939853882541485,
+                "normalized_intensity": 6.492481735317686
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 154.22285146610403,
+                "normalized_intensity": 30.844570293220805
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 72.42085705745495,
+                "normalized_intensity": 14.48417141149099
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 66.26232880176691,
+                "normalized_intensity": 13.252465760353383
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 52.80986879542417,
+                "normalized_intensity": 10.561973759084834
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.79068647137206,
+                "normalized_intensity": 9.958137294274412
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.59906929125164,
+                "normalized_intensity": 9.919813858250327
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 280.3925949319799,
+                "normalized_intensity": 40.05608499028284
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 209.58587459092118,
+                "normalized_intensity": 29.940839227274456
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 100.8497854949222,
+                "normalized_intensity": 14.407112213560314
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 61.18138784373001,
+                "normalized_intensity": 8.74019826339
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 53.48366127944274,
+                "normalized_intensity": 7.640523039920391
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.9466240668091,
+                "normalized_intensity": 7.135232009544157
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 72.00460581732884,
+                "normalized_intensity": 36.00230290866442
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 62.15015426808365,
+                "normalized_intensity": 31.075077134041823
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.841429952300246,
+                "normalized_intensity": 25.920714976150123
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.552817311931484,
+                "normalized_intensity": 24.776408655965742
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 159.98282531649153,
+                "normalized_intensity": 39.99570632912288
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 74.8212378320584,
+                "normalized_intensity": 18.7053094580146
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 54.0809388669395,
+                "normalized_intensity": 13.520234716734874
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 53.761308509496565,
+                "normalized_intensity": 13.440327127374141
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 53.618666675646075,
+                "normalized_intensity": 13.404666668911519
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 204.48648151994394,
+                "normalized_intensity": 25.560810189992992
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 136.32503638928384,
+                "normalized_intensity": 17.04062954866048
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 100.353105880959,
+                "normalized_intensity": 12.544138235119876
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 70.33011003462784,
+                "normalized_intensity": 8.79126375432848
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 69.97692188915974,
+                "normalized_intensity": 8.747115236144968
+            },
+            {
+                "topic": "health",
+                "weighted_count": 56.09759476323946,
+                "normalized_intensity": 7.012199345404932
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 149.2432437949854,
+                "normalized_intensity": 74.6216218974927
+            },
+            {
+                "topic": "health",
+                "weighted_count": 105.56579706138129,
+                "normalized_intensity": 52.782898530690645
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 100.16259524385526,
+                "normalized_intensity": 50.08129762192763
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 62.66321178651236,
+                "normalized_intensity": 62.66321178651236
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 55.23479552787718,
+                "normalized_intensity": 55.23479552787718
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.73183187846584,
+                "normalized_intensity": 54.73183187846584
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.41232490756206,
+                "normalized_intensity": 51.41232490756206
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.64848985286908,
+                "normalized_intensity": 50.64848985286908
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 50.48329559138415,
+                "normalized_intensity": 50.48329559138415
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.3433123020249,
+                "normalized_intensity": 49.3433123020249
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.13146709892499,
+                "normalized_intensity": 49.13146709892499
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.24749566526541,
+                "normalized_intensity": 55.24749566526541
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 54.1519804996012,
+                "normalized_intensity": 54.1519804996012
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 53.5545840435155,
+                "normalized_intensity": 53.5545840435155
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.03560228060809,
+                "normalized_intensity": 53.03560228060809
+            }
+        ]
+    }
+}

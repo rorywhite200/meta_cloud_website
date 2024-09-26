@@ -1,0 +1,47 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 64.45075458987068,
+                "normalized_intensity": 64.45075458987068
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 51.75374881038615,
+                "normalized_intensity": 51.75374881038615
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.01860568632301,
+                "normalized_intensity": 50.01860568632301
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 65.18464333311391,
+                "normalized_intensity": 65.18464333311391
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 59.510953420977984,
+                "normalized_intensity": 59.510953420977984
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 51.37778603956009,
+                "normalized_intensity": 51.37778603956009
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.07261462697548,
+                "normalized_intensity": 49.07261462697548
+            }
+        ]
+    }
+}

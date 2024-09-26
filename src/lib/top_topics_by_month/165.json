@@ -1,0 +1,37 @@
+{
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 176.54498114447222,
+                "normalized_intensity": 58.84832704815741
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 129.61879451437431,
+                "normalized_intensity": 43.206264838124774
+            },
+            {
+                "topic": "community",
+                "weighted_count": 120.83965164877654,
+                "normalized_intensity": 40.27988388292551
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 107.42036960478234,
+                "normalized_intensity": 35.80678986826078
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 104.74404697040244,
+                "normalized_intensity": 34.91468232346748
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.05594586159443,
+                "normalized_intensity": 17.018648620531476
+            }
+        ]
+    }
+}

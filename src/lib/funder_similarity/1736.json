@@ -1,0 +1,1005 @@
+{
+    "funder_name": "Canadian Cancer Society",
+    "similar_funders": [
+        {
+            "funder_id": "793",
+            "funder_name": "Canadian Health Coalition",
+            "similarity_score": 0.8402871985000901
+        },
+        {
+            "funder_id": "359",
+            "funder_name": "Don Davies",
+            "similarity_score": 0.836979383811629
+        },
+        {
+            "funder_id": "1343",
+            "funder_name": "Viviane Lapointe, MP",
+            "similarity_score": 0.8344900877552285
+        },
+        {
+            "funder_id": "911",
+            "funder_name": "SureHealth",
+            "similarity_score": 0.8332870279469383
+        },
+        {
+            "funder_id": "466",
+            "funder_name": "Fair Care Alliance",
+            "similarity_score": 0.8285698678283736
+        },
+        {
+            "funder_id": "12997",
+            "funder_name": "Unknown",
+            "similarity_score": 0.8273246651782306
+        },
+        {
+            "funder_id": "335",
+            "funder_name": "Canadian Federation of Nurses Unions",
+            "similarity_score": 0.826093637682699
+        },
+        {
+            "funder_id": "909",
+            "funder_name": "Ontario Medical Association",
+            "similarity_score": 0.8229440099913204
+        },
+        {
+            "funder_id": "1638",
+            "funder_name": "Niagara Centre NDP",
+            "similarity_score": 0.8225187088043893
+        },
+        {
+            "funder_id": "145",
+            "funder_name": "Canada\u2019s NDP / Le NPD du Canada",
+            "similarity_score": 0.8220959731361552
+        },
+        {
+            "funder_id": "1363",
+            "funder_name": "Better Care for BC",
+            "similarity_score": 0.8217764767167238
+        },
+        {
+            "funder_id": "82",
+            "funder_name": "Health Match BC",
+            "similarity_score": 0.8176988181806432
+        },
+        {
+            "funder_id": "882",
+            "funder_name": "Canadian Health Food Association",
+            "similarity_score": 0.8161042399355108
+        },
+        {
+            "funder_id": "1021",
+            "funder_name": "Saskatchewan Health Coalition",
+            "similarity_score": 0.8144977079164415
+        },
+        {
+            "funder_id": "1680",
+            "funder_name": "Brampton Caledon Health Coalition",
+            "similarity_score": 0.8137248038087843
+        },
+        {
+            "funder_id": "1810",
+            "funder_name": "Canadian Medical Association",
+            "similarity_score": 0.813408892908685
+        },
+        {
+            "funder_id": "5938",
+            "funder_name": "Sinai Health Foundation",
+            "similarity_score": 0.8133261322222454
+        },
+        {
+            "funder_id": "959",
+            "funder_name": "Manitoba Association of Health Care Professionals",
+            "similarity_score": 0.8112688493715398
+        },
+        {
+            "funder_id": "784",
+            "funder_name": "Liberal Party of NL",
+            "similarity_score": 0.809186009827456
+        },
+        {
+            "funder_id": "675",
+            "funder_name": "Ontario Health Coalition",
+            "similarity_score": 0.8083329100047242
+        },
+        {
+            "funder_id": "875",
+            "funder_name": "Canadian Generic Pharmaceutical Association",
+            "similarity_score": 0.8082045094753616
+        },
+        {
+            "funder_id": "296",
+            "funder_name": "Health Sciences Association Alberta",
+            "similarity_score": 0.8081211885374637
+        },
+        {
+            "funder_id": "18",
+            "funder_name": "BC Code Blue",
+            "similarity_score": 0.8075814330060423
+        },
+        {
+            "funder_id": "1701",
+            "funder_name": "Julian Morse",
+            "similarity_score": 0.8065629266886896
+        },
+        {
+            "funder_id": "161",
+            "funder_name": "NB Docs",
+            "similarity_score": 0.8059104717397161
+        },
+        {
+            "funder_id": "1201",
+            "funder_name": "Peggy Sattler",
+            "similarity_score": 0.8058306127295564
+        },
+        {
+            "funder_id": "507",
+            "funder_name": "Manitoba Government and General Employees' Union (MGEU)",
+            "similarity_score": 0.8056416856790554
+        },
+        {
+            "funder_id": "809",
+            "funder_name": "Northumberland County",
+            "similarity_score": 0.8053535002056288
+        },
+        {
+            "funder_id": "1804",
+            "funder_name": "Canadian Nurse",
+            "similarity_score": 0.805132912826581
+        },
+        {
+            "funder_id": "1041",
+            "funder_name": "Advance Care Planning Canada",
+            "similarity_score": 0.8043125359397111
+        },
+        {
+            "funder_id": "12963",
+            "funder_name": "Chris Leahy",
+            "similarity_score": 0.8038978524536309
+        },
+        {
+            "funder_id": "527",
+            "funder_name": "Patient Experience Canada",
+            "similarity_score": 0.8038464176246238
+        },
+        {
+            "funder_id": "1231",
+            "funder_name": "La Tribune",
+            "similarity_score": 0.8030101671404904
+        },
+        {
+            "funder_id": "1599",
+            "funder_name": "Nurses for Kingston",
+            "similarity_score": 0.8028615601912824
+        },
+        {
+            "funder_id": "549",
+            "funder_name": "Edmonton Zone Medical Association",
+            "similarity_score": 0.802341048940722
+        },
+        {
+            "funder_id": "331",
+            "funder_name": "Alberta Medical Association",
+            "similarity_score": 0.8022442249291275
+        },
+        {
+            "funder_id": "12983",
+            "funder_name": "Great Reads",
+            "similarity_score": 0.801985955534093
+        },
+        {
+            "funder_id": "1225",
+            "funder_name": "Diana Batten",
+            "similarity_score": 0.8016025936848252
+        },
+        {
+            "funder_id": "709",
+            "funder_name": "Manitoba Government",
+            "similarity_score": 0.7998568694470788
+        },
+        {
+            "funder_id": "1729",
+            "funder_name": "Helping Hands Healthcare",
+            "similarity_score": 0.7971215900976497
+        },
+        {
+            "funder_id": "1663",
+            "funder_name": "Kelly Steiss For Kitchener Centre",
+            "similarity_score": 0.796397677012444
+        },
+        {
+            "funder_id": "436",
+            "funder_name": "Ontario Council of Hospital Unions-CUPE",
+            "similarity_score": 0.7950885795322968
+        },
+        {
+            "funder_id": "12937",
+            "funder_name": "The New Democrats of Southeast Alberta",
+            "similarity_score": 0.7950762886561048
+        },
+        {
+            "funder_id": "919",
+            "funder_name": "Nova Scotia Liberal Party",
+            "similarity_score": 0.7950470806748989
+        },
+        {
+            "funder_id": "1577",
+            "funder_name": "AIDS Vancouver",
+            "similarity_score": 0.7948520087530682
+        },
+        {
+            "funder_id": "1407",
+            "funder_name": "Kootenay Boundary Division of Family Practice",
+            "similarity_score": 0.7941007894576526
+        },
+        {
+            "funder_id": "950",
+            "funder_name": "Ontario Nurses' Association",
+            "similarity_score": 0.7937519692004036
+        },
+        {
+            "funder_id": "12961",
+            "funder_name": "Ian MacIntyre, Liberal Party of Canada Candidate for the Elmwood\u2013Transcona Federal By-Election",
+            "similarity_score": 0.7932852320166616
+        },
+        {
+            "funder_id": "1868",
+            "funder_name": "CUPE MB",
+            "similarity_score": 0.7928981596517268
+        },
+        {
+            "funder_id": "827",
+            "funder_name": "L\u00e9ger",
+            "similarity_score": 0.7927590178393039
+        },
+        {
+            "funder_id": "1541",
+            "funder_name": "REACH Niagara",
+            "similarity_score": 0.7921058789932302
+        },
+        {
+            "funder_id": "169",
+            "funder_name": "Concerned Friends",
+            "similarity_score": 0.7918722115619078
+        },
+        {
+            "funder_id": "606",
+            "funder_name": "News Brunswick Liberal Association",
+            "similarity_score": 0.7912225371788376
+        },
+        {
+            "funder_id": "2747",
+            "funder_name": "Unknown",
+            "similarity_score": 0.7911667770483695
+        },
+        {
+            "funder_id": "650",
+            "funder_name": "First Nations Health Authority",
+            "similarity_score": 0.7905766378513092
+        },
+        {
+            "funder_id": "282",
+            "funder_name": "Canadian Generic Pharmaceutical Drug Association",
+            "similarity_score": 0.7903560075951449
+        },
+        {
+            "funder_id": "2975",
+            "funder_name": "CUPE 5430",
+            "similarity_score": 0.7893192795983609
+        },
+        {
+            "funder_id": "1517",
+            "funder_name": "KGH Foundation",
+            "similarity_score": 0.7892185809618724
+        },
+        {
+            "funder_id": "555",
+            "funder_name": "Manitoba NDP",
+            "similarity_score": 0.7891998319683887
+        },
+        {
+            "funder_id": "831",
+            "funder_name": "Ontario College of Family Physicians - OCFP",
+            "similarity_score": 0.789074305322926
+        },
+        {
+            "funder_id": "1147",
+            "funder_name": "Vijay Thanigasalam",
+            "similarity_score": 0.7884749833594739
+        },
+        {
+            "funder_id": "1865",
+            "funder_name": "Neil Stewart for Lakeside",
+            "similarity_score": 0.7878180526945939
+        },
+        {
+            "funder_id": "457",
+            "funder_name": "Partners In Health Canada",
+            "similarity_score": 0.7877901293320786
+        },
+        {
+            "funder_id": "88",
+            "funder_name": "Parti vert NB Green Party",
+            "similarity_score": 0.7876283015612268
+        },
+        {
+            "funder_id": "1090",
+            "funder_name": "Sarah Hoffman",
+            "similarity_score": 0.7872150042312848
+        },
+        {
+            "funder_id": "167",
+            "funder_name": "Conservative Party of British Columbia",
+            "similarity_score": 0.7871856967367081
+        },
+        {
+            "funder_id": "333",
+            "funder_name": "Gabriola Health Care Foundation",
+            "similarity_score": 0.7863424912776766
+        },
+        {
+            "funder_id": "730",
+            "funder_name": "the Chief Official Agent of the Saskatchewan NDP",
+            "similarity_score": 0.7862079751229654
+        },
+        {
+            "funder_id": "1069",
+            "funder_name": "Pro-Choice Society of Lethbridge & Southern Alberta",
+            "similarity_score": 0.7846205333438817
+        },
+        {
+            "funder_id": "294",
+            "funder_name": "Office of Frank Caputo, M.P.",
+            "similarity_score": 0.7843864110592728
+        },
+        {
+            "funder_id": "110",
+            "funder_name": "SecondStreet.org",
+            "similarity_score": 0.7843792167122507
+        },
+        {
+            "funder_id": "495",
+            "funder_name": "Susan Holt",
+            "similarity_score": 0.7841371898395803
+        },
+        {
+            "funder_id": "678",
+            "funder_name": "Karen McCrimmon, MPP",
+            "similarity_score": 0.7840905173587756
+        },
+        {
+            "funder_id": "1596",
+            "funder_name": "KBRH Health Foundation",
+            "similarity_score": 0.7835859758445024
+        },
+        {
+            "funder_id": "12982",
+            "funder_name": "People's Alliance of New Brunswick - Albert-Riverview Riding",
+            "similarity_score": 0.7834646519788935
+        },
+        {
+            "funder_id": "1093",
+            "funder_name": "BC New Democrat Caucus",
+            "similarity_score": 0.7833084218655226
+        },
+        {
+            "funder_id": "1576",
+            "funder_name": "COPE ONTARIO",
+            "similarity_score": 0.7827863341382069
+        },
+        {
+            "funder_id": "977",
+            "funder_name": "One Yukon",
+            "similarity_score": 0.7823540059769792
+        },
+        {
+            "funder_id": "12953",
+            "funder_name": "Laura Palestini, candidate du Parti lib\u00e9ral du Canada \u00e0 l\u2019\u00e9lection partielle f\u00e9d\u00e9rale dans LaSalle\u2013\u00c9mard\u2013Verdun",
+            "similarity_score": 0.7814410907757097
+        },
+        {
+            "funder_id": "1180",
+            "funder_name": "Saskatchewan Party Caucus",
+            "similarity_score": 0.7812761050843974
+        },
+        {
+            "funder_id": "1562",
+            "funder_name": "Brad Cathers",
+            "similarity_score": 0.7811015953397481
+        },
+        {
+            "funder_id": "1019",
+            "funder_name": "Hospital Employees' Union",
+            "similarity_score": 0.7808059633016007
+        },
+        {
+            "funder_id": "1044",
+            "funder_name": "Parkdale\u2014High Park Ontario NDP",
+            "similarity_score": 0.7807038289311493
+        },
+        {
+            "funder_id": "57",
+            "funder_name": "Vote Merrick Matteazzi - BC United",
+            "similarity_score": 0.780021677890947
+        },
+        {
+            "funder_id": "156",
+            "funder_name": "Manitoba NDP Caucus",
+            "similarity_score": 0.77992941165907
+        },
+        {
+            "funder_id": "1109",
+            "funder_name": "Home Care Ontario",
+            "similarity_score": 0.7794832346667957
+        },
+        {
+            "funder_id": "1623",
+            "funder_name": "Women's Health Collective Canada",
+            "similarity_score": 0.7794716020687148
+        },
+        {
+            "funder_id": "1170",
+            "funder_name": "Newfoundland and Labrador Association of Public and Private Employees (NAPE)",
+            "similarity_score": 0.7789841137868778
+        },
+        {
+            "funder_id": "1399",
+            "funder_name": "Queer Yukon",
+            "similarity_score": 0.7787745837704424
+        },
+        {
+            "funder_id": "61",
+            "funder_name": "New Brunswick Proud",
+            "similarity_score": 0.7785238880832628
+        },
+        {
+            "funder_id": "218",
+            "funder_name": "YourAlberta (Government of Alberta)",
+            "similarity_score": 0.7781856858393338
+        },
+        {
+            "funder_id": "957",
+            "funder_name": "Kamloops NDP",
+            "similarity_score": 0.7780359746928384
+        },
+        {
+            "funder_id": "731",
+            "funder_name": "CUPE SCFP",
+            "similarity_score": 0.7780003368021314
+        },
+        {
+            "funder_id": "208",
+            "funder_name": "MLA Mike Bernier",
+            "similarity_score": 0.7772777211026705
+        },
+        {
+            "funder_id": "1137",
+            "funder_name": "Government of Alberta",
+            "similarity_score": 0.7771105492978281
+        },
+        {
+            "funder_id": "595",
+            "funder_name": "Hope Air",
+            "similarity_score": 0.7760012323326526
+        },
+        {
+            "funder_id": "210",
+            "funder_name": "Revolution Party of Canada",
+            "similarity_score": 0.7759064027556507
+        },
+        {
+            "funder_id": "12927",
+            "funder_name": "Campaign For Dr. David Moniz BC United MLA Candidate",
+            "similarity_score": 0.7749805142648055
+        },
+        {
+            "funder_id": "1413",
+            "funder_name": "Green Party of Prince Edward Island",
+            "similarity_score": 0.7749612068953016
+        },
+        {
+            "funder_id": "227",
+            "funder_name": "Black Press Media",
+            "similarity_score": 0.7748959562511456
+        },
+        {
+            "funder_id": "259",
+            "funder_name": "Montreal Economic Institute",
+            "similarity_score": 0.7748483917768227
+        },
+        {
+            "funder_id": "696",
+            "funder_name": "Regulator Watch",
+            "similarity_score": 0.7745914731576315
+        },
+        {
+            "funder_id": "728",
+            "funder_name": "NUPGE",
+            "similarity_score": 0.7741346186090826
+        },
+        {
+            "funder_id": "12917",
+            "funder_name": "Camping for Care Association",
+            "similarity_score": 0.7737839092715334
+        },
+        {
+            "funder_id": "1381",
+            "funder_name": "Jenny Kwan, MP",
+            "similarity_score": 0.7730246322820828
+        },
+        {
+            "funder_id": "1026",
+            "funder_name": "Andy Fillmore",
+            "similarity_score": 0.7719277602453564
+        },
+        {
+            "funder_id": "1087",
+            "funder_name": "Be The Cure",
+            "similarity_score": 0.7716380394065625
+        },
+        {
+            "funder_id": "103",
+            "funder_name": "Pavneet Singh for Kelowna - Lake Country -  Coldstream",
+            "similarity_score": 0.7716371071053164
+        },
+        {
+            "funder_id": "1192",
+            "funder_name": "Samir Kayande",
+            "similarity_score": 0.7715936240102094
+        },
+        {
+            "funder_id": "1187",
+            "funder_name": "Intercede Communication for PCNB",
+            "similarity_score": 0.7710407581614102
+        },
+        {
+            "funder_id": "1237",
+            "funder_name": "Ric Bresee MPP",
+            "similarity_score": 0.7708724888803525
+        },
+        {
+            "funder_id": "594",
+            "funder_name": "M\u00e9decins du Monde Canada",
+            "similarity_score": 0.7707448104901156
+        },
+        {
+            "funder_id": "38",
+            "funder_name": "Greg Kyllo",
+            "similarity_score": 0.7702865905412721
+        },
+        {
+            "funder_id": "1860",
+            "funder_name": "Tyler Blashko For Lagimodi\u00e8re",
+            "similarity_score": 0.7702063486959917
+        },
+        {
+            "funder_id": "794",
+            "funder_name": "St. Paul's Foundation",
+            "similarity_score": 0.7699541544223268
+        },
+        {
+            "funder_id": "1527",
+            "funder_name": "Planned Parenthood Toronto",
+            "similarity_score": 0.7696893223110823
+        },
+        {
+            "funder_id": "616",
+            "funder_name": "Doug Clovechok",
+            "similarity_score": 0.7679697798376752
+        },
+        {
+            "funder_id": "839",
+            "funder_name": "Brant Community Healthcare System Foundation",
+            "similarity_score": 0.7678538088027547
+        },
+        {
+            "funder_id": "1684",
+            "funder_name": "Robert Hawkins for Yellowknife Centre",
+            "similarity_score": 0.7676976078269118
+        },
+        {
+            "funder_id": "1719",
+            "funder_name": "The PrEP Clinic",
+            "similarity_score": 0.7675179350000921
+        },
+        {
+            "funder_id": "77",
+            "funder_name": "Patrick Weiler",
+            "similarity_score": 0.7668058720025118
+        },
+        {
+            "funder_id": "174",
+            "funder_name": "Jinny Sims",
+            "similarity_score": 0.7667582002580747
+        },
+        {
+            "funder_id": "20",
+            "funder_name": "Dan Davies - Peace River North",
+            "similarity_score": 0.7667025135935952
+        },
+        {
+            "funder_id": "516",
+            "funder_name": "Ek\u014d",
+            "similarity_score": 0.7666111950972
+        },
+        {
+            "funder_id": "19",
+            "funder_name": "Innovative Medicines Canada / M\u00e9dicaments novateurs Canada",
+            "similarity_score": 0.7664361833841117
+        },
+        {
+            "funder_id": "1143",
+            "funder_name": "Prince Edward Island Government",
+            "similarity_score": 0.7661542392074311
+        },
+        {
+            "funder_id": "853",
+            "funder_name": "MLA Trevor Halford",
+            "similarity_score": 0.7661272929504408
+        },
+        {
+            "funder_id": "1300",
+            "funder_name": "City of St. Albert",
+            "similarity_score": 0.7661001642656993
+        },
+        {
+            "funder_id": "699",
+            "funder_name": "Terry Duguid",
+            "similarity_score": 0.7657737889526708
+        },
+        {
+            "funder_id": "1842",
+            "funder_name": "James Teitsma for Radisson",
+            "similarity_score": 0.764798703182291
+        },
+        {
+            "funder_id": "1333",
+            "funder_name": "David Chan for Saskatchewan Party",
+            "similarity_score": 0.7644257680049534
+        },
+        {
+            "funder_id": "509",
+            "funder_name": "BC Federation of Labour",
+            "similarity_score": 0.7644257035067223
+        },
+        {
+            "funder_id": "263",
+            "funder_name": "Warren Steinley",
+            "similarity_score": 0.7638318902739972
+        },
+        {
+            "funder_id": "116",
+            "funder_name": "Office of MP Darren Fisher",
+            "similarity_score": 0.7637022233433964
+        },
+        {
+            "funder_id": "427",
+            "funder_name": "TheRockies.Life",
+            "similarity_score": 0.7636936259294953
+        },
+        {
+            "funder_id": "183",
+            "funder_name": "Last Door",
+            "similarity_score": 0.7634891159260222
+        },
+        {
+            "funder_id": "985",
+            "funder_name": "Mandatory Code",
+            "similarity_score": 0.7633403346970448
+        },
+        {
+            "funder_id": "276",
+            "funder_name": "Ontario Public Service Employees Union (OPSEU/SEFPO)",
+            "similarity_score": 0.7632066999817152
+        },
+        {
+            "funder_id": "387",
+            "funder_name": "Keewatinohk Inniniw Minoayawin",
+            "similarity_score": 0.7629258758532704
+        },
+        {
+            "funder_id": "1443",
+            "funder_name": "Tina Neary - PC Candidate Conception Bay East - Bell Island",
+            "similarity_score": 0.7626288845440069
+        },
+        {
+            "funder_id": "1536",
+            "funder_name": "Liberal Party of Newfoundland and Labrador",
+            "similarity_score": 0.7625512634149391
+        },
+        {
+            "funder_id": "43",
+            "funder_name": "F\u00e9d\u00e9ration du Qu\u00e9bec pour le planning des naissances",
+            "similarity_score": 0.7624340634196024
+        },
+        {
+            "funder_id": "975",
+            "funder_name": "Lambton\u2014Kent\u2014Middlesex PC Assocation",
+            "similarity_score": 0.7621872078251699
+        },
+        {
+            "funder_id": "688",
+            "funder_name": "Children's Health Foundation of Vancouver Island",
+            "similarity_score": 0.7617831254639515
+        },
+        {
+            "funder_id": "249",
+            "funder_name": "Francesco Sorbara",
+            "similarity_score": 0.7615646683205414
+        },
+        {
+            "funder_id": "203",
+            "funder_name": "Faytene for Hampton-Fundy-St. Martins",
+            "similarity_score": 0.7610021254492884
+        },
+        {
+            "funder_id": "1275",
+            "funder_name": "Kaitlyn Kitzan",
+            "similarity_score": 0.7603253848625777
+        },
+        {
+            "funder_id": "2",
+            "funder_name": "BC NDP",
+            "similarity_score": 0.7602809932879897
+        },
+        {
+            "funder_id": "1679",
+            "funder_name": "Bonnie Crombie",
+            "similarity_score": 0.7600764677128612
+        },
+        {
+            "funder_id": "261",
+            "funder_name": "Mark Gerretsen",
+            "similarity_score": 0.7599053226435066
+        },
+        {
+            "funder_id": "66",
+            "funder_name": "Canada Drivers",
+            "similarity_score": 0.7598968126850625
+        },
+        {
+            "funder_id": "188",
+            "funder_name": "Institut \u00e9conomique de Montr\u00e9al",
+            "similarity_score": 0.7596955621395143
+        },
+        {
+            "funder_id": "1088",
+            "funder_name": "Government of Saskatchewan",
+            "similarity_score": 0.7587576545401825
+        },
+        {
+            "funder_id": "49",
+            "funder_name": "Kevin Lamoureux",
+            "similarity_score": 0.7586802822978784
+        },
+        {
+            "funder_id": "1345",
+            "funder_name": "CScience",
+            "similarity_score": 0.7584473897701217
+        },
+        {
+            "funder_id": "388",
+            "funder_name": "Project for a Strong BC",
+            "similarity_score": 0.7579108739748771
+        },
+        {
+            "funder_id": "874",
+            "funder_name": "Canadian Hospice Palliative Care Association",
+            "similarity_score": 0.7576945099267207
+        },
+        {
+            "funder_id": "100",
+            "funder_name": "Blaine Higgs",
+            "similarity_score": 0.7575342707076949
+        },
+        {
+            "funder_id": "1318",
+            "funder_name": "Michael Lee, MLA for Vancouver-Langara",
+            "similarity_score": 0.7574773941095817
+        },
+        {
+            "funder_id": "209",
+            "funder_name": "Sonia Sidhu",
+            "similarity_score": 0.7573731154983437
+        },
+        {
+            "funder_id": "40",
+            "funder_name": "Todd Stone",
+            "similarity_score": 0.7572579755004465
+        },
+        {
+            "funder_id": "826",
+            "funder_name": "Kyle Sampson",
+            "similarity_score": 0.7572544440119964
+        },
+        {
+            "funder_id": "1148",
+            "funder_name": "Parlons Du Qu\u00e9bec - Let's Talk About Quebec",
+            "similarity_score": 0.7572444027748347
+        },
+        {
+            "funder_id": "1630",
+            "funder_name": "Faculty of Medicine at the University of British Columbia",
+            "similarity_score": 0.7571747788611156
+        },
+        {
+            "funder_id": "354",
+            "funder_name": "Etobicoke Centre PC Riding Association",
+            "similarity_score": 0.7570382727455673
+        },
+        {
+            "funder_id": "863",
+            "funder_name": "Gil McGowan ANDP Leadership Campaign",
+            "similarity_score": 0.7568085277819833
+        },
+        {
+            "funder_id": "230",
+            "funder_name": "Royal Victoria Regional Health Centre Foundation",
+            "similarity_score": 0.7567411795862328
+        },
+        {
+            "funder_id": "1854",
+            "funder_name": "Alan McLauchlan for The Pas Kameesak",
+            "similarity_score": 0.7566775759723446
+        },
+        {
+            "funder_id": "532",
+            "funder_name": "Tracy Gray",
+            "similarity_score": 0.7563227453126277
+        },
+        {
+            "funder_id": "637",
+            "funder_name": "Alberta Union of Provincial Employees",
+            "similarity_score": 0.7562299880363353
+        },
+        {
+            "funder_id": "173",
+            "funder_name": "Leadnow Society",
+            "similarity_score": 0.7561535496040671
+        },
+        {
+            "funder_id": "5",
+            "funder_name": "iA Financial Group (Industrial Alliance)",
+            "similarity_score": 0.7561474504382419
+        },
+        {
+            "funder_id": "80",
+            "funder_name": "Canadian Affairs News Inc.",
+            "similarity_score": 0.7561434037970317
+        },
+        {
+            "funder_id": "901",
+            "funder_name": "World",
+            "similarity_score": 0.7558991380529115
+        },
+        {
+            "funder_id": "1435",
+            "funder_name": "Kim Churchill - NDP Candidate for Conception Bay East - Bell Island",
+            "similarity_score": 0.755870745155547
+        },
+        {
+            "funder_id": "544",
+            "funder_name": "TheFutureEconomy.ca",
+            "similarity_score": 0.7555597401970164
+        },
+        {
+            "funder_id": "127",
+            "funder_name": "My Climate Plan Society",
+            "similarity_score": 0.7547811181821182
+        },
+        {
+            "funder_id": "1835",
+            "funder_name": "Official Agent for Len Isleifson",
+            "similarity_score": 0.7545543199194525
+        },
+        {
+            "funder_id": "1289",
+            "funder_name": "Pranay Gunti",
+            "similarity_score": 0.7544244219146792
+        },
+        {
+            "funder_id": "792",
+            "funder_name": "The Council of Canadians",
+            "similarity_score": 0.75423220958174
+        },
+        {
+            "funder_id": "228",
+            "funder_name": "a Black Press Media advertiser",
+            "similarity_score": 0.7540514174539231
+        },
+        {
+            "funder_id": "679",
+            "funder_name": "Action Canada for Sexual Health and Rights",
+            "similarity_score": 0.7539733866053133
+        },
+        {
+            "funder_id": "521",
+            "funder_name": "Comit\u00e9 Ch\u00f4mage de Montr\u00e9al",
+            "similarity_score": 0.7538601302499958
+        },
+        {
+            "funder_id": "383",
+            "funder_name": "TELUS",
+            "similarity_score": 0.7532405486403148
+        },
+        {
+            "funder_id": "1055",
+            "funder_name": "Interior Health",
+            "similarity_score": 0.7531582290874674
+        },
+        {
+            "funder_id": "743",
+            "funder_name": "The Breach",
+            "similarity_score": 0.7529582272376959
+        },
+        {
+            "funder_id": "417",
+            "funder_name": "Bell Canada",
+            "similarity_score": 0.7527657481770154
+        },
+        {
+            "funder_id": "520",
+            "funder_name": "Soci\u00e9t\u00e9 de recherche sur le cancer / Cancer Research Society",
+            "similarity_score": 0.7523745875415857
+        },
+        {
+            "funder_id": "179",
+            "funder_name": "Raveena for MP",
+            "similarity_score": 0.7522827952418091
+        },
+        {
+            "funder_id": "529",
+            "funder_name": "Canadian Union of Public Employees",
+            "similarity_score": 0.7520511839565092
+        },
+        {
+            "funder_id": "34",
+            "funder_name": "Yannick Gagnon - D\u00e9put\u00e9 de Jonqui\u00e8re \u00e0 l'Assembl\u00e9e nationale",
+            "similarity_score": 0.7519707779981397
+        },
+        {
+            "funder_id": "64",
+            "funder_name": "West Coast Proud",
+            "similarity_score": 0.7519642076343037
+        },
+        {
+            "funder_id": "1870",
+            "funder_name": "Titi Tijani",
+            "similarity_score": 0.751851529537373
+        },
+        {
+            "funder_id": "60",
+            "funder_name": "Julie Dzerowicz",
+            "similarity_score": 0.7518311223650609
+        },
+        {
+            "funder_id": "781",
+            "funder_name": "Government of New Brunswick",
+            "similarity_score": 0.7516555678011387
+        },
+        {
+            "funder_id": "326",
+            "funder_name": "Safe at Home",
+            "similarity_score": 0.75163296126625
+        },
+        {
+            "funder_id": "1070",
+            "funder_name": "The Discourse",
+            "similarity_score": 0.7515269914407955
+        },
+        {
+            "funder_id": "499",
+            "funder_name": "Green Party of Canada | Parti vert du Canada",
+            "similarity_score": 0.7514666766255848
+        },
+        {
+            "funder_id": "1252",
+            "funder_name": "Alberta Women's Health Foundation",
+            "similarity_score": 0.7514573789161204
+        },
+        {
+            "funder_id": "246",
+            "funder_name": "Jason Nixon, MLA for Rimbey-Rocky Mountain House-Sundre",
+            "similarity_score": 0.7514369687248668
+        }
+    ]
+}

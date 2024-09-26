@@ -1,0 +1,137 @@
+{
+    "2023-09": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 465.75692184516004,
+                "normalized_intensity": 51.75076909390667
+            },
+            {
+                "topic": "film",
+                "weighted_count": 447.6553821648432,
+                "normalized_intensity": 49.7394869072048
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 398.3954099336929,
+                "normalized_intensity": 44.26615665929921
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 375.94787682507626,
+                "normalized_intensity": 41.771986313897365
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 100.30255231394364,
+                "normalized_intensity": 11.144728034882625
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.73918494665582,
+                "normalized_intensity": 6.52657610518398
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.78376516847653,
+                "normalized_intensity": 5.7537516853862805
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.527547118860426,
+                "normalized_intensity": 5.6141719020956025
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.170177378738146,
+                "normalized_intensity": 5.463353042082016
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 63.12450561009547,
+                "normalized_intensity": 63.12450561009547
+            },
+            {
+                "topic": "art",
+                "weighted_count": 60.50628051058279,
+                "normalized_intensity": 60.50628051058279
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.624667544482975,
+                "normalized_intensity": 51.624667544482975
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.06650591701652,
+                "normalized_intensity": 50.06650591701652
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 369.0182120700207,
+                "normalized_intensity": 73.80364241400414
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 271.2621383565149,
+                "normalized_intensity": 54.25242767130298
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 147.8337638246782,
+                "normalized_intensity": 29.566752764935636
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 141.9324266028078,
+                "normalized_intensity": 70.9662133014039
+            },
+            {
+                "topic": "law",
+                "weighted_count": 128.53810006316613,
+                "normalized_intensity": 64.26905003158306
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.30257903343556,
+                "normalized_intensity": 49.65128951671778
+            },
+            {
+                "topic": "history",
+                "weighted_count": 98.98931149982386,
+                "normalized_intensity": 49.49465574991193
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.30672507356245,
+                "normalized_intensity": 24.653362536781223
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.22473686932333,
+                "normalized_intensity": 24.612368434661665
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.00882236381502,
+                "normalized_intensity": 24.50441118190751
+            }
+        ]
+    }
+}

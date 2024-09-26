@@ -1,0 +1,177 @@
+{
+    "2023-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 292.2707774587385,
+                "normalized_intensity": 58.4541554917477
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 277.99051702272334,
+                "normalized_intensity": 55.598103404544666
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 256.8344582557428,
+                "normalized_intensity": 51.366891651148556
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 255.79207313175118,
+                "normalized_intensity": 51.158414626350236
+            },
+            {
+                "topic": "community",
+                "weighted_count": 219.83483389489317,
+                "normalized_intensity": 43.96696677897863
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 107.12202189803347,
+                "normalized_intensity": 21.424404379606692
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 103.76694010323888,
+                "normalized_intensity": 20.753388020647776
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 103.20362769511279,
+                "normalized_intensity": 20.640725539022558
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 100.87747786490584,
+                "normalized_intensity": 20.17549557298117
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 100.06065900222949,
+                "normalized_intensity": 20.012131800445896
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 71.11752503257871,
+                "normalized_intensity": 14.223505006515742
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 66,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 3672.7529393091104,
+                "normalized_intensity": 55.647771807713795
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 3253.8434699598647,
+                "normalized_intensity": 49.300658635755525
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 2012.8346087381071,
+                "normalized_intensity": 30.497494071789504
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 2011.1571803367985,
+                "normalized_intensity": 30.472078489951492
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 1855.1584623896283,
+                "normalized_intensity": 28.108461551358005
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1180.1796746021516,
+                "normalized_intensity": 17.88151022124472
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 805.3989447617519,
+                "normalized_intensity": 12.203014314571998
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 774.1687086568359,
+                "normalized_intensity": 11.729828919042967
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 773.7319725336278,
+                "normalized_intensity": 11.723211705054966
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 750.8278165863535,
+                "normalized_intensity": 11.376179039187175
+            },
+            {
+                "topic": "education",
+                "weighted_count": 591.6090194695676,
+                "normalized_intensity": 8.963773022266174
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 577.483122651904,
+                "normalized_intensity": 8.749744282604606
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 523.7928163935577,
+                "normalized_intensity": 7.936254793841783
+            },
+            {
+                "topic": "health",
+                "weighted_count": 436.7134428962405,
+                "normalized_intensity": 6.616870346912735
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 353.0713031738989,
+                "normalized_intensity": 5.349565199604529
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 345.1248690489881,
+                "normalized_intensity": 5.229164682560426
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 307.08570540903867,
+                "normalized_intensity": 4.652813718318768
+            },
+            {
+                "topic": "family",
+                "weighted_count": 306.9847930560956,
+                "normalized_intensity": 4.651284743274176
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 298.56010233210395,
+                "normalized_intensity": 74.64002558302599
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 270.175528231743,
+                "normalized_intensity": 67.54388205793575
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 259.3702188662174,
+                "normalized_intensity": 64.84255471655435
+            }
+        ]
+    }
+}

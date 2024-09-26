@@ -1,0 +1,147 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 264.03441071265735,
+                "normalized_intensity": 88.01147023755244
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 111.36284031256571,
+                "normalized_intensity": 37.120946770855234
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 173.07757098520258,
+                "normalized_intensity": 86.53878549260129
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 122.0752922401704,
+                "normalized_intensity": 61.0376461200852
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 86.53878549260129,
+                "normalized_intensity": 86.53878549260129
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 61.0376461200852,
+                "normalized_intensity": 61.0376461200852
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 298.69118384835684,
+                "normalized_intensity": 49.78186397472614
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 237.21253310837656,
+                "normalized_intensity": 39.53542218472943
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 237.17010500133526,
+                "normalized_intensity": 39.528350833555876
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 232.4738677513604,
+                "normalized_intensity": 38.74564462522673
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 146.99428720390335,
+                "normalized_intensity": 24.499047867317227
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 123.14624697798024,
+                "normalized_intensity": 20.52437449633004
+            },
+            {
+                "topic": "history",
+                "weighted_count": 117.65256020835332,
+                "normalized_intensity": 19.608760034725552
+            },
+            {
+                "topic": "community",
+                "weighted_count": 116.97823111716653,
+                "normalized_intensity": 19.49637185286109
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 110.8546690991755,
+                "normalized_intensity": 18.475778183195917
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 86.53878549260129,
+                "normalized_intensity": 14.423130915433548
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 63.02405305017098,
+                "normalized_intensity": 10.504008841695162
+            },
+            {
+                "topic": "family",
+                "weighted_count": 58.726983997557824,
+                "normalized_intensity": 9.787830666259637
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 56.08984374793455,
+                "normalized_intensity": 9.348307291322426
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.22859336049882,
+                "normalized_intensity": 8.871432226749803
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.70074550289464,
+                "normalized_intensity": 8.783457583815773
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.785125133067524,
+                "normalized_intensity": 8.630854188844587
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.696645079417394,
+                "normalized_intensity": 8.449440846569566
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.334144235480835,
+                "normalized_intensity": 8.389024039246806
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.16756053056886,
+                "normalized_intensity": 8.194593421761477
+            }
+        ]
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "2023-11": {
+        "total_ads": 45,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 2729.875295540214,
+                "normalized_intensity": 60.663895456449204
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 2245.6004417667405,
+                "normalized_intensity": 49.9022320392609
+            },
+            {
+                "topic": "education",
+                "weighted_count": 2240.858650428876,
+                "normalized_intensity": 49.796858898419465
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 2239.7523357874747,
+                "normalized_intensity": 49.77227412861055
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1554.0320227830703,
+                "normalized_intensity": 34.534044950734895
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 1291.8366776718847,
+                "normalized_intensity": 28.70748172604188
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 1225.8159845729394,
+                "normalized_intensity": 27.240355212731988
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1145.063503896719,
+                "normalized_intensity": 25.445855642149315
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 958.0291983691336,
+                "normalized_intensity": 21.289537741536304
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 924.675959478379,
+                "normalized_intensity": 20.54835465507509
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 728.3321381388994,
+                "normalized_intensity": 16.185158625308876
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 688.9784760310686,
+                "normalized_intensity": 15.310632800690412
+            },
+            {
+                "topic": "community",
+                "weighted_count": 496.4051577584249,
+                "normalized_intensity": 11.031225727964998
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 452.73046727254837,
+                "normalized_intensity": 10.060677050501075
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 401.8650615023862,
+                "normalized_intensity": 8.930334700053027
+            },
+            {
+                "topic": "history",
+                "weighted_count": 394.4079375616582,
+                "normalized_intensity": 8.764620834703514
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 369.6344137862002,
+                "normalized_intensity": 8.214098084137781
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 368.20135927033806,
+                "normalized_intensity": 8.182252428229734
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 349.78970130147593,
+                "normalized_intensity": 7.773104473366132
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 319.30954347258626,
+                "normalized_intensity": 7.095767632724139
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 310.56526307796526,
+                "normalized_intensity": 6.90145029062145
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 246.46743183138932,
+                "normalized_intensity": 5.47705404069754
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 242.55242978889817,
+                "normalized_intensity": 5.390053995308848
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 237.8375322371661,
+                "normalized_intensity": 5.285278494159247
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 230.51264817007487,
+                "normalized_intensity": 5.1225032926683305
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 182.74457240229017,
+                "normalized_intensity": 4.06099049782867
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 178.88503218895875,
+                "normalized_intensity": 3.9752229375324166
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 178.10960009569948,
+                "normalized_intensity": 3.957991113237766
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 105.9029804447756,
+                "normalized_intensity": 2.3533995654394575
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 958.7427326983081,
+                "normalized_intensity": 63.91618217988721
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 708.6086303809633,
+                "normalized_intensity": 47.24057535873089
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 697.2706498919183,
+                "normalized_intensity": 46.484709992794556
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 470.86388849152445,
+                "normalized_intensity": 31.390925899434965
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 465.326226898027,
+                "normalized_intensity": 31.02174845986847
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 407.0365586150826,
+                "normalized_intensity": 27.13577057433884
+            },
+            {
+                "topic": "education",
+                "weighted_count": 353.7637629986159,
+                "normalized_intensity": 23.584250866574394
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 192.00765394243774,
+                "normalized_intensity": 12.800510262829183
+            },
+            {
+                "topic": "family",
+                "weighted_count": 132.2033512353591,
+                "normalized_intensity": 8.81355674902394
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 124.47118191458485,
+                "normalized_intensity": 8.298078794305656
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 120.31046017588316,
+                "normalized_intensity": 8.020697345058878
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 115.22548180274372,
+                "normalized_intensity": 7.681698786849581
+            },
+            {
+                "topic": "history",
+                "weighted_count": 107.56399046538338,
+                "normalized_intensity": 7.170932697692225
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 106.28771518613405,
+                "normalized_intensity": 7.085847679075603
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 101.51482139450857,
+                "normalized_intensity": 6.7676547596339045
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 87.96404092158112,
+                "normalized_intensity": 5.864269394772075
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 63.849171661084284,
+                "normalized_intensity": 4.256611444072286
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 60.91485746743006,
+                "normalized_intensity": 4.060990497828671
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 60.717903084719225,
+                "normalized_intensity": 4.0478602056479485
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.23721760904388,
+                "normalized_intensity": 4.015814507269592
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 59.62834406298625,
+                "normalized_intensity": 3.9752229375324166
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 59.36986669856649,
+                "normalized_intensity": 3.957991113237766
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 58.03570911405096,
+                "normalized_intensity": 3.869047274270064
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 53.88489919828836,
+                "normalized_intensity": 3.5923266132192238
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 50.96712867903268,
+                "normalized_intensity": 3.397808578602179
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 49.08819952445281,
+                "normalized_intensity": 3.2725466349635206
+            }
+        ]
+    }
+}

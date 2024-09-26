@@ -1,0 +1,77 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 143.55004250854273,
+                "normalized_intensity": 71.77502125427137
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 136.06576645885582,
+                "normalized_intensity": 68.03288322942791
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 123.38686939933328,
+                "normalized_intensity": 61.69343469966664
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 102.60722717876251,
+                "normalized_intensity": 51.30361358938126
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 100.75027150023271,
+                "normalized_intensity": 50.37513575011636
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 170.75896650484054,
+                "normalized_intensity": 56.91965550161351
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 110.6785766851699,
+                "normalized_intensity": 36.892858895056634
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 107.92689357936861,
+                "normalized_intensity": 35.97563119312287
+            },
+            {
+                "topic": "business",
+                "weighted_count": 101.13823972267812,
+                "normalized_intensity": 33.71274657422604
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 67.64839696937132,
+                "normalized_intensity": 22.549465656457105
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.32619754744295,
+                "normalized_intensity": 17.108732515814317
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.29953484321032,
+                "normalized_intensity": 16.766511614403438
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 49.61187276515588,
+                "normalized_intensity": 16.537290921718625
+            }
+        ]
+    }
+}

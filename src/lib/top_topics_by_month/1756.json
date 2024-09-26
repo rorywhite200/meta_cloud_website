@@ -1,0 +1,37 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 57.34596398619698,
+                "normalized_intensity": 57.34596398619698
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 56.72097399298691,
+                "normalized_intensity": 56.72097399298691
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 54.95046275662471,
+                "normalized_intensity": 54.95046275662471
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 54.217472174284374,
+                "normalized_intensity": 54.217472174284374
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.88257208762883,
+                "normalized_intensity": 51.88257208762883
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.12898108975249,
+                "normalized_intensity": 49.12898108975249
+            }
+        ]
+    }
+}

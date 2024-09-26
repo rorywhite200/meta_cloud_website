@@ -1,0 +1,172 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 73.57034061156726,
+                "normalized_intensity": 73.57034061156726
+            },
+            {
+                "topic": "music",
+                "weighted_count": 67.9799079107879,
+                "normalized_intensity": 67.9799079107879
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 64.21417542173008,
+                "normalized_intensity": 64.21417542173008
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 58.82886250340579,
+                "normalized_intensity": 58.82886250340579
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 58.275006531458864,
+                "normalized_intensity": 58.275006531458864
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.05814965085176,
+                "normalized_intensity": 54.05814965085176
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.3869853831311,
+                "normalized_intensity": 51.3869853831311
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.90002751949608,
+                "normalized_intensity": 49.90002751949608
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 73.58428574222596,
+                "normalized_intensity": 73.58428574222596
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 62.31451478669977,
+                "normalized_intensity": 62.31451478669977
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 61.94074245780231,
+                "normalized_intensity": 61.94074245780231
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.937028360793114,
+                "normalized_intensity": 54.937028360793114
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 50.66670005884318,
+                "normalized_intensity": 50.66670005884318
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "bioethics",
+                "weighted_count": 61.545408642290276,
+                "normalized_intensity": 61.545408642290276
+            },
+            {
+                "topic": "dairy-industry",
+                "weighted_count": 58.67179898510428,
+                "normalized_intensity": 58.67179898510428
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 57.812453962991924,
+                "normalized_intensity": 57.812453962991924
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 54.72040853334463,
+                "normalized_intensity": 54.72040853334463
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.60415611424775,
+                "normalized_intensity": 53.60415611424775
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 75.90903855640396,
+                "normalized_intensity": 75.90903855640396
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 62.248240833384195,
+                "normalized_intensity": 62.248240833384195
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 57.438107320210484,
+                "normalized_intensity": 57.438107320210484
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.41319495509005,
+                "normalized_intensity": 57.41319495509005
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 244.86573550737936,
+                "normalized_intensity": 61.21643387684484
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 220.7386801378675,
+                "normalized_intensity": 55.184670034466876
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 202.5250002358693,
+                "normalized_intensity": 50.631250058967325
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 132.68281412337387,
+                "normalized_intensity": 33.17070353084347
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 112.8299902439064,
+                "normalized_intensity": 28.2074975609766
+            },
+            {
+                "topic": "law",
+                "weighted_count": 106.267696675087,
+                "normalized_intensity": 26.56692416877175
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 106.07977042373594,
+                "normalized_intensity": 26.519942605933984
+            }
+        ]
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 197.41667398655198,
+                "normalized_intensity": 49.354168496637996
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 155.05314880675232,
+                "normalized_intensity": 38.76328720168808
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 148.88422076550023,
+                "normalized_intensity": 37.22105519137506
+            },
+            {
+                "topic": "history",
+                "weighted_count": 147.71918279674225,
+                "normalized_intensity": 36.92979569918556
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 78.44297555764163,
+                "normalized_intensity": 19.610743889410408
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 70.50341221895384,
+                "normalized_intensity": 17.62585305473846
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 69.19980696095338,
+                "normalized_intensity": 17.299951740238345
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 59.46033740918624,
+                "normalized_intensity": 14.86508435229656
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.976405863378275,
+                "normalized_intensity": 12.994101465844569
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.5219125634621,
+                "normalized_intensity": 12.880478140865526
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 68.50017473003253,
+                "normalized_intensity": 68.50017473003253
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 65.13457404318929,
+                "normalized_intensity": 65.13457404318929
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 63.5344515070317,
+                "normalized_intensity": 63.5344515070317
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.248062158230994,
+                "normalized_intensity": 59.248062158230994
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 58.69056276992188,
+                "normalized_intensity": 58.69056276992188
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.29743661582838,
+                "normalized_intensity": 57.29743661582838
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 57.064507364263086,
+                "normalized_intensity": 57.064507364263086
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 453.5741259672078,
+                "normalized_intensity": 41.23401145156435
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 342.2100180144115,
+                "normalized_intensity": 31.110001637673772
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 320.72851816618015,
+                "normalized_intensity": 29.157138015107286
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 299.3300490696678,
+                "normalized_intensity": 27.211822642697072
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 283.75062500883985,
+                "normalized_intensity": 25.795511364439985
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 206.22655324595215,
+                "normalized_intensity": 18.747868476904742
+            },
+            {
+                "topic": "science",
+                "weighted_count": 195.01166301727523,
+                "normalized_intensity": 17.728333001570476
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 158.83069817749328,
+                "normalized_intensity": 14.439154379772116
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 155.61911177595275,
+                "normalized_intensity": 14.147191979632067
+            },
+            {
+                "topic": "history",
+                "weighted_count": 150.90089709161256,
+                "normalized_intensity": 13.71826337196478
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 110.13111697002077,
+                "normalized_intensity": 10.011919724547342
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 99.25614717700014,
+                "normalized_intensity": 9.023286107000013
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 63.7173314128027,
+                "normalized_intensity": 5.792484673891154
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.21020750096662,
+                "normalized_intensity": 5.382746136451511
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.92099805254341,
+                "normalized_intensity": 5.083727095685765
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.648849480456384,
+                "normalized_intensity": 4.604440861859671
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 254.85878121343228,
+                "normalized_intensity": 63.71469530335807
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 229.9272963701789,
+                "normalized_intensity": 57.48182409254473
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 223.20351482599108,
+                "normalized_intensity": 55.80087870649777
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 217.86320248869663,
+                "normalized_intensity": 54.46580062217416
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 170.94296766702786,
+                "normalized_intensity": 42.735741916756965
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 105.86979082234454,
+                "normalized_intensity": 26.467447705586135
+            },
+            {
+                "topic": "history",
+                "weighted_count": 73.95922929925108,
+                "normalized_intensity": 18.48980732481277
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 71.91102407372401,
+                "normalized_intensity": 17.977756018431002
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 71.26629897303468,
+                "normalized_intensity": 17.81657474325867
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 64.05025479417193,
+                "normalized_intensity": 16.012563698542984
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 57.87770809160637,
+                "normalized_intensity": 14.469427022901593
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 49.08975219878498,
+                "normalized_intensity": 12.272438049696245
+            }
+        ]
+    }
+}

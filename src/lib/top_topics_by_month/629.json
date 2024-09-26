@@ -1,0 +1,102 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 66.71443716148828,
+                "normalized_intensity": 33.35721858074414
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.80220617223325,
+                "normalized_intensity": 26.901103086116624
+            },
+            {
+                "topic": "education",
+                "weighted_count": 53.24021220250717,
+                "normalized_intensity": 26.620106101253587
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 52.22058216843431,
+                "normalized_intensity": 26.110291084217156
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 66.16435107699913,
+                "normalized_intensity": 66.16435107699913
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 60.56566961622718,
+                "normalized_intensity": 60.56566961622718
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.44795722871983,
+                "normalized_intensity": 51.44795722871983
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.211224721086424,
+                "normalized_intensity": 49.211224721086424
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 74.54602852020236,
+                "normalized_intensity": 74.54602852020236
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 59.640764932295006,
+                "normalized_intensity": 59.640764932295006
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 70.9836894196356,
+                "normalized_intensity": 70.9836894196356
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 61.07567566602832,
+                "normalized_intensity": 61.07567566602832
+            },
+            {
+                "topic": "law",
+                "weighted_count": 58.99057086430257,
+                "normalized_intensity": 58.99057086430257
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 57.874652943509616,
+                "normalized_intensity": 57.874652943509616
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 57.868640386794,
+                "normalized_intensity": 57.868640386794
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.04209738586452,
+                "normalized_intensity": 49.04209738586452
+            }
+        ]
+    }
+}

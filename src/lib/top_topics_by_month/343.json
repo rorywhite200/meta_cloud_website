@@ -1,0 +1,542 @@
+{
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 435.34285526199847,
+                "normalized_intensity": 87.06857105239969
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 330.84656674764506,
+                "normalized_intensity": 66.169313349529
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 268.8670861147378,
+                "normalized_intensity": 53.77341722294756
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 267.173368479678,
+                "normalized_intensity": 53.4346736959356
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 260.90547738218606,
+                "normalized_intensity": 52.181095476437214
+            },
+            {
+                "topic": "family",
+                "weighted_count": 260.02375556724496,
+                "normalized_intensity": 52.00475111344899
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 258.2034194363507,
+                "normalized_intensity": 51.64068388727014
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 248.46416033347606,
+                "normalized_intensity": 49.69283206669521
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 247.9201021137369,
+                "normalized_intensity": 49.58402042274738
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 246.59301423653716,
+                "normalized_intensity": 49.31860284730743
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 87.06858219429856,
+                "normalized_intensity": 87.06858219429856
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 66.16932173528028,
+                "normalized_intensity": 66.16932173528028
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 53.77342295476555,
+                "normalized_intensity": 53.77342295476555
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 53.43466659662008,
+                "normalized_intensity": 53.43466659662008
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.181095476437214,
+                "normalized_intensity": 52.181095476437214
+            },
+            {
+                "topic": "family",
+                "weighted_count": 52.00474514721193,
+                "normalized_intensity": 52.00474514721193
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.64068881647162,
+                "normalized_intensity": 51.64068881647162
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 49.692852512525626,
+                "normalized_intensity": 49.692852512525626
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.58401582661807,
+                "normalized_intensity": 49.58401582661807
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.31859878875085,
+                "normalized_intensity": 49.31859878875085
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 36,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2180.4467760559955,
+                "normalized_intensity": 60.56796600155543
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1859.4750548312045,
+                "normalized_intensity": 51.65208485642235
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 1691.442378583069,
+                "normalized_intensity": 46.984510516196366
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 1583.7882938105083,
+                "normalized_intensity": 43.99411927251412
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 1518.537919177966,
+                "normalized_intensity": 42.18160886605461
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1404.0088717078702,
+                "normalized_intensity": 39.000246436329725
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1399.6752987847917,
+                "normalized_intensity": 38.879869410688656
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1345.43687273718,
+                "normalized_intensity": 37.373246464921664
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1079.0172518549887,
+                "normalized_intensity": 29.97270144041635
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 762.4532893450398,
+                "normalized_intensity": 21.179258037362217
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 301.85149322075614,
+                "normalized_intensity": 8.38476370057656
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 38,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2764.5287193811764,
+                "normalized_intensity": 72.75075577318886
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 2129.7300994057987,
+                "normalized_intensity": 56.045528931731546
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 2092.603748054884,
+                "normalized_intensity": 55.06851968565484
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 2005.9846256563133,
+                "normalized_intensity": 52.78906909621877
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1683.4099630192738,
+                "normalized_intensity": 44.30026218471773
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1676.748863587878,
+                "normalized_intensity": 44.12497009441785
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 1552.1208836602846,
+                "normalized_intensity": 40.84528641211275
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1035.1670275287158,
+                "normalized_intensity": 27.241237566545152
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1026.7628008027546,
+                "normalized_intensity": 27.020073705335648
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 999.1455446868183,
+                "normalized_intensity": 26.29330380754785
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 895.9833026030683,
+                "normalized_intensity": 23.57850796323864
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 355.07532238986255,
+                "normalized_intensity": 9.344087431312172
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 320.56542623549433,
+                "normalized_intensity": 8.435932269355114
+            },
+            {
+                "topic": "education",
+                "weighted_count": 311.98317864857137,
+                "normalized_intensity": 8.210083648646615
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 309.3667713462053,
+                "normalized_intensity": 8.14123082490014
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 306.5307730761581,
+                "normalized_intensity": 8.066599291477845
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 97,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 5877.873817923538,
+                "normalized_intensity": 60.5966372981808
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 5142.100479215629,
+                "normalized_intensity": 53.01134514655288
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 4776.388071972143,
+                "normalized_intensity": 49.24111414404271
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 4585.824544909421,
+                "normalized_intensity": 47.27654170009713
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 4381.881257626979,
+                "normalized_intensity": 45.17403358378329
+            },
+            {
+                "topic": "family",
+                "weighted_count": 4139.850525874078,
+                "normalized_intensity": 42.67887140076369
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 3685.426900551528,
+                "normalized_intensity": 37.994091758263174
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 3579.010082605467,
+                "normalized_intensity": 36.8970111608811
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2395.6829979317413,
+                "normalized_intensity": 24.697762865275685
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 1785.3905600759413,
+                "normalized_intensity": 18.40608824820558
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1542.3068335067123,
+                "normalized_intensity": 15.900070448522808
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 619.5361954239734,
+                "normalized_intensity": 6.386971086845087
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 504.03911550047127,
+                "normalized_intensity": 5.196279541241972
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 473.43376318648336,
+                "normalized_intensity": 4.880760445221478
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 427.4205683139925,
+                "normalized_intensity": 4.406397611484459
+            },
+            {
+                "topic": "education",
+                "weighted_count": 415.9775715314285,
+                "normalized_intensity": 4.288428572488954
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 412.4890284616071,
+                "normalized_intensity": 4.252464210944403
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 185,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 11082.717036520227,
+                "normalized_intensity": 59.90657857578501
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 9804.08052090991,
+                "normalized_intensity": 52.995029842756274
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 9300.71019391825,
+                "normalized_intensity": 50.274109156314864
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 8550.162081482955,
+                "normalized_intensity": 46.21709233234029
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 8360.549867211423,
+                "normalized_intensity": 45.192161444386066
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 7588.817289225037,
+                "normalized_intensity": 41.02063399581101
+            },
+            {
+                "topic": "family",
+                "weighted_count": 6927.421780146156,
+                "normalized_intensity": 37.44552313592517
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 5374.961827231038,
+                "normalized_intensity": 29.05384771476237
+            },
+            {
+                "topic": "community",
+                "weighted_count": 3755.89362890407,
+                "normalized_intensity": 20.302127723805782
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 2670.971895163543,
+                "normalized_intensity": 14.437685919802936
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 2259.0207135875935,
+                "normalized_intensity": 12.210922776149154
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 983.6298527752542,
+                "normalized_intensity": 5.316918123109482
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 907.2703687132429,
+                "normalized_intensity": 4.904164155206718
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 566.5254813772789,
+                "normalized_intensity": 3.0622998993366424
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 471.01755753619466,
+                "normalized_intensity": 2.5460408515469983
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 427.6995529786359,
+                "normalized_intensity": 2.311889475560194
+            },
+            {
+                "topic": "education",
+                "weighted_count": 413.05743432061985,
+                "normalized_intensity": 2.232742888219567
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 357,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 23625.08320761698,
+                "normalized_intensity": 66.17670366279266
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 19369.033838769083,
+                "normalized_intensity": 54.254996747252335
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 17834.15915137759,
+                "normalized_intensity": 49.95562787500725
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 17107.26456448131,
+                "normalized_intensity": 47.919508583981255
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 16764.380374318647,
+                "normalized_intensity": 46.95904866755924
+            },
+            {
+                "topic": "family",
+                "weighted_count": 15007.816754983543,
+                "normalized_intensity": 42.03870239491189
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 14230.46515920217,
+                "normalized_intensity": 39.86124694454389
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 11439.344192097375,
+                "normalized_intensity": 32.042980930244745
+            },
+            {
+                "topic": "community",
+                "weighted_count": 7270.265068522573,
+                "normalized_intensity": 20.364888147122052
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 7142.152980726736,
+                "normalized_intensity": 20.006030758338195
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 7130.173298336851,
+                "normalized_intensity": 19.972474225033196
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 2557.978037160458,
+                "normalized_intensity": 7.165204585883636
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 2356.1143811494067,
+                "normalized_intensity": 6.599760171286853
+            },
+            {
+                "topic": "education",
+                "weighted_count": 2232.3943651842555,
+                "normalized_intensity": 6.253205504717803
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 2132.955441379477,
+                "normalized_intensity": 5.974665101903297
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 2110.1254998695626,
+                "normalized_intensity": 5.910715685909139
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1007.0883330854451,
+                "normalized_intensity": 2.820975722928418
+            },
+            {
+                "topic": "science",
+                "weighted_count": 939.7468322042248,
+                "normalized_intensity": 2.632344067798949
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 655.0246592907102,
+                "normalized_intensity": 1.834802967200869
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 163.96939499547892,
+                "normalized_intensity": 0.45929802519741997
+            }
+        ]
+    }
+}

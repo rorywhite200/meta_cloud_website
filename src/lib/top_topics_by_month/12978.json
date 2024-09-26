@@ -1,0 +1,42 @@
+{
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 77.75715430186835,
+                "normalized_intensity": 77.75715430186835
+            },
+            {
+                "topic": "health",
+                "weighted_count": 59.38734098791125,
+                "normalized_intensity": 59.38734098791125
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.75534795767163,
+                "normalized_intensity": 55.75534795767163
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 54.29648577574777,
+                "normalized_intensity": 54.29648577574777
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.60006574086595,
+                "normalized_intensity": 52.60006574086595
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 51.78597680973242,
+                "normalized_intensity": 51.78597680973242
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.84391771745138,
+                "normalized_intensity": 50.84391771745138
+            }
+        ]
+    }
+}

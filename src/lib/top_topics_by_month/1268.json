@@ -1,0 +1,77 @@
+{
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 254.9985258932109,
+                "normalized_intensity": 63.74963147330273
+            },
+            {
+                "topic": "science",
+                "weighted_count": 223.84484955723266,
+                "normalized_intensity": 55.961212389308166
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 212.414034975769,
+                "normalized_intensity": 53.10350874394225
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 184.33768614139285,
+                "normalized_intensity": 46.08442153534821
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 166.47301950949947,
+                "normalized_intensity": 41.618254877374866
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 161.0521545109323,
+                "normalized_intensity": 40.263038627733074
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 62.62370645932135,
+                "normalized_intensity": 15.655926614830337
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 55.535535274273364,
+                "normalized_intensity": 13.883883818568341
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.91706683658679,
+                "normalized_intensity": 13.229266709146698
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 89.78955131186828,
+                "normalized_intensity": 89.78955131186828
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 65.72440422336511,
+                "normalized_intensity": 65.72440422336511
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 61.97200818172593,
+                "normalized_intensity": 61.97200818172593
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.14026101960065,
+                "normalized_intensity": 50.14026101960065
+            }
+        ]
+    }
+}

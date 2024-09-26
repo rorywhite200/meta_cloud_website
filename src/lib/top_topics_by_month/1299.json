@@ -1,0 +1,42 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 116.14681766765392,
+                "normalized_intensity": 58.07340883382696
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 105.4486083032881,
+                "normalized_intensity": 52.72430415164405
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 60.051571488901665,
+                "normalized_intensity": 30.025785744450832
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 58.31516931034878,
+                "normalized_intensity": 29.15758465517439
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 56.81676198684631,
+                "normalized_intensity": 28.408380993423155
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 56.7656259957632,
+                "normalized_intensity": 28.3828129978816
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 52.18990095922892,
+                "normalized_intensity": 26.09495047961446
+            }
+        ]
+    }
+}

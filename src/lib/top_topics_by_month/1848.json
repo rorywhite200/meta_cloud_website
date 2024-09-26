@@ -1,0 +1,67 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 145.28954346252885,
+                "normalized_intensity": 72.64477173126443
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 137.7913378815228,
+                "normalized_intensity": 68.8956689407614
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 128.01863240180774,
+                "normalized_intensity": 64.00931620090387
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 127.14969268204894,
+                "normalized_intensity": 63.57484634102447
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 56.827231584773195,
+                "normalized_intensity": 28.413615792386597
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 73.40488312439443,
+                "normalized_intensity": 73.40488312439443
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 71.14911720716731,
+                "normalized_intensity": 71.14911720716731
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 66.10157619785204,
+                "normalized_intensity": 66.10157619785204
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 60.51186479290646,
+                "normalized_intensity": 60.51186479290646
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.2920144026896,
+                "normalized_intensity": 50.2920144026896
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.24359525796665,
+                "normalized_intensity": 49.24359525796665
+            }
+        ]
+    }
+}

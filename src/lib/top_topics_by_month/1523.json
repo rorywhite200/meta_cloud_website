@@ -1,0 +1,182 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 75.29883323452124,
+                "normalized_intensity": 75.29883323452124
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 66.02095712700572,
+                "normalized_intensity": 66.02095712700572
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 61.81578667770555,
+                "normalized_intensity": 61.81578667770555
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 58.35944869346849,
+                "normalized_intensity": 58.35944869346849
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.35663131957,
+                "normalized_intensity": 52.35663131957
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 50.57502885975463,
+                "normalized_intensity": 50.57502885975463
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.427485132472896,
+                "normalized_intensity": 50.427485132472896
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.69231718234203,
+                "normalized_intensity": 49.69231718234203
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 214,
+        "topics": [
+            {
+                "topic": "agriculture",
+                "weighted_count": 14272.505224605424,
+                "normalized_intensity": 66.6939496476889
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 10850.12034136432,
+                "normalized_intensity": 50.701496922263175
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 10778.893483348831,
+                "normalized_intensity": 50.36866113714407
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 8459.005023799138,
+                "normalized_intensity": 39.528060858874476
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 6301.28963784108,
+                "normalized_intensity": 29.445278681500373
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 5058.344497926439,
+                "normalized_intensity": 23.637123822086163
+            },
+            {
+                "topic": "community",
+                "weighted_count": 4319.206942475406,
+                "normalized_intensity": 20.18321001156732
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 3521.6735504883895,
+                "normalized_intensity": 16.456418460226118
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 2700.896154998521,
+                "normalized_intensity": 12.621010070086546
+            },
+            {
+                "topic": "food",
+                "weighted_count": 1891.9521113468031,
+                "normalized_intensity": 8.840897716573846
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 1798.559723382856,
+                "normalized_intensity": 8.404484688704935
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 1757.1298552476123,
+                "normalized_intensity": 8.210887174054264
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 1753.2771031685056,
+                "normalized_intensity": 8.192883659665915
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 1534.55709914141,
+                "normalized_intensity": 7.170827566081355
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 1087.7145491834162,
+                "normalized_intensity": 5.082778267212225
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 854.2086995025091,
+                "normalized_intensity": 3.991629436927613
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 841.7532898452221,
+                "normalized_intensity": 3.9334265880617854
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 802.9474491596441,
+                "normalized_intensity": 3.7520908839235703
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 770.5304953051626,
+                "normalized_intensity": 3.6006097911456196
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 749.3027028372564,
+                "normalized_intensity": 3.501414499239516
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 514.9862790083085,
+                "normalized_intensity": 2.4064779392911615
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 504.5588276818017,
+                "normalized_intensity": 2.3577515312233723
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 274.31680027746376,
+                "normalized_intensity": 1.2818542069040362
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 255.86849463600825,
+                "normalized_intensity": 1.1956471711963002
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 254.16315651636555,
+                "normalized_intensity": 1.1876783014783436
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 245.68742273917567,
+                "normalized_intensity": 1.1480720688746526
+            }
+        ]
+    }
+}

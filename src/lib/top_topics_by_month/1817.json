@@ -1,0 +1,17 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "animal-rights",
+                "weighted_count": 114.09855690936092,
+                "normalized_intensity": 57.04927845468046
+            },
+            {
+                "topic": "food",
+                "weighted_count": 107.65684044725097,
+                "normalized_intensity": 53.828420223625486
+            }
+        ]
+    }
+}

@@ -1,0 +1,1005 @@
+{
+    "funder_name": "Interligne",
+    "similar_funders": [
+        {
+            "funder_id": "883",
+            "funder_name": "The 519",
+            "similarity_score": 0.8723294759522213
+        },
+        {
+            "funder_id": "1666",
+            "funder_name": "Cramahe Pride",
+            "similarity_score": 0.8706161694928581
+        },
+        {
+            "funder_id": "496",
+            "funder_name": "Tri-Cities Pride Society",
+            "similarity_score": 0.8683019573202059
+        },
+        {
+            "funder_id": "667",
+            "funder_name": "Pflag York Region",
+            "similarity_score": 0.8626324974760209
+        },
+        {
+            "funder_id": "1161",
+            "funder_name": "Sunny Kals",
+            "similarity_score": 0.8613932195081291
+        },
+        {
+            "funder_id": "903",
+            "funder_name": "R\u00c9ZO",
+            "similarity_score": 0.8587629863797506
+        },
+        {
+            "funder_id": "491",
+            "funder_name": "Awesome Ottawa",
+            "similarity_score": 0.8584655928411432
+        },
+        {
+            "funder_id": "1821",
+            "funder_name": "Wood Buffalo Community Foundation",
+            "similarity_score": 0.857710977486993
+        },
+        {
+            "funder_id": "90",
+            "funder_name": "Bill Gordon",
+            "similarity_score": 0.8556183148825268
+        },
+        {
+            "funder_id": "1751",
+            "funder_name": "Centre St-Pierre",
+            "similarity_score": 0.8551139372446989
+        },
+        {
+            "funder_id": "973",
+            "funder_name": "Canucks Autism Network",
+            "similarity_score": 0.8549849080224386
+        },
+        {
+            "funder_id": "721",
+            "funder_name": "Mouvement PlantAction",
+            "similarity_score": 0.8514034872630164
+        },
+        {
+            "funder_id": "437",
+            "funder_name": "Niki Sharma",
+            "similarity_score": 0.8503131847269818
+        },
+        {
+            "funder_id": "581",
+            "funder_name": "Dave Sidhu Campaign",
+            "similarity_score": 0.8495270485381353
+        },
+        {
+            "funder_id": "12909",
+            "funder_name": "Pam Lovelace",
+            "similarity_score": 0.8491619465093192
+        },
+        {
+            "funder_id": "1393",
+            "funder_name": "Dufferin Mall",
+            "similarity_score": 0.8491152713854496
+        },
+        {
+            "funder_id": "895",
+            "funder_name": "Coalition des familles LGBT+",
+            "similarity_score": 0.8479453542324175
+        },
+        {
+            "funder_id": "1665",
+            "funder_name": "Coady International Institute",
+            "similarity_score": 0.8470749525239909
+        },
+        {
+            "funder_id": "1932",
+            "funder_name": "MARKETING DVSN",
+            "similarity_score": 0.846789920428073
+        },
+        {
+            "funder_id": "1893",
+            "funder_name": "R\u00e9seau qu\u00e9b\u00e9cois de l'action communautaire autonome (RQ-ACA)",
+            "similarity_score": 0.8460226635237337
+        },
+        {
+            "funder_id": "1123",
+            "funder_name": "CIBLES - Carrefour international bas-laurentien pour l'engagement social",
+            "similarity_score": 0.8454649171858611
+        },
+        {
+            "funder_id": "1500",
+            "funder_name": "Together We Can - Addiction Recovery & Education Society",
+            "similarity_score": 0.8451357374307217
+        },
+        {
+            "funder_id": "1590",
+            "funder_name": "CMHA Toronto",
+            "similarity_score": 0.8450662833002697
+        },
+        {
+            "funder_id": "928",
+            "funder_name": "Angelo G. Iacono",
+            "similarity_score": 0.8447702544873155
+        },
+        {
+            "funder_id": "1545",
+            "funder_name": "Centraide du Grand Montr\u00e9al",
+            "similarity_score": 0.8443844164259511
+        },
+        {
+            "funder_id": "12949",
+            "funder_name": "Weareallies.ca",
+            "similarity_score": 0.8439585835675388
+        },
+        {
+            "funder_id": "117",
+            "funder_name": "Carl Cosby, Advocating for Kent North - MLA Hopeful",
+            "similarity_score": 0.8435667557768671
+        },
+        {
+            "funder_id": "960",
+            "funder_name": "Maison de la Famille Vaudreuil-Soulanges",
+            "similarity_score": 0.8419774082458684
+        },
+        {
+            "funder_id": "12994",
+            "funder_name": "Randene Neill for Powell River-Sunshine Coast",
+            "similarity_score": 0.8417459263738006
+        },
+        {
+            "funder_id": "1475",
+            "funder_name": "Egale Canada",
+            "similarity_score": 0.8414152936166588
+        },
+        {
+            "funder_id": "51",
+            "funder_name": "Jonathan Scott for Ward 2 Councillor",
+            "similarity_score": 0.8411103398823587
+        },
+        {
+            "funder_id": "848",
+            "funder_name": "United Way East Ontario",
+            "similarity_score": 0.8403384494948193
+        },
+        {
+            "funder_id": "768",
+            "funder_name": "Murphy for Halifax South Downtown",
+            "similarity_score": 0.8396421149615095
+        },
+        {
+            "funder_id": "365",
+            "funder_name": "Women's Advisory Voice of Edmonton",
+            "similarity_score": 0.8395746039910262
+        },
+        {
+            "funder_id": "1745",
+            "funder_name": "United Way of Calgary and Area",
+            "similarity_score": 0.8393634931632636
+        },
+        {
+            "funder_id": "601",
+            "funder_name": "Ville de L\u2019Assomption",
+            "similarity_score": 0.8392269423846141
+        },
+        {
+            "funder_id": "1025",
+            "funder_name": "Comit\u00e9 r\u00e9gional en d\u00e9veloppement social du Centre-du-Qu\u00e9bec",
+            "similarity_score": 0.8388847272757372
+        },
+        {
+            "funder_id": "215",
+            "funder_name": "Developing World Connections",
+            "similarity_score": 0.8386422805211368
+        },
+        {
+            "funder_id": "761",
+            "funder_name": "Edmonton Public Schools",
+            "similarity_score": 0.8385431947986275
+        },
+        {
+            "funder_id": "1366",
+            "funder_name": "Table citoyenne Littoral Est",
+            "similarity_score": 0.8384911519467784
+        },
+        {
+            "funder_id": "671",
+            "funder_name": "Association qu\u00e9b\u00e9coise des organismes de coop\u00e9ration internationale",
+            "similarity_score": 0.8384153749610828
+        },
+        {
+            "funder_id": "932",
+            "funder_name": "City of Spruce Grove - Your Local Government",
+            "similarity_score": 0.8379521702123925
+        },
+        {
+            "funder_id": "643",
+            "funder_name": "Vivre en Ville",
+            "similarity_score": 0.8377141619532278
+        },
+        {
+            "funder_id": "69",
+            "funder_name": "Malik Ashraf Next MP in Calgary McKnight",
+            "similarity_score": 0.8376789885725106
+        },
+        {
+            "funder_id": "395",
+            "funder_name": "The Friends of The Moncton Hospital Foundation",
+            "similarity_score": 0.8375765643204384
+        },
+        {
+            "funder_id": "269",
+            "funder_name": "Regional Municipality of Wood Buffalo",
+            "similarity_score": 0.8375525712262892
+        },
+        {
+            "funder_id": "900",
+            "funder_name": "Crossroads International",
+            "similarity_score": 0.83744735365748
+        },
+        {
+            "funder_id": "1273",
+            "funder_name": "Femmes du monde \u00e0 C\u00f4te-des-Neiges",
+            "similarity_score": 0.8374206869941908
+        },
+        {
+            "funder_id": "12916",
+            "funder_name": "Tanya Whitney for Fredericton York",
+            "similarity_score": 0.837329183888263
+        },
+        {
+            "funder_id": "1483",
+            "funder_name": "Claude Larochelle, conseiller municipal",
+            "similarity_score": 0.8370705696341355
+        },
+        {
+            "funder_id": "1653",
+            "funder_name": "Saskatoon Open Door Society",
+            "similarity_score": 0.8363099579022958
+        },
+        {
+            "funder_id": "807",
+            "funder_name": "Times Colonist",
+            "similarity_score": 0.8362639706288929
+        },
+        {
+            "funder_id": "571",
+            "funder_name": "Initiatives Vertes pour l'Avenir - IVA",
+            "similarity_score": 0.8353721233296847
+        },
+        {
+            "funder_id": "613",
+            "funder_name": "FrancoQueer",
+            "similarity_score": 0.8350761613894143
+        },
+        {
+            "funder_id": "1038",
+            "funder_name": "The Jewish General Hospital Foundation",
+            "similarity_score": 0.8350445799541284
+        },
+        {
+            "funder_id": "1314",
+            "funder_name": "Centre de formation en environnement et d\u00e9veloppement durable de l'UdeS",
+            "similarity_score": 0.8349681215145415
+        },
+        {
+            "funder_id": "690",
+            "funder_name": "Manitoba Council for International Cooperation (MCIC)",
+            "similarity_score": 0.8341731815414534
+        },
+        {
+            "funder_id": "772",
+            "funder_name": "Indwell",
+            "similarity_score": 0.8338191750915985
+        },
+        {
+            "funder_id": "737",
+            "funder_name": "The Stephen Lewis Foundation",
+            "similarity_score": 0.8337359706181342
+        },
+        {
+            "funder_id": "1903",
+            "funder_name": "CDC Plateau-Mont-Royal",
+            "similarity_score": 0.8335630625785281
+        },
+        {
+            "funder_id": "1416",
+            "funder_name": "Rural Communities Foundation of Nova Scotia",
+            "similarity_score": 0.8332262704284564
+        },
+        {
+            "funder_id": "1688",
+            "funder_name": "Canadian Trees for Life",
+            "similarity_score": 0.8331150463403064
+        },
+        {
+            "funder_id": "1717",
+            "funder_name": "Centre Greene",
+            "similarity_score": 0.8330953350858731
+        },
+        {
+            "funder_id": "1764",
+            "funder_name": "Association pour la d\u00e9fense des droits sociaux Qu\u00e9bec m\u00e9tropolitain-ADDSQM",
+            "similarity_score": 0.8330834722656484
+        },
+        {
+            "funder_id": "1269",
+            "funder_name": "Keystone Party of Manitoba",
+            "similarity_score": 0.8329476313440012
+        },
+        {
+            "funder_id": "320",
+            "funder_name": "Official Agent for Patricia Arab",
+            "similarity_score": 0.8329476313440012
+        },
+        {
+            "funder_id": "1202",
+            "funder_name": "Brandon Tozzo - City Councillor for Kingscourt-Rideau",
+            "similarity_score": 0.8329144633531025
+        },
+        {
+            "funder_id": "6158",
+            "funder_name": "Ali Duale, MLA for Halifax Armdale",
+            "similarity_score": 0.8329144633531025
+        },
+        {
+            "funder_id": "1243",
+            "funder_name": "Jerry Pribil",
+            "similarity_score": 0.8329144633531025
+        },
+        {
+            "funder_id": "1790",
+            "funder_name": "Sheref Sabawy, MPP",
+            "similarity_score": 0.8329144633531025
+        },
+        {
+            "funder_id": "963",
+            "funder_name": "Carbonear-Trinity-Bay de Verde PC Association",
+            "similarity_score": 0.8329144633531025
+        },
+        {
+            "funder_id": "96",
+            "funder_name": "Community-Based Research Centre",
+            "similarity_score": 0.8327428037377825
+        },
+        {
+            "funder_id": "982",
+            "funder_name": "City of Coquitlam",
+            "similarity_score": 0.8322452869327586
+        },
+        {
+            "funder_id": "647",
+            "funder_name": "Imran Hasan Campaign",
+            "similarity_score": 0.8321396361014886
+        },
+        {
+            "funder_id": "1604",
+            "funder_name": "Edmonton Community Foundation",
+            "similarity_score": 0.8319441520822207
+        },
+        {
+            "funder_id": "439",
+            "funder_name": "YWCA Metro Vancouver",
+            "similarity_score": 0.8318297967055744
+        },
+        {
+            "funder_id": "13005",
+            "funder_name": "Unknown",
+            "similarity_score": 0.8316331112448208
+        },
+        {
+            "funder_id": "1558",
+            "funder_name": "Vaughan-Woodbridge Electoral District Association",
+            "similarity_score": 0.831541963142458
+        },
+        {
+            "funder_id": "1476",
+            "funder_name": "Carrefour de Solidarit\u00e9 Internationale",
+            "similarity_score": 0.8312729010167845
+        },
+        {
+            "funder_id": "552",
+            "funder_name": "Lily Cheng, City Councillor of Willowdale",
+            "similarity_score": 0.8309053052651254
+        },
+        {
+            "funder_id": "1216",
+            "funder_name": "Advocacy-Canada.lgbt",
+            "similarity_score": 0.8307975625931401
+        },
+        {
+            "funder_id": "1431",
+            "funder_name": "Mood Disorders Society of Canada",
+            "similarity_score": 0.8305274304529747
+        },
+        {
+            "funder_id": "576",
+            "funder_name": "What\u2019s Interesting Vaughan",
+            "similarity_score": 0.8301398031754438
+        },
+        {
+            "funder_id": "1060",
+            "funder_name": "Table de concertation du mouvement des femmes Centre-du-Qu\u00e9bec",
+            "similarity_score": 0.8300765249241628
+        },
+        {
+            "funder_id": "12956",
+            "funder_name": "Nathan Ip, MLA",
+            "similarity_score": 0.8299552069568688
+        },
+        {
+            "funder_id": "1165",
+            "funder_name": "Trinity United Church",
+            "similarity_score": 0.8298634212416451
+        },
+        {
+            "funder_id": "1159",
+            "funder_name": "NCCM",
+            "similarity_score": 0.8294348453609772
+        },
+        {
+            "funder_id": "1531",
+            "funder_name": "Carrefour International",
+            "similarity_score": 0.8293740941531356
+        },
+        {
+            "funder_id": "12923",
+            "funder_name": "Kingston and the Islands Federal Liberal Association (KIFLA)",
+            "similarity_score": 0.8293057490002769
+        },
+        {
+            "funder_id": "942",
+            "funder_name": "Arm\u00e9e du Salut",
+            "similarity_score": 0.8291091924695638
+        },
+        {
+            "funder_id": "998",
+            "funder_name": "Ma Ville Maintenant",
+            "similarity_score": 0.8290906843241802
+        },
+        {
+            "funder_id": "1399",
+            "funder_name": "Queer Yukon",
+            "similarity_score": 0.8286655150743487
+        },
+        {
+            "funder_id": "261",
+            "funder_name": "Mark Gerretsen",
+            "similarity_score": 0.8284200105915029
+        },
+        {
+            "funder_id": "722",
+            "funder_name": "Partners International Canada",
+            "similarity_score": 0.8282524069186689
+        },
+        {
+            "funder_id": "1332",
+            "funder_name": "South Surrey - White Rock Conservative Association",
+            "similarity_score": 0.8280558451887579
+        },
+        {
+            "funder_id": "652",
+            "funder_name": "Natalie Hart Campaign",
+            "similarity_score": 0.8280117442248082
+        },
+        {
+            "funder_id": "48",
+            "funder_name": "Kelli Paddon MLA",
+            "similarity_score": 0.8276523426034054
+        },
+        {
+            "funder_id": "887",
+            "funder_name": "Tommy Douglas (the Official)",
+            "similarity_score": 0.8271115009773691
+        },
+        {
+            "funder_id": "228",
+            "funder_name": "a Black Press Media advertiser",
+            "similarity_score": 0.8270641296785264
+        },
+        {
+            "funder_id": "206",
+            "funder_name": "Lehann Wallace",
+            "similarity_score": 0.8269933025123645
+        },
+        {
+            "funder_id": "1749",
+            "funder_name": "Family Services of Greater Vancouver",
+            "similarity_score": 0.8265745421738547
+        },
+        {
+            "funder_id": "983",
+            "funder_name": "Fa\u00e7onner le travail social de demain",
+            "similarity_score": 0.8265344168691705
+        },
+        {
+            "funder_id": "1611",
+            "funder_name": "Parthi Kandavel",
+            "similarity_score": 0.8264731343125533
+        },
+        {
+            "funder_id": "993",
+            "funder_name": "PS j'ai la SP",
+            "similarity_score": 0.8260256596401695
+        },
+        {
+            "funder_id": "1030",
+            "funder_name": "mstrishaaa",
+            "similarity_score": 0.8255412381499035
+        },
+        {
+            "funder_id": "878",
+            "funder_name": "Abbotsford South Constituency Office",
+            "similarity_score": 0.8251682525008216
+        },
+        {
+            "funder_id": "5583",
+            "funder_name": "The Vaughan-Woodbridge PC Riding Association",
+            "similarity_score": 0.8250366635871239
+        },
+        {
+            "funder_id": "1675",
+            "funder_name": "Calgary Alliance for the Common Good",
+            "similarity_score": 0.8248968127211305
+        },
+        {
+            "funder_id": "239",
+            "funder_name": "Campaign to Elect George Tsiklis",
+            "similarity_score": 0.8247389575783642
+        },
+        {
+            "funder_id": "1861",
+            "funder_name": "Kevin Klein Campaign",
+            "similarity_score": 0.8247266779210457
+        },
+        {
+            "funder_id": "250",
+            "funder_name": "Maison d'h\u00e9bergement La Volte-Face",
+            "similarity_score": 0.8243353390551784
+        },
+        {
+            "funder_id": "823",
+            "funder_name": "Melo Technology",
+            "similarity_score": 0.8242119871544972
+        },
+        {
+            "funder_id": "412",
+            "funder_name": "Louise Lortie, conseill\u00e8re municipale",
+            "similarity_score": 0.8241547400681775
+        },
+        {
+            "funder_id": "1532",
+            "funder_name": "MPP Parm Gill",
+            "similarity_score": 0.8241469209378347
+        },
+        {
+            "funder_id": "879",
+            "funder_name": "Marco MacLeod for Pictou West",
+            "similarity_score": 0.8238908320049884
+        },
+        {
+            "funder_id": "610",
+            "funder_name": "Charleswood-Tuxedo-Westwood City Councillor Evan Duncan",
+            "similarity_score": 0.8238573655355118
+        },
+        {
+            "funder_id": "333",
+            "funder_name": "Gabriola Health Care Foundation",
+            "similarity_score": 0.8234517118230648
+        },
+        {
+            "funder_id": "1297",
+            "funder_name": "Rideau Hall Foundation",
+            "similarity_score": 0.823165383876362
+        },
+        {
+            "funder_id": "1801",
+            "funder_name": "Mission Old Brewery",
+            "similarity_score": 0.8228485238344376
+        },
+        {
+            "funder_id": "1938",
+            "funder_name": "World Accord",
+            "similarity_score": 0.8226037750898607
+        },
+        {
+            "funder_id": "910",
+            "funder_name": "The Victoria Foundation",
+            "similarity_score": 0.8225053060847332
+        },
+        {
+            "funder_id": "1428",
+            "funder_name": "Bissell Centre",
+            "similarity_score": 0.8223767581635406
+        },
+        {
+            "funder_id": "1720",
+            "funder_name": "City of Vaughan",
+            "similarity_score": 0.8222818717602046
+        },
+        {
+            "funder_id": "1427",
+            "funder_name": "Elizabeth Fry Society Kamloops",
+            "similarity_score": 0.822266476975523
+        },
+        {
+            "funder_id": "313",
+            "funder_name": "Salma Zahid",
+            "similarity_score": 0.8216064652074034
+        },
+        {
+            "funder_id": "1687",
+            "funder_name": "Table de concertation du mouvement des femmes de la Mauricie",
+            "similarity_score": 0.8213574259399793
+        },
+        {
+            "funder_id": "1875",
+            "funder_name": "Common Front Commun NB",
+            "similarity_score": 0.821350666551784
+        },
+        {
+            "funder_id": "242",
+            "funder_name": "Jean-Claude JC D'Amours, d\u00e9put\u00e9 / MLA Edmundston Madawaska Centre",
+            "similarity_score": 0.8209870897733552
+        },
+        {
+            "funder_id": "1070",
+            "funder_name": "The Discourse",
+            "similarity_score": 0.8208328137616279
+        },
+        {
+            "funder_id": "968",
+            "funder_name": "Meagan Brame Candidate for BC United Esquimalt-Colwood",
+            "similarity_score": 0.8204888217526353
+        },
+        {
+            "funder_id": "1527",
+            "funder_name": "Planned Parenthood Toronto",
+            "similarity_score": 0.8197399396555652
+        },
+        {
+            "funder_id": "1713",
+            "funder_name": "Partners in Ethiopia",
+            "similarity_score": 0.8195575130954249
+        },
+        {
+            "funder_id": "1870",
+            "funder_name": "Titi Tijani",
+            "similarity_score": 0.8194717246745616
+        },
+        {
+            "funder_id": "1652",
+            "funder_name": "Dalhouse University",
+            "similarity_score": 0.8194411877863247
+        },
+        {
+            "funder_id": "1337",
+            "funder_name": "COMMUNITIES IN BLOOM FOUNDATION (CNLA)",
+            "similarity_score": 0.8189954533298128
+        },
+        {
+            "funder_id": "104",
+            "funder_name": "People's Alliance Party of NB - L'Alliance des Gens du NB",
+            "similarity_score": 0.8189870413165123
+        },
+        {
+            "funder_id": "1119",
+            "funder_name": "Madiha Foundation",
+            "similarity_score": 0.8188504023062265
+        },
+        {
+            "funder_id": "1080",
+            "funder_name": "Alpha-Nicolet",
+            "similarity_score": 0.8188326892856634
+        },
+        {
+            "funder_id": "116",
+            "funder_name": "Office of MP Darren Fisher",
+            "similarity_score": 0.8186721758467501
+        },
+        {
+            "funder_id": "248",
+            "funder_name": "David Hickey",
+            "similarity_score": 0.818632205882878
+        },
+        {
+            "funder_id": "1920",
+            "funder_name": "Transition Qu\u00e9bec",
+            "similarity_score": 0.8185821945487091
+        },
+        {
+            "funder_id": "917",
+            "funder_name": "Youth Challenge International",
+            "similarity_score": 0.8185225002075405
+        },
+        {
+            "funder_id": "1661",
+            "funder_name": "United Way Halton & Hamilton",
+            "similarity_score": 0.8184692294197634
+        },
+        {
+            "funder_id": "12964",
+            "funder_name": "Build OMNI Now",
+            "similarity_score": 0.818370123542388
+        },
+        {
+            "funder_id": "819",
+            "funder_name": "Les Engag\u00e9s Publics",
+            "similarity_score": 0.8183408963174239
+        },
+        {
+            "funder_id": "659",
+            "funder_name": "Municipality of Clarington",
+            "similarity_score": 0.8183185356717957
+        },
+        {
+            "funder_id": "1617",
+            "funder_name": "Suman Roy",
+            "similarity_score": 0.8182736472182902
+        },
+        {
+            "funder_id": "1512",
+            "funder_name": "Women's Equality",
+            "similarity_score": 0.8182701182152945
+        },
+        {
+            "funder_id": "593",
+            "funder_name": "Jackie4MP",
+            "similarity_score": 0.8179964577356934
+        },
+        {
+            "funder_id": "706",
+            "funder_name": "Alecstratford4coleharbour",
+            "similarity_score": 0.8179453593881827
+        },
+        {
+            "funder_id": "1587",
+            "funder_name": "Casey House Toronto",
+            "similarity_score": 0.817884865604662
+        },
+        {
+            "funder_id": "1446",
+            "funder_name": "PSAC National Capital Region | R\u00e9gion de la capitale nationale de l'AFPC",
+            "similarity_score": 0.817855932233446
+        },
+        {
+            "funder_id": "176",
+            "funder_name": "Cuso International",
+            "similarity_score": 0.8174956261118255
+        },
+        {
+            "funder_id": "1408",
+            "funder_name": "The District of Saanich",
+            "similarity_score": 0.8174784295595339
+        },
+        {
+            "funder_id": "1158",
+            "funder_name": "Michael Garron Hospital Foundation",
+            "similarity_score": 0.8171563604795984
+        },
+        {
+            "funder_id": "740",
+            "funder_name": "L'Orienth\u00e8que",
+            "similarity_score": 0.817150378819935
+        },
+        {
+            "funder_id": "915",
+            "funder_name": "RLQ - R\u00e9seau des lesbiennes du Qu\u00e9bec - Femmes diversit\u00e9 sexuelle LGBT",
+            "similarity_score": 0.8171057775113814
+        },
+        {
+            "funder_id": "42",
+            "funder_name": "Pascale Albernhe-Lahaie, conseill\u00e8re municipale - district des Rivi\u00e8res",
+            "similarity_score": 0.8170871630781407
+        },
+        {
+            "funder_id": "962",
+            "funder_name": "R\u00e9sidence du Couvent",
+            "similarity_score": 0.8168709885130641
+        },
+        {
+            "funder_id": "1921",
+            "funder_name": "Halton Women's Place",
+            "similarity_score": 0.8167832189477947
+        },
+        {
+            "funder_id": "1559",
+            "funder_name": "Conseil jeunesse interculturel Pierre-De Saurel",
+            "similarity_score": 0.8167100685224739
+        },
+        {
+            "funder_id": "865",
+            "funder_name": "White Ribbon Campaign",
+            "similarity_score": 0.8160701338678645
+        },
+        {
+            "funder_id": "34",
+            "funder_name": "Yannick Gagnon - D\u00e9put\u00e9 de Jonqui\u00e8re \u00e0 l'Assembl\u00e9e nationale",
+            "similarity_score": 0.8160571008203024
+        },
+        {
+            "funder_id": "648",
+            "funder_name": "Shelly Scott-England",
+            "similarity_score": 0.8159759643730528
+        },
+        {
+            "funder_id": "1429",
+            "funder_name": "Atelier d'innovation sociale Mauril-B\u00e9langer",
+            "similarity_score": 0.8159245162062226
+        },
+        {
+            "funder_id": "1228",
+            "funder_name": "Jack Jackson Dog Photography",
+            "similarity_score": 0.8159122805438784
+        },
+        {
+            "funder_id": "8",
+            "funder_name": "Wood's Homes",
+            "similarity_score": 0.8158905509163548
+        },
+        {
+            "funder_id": "1000",
+            "funder_name": "Friends of Sooke Parks Society",
+            "similarity_score": 0.8157224593072734
+        },
+        {
+            "funder_id": "1310",
+            "funder_name": "CUPE Nova Scotia",
+            "similarity_score": 0.8154817653983871
+        },
+        {
+            "funder_id": "76",
+            "funder_name": "Tom Shypitka Kootenay East MLA",
+            "similarity_score": 0.8152039960308685
+        },
+        {
+            "funder_id": "71",
+            "funder_name": "Canadian Foodgrains Bank",
+            "similarity_score": 0.8150166502362837
+        },
+        {
+            "funder_id": "1423",
+            "funder_name": "Mike Harris Conservative Party of BC Candidate Langford-Highlands",
+            "similarity_score": 0.814737502094563
+        },
+        {
+            "funder_id": "531",
+            "funder_name": "Kevin Holland - MPP Thunder Bay-Atikokan",
+            "similarity_score": 0.814734391255525
+        },
+        {
+            "funder_id": "1727",
+            "funder_name": "City of Kitchener",
+            "similarity_score": 0.8145845456996003
+        },
+        {
+            "funder_id": "769",
+            "funder_name": "SHASE",
+            "similarity_score": 0.8143197409607985
+        },
+        {
+            "funder_id": "287",
+            "funder_name": "Saskatchewan Intercultural Association",
+            "similarity_score": 0.8143106483183606
+        },
+        {
+            "funder_id": "1018",
+            "funder_name": "AQOCI",
+            "similarity_score": 0.8142580972079728
+        },
+        {
+            "funder_id": "1301",
+            "funder_name": "KAIROS CANADA",
+            "similarity_score": 0.8141157545841277
+        },
+        {
+            "funder_id": "26",
+            "funder_name": "Ludovic Gris\u00e9 Farand - Maire de Saint-Bruno",
+            "similarity_score": 0.8140913750805736
+        },
+        {
+            "funder_id": "1888",
+            "funder_name": "Shoppers Drug Mart",
+            "similarity_score": 0.8139704427226347
+        },
+        {
+            "funder_id": "1023",
+            "funder_name": "Worker Solidarity Network",
+            "similarity_score": 0.8138862534824504
+        },
+        {
+            "funder_id": "958",
+            "funder_name": "Seva Canada",
+            "similarity_score": 0.8138655706143797
+        },
+        {
+            "funder_id": "1619",
+            "funder_name": "Jessica Hines",
+            "similarity_score": 0.8137884619082226
+        },
+        {
+            "funder_id": "1259",
+            "funder_name": "Manicouagan Interculturelle",
+            "similarity_score": 0.8137437237811336
+        },
+        {
+            "funder_id": "256",
+            "funder_name": "Sadra Nasseri for YRDSB Trustee Campaign",
+            "similarity_score": 0.8136880871318483
+        },
+        {
+            "funder_id": "50",
+            "funder_name": "Adam Walker, MLA",
+            "similarity_score": 0.8135804089435246
+        },
+        {
+            "funder_id": "209",
+            "funder_name": "Sonia Sidhu",
+            "similarity_score": 0.8133307197957799
+        },
+        {
+            "funder_id": "13013",
+            "funder_name": "Unknown",
+            "similarity_score": 0.813273647179924
+        },
+        {
+            "funder_id": "1247",
+            "funder_name": "Peace River South Riding Association",
+            "similarity_score": 0.8132674629941491
+        },
+        {
+            "funder_id": "1386",
+            "funder_name": "Canadian Race Relations Foundation",
+            "similarity_score": 0.8131829446957474
+        },
+        {
+            "funder_id": "1572",
+            "funder_name": "Camphill Communities Ontario",
+            "similarity_score": 0.8131683670490099
+        },
+        {
+            "funder_id": "1093",
+            "funder_name": "BC New Democrat Caucus",
+            "similarity_score": 0.8131058985484847
+        },
+        {
+            "funder_id": "796",
+            "funder_name": "Sors de ta bulle",
+            "similarity_score": 0.8130297509008714
+        },
+        {
+            "funder_id": "924",
+            "funder_name": "MRC Caniapiscau",
+            "similarity_score": 0.8130235834621978
+        },
+        {
+            "funder_id": "1811",
+            "funder_name": "YWCA Cambridge",
+            "similarity_score": 0.8130128624159302
+        },
+        {
+            "funder_id": "1505",
+            "funder_name": "Kamloops Food Policy Council",
+            "similarity_score": 0.8128858281294687
+        },
+        {
+            "funder_id": "1405",
+            "funder_name": "Unite for Change",
+            "similarity_score": 0.8127232895439529
+        },
+        {
+            "funder_id": "1280",
+            "funder_name": "JFO: Jewish Federation of Ottawa",
+            "similarity_score": 0.8126334028349194
+        },
+        {
+            "funder_id": "220",
+            "funder_name": "Matthew Shoemaker",
+            "similarity_score": 0.8126137448076756
+        },
+        {
+            "funder_id": "1459",
+            "funder_name": "Beedie",
+            "similarity_score": 0.8125118164439455
+        }
+    ]
+}

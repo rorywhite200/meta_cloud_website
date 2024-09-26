@@ -1,0 +1,47 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 77.3175227942076,
+                "normalized_intensity": 77.3175227942076
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.65902414101418,
+                "normalized_intensity": 52.65902414101418
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 252.41613119020002,
+                "normalized_intensity": 50.483226238040004
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 119.08833037787002,
+                "normalized_intensity": 23.817666075574003
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 71.48786168683688,
+                "normalized_intensity": 14.297572337367376
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 69.62847706071439,
+                "normalized_intensity": 13.925695412142877
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.56292341638667,
+                "normalized_intensity": 9.912584683277334
+            }
+        ]
+    }
+}

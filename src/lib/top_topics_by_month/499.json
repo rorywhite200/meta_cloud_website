@@ -1,0 +1,242 @@
+{
+    "2024-06": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 541.2713843436054,
+                "normalized_intensity": 67.65892304295068
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 453.84471364898394,
+                "normalized_intensity": 56.73058920612299
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 120.7891805333351,
+                "normalized_intensity": 15.098647566666887
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 566.2846196063616,
+                "normalized_intensity": 26.9659342669696
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 544.2498359192061,
+                "normalized_intensity": 25.91665885329553
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 536.7188452829174,
+                "normalized_intensity": 25.558040251567498
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 532.1651701466669,
+                "normalized_intensity": 25.341198578412712
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 521.1744341763458,
+                "normalized_intensity": 24.81783019887361
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 493.9482668343309,
+                "normalized_intensity": 23.521346039730044
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 485.56595003788203,
+                "normalized_intensity": 23.122188097042002
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 438.46561872632924,
+                "normalized_intensity": 20.879315177444248
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 259.6116286884212,
+                "normalized_intensity": 12.362458508972438
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 258.6737019457196,
+                "normalized_intensity": 12.317795330748552
+            },
+            {
+                "topic": "food",
+                "weighted_count": 229.061637456593,
+                "normalized_intensity": 10.907697021742523
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 129.39472061177054,
+                "normalized_intensity": 6.161653362465263
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 127.7791060440201,
+                "normalized_intensity": 6.084719335429528
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 123.07945993884111,
+                "normalized_intensity": 5.860926663754339
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 122.0377890233475,
+                "normalized_intensity": 5.811323286826071
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 118.04178068796524,
+                "normalized_intensity": 5.621037175617393
+            },
+            {
+                "topic": "art",
+                "weighted_count": 103.03658932100896,
+                "normalized_intensity": 4.906504253381379
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 101.58539268901994,
+                "normalized_intensity": 4.837399651858092
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 80.743004546553,
+                "normalized_intensity": 3.8449049784072855
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 57.74554367233012,
+                "normalized_intensity": 2.749787793920482
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 54.25704538649585,
+                "normalized_intensity": 2.5836688279283737
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.39268036519352,
+                "normalized_intensity": 2.542508588818739
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.029766258363885,
+                "normalized_intensity": 2.429988869445899
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.52313779726306,
+                "normalized_intensity": 2.4058637046315745
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.51512258741118,
+                "normalized_intensity": 2.405482027971961
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 228.94595666583754,
+                "normalized_intensity": 28.618244583229693
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 205.52021233386637,
+                "normalized_intensity": 25.690026541733296
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 167.92018274229162,
+                "normalized_intensity": 20.990022842786452
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 166.47520411323882,
+                "normalized_intensity": 20.809400514154852
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 161.7295909948212,
+                "normalized_intensity": 20.21619887435265
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 130.3023619939531,
+                "normalized_intensity": 16.287795249244137
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 126.8864695850198,
+                "normalized_intensity": 15.860808698127475
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 123.23674635497846,
+                "normalized_intensity": 15.404593294372308
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 123.19116851674951,
+                "normalized_intensity": 15.39889606459369
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 108.90535055273898,
+                "normalized_intensity": 13.613168819092373
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 65.18808394709966,
+                "normalized_intensity": 8.148510493387457
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 63.47662264426926,
+                "normalized_intensity": 7.934577830533658
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 55.64316770303286,
+                "normalized_intensity": 6.955395962879107
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 53.249706519733095,
+                "normalized_intensity": 6.656213314966637
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.91525885857659,
+                "normalized_intensity": 6.489407357322074
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.30951060948205,
+                "normalized_intensity": 6.288688826185256
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.16543867028464,
+                "normalized_intensity": 6.14567983378558
+            }
+        ]
+    }
+}

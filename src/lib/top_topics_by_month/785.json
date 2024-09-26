@@ -1,0 +1,27 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 153.8581108742747,
+                "normalized_intensity": 76.92905543713735
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 59.95488277165602,
+                "normalized_intensity": 29.97744138582801
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.68128563450125,
+                "normalized_intensity": 26.340642817250625
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 49.8539021820983,
+                "normalized_intensity": 24.92695109104915
+            }
+        ]
+    }
+}

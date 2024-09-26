@@ -1,0 +1,107 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 65.47356109022499,
+                "normalized_intensity": 65.47356109022499
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 64.79340448687316,
+                "normalized_intensity": 64.79340448687316
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 63.961614713359594,
+                "normalized_intensity": 63.961614713359594
+            },
+            {
+                "topic": "law",
+                "weighted_count": 60.5667996328106,
+                "normalized_intensity": 60.5667996328106
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 55.50873962640971,
+                "normalized_intensity": 55.50873962640971
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 54.110966160339224,
+                "normalized_intensity": 54.110966160339224
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.06038535182651,
+                "normalized_intensity": 53.06038535182651
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 49.16781238307541,
+                "normalized_intensity": 49.16781238307541
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 51.95143225927893,
+                "normalized_intensity": 51.95143225927893
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 179.84730586007254,
+                "normalized_intensity": 59.94910195335751
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 142.47064324996916,
+                "normalized_intensity": 47.490214416656386
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 109.78230030661103,
+                "normalized_intensity": 36.594100102203676
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.44672546167584,
+                "normalized_intensity": 35.14890848722528
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 68.20780247584648,
+                "normalized_intensity": 22.735934158615493
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 59.92799690250826,
+                "normalized_intensity": 19.975998967502754
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.29544003065526,
+                "normalized_intensity": 19.431813343551752
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 57.186979964779816,
+                "normalized_intensity": 19.062326654926604
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.43117195610888,
+                "normalized_intensity": 17.143723985369625
+            }
+        ]
+    }
+}

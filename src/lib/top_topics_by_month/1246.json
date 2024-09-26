@@ -1,0 +1,87 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 232.50420101574002,
+                "normalized_intensity": 58.126050253935006
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 224.31954419435118,
+                "normalized_intensity": 56.079886048587795
+            },
+            {
+                "topic": "community",
+                "weighted_count": 216.1718434506165,
+                "normalized_intensity": 54.04296086265413
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.327163750320395,
+                "normalized_intensity": 13.081790937580099
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.40106621131959,
+                "normalized_intensity": 12.850266552829897
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.93088759290023,
+                "normalized_intensity": 12.482721898225057
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 176.4834441754988,
+                "normalized_intensity": 58.82781472516626
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 170.0817795139673,
+                "normalized_intensity": 56.693926504655764
+            },
+            {
+                "topic": "community",
+                "weighted_count": 160.61343202057213,
+                "normalized_intensity": 53.53781067352404
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.327163750320395,
+                "normalized_intensity": 17.442387916773466
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.40106621131959,
+                "normalized_intensity": 17.133688737106528
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.93088759290023,
+                "normalized_intensity": 16.64362919763341
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 109.47276719944531,
+                "normalized_intensity": 54.73638359972266
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 104.48669252643678,
+                "normalized_intensity": 52.24334626321839
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 60.224512197770906,
+                "normalized_intensity": 60.224512197770906
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 56.702567494868624,
+                "normalized_intensity": 56.702567494868624
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 51.01202164270499,
+                "normalized_intensity": 51.01202164270499
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 184.6179997376588,
+                "normalized_intensity": 61.53933324588627
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 162.7213813629403,
+                "normalized_intensity": 54.24046045431343
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 126.7663965414763,
+                "normalized_intensity": 42.255465513825435
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 102.05195009944967,
+                "normalized_intensity": 34.017316699816554
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.69534314170237,
+                "normalized_intensity": 17.565114380567454
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.82719784926597,
+                "normalized_intensity": 16.94239928308866
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.30907885773203,
+                "normalized_intensity": 16.436359619244012
+            }
+        ]
+    }
+}

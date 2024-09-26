@@ -1,0 +1,202 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 63.49180149814997,
+                "normalized_intensity": 63.49180149814997
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.16627695026974,
+                "normalized_intensity": 61.16627695026974
+            },
+            {
+                "topic": "family",
+                "weighted_count": 58.23341709267257,
+                "normalized_intensity": 58.23341709267257
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 51.33781539716094,
+                "normalized_intensity": 51.33781539716094
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 51.011189262047466,
+                "normalized_intensity": 51.011189262047466
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.740477611375674,
+                "normalized_intensity": 49.740477611375674
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.43841456192668,
+                "normalized_intensity": 49.43841456192668
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 273.7326081276309,
+                "normalized_intensity": 68.43315203190772
+            },
+            {
+                "topic": "community",
+                "weighted_count": 259.6961071321169,
+                "normalized_intensity": 64.92402678302922
+            },
+            {
+                "topic": "family",
+                "weighted_count": 233.2009060725355,
+                "normalized_intensity": 58.300226518133876
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 223.36073513170084,
+                "normalized_intensity": 55.84018378292521
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 208.13658702010096,
+                "normalized_intensity": 52.03414675502524
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 204.84108857787746,
+                "normalized_intensity": 51.210272144469364
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 202.71431679914582,
+                "normalized_intensity": 50.678579199786455
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 152.4416541529935,
+                "normalized_intensity": 38.11041353824837
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.459004602959084,
+                "normalized_intensity": 14.114751150739771
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 52.29292883275806,
+                "normalized_intensity": 13.073232208189514
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.14736726831131,
+                "normalized_intensity": 12.286841817077827
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 136.17569875127643,
+                "normalized_intensity": 68.08784937563821
+            },
+            {
+                "topic": "community",
+                "weighted_count": 128.37034718514292,
+                "normalized_intensity": 64.18517359257146
+            },
+            {
+                "topic": "family",
+                "weighted_count": 117.18123141144265,
+                "normalized_intensity": 58.590615705721326
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 113.75805069314143,
+                "normalized_intensity": 56.879025346570714
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 105.17918074168247,
+                "normalized_intensity": 52.589590370841236
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 104.88486879498116,
+                "normalized_intensity": 52.44243439749058
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 101.18500591432145,
+                "normalized_intensity": 50.592502957160725
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 100.7426121950034,
+                "normalized_intensity": 50.3713060975017
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 100.64986396962976,
+                "normalized_intensity": 50.32493198481488
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 89.18842638304679,
+                "normalized_intensity": 89.18842638304679
+            },
+            {
+                "topic": "health",
+                "weighted_count": 70.17878677528738,
+                "normalized_intensity": 70.17878677528738
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 57.392950570913506,
+                "normalized_intensity": 57.392950570913506
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 55.07183634458881,
+                "normalized_intensity": 55.07183634458881
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 54.541613227571204,
+                "normalized_intensity": 54.541613227571204
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.55196333990452,
+                "normalized_intensity": 52.55196333990452
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.773553292950126,
+                "normalized_intensity": 50.773553292950126
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.25135775740716,
+                "normalized_intensity": 50.25135775740716
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 49.463179244848945,
+                "normalized_intensity": 49.463179244848945
+            }
+        ]
+    }
+}

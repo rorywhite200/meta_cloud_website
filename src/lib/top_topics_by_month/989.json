@@ -1,0 +1,102 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 72.41069887834341,
+                "normalized_intensity": 72.41069887834341
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 70.9048204209289,
+                "normalized_intensity": 70.9048204209289
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.53907904185002,
+                "normalized_intensity": 61.53907904185002
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 52.673750906184445,
+                "normalized_intensity": 52.673750906184445
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.72953977501794,
+                "normalized_intensity": 50.72953977501794
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 49.972590342351864,
+                "normalized_intensity": 49.972590342351864
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 252.06156905344946,
+                "normalized_intensity": 63.015392263362365
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 220.54836786852582,
+                "normalized_intensity": 55.137091967131454
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 219.23563305783767,
+                "normalized_intensity": 54.80890826445942
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 205.03880729936964,
+                "normalized_intensity": 51.25970182484241
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 161.5968531717284,
+                "normalized_intensity": 40.3992132929321
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 148.02637217378953,
+                "normalized_intensity": 37.00659304344738
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 61.80113778728457,
+                "normalized_intensity": 15.450284446821142
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 57.45477109161469,
+                "normalized_intensity": 14.363692772903672
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.682691953788975,
+                "normalized_intensity": 13.420672988447244
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.45108924605003,
+                "normalized_intensity": 12.862772311512508
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.63196642658348,
+                "normalized_intensity": 12.40799160664587
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.40718741169208,
+                "normalized_intensity": 12.35179685292302
+            }
+        ]
+    }
+}

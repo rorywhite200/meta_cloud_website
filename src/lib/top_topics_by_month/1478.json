@@ -1,0 +1,232 @@
+{
+    "2023-10": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 414.0834059250428,
+                "normalized_intensity": 46.00926732500476
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 353.162615540233,
+                "normalized_intensity": 39.24029061558144
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 271.024069074916,
+                "normalized_intensity": 30.113785452768443
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 216.71573928395213,
+                "normalized_intensity": 24.079526587105793
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 162.0710200475354,
+                "normalized_intensity": 18.007891116392823
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 156.5109186186656,
+                "normalized_intensity": 17.390102068740624
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 149.1705248494465,
+                "normalized_intensity": 16.57450276104961
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 129.53294653442612,
+                "normalized_intensity": 14.392549614936236
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 100.57438974547519,
+                "normalized_intensity": 11.174932193941688
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 77.35150170365694,
+                "normalized_intensity": 8.594611300406326
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 74.90501007430271,
+                "normalized_intensity": 8.322778897144746
+            },
+            {
+                "topic": "food",
+                "weighted_count": 65.2301596210363,
+                "normalized_intensity": 7.247795513448477
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 57.20065676652219,
+                "normalized_intensity": 6.355628529613576
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 52.38431370822245,
+                "normalized_intensity": 5.820479300913606
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 52.02576005770331,
+                "normalized_intensity": 5.7806400064114785
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.5391390896788,
+                "normalized_intensity": 5.726571009964311
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.018505396370706,
+                "normalized_intensity": 5.668722821818967
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 580.794593931782,
+                "normalized_intensity": 72.59932424147274
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 500.1821124949711,
+                "normalized_intensity": 62.522764061871385
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 500.03551823180777,
+                "normalized_intensity": 62.50443977897597
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 442.0679412546376,
+                "normalized_intensity": 55.2584926568297
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 428.84840956347085,
+                "normalized_intensity": 53.60605119543386
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 421.265443858516,
+                "normalized_intensity": 52.6581804823145
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 411.84692162366235,
+                "normalized_intensity": 51.480865202957794
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 399.2373606566608,
+                "normalized_intensity": 49.9046700820826
+            },
+            {
+                "topic": "dairy-industry",
+                "weighted_count": 209.05046125468033,
+                "normalized_intensity": 26.13130765683504
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 197.19547215158994,
+                "normalized_intensity": 24.649434018948742
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 692.3018104573172,
+                "normalized_intensity": 43.26886315358232
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 590.7252244998886,
+                "normalized_intensity": 36.920326531243035
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 474.50318005145937,
+                "normalized_intensity": 29.65644875321621
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 316.1236858899368,
+                "normalized_intensity": 19.75773036812105
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 246.25952561160994,
+                "normalized_intensity": 15.391220350725622
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 228.2814930487673,
+                "normalized_intensity": 14.267593315547956
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 208.5854998620544,
+                "normalized_intensity": 13.0365937413784
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 149.81002014860542,
+                "normalized_intensity": 9.363126259287839
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 149.52140134913446,
+                "normalized_intensity": 9.345087584320904
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 133.16353188943887,
+                "normalized_intensity": 8.32272074308993
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 114.7338305933554,
+                "normalized_intensity": 7.170864412084713
+            },
+            {
+                "topic": "community",
+                "weighted_count": 113.05035626829671,
+                "normalized_intensity": 7.065647266768544
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 103.32993633756263,
+                "normalized_intensity": 6.458121021097664
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 101.65329508232344,
+                "normalized_intensity": 6.353330942645215
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 99.9086768042355,
+                "normalized_intensity": 6.244292300264719
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 98.81368849994777,
+                "normalized_intensity": 6.175855531246736
+            }
+        ]
+    }
+}

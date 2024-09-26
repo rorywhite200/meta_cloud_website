@@ -1,0 +1,37 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 61.981337782683845,
+                "normalized_intensity": 61.981337782683845
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 56.7052265776537,
+                "normalized_intensity": 56.7052265776537
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.28248078837099,
+                "normalized_intensity": 55.28248078837099
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.759628992701906,
+                "normalized_intensity": 53.759628992701906
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 52.018954052683405,
+                "normalized_intensity": 52.018954052683405
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 49.73547507546062,
+                "normalized_intensity": 49.73547507546062
+            }
+        ]
+    }
+}

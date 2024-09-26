@@ -1,0 +1,32 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 103.52697147831094,
+                "normalized_intensity": 51.76348573915547
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 51.46188034350776,
+                "normalized_intensity": 25.73094017175388
+            },
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 51.43813434531378,
+                "normalized_intensity": 25.71906717265689
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.80736748454212,
+                "normalized_intensity": 25.40368374227106
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.04363058525733,
+                "normalized_intensity": 24.521815292628666
+            }
+        ]
+    }
+}

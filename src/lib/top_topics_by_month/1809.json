@@ -1,0 +1,32 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "sports",
+                "weighted_count": 55.02446627579539,
+                "normalized_intensity": 55.02446627579539
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.98024231756154,
+                "normalized_intensity": 51.98024231756154
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.805748210476864,
+                "normalized_intensity": 51.805748210476864
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.13955299051732,
+                "normalized_intensity": 51.13955299051732
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.67251271330433,
+                "normalized_intensity": 50.67251271330433
+            }
+        ]
+    }
+}

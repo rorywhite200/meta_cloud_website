@@ -1,0 +1,57 @@
+{
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 194.26300384846218,
+                "normalized_intensity": 38.85260076969244
+            },
+            {
+                "topic": "health",
+                "weighted_count": 122.84313960995755,
+                "normalized_intensity": 24.56862792199151
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 106.50320601247184,
+                "normalized_intensity": 21.30064120249437
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 58.607836216635754,
+                "normalized_intensity": 11.72156724332715
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.77265304385819,
+                "normalized_intensity": 11.354530608771638
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 50.90015767280662,
+                "normalized_intensity": 10.180031534561325
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.024168553875995,
+                "normalized_intensity": 10.004833710775198
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.19495519025244,
+                "normalized_intensity": 9.838991038050489
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.18162608513189,
+                "normalized_intensity": 9.836325217026378
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 49.16335093984371,
+                "normalized_intensity": 9.832670187968741
+            }
+        ]
+    }
+}

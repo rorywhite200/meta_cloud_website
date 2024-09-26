@@ -1,0 +1,87 @@
+{
+    "2024-05": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 609.5533911463798,
+                "normalized_intensity": 67.72815457181997
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 391.74770344823844,
+                "normalized_intensity": 43.52752260535983
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 299.1820727255615,
+                "normalized_intensity": 33.24245252506239
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.25010039282597,
+                "normalized_intensity": 5.694455599202886
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.53596253991527,
+                "normalized_intensity": 5.6151069488794745
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 17,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 1161.1729788448436,
+                "normalized_intensity": 68.30429287322609
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 834.5713722579015,
+                "normalized_intensity": 49.0924336622295
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 597.3168583740612,
+                "normalized_intensity": 35.136285786709486
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 54.757825264044094,
+                "normalized_intensity": 3.2210485449437702
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.25010039282597,
+                "normalized_intensity": 3.0147117878132925
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.53596253991527,
+                "normalized_intensity": 2.972703678818545
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 209.75886681518853,
+                "normalized_intensity": 69.91962227172951
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 163.59622758898624,
+                "normalized_intensity": 54.53207586299541
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 99.30541643417523,
+                "normalized_intensity": 33.10180547805841
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2024-03": {
+        "total_ads": 26,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 1746.719511125479,
+                "normalized_intensity": 67.18151965867227
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 1532.1213638899906,
+                "normalized_intensity": 58.92774476499964
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 771.0171921224836,
+                "normalized_intensity": 29.65450738932629
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.92848243821307,
+                "normalized_intensity": 3.958787786085118
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 562.6446869213968,
+                "normalized_intensity": 62.516076324599645
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 349.89524440171834,
+                "normalized_intensity": 38.8772493779687
+            },
+            {
+                "topic": "community",
+                "weighted_count": 155.96825805976468,
+                "normalized_intensity": 17.329806451084963
+            }
+        ]
+    }
+}

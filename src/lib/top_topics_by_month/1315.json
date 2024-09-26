@@ -1,0 +1,22 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 67.04111354556,
+                "normalized_intensity": 67.04111354556
+            },
+            {
+                "topic": "business",
+                "weighted_count": 52.934501590437044,
+                "normalized_intensity": 52.934501590437044
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.15168637521764,
+                "normalized_intensity": 49.15168637521764
+            }
+        ]
+    }
+}

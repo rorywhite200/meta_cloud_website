@@ -1,0 +1,27 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 62.24256435761002,
+                "normalized_intensity": 62.24256435761002
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 59.49485622806737,
+                "normalized_intensity": 59.49485622806737
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 56.999459526103315,
+                "normalized_intensity": 56.999459526103315
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.311384203741795,
+                "normalized_intensity": 49.311384203741795
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 61.823495413926835,
+                "normalized_intensity": 61.823495413926835
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 58.38417897666452,
+                "normalized_intensity": 58.38417897666452
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 55.88770212408676,
+                "normalized_intensity": 55.88770212408676
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.547628253518184,
+                "normalized_intensity": 50.547628253518184
+            }
+        ]
+    }
+}

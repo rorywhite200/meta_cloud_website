@@ -1,0 +1,37 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 59.11944960997674,
+                "normalized_intensity": 59.11944960997674
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 57.57290907809085,
+                "normalized_intensity": 57.57290907809085
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 54.87087369041536,
+                "normalized_intensity": 54.87087369041536
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 61.64793504570275,
+                "normalized_intensity": 30.823967522851376
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.52371132755203,
+                "normalized_intensity": 24.761855663776014
+            }
+        ]
+    }
+}

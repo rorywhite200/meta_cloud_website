@@ -1,0 +1,432 @@
+{
+    "2023-10": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 761.9575426035069,
+                "normalized_intensity": 84.66194917816743
+            },
+            {
+                "topic": "family",
+                "weighted_count": 617.4749691495826,
+                "normalized_intensity": 68.60832990550918
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 554.8397799249381,
+                "normalized_intensity": 61.648864436104226
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 530.7439254061396,
+                "normalized_intensity": 58.971547267348846
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 500.1491384259335,
+                "normalized_intensity": 55.57212649177038
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 496.6030011883071,
+                "normalized_intensity": 55.17811124314523
+            },
+            {
+                "topic": "history",
+                "weighted_count": 263.8298563643076,
+                "normalized_intensity": 29.314428484923067
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 247.29253749135597,
+                "normalized_intensity": 27.476948610150664
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 308.9278176844603,
+                "normalized_intensity": 77.23195442111508
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 229.62287689295306,
+                "normalized_intensity": 57.405719223238265
+            },
+            {
+                "topic": "family",
+                "weighted_count": 206.0954657592683,
+                "normalized_intensity": 51.52386643981708
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 184.9981223519598,
+                "normalized_intensity": 46.24953058798995
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 177.3563021136044,
+                "normalized_intensity": 44.3390755284011
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 165.5355800537158,
+                "normalized_intensity": 41.38389501342895
+            },
+            {
+                "topic": "history",
+                "weighted_count": 105.53194254572304,
+                "normalized_intensity": 26.38298563643076
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 98.91701499654239,
+                "normalized_intensity": 24.729253749135598
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.821533323438146,
+                "normalized_intensity": 15.455383330859537
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 254.22746940743775,
+                "normalized_intensity": 84.74248980247926
+            },
+            {
+                "topic": "family",
+                "weighted_count": 206.0954657592683,
+                "normalized_intensity": 68.69848858642277
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 184.9981223519598,
+                "normalized_intensity": 61.6660407839866
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 177.3563021136044,
+                "normalized_intensity": 59.118767371201464
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 166.57397825330682,
+                "normalized_intensity": 55.52465941776894
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 165.5355800537158,
+                "normalized_intensity": 55.17852668457193
+            },
+            {
+                "topic": "history",
+                "weighted_count": 105.53194254572304,
+                "normalized_intensity": 35.17731418190768
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 98.91701499654239,
+                "normalized_intensity": 32.9723383321808
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 767.2547789094582,
+                "normalized_intensity": 76.72547789094583
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 677.6022534729576,
+                "normalized_intensity": 67.76022534729576
+            },
+            {
+                "topic": "family",
+                "weighted_count": 661.161268382225,
+                "normalized_intensity": 66.1161268382225
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 598.718537454039,
+                "normalized_intensity": 59.871853745403904
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 550.041596072848,
+                "normalized_intensity": 55.004159607284805
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 353.3876232925353,
+                "normalized_intensity": 35.33876232925353
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 261.55627858286346,
+                "normalized_intensity": 26.155627858286344
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 244.51324487483848,
+                "normalized_intensity": 24.45132448748385
+            },
+            {
+                "topic": "health",
+                "weighted_count": 231.8559283679821,
+                "normalized_intensity": 23.18559283679821
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 228.65365700882688,
+                "normalized_intensity": 22.865365700882688
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 219.60811698178097,
+                "normalized_intensity": 21.960811698178098
+            },
+            {
+                "topic": "community",
+                "weighted_count": 203.16707479486186,
+                "normalized_intensity": 20.316707479486187
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 202.45262734503152,
+                "normalized_intensity": 20.24526273450315
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 202.42984421299911,
+                "normalized_intensity": 20.242984421299912
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 197.63134838667068,
+                "normalized_intensity": 19.763134838667067
+            },
+            {
+                "topic": "history",
+                "weighted_count": 158.29791381858456,
+                "normalized_intensity": 15.829791381858456
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 148.3755224948136,
+                "normalized_intensity": 14.837552249481359
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 662.8136241202238,
+                "normalized_intensity": 82.85170301502798
+            },
+            {
+                "topic": "family",
+                "weighted_count": 460.390231678929,
+                "normalized_intensity": 57.54877895986613
+            },
+            {
+                "topic": "history",
+                "weighted_count": 333.658327178175,
+                "normalized_intensity": 41.707290897271875
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 333.4381779816332,
+                "normalized_intensity": 41.67977224770415
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 281.72539180454584,
+                "normalized_intensity": 35.21567397556823
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 180.51898927600828,
+                "normalized_intensity": 22.564873659501036
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 179.41126204792315,
+                "normalized_intensity": 22.426407755990393
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 170.4577985481592,
+                "normalized_intensity": 21.3072248185199
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 160.5117020975756,
+                "normalized_intensity": 20.06396276219695
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 157.06069278489662,
+                "normalized_intensity": 19.632586598112077
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 153.521204909466,
+                "normalized_intensity": 19.19015061368325
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 424.1956927582671,
+                "normalized_intensity": 84.83913855165342
+            },
+            {
+                "topic": "family",
+                "weighted_count": 344.03339501759547,
+                "normalized_intensity": 68.8066790035191
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 308.43326200722726,
+                "normalized_intensity": 61.68665240144545
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 296.477157479123,
+                "normalized_intensity": 59.295431495824594
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 277.33849464483603,
+                "normalized_intensity": 55.46769892896721
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 275.89512607141984,
+                "normalized_intensity": 55.17902521428397
+            },
+            {
+                "topic": "history",
+                "weighted_count": 211.06388509144608,
+                "normalized_intensity": 42.212777018289216
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 197.83402999308478,
+                "normalized_intensity": 39.56680599861696
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 1664.7183848796951,
+                "normalized_intensity": 79.27230404189024
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1151.7730761619994,
+                "normalized_intensity": 54.84633696009521
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1036.8432452191387,
+                "normalized_intensity": 49.373487867578035
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 848.844069044333,
+                "normalized_intensity": 40.42114614496823
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 766.6055297278514,
+                "normalized_intensity": 36.50502522513578
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 702.5267048889723,
+                "normalized_intensity": 33.45365261376058
+            },
+            {
+                "topic": "history",
+                "weighted_count": 593.3324446464142,
+                "normalized_intensity": 28.25392593554353
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 522.1313584332639,
+                "normalized_intensity": 24.863398020631614
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 433.8839976665249,
+                "normalized_intensity": 20.661142746024996
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 267.0747131665056,
+                "normalized_intensity": 12.717843484119314
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 266.7505423853066,
+                "normalized_intensity": 12.702406780252694
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 255.87636697823197,
+                "normalized_intensity": 12.184588903725333
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 130.77813929143173,
+                "normalized_intensity": 6.22753044244913
+            },
+            {
+                "topic": "health",
+                "weighted_count": 115.92796418399105,
+                "normalized_intensity": 5.5203792468567165
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 114.32682850441344,
+                "normalized_intensity": 5.444134690686354
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 109.80405849089048,
+                "normalized_intensity": 5.228764690042404
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.58353739743093,
+                "normalized_intensity": 4.837311304639568
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 101.21492210649956,
+                "normalized_intensity": 4.819758195547598
+            }
+        ]
+    }
+}

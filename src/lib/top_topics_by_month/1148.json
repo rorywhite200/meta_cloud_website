@@ -1,0 +1,107 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 235.32010709861373,
+                "normalized_intensity": 78.44003569953792
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 163.32013528129136,
+                "normalized_intensity": 54.440045093763786
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 149.08615740398383,
+                "normalized_intensity": 49.695385801327944
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.23273740479566,
+                "normalized_intensity": 35.41091246826522
+            },
+            {
+                "topic": "health",
+                "weighted_count": 81.82784671410755,
+                "normalized_intensity": 27.275948904702517
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 77.12927720906664,
+                "normalized_intensity": 25.709759069688882
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 65.27162898283592,
+                "normalized_intensity": 21.757209660945307
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 57.14174618671509,
+                "normalized_intensity": 19.04724872890503
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 56.28204335074799,
+                "normalized_intensity": 18.760681116915997
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.82251531071591,
+                "normalized_intensity": 16.940838436905302
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 50.070155483268266,
+                "normalized_intensity": 16.69005182775609
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 221.04628502134506,
+                "normalized_intensity": 73.68209500711502
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.01355957270875,
+                "normalized_intensity": 19.337853190902916
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.89323205544978,
+                "normalized_intensity": 17.631077351816593
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 227.44844244855912,
+                "normalized_intensity": 75.81614748285304
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 216.37555237164418,
+                "normalized_intensity": 72.1251841238814
+            },
+            {
+                "topic": "family",
+                "weighted_count": 160.00905873660952,
+                "normalized_intensity": 53.336352912203175
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.002090631161515,
+                "normalized_intensity": 16.334030210387173
+            }
+        ]
+    }
+}

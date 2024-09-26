@@ -1,0 +1,252 @@
+{
+    "2023-11": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 374.4388087591709,
+                "normalized_intensity": 62.40646812652849
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 301.8612781655912,
+                "normalized_intensity": 50.310213027598536
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 223.09688483253507,
+                "normalized_intensity": 37.182814138755845
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 167.68522463094678,
+                "normalized_intensity": 27.94753743849113
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 162.3529737256873,
+                "normalized_intensity": 27.058828954281214
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 158.9707896785703,
+                "normalized_intensity": 26.49513161309505
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 117.54100961696284,
+                "normalized_intensity": 19.590168269493805
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 110.44653418725488,
+                "normalized_intensity": 18.407755697875814
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 109.5530379089704,
+                "normalized_intensity": 18.258839651495066
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 80.63467459845218,
+                "normalized_intensity": 13.439112433075364
+            },
+            {
+                "topic": "film",
+                "weighted_count": 53.7844355832624,
+                "normalized_intensity": 8.9640725972104
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 53.367441506828484,
+                "normalized_intensity": 8.894573584471415
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 50.120764486851996,
+                "normalized_intensity": 8.353460747808667
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.01455294316513,
+                "normalized_intensity": 8.335758823860855
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 714.389763993521,
+                "normalized_intensity": 71.4389763993521
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 581.5749027334995,
+                "normalized_intensity": 58.15749027334995
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 435.71733491561037,
+                "normalized_intensity": 43.571733491561034
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 369.88088769990225,
+                "normalized_intensity": 36.98808876999023
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 314.1919002219211,
+                "normalized_intensity": 31.41919002219211
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 307.09085766412954,
+                "normalized_intensity": 30.709085766412954
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 237.1190482823426,
+                "normalized_intensity": 23.71190482823426
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 222.16950687542308,
+                "normalized_intensity": 22.216950687542308
+            },
+            {
+                "topic": "community",
+                "weighted_count": 210.87224053173273,
+                "normalized_intensity": 21.087224053173273
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 162.12502894524474,
+                "normalized_intensity": 16.212502894524473
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 155.58756318064727,
+                "normalized_intensity": 15.558756318064727
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 121.03845158002457,
+                "normalized_intensity": 12.103845158002457
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 117.01641297402028,
+                "normalized_intensity": 11.701641297402029
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 108.33373230289135,
+                "normalized_intensity": 10.833373230289135
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 100.70514049027702,
+                "normalized_intensity": 10.070514049027702
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 71.64116135076014,
+                "normalized_intensity": 7.164116135076014
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 67.74313016054143,
+                "normalized_intensity": 6.774313016054142
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 66.90397187789537,
+                "normalized_intensity": 6.690397187789538
+            },
+            {
+                "topic": "military",
+                "weighted_count": 59.49389142620407,
+                "normalized_intensity": 5.949389142620407
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.759946409458905,
+                "normalized_intensity": 5.275994640945891
+            },
+            {
+                "topic": "security",
+                "weighted_count": 52.400538488655876,
+                "normalized_intensity": 5.240053848865587
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 51.25716120894752,
+                "normalized_intensity": 5.125716120894753
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.17904445293545,
+                "normalized_intensity": 5.117904445293545
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 50.85178725537433,
+                "normalized_intensity": 5.085178725537434
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 49.10966842035579,
+                "normalized_intensity": 4.910966842035579
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 72.12547724527704,
+                "normalized_intensity": 72.12547724527704
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 67.23198922710712,
+                "normalized_intensity": 67.23198922710712
+            },
+            {
+                "topic": "law",
+                "weighted_count": 57.88861928611869,
+                "normalized_intensity": 57.88861928611869
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 56.96323217981759,
+                "normalized_intensity": 56.96323217981759
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 54.341407119702346,
+                "normalized_intensity": 54.341407119702346
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 53.84850196096315,
+                "normalized_intensity": 53.84850196096315
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 53.75714058584341,
+                "normalized_intensity": 53.75714058584341
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.18404060862158,
+                "normalized_intensity": 49.18404060862158
+            }
+        ]
+    }
+}

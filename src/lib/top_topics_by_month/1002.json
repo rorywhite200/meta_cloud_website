@@ -1,0 +1,22 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 118.53753967659858,
+                "normalized_intensity": 59.26876983829929
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 118.13572456378839,
+                "normalized_intensity": 59.06786228189419
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 117.39860015433257,
+                "normalized_intensity": 58.699300077166285
+            }
+        ]
+    }
+}

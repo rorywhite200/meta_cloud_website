@@ -1,0 +1,447 @@
+{
+    "2023-11": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 623.2045521106589,
+                "normalized_intensity": 77.90056901383237
+            },
+            {
+                "topic": "health",
+                "weighted_count": 451.71781467405305,
+                "normalized_intensity": 56.46472683425663
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 412.2637842933669,
+                "normalized_intensity": 51.53297303667086
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 406.39122671260657,
+                "normalized_intensity": 50.79890333907582
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 404.09608886969966,
+                "normalized_intensity": 50.51201110871246
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 401.03164659683796,
+                "normalized_intensity": 50.128955824604745
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 887.55520344973,
+                "normalized_intensity": 73.96293362081083
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 730.4556608022804,
+                "normalized_intensity": 60.8713050668567
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 630.251615492849,
+                "normalized_intensity": 52.52096795773742
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 594.5641092612323,
+                "normalized_intensity": 49.54700910510269
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 77.5073127122046,
+                "normalized_intensity": 38.7536563561023
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 72.68143356204193,
+                "normalized_intensity": 36.340716781020966
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.19031223917582,
+                "normalized_intensity": 35.59515611958791
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 68.29271920956225,
+                "normalized_intensity": 34.146359604781125
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 59.92068327299138,
+                "normalized_intensity": 29.96034163649569
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.4267971307756,
+                "normalized_intensity": 28.2133985653878
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 55.10904864630899,
+                "normalized_intensity": 27.554524323154496
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 54.975455371007676,
+                "normalized_intensity": 27.487727685503838
+            },
+            {
+                "topic": "security",
+                "weighted_count": 51.314464160422666,
+                "normalized_intensity": 25.657232080211333
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.09933553338588,
+                "normalized_intensity": 25.54966776669294
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 350.71157478701616,
+                "normalized_intensity": 58.45192913116936
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 342.6966577057015,
+                "normalized_intensity": 57.11610961761692
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 325.6867032087208,
+                "normalized_intensity": 54.28111720145347
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 298.3331905999914,
+                "normalized_intensity": 49.7221984333319
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.09673549218873,
+                "normalized_intensity": 61.09673549218873
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.123437825628066,
+                "normalized_intensity": 56.123437825628066
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 423.3320639726383,
+                "normalized_intensity": 60.47600913894833
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 351.0320939018897,
+                "normalized_intensity": 50.147441985984244
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 242.2294845891484,
+                "normalized_intensity": 34.604212084164054
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 154.6129232552175,
+                "normalized_intensity": 22.08756046503107
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 114.49032249063629,
+                "normalized_intensity": 16.355760355805185
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.8998091310245,
+                "normalized_intensity": 14.6999727330035
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 99.61014928977224,
+                "normalized_intensity": 14.23002132711032
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 60.595018055316096,
+                "normalized_intensity": 8.656431150759442
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 59.13305484559081,
+                "normalized_intensity": 8.44757926365583
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 52.27353487886348,
+                "normalized_intensity": 7.46764783983764
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 51.662168768654645,
+                "normalized_intensity": 7.380309824093521
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.474657294713545,
+                "normalized_intensity": 7.067808184959078
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 555.8732089255163,
+                "normalized_intensity": 79.41045841793091
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 319.519374713467,
+                "normalized_intensity": 45.645624959066716
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 293.6704824283007,
+                "normalized_intensity": 41.95292606118581
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 281.1934877748721,
+                "normalized_intensity": 40.170498253553156
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 270.35494369387317,
+                "normalized_intensity": 38.622134813410455
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 262.17195428668265,
+                "normalized_intensity": 37.45313632666895
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 247.16109081366244,
+                "normalized_intensity": 35.30872725909463
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 127.74017926118641,
+                "normalized_intensity": 18.248597037312344
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 119.55526374800205,
+                "normalized_intensity": 17.07932339257172
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 1737.0309600999365,
+                "normalized_intensity": 54.282217503123015
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1341.15497167592,
+                "normalized_intensity": 41.9110928648725
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1230.215483457236,
+                "normalized_intensity": 38.44423385803862
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 960.9374259815183,
+                "normalized_intensity": 30.02929456192245
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 470.0372533580652,
+                "normalized_intensity": 14.688664167439537
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 434.4840466937827,
+                "normalized_intensity": 13.57762645918071
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 229.18015343636944,
+                "normalized_intensity": 7.161879794886545
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 222.8987704284341,
+                "normalized_intensity": 6.965586575888565
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 200.8046620299592,
+                "normalized_intensity": 6.275145688436225
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 200.29868988045524,
+                "normalized_intensity": 6.259334058764226
+            },
+            {
+                "topic": "law",
+                "weighted_count": 195.10444426895253,
+                "normalized_intensity": 6.097013883404767
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 173.0561949340625,
+                "normalized_intensity": 5.408006091689453
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 117.21665336988426,
+                "normalized_intensity": 3.663020417808883
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 100.6202737336712,
+                "normalized_intensity": 3.144383554177225
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 59.3537391222428,
+                "normalized_intensity": 1.8548043475700875
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.01255389862432,
+                "normalized_intensity": 1.75039230933201
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 54.69909714446216,
+                "normalized_intensity": 1.7093467857644424
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.62201723992455,
+                "normalized_intensity": 1.6131880387476423
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.78611511006092,
+                "normalized_intensity": 1.5558160971894037
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.31762367138634,
+                "normalized_intensity": 1.5411757397308232
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 217.175559766742,
+                "normalized_intensity": 31.025079966677428
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 202.89390683311257,
+                "normalized_intensity": 28.984843833301795
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 161.09671531619955,
+                "normalized_intensity": 23.013816473742793
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 102.24400127511906,
+                "normalized_intensity": 14.60628589644558
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 101.80023660167018,
+                "normalized_intensity": 14.54289094309574
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 100.67217235326721,
+                "normalized_intensity": 14.381738907609602
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 100.37320579111687,
+                "normalized_intensity": 14.339029398730982
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 72.02280475234912,
+                "normalized_intensity": 10.288972107478445
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 60.76346935797623,
+                "normalized_intensity": 8.680495622568033
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 52.95809560322574,
+                "normalized_intensity": 7.565442229032249
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.50381956545233,
+                "normalized_intensity": 7.357688509350333
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.40202686023825,
+                "normalized_intensity": 7.34314669431975
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.45632515946595,
+                "normalized_intensity": 7.065189308495135
+            }
+        ]
+    }
+}

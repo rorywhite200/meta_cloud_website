@@ -1,0 +1,27 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 54.33612215818611,
+                "normalized_intensity": 54.33612215818611
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.966908812290946,
+                "normalized_intensity": 52.966908812290946
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.93339172268775,
+                "normalized_intensity": 51.93339172268775
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 49.880627328440106,
+                "normalized_intensity": 49.880627328440106
+            }
+        ]
+    }
+}

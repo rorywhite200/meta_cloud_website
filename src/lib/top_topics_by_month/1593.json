@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 216.32669272097885,
+                "normalized_intensity": 72.10889757365962
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 156.82952296774744,
+                "normalized_intensity": 52.276507655915815
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 151.06696106244115,
+                "normalized_intensity": 50.355653687480384
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 648.993739508065,
+                "normalized_intensity": 72.11041550089611
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 473.2749726761123,
+                "normalized_intensity": 52.58610807512359
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 463.0634071810543,
+                "normalized_intensity": 51.45148968678381
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 144.2208310017922,
+                "normalized_intensity": 72.1104155008961
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 105.17221615024717,
+                "normalized_intensity": 52.58610807512358
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 102.9029793735676,
+                "normalized_intensity": 51.4514896867838
+            }
+        ]
+    }
+}

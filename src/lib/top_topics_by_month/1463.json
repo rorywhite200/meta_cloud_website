@@ -1,0 +1,122 @@
+{
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 252.60020007487464,
+                "normalized_intensity": 63.15005001871866
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 238.46129202138553,
+                "normalized_intensity": 59.61532300534638
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 235.75767803718847,
+                "normalized_intensity": 58.93941950929712
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 232.44817937722016,
+                "normalized_intensity": 58.11204484430504
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 222.7336582132869,
+                "normalized_intensity": 55.683414553321725
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 159.15545268141082,
+                "normalized_intensity": 39.788863170352705
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 109.35800878378217,
+                "normalized_intensity": 27.339502195945542
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 105.09474920593925,
+                "normalized_intensity": 26.273687301484813
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 104.95857432032864,
+                "normalized_intensity": 26.23964358008216
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.99987773995616,
+                "normalized_intensity": 13.24996943498904
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 50.360460436935284,
+                "normalized_intensity": 12.590115109233821
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 49.736887855916805,
+                "normalized_intensity": 12.434221963979201
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.66442183733245,
+                "normalized_intensity": 12.416105459333112
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 60.808038181694194,
+                "normalized_intensity": 60.808038181694194
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.99447200547429,
+                "normalized_intensity": 54.99447200547429
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.505146864427985,
+                "normalized_intensity": 51.505146864427985
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.263778835024254,
+                "normalized_intensity": 50.263778835024254
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.373669397095746,
+                "normalized_intensity": 49.373669397095746
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 189.60008088184392,
+                "normalized_intensity": 63.20002696061464
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 154.11824499988285,
+                "normalized_intensity": 51.37274833329428
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 109.45047229924782,
+                "normalized_intensity": 36.48349076641594
+            }
+        ]
+    }
+}

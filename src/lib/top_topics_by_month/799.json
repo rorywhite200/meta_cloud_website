@@ -1,0 +1,32 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 120.47791423239525,
+                "normalized_intensity": 60.238957116197625
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 114.37307107292135,
+                "normalized_intensity": 57.186535536460674
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 112.14651767760486,
+                "normalized_intensity": 56.07325883880243
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 112.04073216375943,
+                "normalized_intensity": 56.020366081879715
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 62.43963235994514,
+                "normalized_intensity": 31.21981617997257
+            }
+        ]
+    }
+}

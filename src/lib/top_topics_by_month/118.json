@@ -1,0 +1,1362 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 184.6925537910015,
+                "normalized_intensity": 46.173138447750375
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 112.66953650957383,
+                "normalized_intensity": 28.167384127393458
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 112.2617583236898,
+                "normalized_intensity": 28.06543958092245
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 112.13624405939429,
+                "normalized_intensity": 28.03406101484857
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 106.34823817502641,
+                "normalized_intensity": 26.587059543756602
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 64.46254033318336,
+                "normalized_intensity": 16.11563508329584
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 59.116049866431034,
+                "normalized_intensity": 14.779012466607758
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 57.24509678146434,
+                "normalized_intensity": 14.311274195366085
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.162314918016705,
+                "normalized_intensity": 12.790578729504176
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.803025702501294,
+                "normalized_intensity": 12.450756425625324
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.484360140425046,
+                "normalized_intensity": 12.371090035106262
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 188.96921304249065,
+                "normalized_intensity": 37.79384260849813
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 153.00458383250708,
+                "normalized_intensity": 30.600916766501417
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 149.17204812562744,
+                "normalized_intensity": 29.834409625125488
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 127.83283229230442,
+                "normalized_intensity": 25.566566458460883
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 120.39818257474309,
+                "normalized_intensity": 24.079636514948618
+            },
+            {
+                "topic": "history",
+                "weighted_count": 117.97739456430715,
+                "normalized_intensity": 23.59547891286143
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 103.17878307455993,
+                "normalized_intensity": 20.635756614911987
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 72.89401675713152,
+                "normalized_intensity": 14.578803351426306
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 55.5370309860872,
+                "normalized_intensity": 11.10740619721744
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 55.18757453242238,
+                "normalized_intensity": 11.037514906484477
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 54.50928701620701,
+                "normalized_intensity": 10.901857403241403
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.37462768168003,
+                "normalized_intensity": 10.274925536336006
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.77945722336391,
+                "normalized_intensity": 10.155891444672783
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 50.650099321969165,
+                "normalized_intensity": 10.130019864393834
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 279.2535612839333,
+                "normalized_intensity": 31.028173475992592
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 260.21704497541236,
+                "normalized_intensity": 28.91300499726804
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 127.87366576185583,
+                "normalized_intensity": 14.208185084650648
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 120.26237575014844,
+                "normalized_intensity": 13.362486194460937
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 111.75054322490716,
+                "normalized_intensity": 12.416727024989685
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 62.40984365939445,
+                "normalized_intensity": 6.93442707326605
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.43583795162606,
+                "normalized_intensity": 6.159537550180674
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.1943959701751,
+                "normalized_intensity": 6.132710663352789
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 52.80821156357012,
+                "normalized_intensity": 5.867579062618902
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.449318052514855,
+                "normalized_intensity": 5.605479783612761
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.880533774105,
+                "normalized_intensity": 5.542281530456111
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 49.424277156082645,
+                "normalized_intensity": 5.491586350675849
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 49.12373734583927,
+                "normalized_intensity": 5.458193038426585
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 308.1911736108226,
+                "normalized_intensity": 51.36519560180377
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 212.99478611087684,
+                "normalized_intensity": 35.499131018479474
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 197.4427268975016,
+                "normalized_intensity": 32.907121149583595
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 171.6433722603195,
+                "normalized_intensity": 28.60722871005325
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 134.55732419812392,
+                "normalized_intensity": 22.42622069968732
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 128.6819358949418,
+                "normalized_intensity": 21.446989315823632
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 127.13240024538499,
+                "normalized_intensity": 21.188733374230832
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 124.22542964110204,
+                "normalized_intensity": 20.704238273517007
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 103.5297644909945,
+                "normalized_intensity": 17.254960748499084
+            },
+            {
+                "topic": "history",
+                "weighted_count": 101.66797929730383,
+                "normalized_intensity": 16.944663216217304
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 68.61480839302799,
+                "normalized_intensity": 11.435801398837997
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 61.60600033354528,
+                "normalized_intensity": 10.267666722257546
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 60.29631934625049,
+                "normalized_intensity": 10.049386557708415
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 56.3503687565437,
+                "normalized_intensity": 9.391728126090618
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.12421292580033,
+                "normalized_intensity": 8.187368820966721
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 207.7313341153558,
+                "normalized_intensity": 41.54626682307116
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 134.95924031969503,
+                "normalized_intensity": 26.991848063939006
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 129.080320523427,
+                "normalized_intensity": 25.8160641046854
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 103.78980925116139,
+                "normalized_intensity": 20.757961850232277
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 101.75194465885158,
+                "normalized_intensity": 20.35038893177032
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 62.26292726092115,
+                "normalized_intensity": 12.45258545218423
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 56.8398621468735,
+                "normalized_intensity": 11.3679724293747
+            },
+            {
+                "topic": "military",
+                "weighted_count": 56.49160834237432,
+                "normalized_intensity": 11.298321668474864
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 55.64507340356918,
+                "normalized_intensity": 11.129014680713835
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 54.338494112405144,
+                "normalized_intensity": 10.867698822481028
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 54.09882394794102,
+                "normalized_intensity": 10.819764789588204
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.01765814878194,
+                "normalized_intensity": 10.603531629756388
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.950956571397924,
+                "normalized_intensity": 10.590191314279584
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 52.585311332129216,
+                "normalized_intensity": 10.517062266425842
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.11047661733416,
+                "normalized_intensity": 10.222095323466831
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.43615095219683,
+                "normalized_intensity": 10.087230190439367
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.977549493303606,
+                "normalized_intensity": 9.995509898660721
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 296.9931408224911,
+                "normalized_intensity": 59.39862816449822
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 124.61647117203344,
+                "normalized_intensity": 24.92329423440669
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 102.75970434341238,
+                "normalized_intensity": 20.551940868682475
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 100.10237083161826,
+                "normalized_intensity": 20.020474166323652
+            },
+            {
+                "topic": "military",
+                "weighted_count": 70.67547549251532,
+                "normalized_intensity": 14.135095098503063
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.42722273885471,
+                "normalized_intensity": 10.885444547770941
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 54.42283587127905,
+                "normalized_intensity": 10.88456717425581
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.02216085027779,
+                "normalized_intensity": 10.80443217005556
+            },
+            {
+                "topic": "art",
+                "weighted_count": 53.42066310864415,
+                "normalized_intensity": 10.68413262172883
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.552839964350554,
+                "normalized_intensity": 10.510567992870111
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.15538345830808,
+                "normalized_intensity": 10.231076691661617
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.98526500522023,
+                "normalized_intensity": 10.197053001044045
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 49.33966539137937,
+                "normalized_intensity": 9.867933078275874
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 27,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 866.5464285701157,
+                "normalized_intensity": 32.094312169263546
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 484.64561595806003,
+                "normalized_intensity": 17.9498376280763
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 393.85104579307006,
+                "normalized_intensity": 14.587075770113707
+            },
+            {
+                "topic": "history",
+                "weighted_count": 380.2827893760817,
+                "normalized_intensity": 14.084547754669693
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 301.420761775931,
+                "normalized_intensity": 11.163731917627073
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 296.6995179084142,
+                "normalized_intensity": 10.988871033644969
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 296.4999304552613,
+                "normalized_intensity": 10.981478905750418
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 254.3249605254996,
+                "normalized_intensity": 9.419442982425911
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 173.5806794474041,
+                "normalized_intensity": 6.428914053607559
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 163.33271418313183,
+                "normalized_intensity": 6.049359784560438
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 161.66329874211382,
+                "normalized_intensity": 5.987529583041253
+            },
+            {
+                "topic": "art",
+                "weighted_count": 152.44482011323043,
+                "normalized_intensity": 5.646104448638164
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 137.47467963103435,
+                "normalized_intensity": 5.091654801149421
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 134.27738875386643,
+                "normalized_intensity": 4.973236620513571
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 130.63421255445166,
+                "normalized_intensity": 4.838304168683395
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 129.7111121229351,
+                "normalized_intensity": 4.804115263812411
+            },
+            {
+                "topic": "health",
+                "weighted_count": 129.26277811042817,
+                "normalized_intensity": 4.787510300386229
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 114.20333825576932,
+                "normalized_intensity": 4.229753268732197
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 108.21057903417883,
+                "normalized_intensity": 4.007799223488105
+            },
+            {
+                "topic": "science",
+                "weighted_count": 102.4919263643277,
+                "normalized_intensity": 3.7959972727528775
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 63.77975742444225,
+                "normalized_intensity": 2.3622132379423055
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 63.40159360916115,
+                "normalized_intensity": 2.348207170709672
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 56.38997285767423,
+                "normalized_intensity": 2.0885175132471936
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 55.4930322481484,
+                "normalized_intensity": 2.0552974906721633
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.933445618226806,
+                "normalized_intensity": 2.034572059934326
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 53.12949666096636,
+                "normalized_intensity": 1.9677591355913466
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.70338645474298,
+                "normalized_intensity": 1.9519772761015919
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.15846675901459,
+                "normalized_intensity": 1.9317950651486884
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 51.50258480700865,
+                "normalized_intensity": 1.9075031410003205
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 51.37969191449565,
+                "normalized_intensity": 1.902951552388728
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.05735869794108,
+                "normalized_intensity": 1.891013285108929
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.986597576863055,
+                "normalized_intensity": 1.8883925028467798
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.82246259344073,
+                "normalized_intensity": 1.8823134293866939
+            },
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 50.18443859777575,
+                "normalized_intensity": 1.8586829110287315
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 50.16600959996828,
+                "normalized_intensity": 1.8580003555543807
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.56867589090358,
+                "normalized_intensity": 1.8358768848482807
+            },
+            {
+                "topic": "film",
+                "weighted_count": 49.40975729844905,
+                "normalized_intensity": 1.8299910110536686
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.39284364964915,
+                "normalized_intensity": 1.8293645796166353
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 49.18295465159684,
+                "normalized_intensity": 1.821590913022105
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 630.3991898678711,
+                "normalized_intensity": 25.215967594714844
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 463.750376224371,
+                "normalized_intensity": 18.55001504897484
+            },
+            {
+                "topic": "history",
+                "weighted_count": 416.8252245844629,
+                "normalized_intensity": 16.673008983378516
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 410.2310750287567,
+                "normalized_intensity": 16.40924300115027
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 333.25770693279685,
+                "normalized_intensity": 13.330308277311874
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 265.38997063970174,
+                "normalized_intensity": 10.61559882558807
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 250.22416648149704,
+                "normalized_intensity": 10.008966659259881
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 193.84110171886957,
+                "normalized_intensity": 7.753644068754783
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 130.7734691414081,
+                "normalized_intensity": 5.230938765656324
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 129.97105322416988,
+                "normalized_intensity": 5.198842128966795
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 129.59456856768625,
+                "normalized_intensity": 5.18378274270745
+            },
+            {
+                "topic": "music",
+                "weighted_count": 117.53882526251967,
+                "normalized_intensity": 4.7015530105007866
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 116.43521645862238,
+                "normalized_intensity": 4.657408658344895
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 109.08707347158975,
+                "normalized_intensity": 4.36348293886359
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 108.11253088600272,
+                "normalized_intensity": 4.324501235440109
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 107.50201973484097,
+                "normalized_intensity": 4.300080789393639
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 104.95436162459666,
+                "normalized_intensity": 4.198174464983866
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 103.82792183158222,
+                "normalized_intensity": 4.153116873263289
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 102.0903393125433,
+                "normalized_intensity": 4.083613572501732
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 101.04799295466921,
+                "normalized_intensity": 4.041919718186769
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 80.04118889211351,
+                "normalized_intensity": 3.2016475556845405
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 72.12009280516622,
+                "normalized_intensity": 2.884803712206649
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 70.94161867336796,
+                "normalized_intensity": 2.8376647469347183
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 63.645167611955344,
+                "normalized_intensity": 2.5458067044782138
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 61.49761093865469,
+                "normalized_intensity": 2.4599044375461876
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 60.09560800357794,
+                "normalized_intensity": 2.4038243201431175
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 59.22774164197846,
+                "normalized_intensity": 2.3691096656791384
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 59.086596854209596,
+                "normalized_intensity": 2.3634638741683838
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.00062600114153,
+                "normalized_intensity": 2.3200250400456612
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 55.55778757621482,
+                "normalized_intensity": 2.222311503048593
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.37047619515243,
+                "normalized_intensity": 2.214819047806097
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 54.832066942069616,
+                "normalized_intensity": 2.1932826776827845
+            },
+            {
+                "topic": "food",
+                "weighted_count": 53.092233035073534,
+                "normalized_intensity": 2.1236893214029413
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.98047359799952,
+                "normalized_intensity": 2.039218943919981
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.823036633154175,
+                "normalized_intensity": 1.9929214653261669
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 870.1861138691842,
+                "normalized_intensity": 39.5539142667811
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 328.2434577027109,
+                "normalized_intensity": 14.92015716830504
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 253.53145829129394,
+                "normalized_intensity": 11.524157195058816
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 229.84732385550168,
+                "normalized_intensity": 10.44760562979553
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 225.2603014928904,
+                "normalized_intensity": 10.2391046133132
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 214.53106157177092,
+                "normalized_intensity": 9.75141188962595
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 199.02248289965974,
+                "normalized_intensity": 9.046476495439078
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 178.4922298934399,
+                "normalized_intensity": 8.11328317697454
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 173.32867448753709,
+                "normalized_intensity": 7.878576113069868
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 163.33279984861,
+                "normalized_intensity": 7.424218174936818
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 157.10529462618814,
+                "normalized_intensity": 7.1411497557358246
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 141.85251249202267,
+                "normalized_intensity": 6.4478414769101215
+            },
+            {
+                "topic": "community",
+                "weighted_count": 130.1120051062054,
+                "normalized_intensity": 5.914182050282064
+            },
+            {
+                "topic": "family",
+                "weighted_count": 116.12958269154852,
+                "normalized_intensity": 5.278617395070388
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 112.82007362564624,
+                "normalized_intensity": 5.128185164802102
+            },
+            {
+                "topic": "history",
+                "weighted_count": 112.65918196443279,
+                "normalized_intensity": 5.120871907474218
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 105.59119045107582,
+                "normalized_intensity": 4.799599565957991
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 102.46840242627454,
+                "normalized_intensity": 4.657654655739751
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 72.55487190452419,
+                "normalized_intensity": 3.297948722932918
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 65.44758783700472,
+                "normalized_intensity": 2.9748903562274873
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.45873200704176,
+                "normalized_intensity": 2.839033273047353
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.3898314939188,
+                "normalized_intensity": 2.6086287042690364
+            },
+            {
+                "topic": "music",
+                "weighted_count": 56.04012065177217,
+                "normalized_intensity": 2.5472782114441896
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 55.245500241668346,
+                "normalized_intensity": 2.5111591018940156
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 54.739620065009184,
+                "normalized_intensity": 2.4881645484095083
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.148497465706946,
+                "normalized_intensity": 2.4612953393503156
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.08667359986238,
+                "normalized_intensity": 2.458485163630108
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 54.05837797531938,
+                "normalized_intensity": 2.4571989988781535
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 53.53135140694396,
+                "normalized_intensity": 2.4332432457701803
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 53.144234391354495,
+                "normalized_intensity": 2.4156470177888405
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 51.55109820104955,
+                "normalized_intensity": 2.3432317364113433
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.89663317295457,
+                "normalized_intensity": 2.31348332604339
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 50.81204350007842,
+                "normalized_intensity": 2.3096383409126555
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.10045872345121,
+                "normalized_intensity": 2.2772935783386914
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.99854921191872,
+                "normalized_intensity": 2.2726613278144874
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.81679468553708,
+                "normalized_intensity": 2.2643997584335036
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.72067152641363,
+                "normalized_intensity": 2.260030523927892
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.19560648518815,
+                "normalized_intensity": 2.2361639311449157
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 391.63082168400507,
+                "normalized_intensity": 30.125447821846542
+            },
+            {
+                "topic": "art",
+                "weighted_count": 234.3300323347949,
+                "normalized_intensity": 18.025387102676532
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 191.9053691563826,
+                "normalized_intensity": 14.761951473567892
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 181.3190275366481,
+                "normalized_intensity": 13.947617502819083
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 167.4507586039702,
+                "normalized_intensity": 12.880827584920784
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 133.15469261848614,
+                "normalized_intensity": 10.242668662960472
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 133.14097805006074,
+                "normalized_intensity": 10.241613696158518
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 121.72601411542563,
+                "normalized_intensity": 9.363539547340434
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 110.94988669854202,
+                "normalized_intensity": 8.534606669118617
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 110.94042514045572,
+                "normalized_intensity": 8.533878856958133
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 106.96335571575833,
+                "normalized_intensity": 8.227950439673718
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 105.61403193679647,
+                "normalized_intensity": 8.124156302830498
+            },
+            {
+                "topic": "community",
+                "weighted_count": 104.46301990315393,
+                "normalized_intensity": 8.035616915627227
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 102.81541020211506,
+                "normalized_intensity": 7.908877707855004
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.51055818994624,
+                "normalized_intensity": 7.654658322303557
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.64920575970453,
+                "normalized_intensity": 5.511477366131118
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 64.30718436001968,
+                "normalized_intensity": 4.946706489232283
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 58.124150496636304,
+                "normalized_intensity": 4.4710884997412546
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 57.69330792485017,
+                "normalized_intensity": 4.437946763450013
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 56.90664168658531,
+                "normalized_intensity": 4.3774339758911776
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.98515062019294,
+                "normalized_intensity": 4.306550047707149
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 55.767278349690756,
+                "normalized_intensity": 4.289790642283904
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 54.358538705473926,
+                "normalized_intensity": 4.1814260542672255
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 53.547206153987695,
+                "normalized_intensity": 4.119015857999053
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 52.22757890358326,
+                "normalized_intensity": 4.017506069506404
+            },
+            {
+                "topic": "food",
+                "weighted_count": 51.15555929523937,
+                "normalized_intensity": 3.9350430227107207
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.03499943090705,
+                "normalized_intensity": 3.92576918699285
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.69170842259072,
+                "normalized_intensity": 3.8993621863531325
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.48478777190495,
+                "normalized_intensity": 3.8834452132234576
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 50.16086346174918,
+                "normalized_intensity": 3.858527958596091
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 49.78329228662478,
+                "normalized_intensity": 3.8294840220480597
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 49.75646367131954,
+                "normalized_intensity": 3.827420282409195
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.33326776784954,
+                "normalized_intensity": 3.794866751373042
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.13113182853975,
+                "normalized_intensity": 3.7793178329645962
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 244.69076803340204,
+                "normalized_intensity": 24.469076803340204
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 224.825586234178,
+                "normalized_intensity": 22.4825586234178
+            },
+            {
+                "topic": "history",
+                "weighted_count": 223.10839317319315,
+                "normalized_intensity": 22.310839317319314
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 208.7822010113291,
+                "normalized_intensity": 20.87822010113291
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 173.18751202690646,
+                "normalized_intensity": 17.318751202690645
+            },
+            {
+                "topic": "family",
+                "weighted_count": 131.61009845285528,
+                "normalized_intensity": 13.161009845285529
+            },
+            {
+                "topic": "community",
+                "weighted_count": 127.394521876285,
+                "normalized_intensity": 12.7394521876285
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 127.04409965804695,
+                "normalized_intensity": 12.704409965804695
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 124.04336196726693,
+                "normalized_intensity": 12.404336196726693
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 123.09687368238397,
+                "normalized_intensity": 12.309687368238396
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 121.19241222147777,
+                "normalized_intensity": 12.119241222147776
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 119.09146746283123,
+                "normalized_intensity": 11.909146746283124
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 115.37540815806923,
+                "normalized_intensity": 11.537540815806924
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 115.32690012295892,
+                "normalized_intensity": 11.532690012295891
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 113.35782821383705,
+                "normalized_intensity": 11.335782821383706
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 113.10827794680654,
+                "normalized_intensity": 11.310827794680653
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 106.33396268004725,
+                "normalized_intensity": 10.633396268004725
+            },
+            {
+                "topic": "science",
+                "weighted_count": 106.25202615744533,
+                "normalized_intensity": 10.625202615744533
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 106.06852854669913,
+                "normalized_intensity": 10.606852854669913
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 105.74228989576922,
+                "normalized_intensity": 10.574228989576921
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 104.26192328987098,
+                "normalized_intensity": 10.426192328987097
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 100.69332260293979,
+                "normalized_intensity": 10.06933226029398
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 99.13466084984496,
+                "normalized_intensity": 9.913466084984496
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.94367926126108,
+                "normalized_intensity": 9.894367926126108
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 98.8510869211386,
+                "normalized_intensity": 9.88510869211386
+            },
+            {
+                "topic": "health",
+                "weighted_count": 73.58690185008804,
+                "normalized_intensity": 7.358690185008804
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 72.52667078864383,
+                "normalized_intensity": 7.252667078864382
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 69.47539392461567,
+                "normalized_intensity": 6.947539392461567
+            },
+            {
+                "topic": "law",
+                "weighted_count": 57.39911738286527,
+                "normalized_intensity": 5.739911738286527
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 54.722075426137486,
+                "normalized_intensity": 5.472207542613749
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 54.494259589603246,
+                "normalized_intensity": 5.449425958960324
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.940231154594564,
+                "normalized_intensity": 5.094023115459456
+            }
+        ]
+    }
+}

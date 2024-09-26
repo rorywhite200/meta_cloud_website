@@ -1,0 +1,22 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 135.9877590393507,
+                "normalized_intensity": 67.99387951967535
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 104.36672883442237,
+                "normalized_intensity": 52.18336441721119
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.63420666629844,
+                "normalized_intensity": 50.81710333314922
+            }
+        ]
+    }
+}

@@ -1,0 +1,357 @@
+{
+    "2023-11": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 630.24649681292,
+                "normalized_intensity": 39.3904060508075
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 494.26608617136486,
+                "normalized_intensity": 30.891630385710304
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 414.42548285389677,
+                "normalized_intensity": 25.901592678368548
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 238.41837029264195,
+                "normalized_intensity": 14.901148143290122
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 228.69170126133412,
+                "normalized_intensity": 14.293231328833382
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 181.19166590692095,
+                "normalized_intensity": 11.32447911918256
+            },
+            {
+                "topic": "military",
+                "weighted_count": 166.04327305708307,
+                "normalized_intensity": 10.377704566067692
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 165.59530518062593,
+                "normalized_intensity": 10.34970657378912
+            },
+            {
+                "topic": "history",
+                "weighted_count": 154.18815223073398,
+                "normalized_intensity": 9.636759514420874
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 148.66740609389288,
+                "normalized_intensity": 9.291712880868305
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 121.95179086787735,
+                "normalized_intensity": 7.621986929242334
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 106.12374508674462,
+                "normalized_intensity": 6.632734067921539
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 66.95844219250645,
+                "normalized_intensity": 4.184902637031653
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 64.49987409797998,
+                "normalized_intensity": 4.031242131123749
+            },
+            {
+                "topic": "food",
+                "weighted_count": 54.97394363291504,
+                "normalized_intensity": 3.43587147705719
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.86421071054478,
+                "normalized_intensity": 3.116513169409049
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 123.71098824070951,
+                "normalized_intensity": 30.927747060177378
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 112.85471338610239,
+                "normalized_intensity": 28.213678346525597
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 111.35299592755743,
+                "normalized_intensity": 27.838248981889357
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 53.71217672868293,
+                "normalized_intensity": 13.428044182170732
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.473926225706045,
+                "normalized_intensity": 13.368481556426511
+            },
+            {
+                "topic": "military",
+                "weighted_count": 50.35405864670695,
+                "normalized_intensity": 12.588514661676738
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.230086105843284,
+                "normalized_intensity": 12.557521526460821
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 185.2690084413962,
+                "normalized_intensity": 37.05380168827924
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 166.7162077725022,
+                "normalized_intensity": 33.34324155450044
+            },
+            {
+                "topic": "family",
+                "weighted_count": 118.63050994422564,
+                "normalized_intensity": 23.726101988845127
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 114.1313744720618,
+                "normalized_intensity": 22.826274894412357
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 107.42435345736585,
+                "normalized_intensity": 21.48487069147317
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 106.94785245141209,
+                "normalized_intensity": 21.389570490282416
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 105.38614159138002,
+                "normalized_intensity": 21.077228318276006
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 103.0044094068592,
+                "normalized_intensity": 20.60088188137184
+            },
+            {
+                "topic": "military",
+                "weighted_count": 100.7081172934139,
+                "normalized_intensity": 20.14162345868278
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 100.48207603936838,
+                "normalized_intensity": 20.096415207873676
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 200.65757726918494,
+                "normalized_intensity": 50.164394317296235
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 159.36298615729925,
+                "normalized_intensity": 39.84074653932481
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 72.47737300438175,
+                "normalized_intensity": 18.119343251095437
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 63.58595245159279,
+                "normalized_intensity": 15.896488112898197
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.08527130379837,
+                "normalized_intensity": 15.021317825949593
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.31284373133385,
+                "normalized_intensity": 12.328210932833462
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 72.47737300438175,
+                "normalized_intensity": 36.23868650219087
+            },
+            {
+                "topic": "military",
+                "weighted_count": 66.88585908972831,
+                "normalized_intensity": 33.44292954486416
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 63.58595245159279,
+                "normalized_intensity": 31.792976225796394
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.08527130379837,
+                "normalized_intensity": 30.042635651899186
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.12099538576641,
+                "normalized_intensity": 26.560497692883207
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.31284373133385,
+                "normalized_intensity": 24.656421865666925
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 307.9395747770251,
+                "normalized_intensity": 61.58791495540502
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 274.42849831332086,
+                "normalized_intensity": 54.88569966266417
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 268.72033573593177,
+                "normalized_intensity": 53.74406714718636
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 68.07900990578672,
+                "normalized_intensity": 13.615801981157343
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.66368148360956,
+                "normalized_intensity": 10.532736296721911
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.66649943843077,
+                "normalized_intensity": 10.333299887686154
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.265955774122794,
+                "normalized_intensity": 9.85319115482456
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.09162479953267,
+                "normalized_intensity": 9.818324959906533
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 210.67512828464825,
+                "normalized_intensity": 42.13502565692965
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 187.43251518591808,
+                "normalized_intensity": 37.48650303718362
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 68.50596144177425,
+                "normalized_intensity": 13.70119228835485
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 64.93993365522883,
+                "normalized_intensity": 12.987986731045766
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.9179289414971,
+                "normalized_intensity": 10.38358578829942
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 51.701676049165876,
+                "normalized_intensity": 10.340335209833174
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.995067488046345,
+                "normalized_intensity": 10.199013497609268
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.64730246293217,
+                "normalized_intensity": 9.929460492586433
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 69.70600602371815,
+                "normalized_intensity": 69.70600602371815
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 63.87221136739405,
+                "normalized_intensity": 63.87221136739405
+            }
+        ]
+    }
+}

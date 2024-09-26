@@ -1,0 +1,37 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 70.40404560010512,
+                "normalized_intensity": 70.40404560010512
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 60.32881766160313,
+                "normalized_intensity": 60.32881766160313
+            },
+            {
+                "topic": "film",
+                "weighted_count": 55.235860159331494,
+                "normalized_intensity": 55.235860159331494
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.81294226673786,
+                "normalized_intensity": 52.81294226673786
+            },
+            {
+                "topic": "music",
+                "weighted_count": 52.29226432387391,
+                "normalized_intensity": 52.29226432387391
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 49.80721133381125,
+                "normalized_intensity": 49.80721133381125
+            }
+        ]
+    }
+}

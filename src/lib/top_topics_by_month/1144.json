@@ -1,0 +1,57 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 142.09694010287836,
+                "normalized_intensity": 71.04847005143918
+            },
+            {
+                "topic": "community",
+                "weighted_count": 134.8287395896624,
+                "normalized_intensity": 67.4143697948312
+            },
+            {
+                "topic": "family",
+                "weighted_count": 123.02218744126985,
+                "normalized_intensity": 61.511093720634925
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 110.3116661034702,
+                "normalized_intensity": 55.1558330517351
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 110.1938663242606,
+                "normalized_intensity": 55.0969331621303
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 109.12128276961235,
+                "normalized_intensity": 54.560641384806175
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 104.44494028559959,
+                "normalized_intensity": 52.22247014279979
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 61.2691175812651,
+                "normalized_intensity": 30.63455879063255
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 54.344905335952035,
+                "normalized_intensity": 27.172452667976017
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.708049538660646,
+                "normalized_intensity": 24.854024769330323
+            }
+        ]
+    }
+}

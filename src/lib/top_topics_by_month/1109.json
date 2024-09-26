@@ -1,0 +1,112 @@
+{
+    "2024-02": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 743.794485156091,
+                "normalized_intensity": 82.64383168401011
+            },
+            {
+                "topic": "health",
+                "weighted_count": 526.741574656451,
+                "normalized_intensity": 58.52684162849456
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 410.63513511507495,
+                "normalized_intensity": 45.626126123897215
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 376.3801935984183,
+                "normalized_intensity": 41.82002151093537
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 370.5370432769208,
+                "normalized_intensity": 41.170782586324535
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 323.827800975604,
+                "normalized_intensity": 35.98086677506711
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 127.10261183342936,
+                "normalized_intensity": 14.122512425936597
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 101.65838092798404,
+                "normalized_intensity": 11.295375658664893
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.07456963398069,
+                "normalized_intensity": 5.4527299593311875
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 353.11667943282896,
+                "normalized_intensity": 70.6233358865658
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 305.96635799385774,
+                "normalized_intensity": 61.193271598771545
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 286.6827435311008,
+                "normalized_intensity": 57.336548706220164
+            },
+            {
+                "topic": "health",
+                "weighted_count": 265.39943813112797,
+                "normalized_intensity": 53.07988762622559
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 146.06564928168018,
+                "normalized_intensity": 73.03282464084009
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 139.50173762293497,
+                "normalized_intensity": 69.75086881146748
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 111.14432480085821,
+                "normalized_intensity": 55.57216240042911
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 106.11259602831794,
+                "normalized_intensity": 53.05629801415897
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.236449294082774,
+                "normalized_intensity": 26.618224647041387
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.72191510502023,
+                "normalized_intensity": 25.360957552510115
+            }
+        ]
+    }
+}

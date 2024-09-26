@@ -1,0 +1,197 @@
+{
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 171.39875815867467,
+                "normalized_intensity": 34.27975163173493
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 108.7565167980527,
+                "normalized_intensity": 21.75130335961054
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 107.29981756864407,
+                "normalized_intensity": 21.459963513728816
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.28130159139309,
+                "normalized_intensity": 20.65626031827862
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 68.82096052012375,
+                "normalized_intensity": 13.76419210402475
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 63.70583291027978,
+                "normalized_intensity": 12.741166582055957
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 62.481207757146564,
+                "normalized_intensity": 12.496241551429312
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 62.144865438730456,
+                "normalized_intensity": 12.42897308774609
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 59.70628347137678,
+                "normalized_intensity": 11.941256694275356
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 54.675352211639705,
+                "normalized_intensity": 10.935070442327941
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 52.327313015868384,
+                "normalized_intensity": 10.465462603173677
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.80040925467406,
+                "normalized_intensity": 9.960081850934811
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 49.28171743689129,
+                "normalized_intensity": 9.856343487378258
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.2483711929835,
+                "normalized_intensity": 9.8496742385967
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 136.97492935675663,
+                "normalized_intensity": 27.394985871351327
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 119.35633641428001,
+                "normalized_intensity": 23.871267282856003
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.17472182841432,
+                "normalized_intensity": 21.034944365682865
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 61.72151309323554,
+                "normalized_intensity": 12.344302618647108
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.6179164608228,
+                "normalized_intensity": 10.723583292164559
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.90838851180768,
+                "normalized_intensity": 9.981677702361536
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.122375647894806,
+                "normalized_intensity": 9.82447512957896
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 126.1977153580222,
+                "normalized_intensity": 63.0988576790111
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 67.73341286228464,
+                "normalized_intensity": 33.86670643114232
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.83352051994919,
+                "normalized_intensity": 28.916760259974595
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.90883626177744,
+                "normalized_intensity": 26.95441813088872
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 52.12824095941207,
+                "normalized_intensity": 26.064120479706034
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.47782150589602,
+                "normalized_intensity": 25.73891075294801
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.48066390759105,
+                "normalized_intensity": 24.740331953795526
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.28345195049387,
+                "normalized_intensity": 24.641725975246935
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 105.45816285758629,
+                "normalized_intensity": 52.729081428793144
+            },
+            {
+                "topic": "family",
+                "weighted_count": 61.20679077102677,
+                "normalized_intensity": 30.603395385513384
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 60.077705103274525,
+                "normalized_intensity": 30.038852551637262
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 55.57097826162135,
+                "normalized_intensity": 27.785489130810674
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 53.2800089569209,
+                "normalized_intensity": 26.64000447846045
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.093157562032424,
+                "normalized_intensity": 25.546578781016212
+            }
+        ]
+    }
+}

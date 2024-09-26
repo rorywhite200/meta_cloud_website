@@ -1,0 +1,37 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 108.30407956781264,
+                "normalized_intensity": 54.15203978390632
+            },
+            {
+                "topic": "media",
+                "weighted_count": 107.01469307129813,
+                "normalized_intensity": 53.50734653564906
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 103.52063179407197,
+                "normalized_intensity": 51.76031589703599
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 102.88386867346085,
+                "normalized_intensity": 51.44193433673043
+            },
+            {
+                "topic": "history",
+                "weighted_count": 100.41118089800848,
+                "normalized_intensity": 50.20559044900424
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 51.9952581876191,
+                "normalized_intensity": 25.99762909380955
+            }
+        ]
+    }
+}

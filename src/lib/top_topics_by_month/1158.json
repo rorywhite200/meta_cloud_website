@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 238.40372193184228,
+                "normalized_intensity": 59.60093048296057
+            },
+            {
+                "topic": "health",
+                "weighted_count": 219.69352901724233,
+                "normalized_intensity": 54.92338225431058
+            },
+            {
+                "topic": "community",
+                "weighted_count": 200.61141899729344,
+                "normalized_intensity": 50.15285474932336
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 199.54458658714876,
+                "normalized_intensity": 49.88614664678719
+            }
+        ]
+    }
+}

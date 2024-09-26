@@ -1,0 +1,17 @@
+{
+    "2024-02": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 1308.1433221414727,
+                "normalized_intensity": 54.5059717558947
+            },
+            {
+                "topic": "science",
+                "weighted_count": 592.9618313482596,
+                "normalized_intensity": 24.70674297284415
+            }
+        ]
+    }
+}

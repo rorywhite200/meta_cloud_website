@@ -1,0 +1,47 @@
+{
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 308.12048701166947,
+                "normalized_intensity": 77.03012175291737
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 266.3754692084962,
+                "normalized_intensity": 66.59386730212405
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 231.05193331379965,
+                "normalized_intensity": 57.76298332844991
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 226.2447842407696,
+                "normalized_intensity": 56.5611960601924
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 157.99377332664199,
+                "normalized_intensity": 39.498443331660496
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 151.64058834945592,
+                "normalized_intensity": 37.91014708736398
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 103.64570400387035,
+                "normalized_intensity": 25.911426000967587
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.31177942746477,
+                "normalized_intensity": 12.327944856866193
+            }
+        ]
+    }
+}

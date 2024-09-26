@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 142.33913176625276,
+                "normalized_intensity": 71.16956588312638
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 129.11473548994925,
+                "normalized_intensity": 64.55736774497463
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 101.77307484491294,
+                "normalized_intensity": 50.88653742245647
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 100.4424383353213,
+                "normalized_intensity": 50.22121916766065
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 100.08855129263922,
+                "normalized_intensity": 50.04427564631961
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 99.6462162040518,
+                "normalized_intensity": 49.8231081020259
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 62.14870438432251,
+                "normalized_intensity": 62.14870438432251
+            }
+        ]
+    }
+}

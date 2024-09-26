@@ -1,0 +1,37 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 121.5722240449225,
+                "normalized_intensity": 60.78611202246125
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 66.32306728632734,
+                "normalized_intensity": 33.16153364316367
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.08060113881587,
+                "normalized_intensity": 26.540300569407936
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 123.5726684305628,
+                "normalized_intensity": 61.7863342152814
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 104.37783611538745,
+                "normalized_intensity": 52.188918057693726
+            }
+        ]
+    }
+}

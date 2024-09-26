@@ -1,0 +1,42 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 60.53326145224265,
+                "normalized_intensity": 30.266630726121324
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 60.45624699249467,
+                "normalized_intensity": 30.228123496247335
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 50.60158694833259,
+                "normalized_intensity": 25.300793474166294
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "manitoba",
+                "weighted_count": 120.91249398498934,
+                "normalized_intensity": 40.304164661663116
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 101.20317389666518,
+                "normalized_intensity": 33.73439129888839
+            },
+            {
+                "topic": "law",
+                "weighted_count": 60.53326145224265,
+                "normalized_intensity": 20.177753817414217
+            }
+        ]
+    }
+}

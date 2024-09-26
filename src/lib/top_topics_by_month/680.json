@@ -1,0 +1,207 @@
+{
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 116.0864701008052,
+                "normalized_intensity": 38.695490033601736
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 103.13137353868942,
+                "normalized_intensity": 34.37712451289647
+            },
+            {
+                "topic": "science",
+                "weighted_count": 60.454893283985434,
+                "normalized_intensity": 20.151631094661813
+            },
+            {
+                "topic": "education",
+                "weighted_count": 60.08937935410482,
+                "normalized_intensity": 20.02979311803494
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.6887362755387,
+                "normalized_intensity": 19.562912091846233
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 56.691668871070355,
+                "normalized_intensity": 18.897222957023452
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.343023348447254,
+                "normalized_intensity": 18.447674449482417
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 54.20010093416718,
+                "normalized_intensity": 18.06670031138906
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 53.97570618961522,
+                "normalized_intensity": 17.99190206320507
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 53.352459011798835,
+                "normalized_intensity": 17.784153003932946
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.25936425610125,
+                "normalized_intensity": 16.419788085367085
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 271.3490656097502,
+                "normalized_intensity": 54.26981312195004
+            },
+            {
+                "topic": "education",
+                "weighted_count": 150.55058158840373,
+                "normalized_intensity": 30.110116317680745
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 132.6470154971479,
+                "normalized_intensity": 26.52940309942958
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 114.11208565224015,
+                "normalized_intensity": 22.82241713044803
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 111.84635480122283,
+                "normalized_intensity": 22.369270960244567
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 101.57051603644042,
+                "normalized_intensity": 20.314103207288085
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.69775191942998,
+                "normalized_intensity": 19.939550383885994
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 69.29795678867633,
+                "normalized_intensity": 13.859591357735265
+            },
+            {
+                "topic": "health",
+                "weighted_count": 68.03959992153938,
+                "normalized_intensity": 13.607919984307875
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 66.5581941114609,
+                "normalized_intensity": 13.311638822292181
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.23917291812735,
+                "normalized_intensity": 12.04783458362547
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 58.95824051953388,
+                "normalized_intensity": 11.791648103906777
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 55.544030413509724,
+                "normalized_intensity": 11.108806082701944
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 54.582883409448904,
+                "normalized_intensity": 10.916576681889781
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 53.21379377123681,
+                "normalized_intensity": 10.642758754247362
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 52.97214324335023,
+                "normalized_intensity": 10.594428648670046
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.36399770042836,
+                "normalized_intensity": 10.072799540085672
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.5078848794671,
+                "normalized_intensity": 9.90157697589342
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1569.8635107171303,
+                "normalized_intensity": 71.35743230532411
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 1464.768601675765,
+                "normalized_intensity": 66.58039098526204
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1205.516703368036,
+                "normalized_intensity": 54.796213789456175
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 1126.7239401125732,
+                "normalized_intensity": 51.21472455057151
+            },
+            {
+                "topic": "education",
+                "weighted_count": 1010.5786870370553,
+                "normalized_intensity": 45.935394865320696
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 875.6922171236012,
+                "normalized_intensity": 39.804191687436415
+            },
+            {
+                "topic": "community",
+                "weighted_count": 612.5784987019681,
+                "normalized_intensity": 27.844477213725824
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 595.284275855961,
+                "normalized_intensity": 27.058376175270954
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 412.6958156090887,
+                "normalized_intensity": 18.758900709504033
+            }
+        ]
+    }
+}

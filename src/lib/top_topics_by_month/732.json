@@ -1,0 +1,27 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 59.67727014932599,
+                "normalized_intensity": 59.67727014932599
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 49.01477303935937,
+                "normalized_intensity": 49.01477303935937
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 51.42361251756793,
+                "normalized_intensity": 51.42361251756793
+            }
+        ]
+    }
+}

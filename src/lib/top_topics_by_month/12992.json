@@ -1,0 +1,102 @@
+{
+    "2024-08": {
+        "total_ads": 44,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 2965.7654246467546,
+                "normalized_intensity": 67.4037596510626
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 2935.0054563954495,
+                "normalized_intensity": 66.70466946353294
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 2759.247423023846,
+                "normalized_intensity": 62.710168705087405
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 2511.1093193888814,
+                "normalized_intensity": 57.070666349747306
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 2331.0368137866217,
+                "normalized_intensity": 52.9781094042414
+            },
+            {
+                "topic": "science",
+                "weighted_count": 2133.38520560173,
+                "normalized_intensity": 48.48602740003932
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 1968.8463342512161,
+                "normalized_intensity": 44.74650759661855
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 1469.5734178013665,
+                "normalized_intensity": 33.39939585912197
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 1464.7926512758029,
+                "normalized_intensity": 33.290742074450066
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 1021.5003012025004,
+                "normalized_intensity": 23.215915936420462
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 859.5811493116612,
+                "normalized_intensity": 19.535935211628665
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 845.324029916989,
+                "normalized_intensity": 19.21190977084066
+            },
+            {
+                "topic": "family",
+                "weighted_count": 774.7744513796428,
+                "normalized_intensity": 17.608510258628243
+            },
+            {
+                "topic": "community",
+                "weighted_count": 589.6285603814925,
+                "normalized_intensity": 13.400649099579375
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 418.65144207870327,
+                "normalized_intensity": 9.514805501788711
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 414.6707727043308,
+                "normalized_intensity": 9.424335743280245
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 335.830122029544,
+                "normalized_intensity": 7.632502773398727
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 152.0965918106957,
+                "normalized_intensity": 3.4567407229703573
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.3459468229371,
+                "normalized_intensity": 1.1442260641576614
+            }
+        ]
+    }
+}

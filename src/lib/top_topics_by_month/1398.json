@@ -1,0 +1,32 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 140.0991950744081,
+                "normalized_intensity": 70.04959753720405
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 135.31466863028817,
+                "normalized_intensity": 67.65733431514408
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 131.7740230747335,
+                "normalized_intensity": 65.88701153736675
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 131.66813914749642,
+                "normalized_intensity": 65.83406957374821
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 99.18590177213635,
+                "normalized_intensity": 49.592950886068174
+            }
+        ]
+    }
+}

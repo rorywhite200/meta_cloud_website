@@ -1,0 +1,82 @@
+{
+    "2023-10": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 1034.5444127018066,
+                "normalized_intensity": 79.5803394386005
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 963.9703172674651,
+                "normalized_intensity": 74.15156286672809
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 948.0937512930586,
+                "normalized_intensity": 72.93028856100452
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 929.2822022150522,
+                "normalized_intensity": 71.48324632423478
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 878.9650560403273,
+                "normalized_intensity": 67.61269661848672
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 671.4841705094844,
+                "normalized_intensity": 51.65262850072957
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 384.24178290241014,
+                "normalized_intensity": 29.55706022326232
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 1737.6980449736004,
+                "normalized_intensity": 78.98627477152729
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1615.3619518087683,
+                "normalized_intensity": 73.42554326403491
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1604.5259416831225,
+                "normalized_intensity": 72.93299734923283
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 1546.1199972718764,
+                "normalized_intensity": 70.2781816941762
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1501.344046428452,
+                "normalized_intensity": 68.24291120129327
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 1137.7767598694343,
+                "normalized_intensity": 51.71712544861065
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 763.8850149102615,
+                "normalized_intensity": 34.72204613228461
+            }
+        ]
+    }
+}

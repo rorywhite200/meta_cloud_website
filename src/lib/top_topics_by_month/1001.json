@@ -1,0 +1,22 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 62.913637663427814,
+                "normalized_intensity": 62.913637663427814
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 62.46876224413235,
+                "normalized_intensity": 62.46876224413235
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.102674940000405,
+                "normalized_intensity": 52.102674940000405
+            }
+        ]
+    }
+}

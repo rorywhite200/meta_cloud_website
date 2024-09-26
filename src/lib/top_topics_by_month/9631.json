@@ -1,0 +1,57 @@
+{
+    "2024-08": {
+        "total_ads": 28,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 2430.062004916282,
+                "normalized_intensity": 86.78792874701007
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 2112.3937185617847,
+                "normalized_intensity": 75.44263280577802
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1266.8960744414578,
+                "normalized_intensity": 45.246288372909206
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 885.7568899055767,
+                "normalized_intensity": 31.634174639484883
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 741.5210022508952,
+                "normalized_intensity": 26.48289293753197
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 561.2730001964173,
+                "normalized_intensity": 20.04546429272919
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 554.7722794821658,
+                "normalized_intensity": 19.813295695791634
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 524.1732269288581,
+                "normalized_intensity": 18.72047239031636
+            },
+            {
+                "topic": "community",
+                "weighted_count": 522.2526221469384,
+                "normalized_intensity": 18.651879362390655
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 516.8026003279437,
+                "normalized_intensity": 18.457235725997986
+            }
+        ]
+    }
+}

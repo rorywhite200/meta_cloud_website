@@ -1,0 +1,137 @@
+{
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 351.5973572485915,
+                "normalized_intensity": 70.31947144971829
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 280.9266503079934,
+                "normalized_intensity": 56.18533006159868
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 175.02496436513056,
+                "normalized_intensity": 35.00499287302611
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 160.2240680863922,
+                "normalized_intensity": 32.04481361727844
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 60.18347464721844,
+                "normalized_intensity": 12.036694929443687
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 55.284330432533025,
+                "normalized_intensity": 11.056866086506606
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.11251622319841,
+                "normalized_intensity": 10.222503244639682
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 50.2607318689686,
+                "normalized_intensity": 10.05214637379372
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 49.80961908185754,
+                "normalized_intensity": 9.961923816371508
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.50362217316112,
+                "normalized_intensity": 9.900724434632224
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 106.56097627005896,
+                "normalized_intensity": 53.28048813502948
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 104.76527888888143,
+                "normalized_intensity": 52.38263944444071
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 102.86963267808846,
+                "normalized_intensity": 51.43481633904423
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 102.75198253811672,
+                "normalized_intensity": 51.37599126905836
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 147.95759154102967,
+                "normalized_intensity": 73.97879577051484
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 115.61553311938472,
+                "normalized_intensity": 57.80776655969236
+            },
+            {
+                "topic": "community",
+                "weighted_count": 113.94868018092662,
+                "normalized_intensity": 56.97434009046331
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 101.58866660125781,
+                "normalized_intensity": 50.79433330062891
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 55.32003151614172,
+                "normalized_intensity": 27.66001575807086
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.600956225129046,
+                "normalized_intensity": 26.800478112564523
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 52.74142198559893,
+                "normalized_intensity": 26.370710992799467
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 52.29274192902401,
+                "normalized_intensity": 26.146370964512005
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 50.92309528691745,
+                "normalized_intensity": 25.461547643458726
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.099698788531455,
+                "normalized_intensity": 24.549849394265728
+            }
+        ]
+    }
+}

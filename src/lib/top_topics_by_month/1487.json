@@ -1,0 +1,122 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 139.95366725752774,
+                "normalized_intensity": 69.97683362876387
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 126.26163969680019,
+                "normalized_intensity": 63.130819848400094
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 116.77810442479023,
+                "normalized_intensity": 58.389052212395114
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 116.21045214465248,
+                "normalized_intensity": 58.10522607232624
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 110.75771568951964,
+                "normalized_intensity": 55.37885784475982
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 285.58065195494754,
+                "normalized_intensity": 71.39516298873689
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 258.5869880969718,
+                "normalized_intensity": 64.64674702424296
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 232.76155362457587,
+                "normalized_intensity": 58.19038840614397
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 223.10837064404407,
+                "normalized_intensity": 55.77709266101102
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 210.11512844302655,
+                "normalized_intensity": 52.52878211075664
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 185.47390085871592,
+                "normalized_intensity": 61.824633619571976
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 170.91933159280381,
+                "normalized_intensity": 56.973110530934605
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 136.16040094865522,
+                "normalized_intensity": 45.386800316218405
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 111.61364748039789,
+                "normalized_intensity": 37.20454916013263
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 107.81760615341433,
+                "normalized_intensity": 35.93920205113811
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 58.53731061772495,
+                "normalized_intensity": 19.512436872574984
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 56.41187251695238,
+                "normalized_intensity": 18.803957505650793
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.78258536404963,
+                "normalized_intensity": 17.92752845468321
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.867309383967175,
+                "normalized_intensity": 17.62243646132239
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.23488245457173,
+                "normalized_intensity": 17.07829415152391
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.40531856487705,
+                "normalized_intensity": 16.468439521625683
+            }
+        ]
+    }
+}

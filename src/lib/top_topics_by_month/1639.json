@@ -1,0 +1,92 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 171.34960568680236,
+                "normalized_intensity": 57.11653522893412
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 143.83368801274273,
+                "normalized_intensity": 47.944562670914245
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 120.97069628083183,
+                "normalized_intensity": 40.323565426943944
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 111.48466568097469,
+                "normalized_intensity": 37.16155522699156
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 109.16594783745222,
+                "normalized_intensity": 36.38864927915074
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 103.64348189054202,
+                "normalized_intensity": 34.54782729684734
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 102.51018342578837,
+                "normalized_intensity": 34.17006114192946
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 99.54490527874657,
+                "normalized_intensity": 33.18163509291552
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.23271899299738,
+                "normalized_intensity": 33.07757299766579
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 138.2519721192208,
+                "normalized_intensity": 69.1259860596104
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 120.17571756880963,
+                "normalized_intensity": 60.087858784404816
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 119.5683117995051,
+                "normalized_intensity": 59.78415589975255
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 108.44073008004344,
+                "normalized_intensity": 54.22036504002172
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 106.22487910800692,
+                "normalized_intensity": 53.11243955400346
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 100.6876674968398,
+                "normalized_intensity": 50.3438337484199
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 49.22522506728794,
+                "normalized_intensity": 24.61261253364397
+            }
+        ]
+    }
+}

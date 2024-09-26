@@ -1,0 +1,52 @@
+{
+    "2024-03": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "privacy",
+                "weighted_count": 773.1403615219676,
+                "normalized_intensity": 59.47233550168982
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 767.7625008199147,
+                "normalized_intensity": 59.05865390922421
+            },
+            {
+                "topic": "security",
+                "weighted_count": 670.2785834755227,
+                "normalized_intensity": 51.55989103657867
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 506.83008386549835,
+                "normalized_intensity": 38.986929528115255
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 499.6227981875515,
+                "normalized_intensity": 38.43252293750396
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 473.1773764712142,
+                "normalized_intensity": 36.39825972855494
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 221.38177679555216,
+                "normalized_intensity": 17.029367445811705
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 72.68386702025617,
+                "normalized_intensity": 5.5910666938658595
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 51.98280731944269,
+                "normalized_intensity": 3.998677486110976
+            }
+        ]
+    }
+}

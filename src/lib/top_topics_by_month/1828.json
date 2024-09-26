@@ -1,0 +1,42 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 65.29925992988917,
+                "normalized_intensity": 65.29925992988917
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.816623611997834,
+                "normalized_intensity": 51.816623611997834
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.55783914371554,
+                "normalized_intensity": 50.55783914371554
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 65.29925992988917,
+                "normalized_intensity": 65.29925992988917
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.816623611997834,
+                "normalized_intensity": 51.816623611997834
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.55783914371554,
+                "normalized_intensity": 50.55783914371554
+            }
+        ]
+    }
+}

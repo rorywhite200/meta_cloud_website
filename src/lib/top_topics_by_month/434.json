@@ -1,0 +1,197 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 68.97851106883314,
+                "normalized_intensity": 68.97851106883314
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 68.02713931489824,
+                "normalized_intensity": 68.02713931489824
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 57.34318155294002,
+                "normalized_intensity": 57.34318155294002
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 406.3943731583755,
+                "normalized_intensity": 81.27887463167511
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 364.9255971388427,
+                "normalized_intensity": 72.98511942776854
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 154.19028063017353,
+                "normalized_intensity": 30.838056126034708
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.66476232473365,
+                "normalized_intensity": 9.93295246494673
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 85.5552710643768,
+                "normalized_intensity": 85.5552710643768
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 77.51480662314874,
+                "normalized_intensity": 77.51480662314874
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.65295039055632,
+                "normalized_intensity": 51.65295039055632
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 154.53928038572582,
+                "normalized_intensity": 77.26964019286291
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 137.57193228953082,
+                "normalized_intensity": 68.78596614476541
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 105.83909588942318,
+                "normalized_intensity": 52.91954794471159
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 141.2661697308425,
+                "normalized_intensity": 70.63308486542125
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 116.88007139447802,
+                "normalized_intensity": 58.44003569723901
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 58.85689846994152,
+                "normalized_intensity": 29.42844923497076
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.93127025087117,
+                "normalized_intensity": 25.465635125435586
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 150.38747660428533,
+                "normalized_intensity": 75.19373830214266
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 134.74906051051755,
+                "normalized_intensity": 67.37453025525878
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 110.84385214479178,
+                "normalized_intensity": 55.42192607239589
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 78.18742347470004,
+                "normalized_intensity": 78.18742347470004
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 64.89268979704337,
+                "normalized_intensity": 64.89268979704337
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 53.311394354315475,
+                "normalized_intensity": 53.311394354315475
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 147.0119982979321,
+                "normalized_intensity": 73.50599914896605
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 124.32533226667384,
+                "normalized_intensity": 62.16266613333692
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 66.47818268403657,
+                "normalized_intensity": 33.239091342018284
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.59653950025047,
+                "normalized_intensity": 26.798269750125236
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 232.60181617186356,
+                "normalized_intensity": 77.53393872395452
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 187.85347661528328,
+                "normalized_intensity": 62.61782553842776
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 164.9781647733403,
+                "normalized_intensity": 54.99272159111343
+            }
+        ]
+    }
+}

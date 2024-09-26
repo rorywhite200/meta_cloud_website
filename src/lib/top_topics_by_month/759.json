@@ -1,0 +1,67 @@
+{
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "law",
+                "weighted_count": 132.93477809652316,
+                "normalized_intensity": 33.23369452413079
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 118.96195826617712,
+                "normalized_intensity": 29.74048956654428
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 110.04183736945414,
+                "normalized_intensity": 27.510459342363536
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 107.85633373893285,
+                "normalized_intensity": 26.96408343473321
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.200068423289615,
+                "normalized_intensity": 13.050017105822404
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 216.04159542186682,
+                "normalized_intensity": 72.01386514062227
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 198.8308986158076,
+                "normalized_intensity": 66.2769662052692
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 175.80864521044109,
+                "normalized_intensity": 58.60288173681369
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 168.64470865208398,
+                "normalized_intensity": 56.21490288402799
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 152.8111322524818,
+                "normalized_intensity": 50.9370440841606
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 147.2119700919859,
+                "normalized_intensity": 49.07065669732864
+            }
+        ]
+    }
+}

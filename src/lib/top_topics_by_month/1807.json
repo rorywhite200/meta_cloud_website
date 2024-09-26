@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 273.31296748765294,
+                "normalized_intensity": 68.32824187191324
+            },
+            {
+                "topic": "education",
+                "weighted_count": 263.68185486920015,
+                "normalized_intensity": 65.92046371730004
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 263.51312919339597,
+                "normalized_intensity": 65.87828229834899
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 209.33523065776603,
+                "normalized_intensity": 52.33380766444151
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 200.30358778279455,
+                "normalized_intensity": 50.07589694569864
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 118.49346847894088,
+                "normalized_intensity": 29.62336711973522
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 106.29373705954201,
+                "normalized_intensity": 26.573434264885503
+            },
+            {
+                "topic": "science",
+                "weighted_count": 102.31978376399317,
+                "normalized_intensity": 25.579945940998293
+            }
+        ]
+    }
+}

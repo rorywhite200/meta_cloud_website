@@ -1,0 +1,107 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 72.51733258377087,
+                "normalized_intensity": 72.51733258377087
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 67.78470396837668,
+                "normalized_intensity": 67.78470396837668
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 64.79848384558932,
+                "normalized_intensity": 64.79848384558932
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 56.814465058419316,
+                "normalized_intensity": 56.814465058419316
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 55.18932967406114,
+                "normalized_intensity": 55.18932967406114
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.086269556064735,
+                "normalized_intensity": 53.086269556064735
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 67.99645044403063,
+                "normalized_intensity": 67.99645044403063
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 61.03603429182123,
+                "normalized_intensity": 61.03603429182123
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 57.137872842772765,
+                "normalized_intensity": 57.137872842772765
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 56.15608479555001,
+                "normalized_intensity": 56.15608479555001
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 52.04853030775184,
+                "normalized_intensity": 52.04853030775184
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 70.5973830648818,
+                "normalized_intensity": 70.5973830648818
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 70.12708418843464,
+                "normalized_intensity": 70.12708418843464
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 68.69761132867906,
+                "normalized_intensity": 68.69761132867906
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 66.20998657286478,
+                "normalized_intensity": 66.20998657286478
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 65.58053391237706,
+                "normalized_intensity": 65.58053391237706
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 50.53368613954001,
+                "normalized_intensity": 50.53368613954001
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.538114822143534,
+                "normalized_intensity": 49.538114822143534
+            }
+        ]
+    }
+}

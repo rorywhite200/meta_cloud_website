@@ -1,0 +1,87 @@
+{
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 201.59171668068115,
+                "normalized_intensity": 67.19723889356038
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 106.38728479136275,
+                "normalized_intensity": 35.46242826378758
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.22810990616121,
+                "normalized_intensity": 18.742703302053737
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 55.524287659554986,
+                "normalized_intensity": 18.50809588651833
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.58120492278701,
+                "normalized_intensity": 17.52706830759567
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.51697439684324,
+                "normalized_intensity": 17.172324798947745
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.544348885951955,
+                "normalized_intensity": 16.514782961983986
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 204.9004989692728,
+                "normalized_intensity": 68.30016632309093
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 160.4984000107562,
+                "normalized_intensity": 53.49946667025207
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 153.4579754822515,
+                "normalized_intensity": 51.15265849408383
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.544348885951955,
+                "normalized_intensity": 16.514782961983986
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 67.97711578559299,
+                "normalized_intensity": 67.97711578559299
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.65068133995737,
+                "normalized_intensity": 53.65068133995737
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.438385279732245,
+                "normalized_intensity": 50.438385279732245
+            }
+        ]
+    }
+}

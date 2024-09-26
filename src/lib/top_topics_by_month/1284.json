@@ -1,0 +1,62 @@
+{
+    "2024-02": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 388.24555504741056,
+                "normalized_intensity": 64.70759250790177
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 355.42391740384414,
+                "normalized_intensity": 59.23731956730736
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 181.92066473266055,
+                "normalized_intensity": 30.32011078877676
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 102.61660114299053,
+                "normalized_intensity": 17.10276685716509
+            },
+            {
+                "topic": "science",
+                "weighted_count": 64.03480519740874,
+                "normalized_intensity": 10.672467532901457
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 54.28069239404822,
+                "normalized_intensity": 9.046782065674703
+            },
+            {
+                "topic": "business",
+                "weighted_count": 53.90970336049422,
+                "normalized_intensity": 8.98495056008237
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.22736713592748,
+                "normalized_intensity": 8.53789452265458
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 51.0157921143393,
+                "normalized_intensity": 8.50263201905655
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.31000753851809,
+                "normalized_intensity": 8.218334589753015
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 49.209706180922204,
+                "normalized_intensity": 8.201617696820367
+            }
+        ]
+    }
+}

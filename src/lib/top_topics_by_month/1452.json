@@ -1,0 +1,102 @@
+{
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 348.6826786903847,
+                "normalized_intensity": 69.73653573807694
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 332.65612634182986,
+                "normalized_intensity": 66.53122526836597
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 308.01689409317794,
+                "normalized_intensity": 61.60337881863559
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 291.26156609314165,
+                "normalized_intensity": 58.25231321862833
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 270.80680395739364,
+                "normalized_intensity": 54.16136079147873
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 268.62181410072174,
+                "normalized_intensity": 53.72436282014435
+            },
+            {
+                "topic": "health",
+                "weighted_count": 261.5249509657923,
+                "normalized_intensity": 52.30499019315846
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 258.1419640013827,
+                "normalized_intensity": 51.628392800276536
+            },
+            {
+                "topic": "community",
+                "weighted_count": 207.22407772233782,
+                "normalized_intensity": 41.444815544467566
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 200.55278326166444,
+                "normalized_intensity": 40.11055665233289
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 105.97214920743062,
+                "normalized_intensity": 21.194429841486123
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 105.04274950587507,
+                "normalized_intensity": 21.008549901175012
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.85098158612811,
+                "normalized_intensity": 19.97019631722562
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 53.15235989217207,
+                "normalized_intensity": 10.630471978434414
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.61269918296521,
+                "normalized_intensity": 10.522539836593042
+            },
+            {
+                "topic": "family",
+                "weighted_count": 51.0804358137301,
+                "normalized_intensity": 10.21608716274602
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.17650285576665,
+                "normalized_intensity": 10.03530057115333
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.33865662427602,
+                "normalized_intensity": 9.867731324855203
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 49.148348870344236,
+                "normalized_intensity": 9.829669774068847
+            }
+        ]
+    }
+}

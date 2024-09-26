@@ -1,0 +1,77 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 113.11446646654872,
+                "normalized_intensity": 56.55723323327436
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 61.129630334407125,
+                "normalized_intensity": 30.564815167203562
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.84280620354857,
+                "normalized_intensity": 27.421403101774285
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 110.2564414752049,
+                "normalized_intensity": 55.12822073760245
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 66.92007473820871,
+                "normalized_intensity": 33.460037369104356
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 57.04156610711861,
+                "normalized_intensity": 28.520783053559306
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.65188351040803,
+                "normalized_intensity": 27.325941755204013
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.52957855393736,
+                "normalized_intensity": 26.76478927696868
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 120.8274257450012,
+                "normalized_intensity": 60.4137128725006
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 109.11234887808729,
+                "normalized_intensity": 54.556174439043644
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 56.06671753023751,
+                "normalized_intensity": 28.033358765118756
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.93415940934952,
+                "normalized_intensity": 27.96707970467476
+            }
+        ]
+    }
+}

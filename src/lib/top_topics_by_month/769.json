@@ -1,0 +1,77 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 115.8212337132301,
+                "normalized_intensity": 57.91061685661505
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 65.33697678955893,
+                "normalized_intensity": 32.668488394779466
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 61.76592585971641,
+                "normalized_intensity": 30.882962929858206
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 54.943813725278105,
+                "normalized_intensity": 27.471906862639052
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.0829466520377,
+                "normalized_intensity": 26.04147332601885
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 50.92739447010182,
+                "normalized_intensity": 25.46369723505091
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.61289404283834,
+                "normalized_intensity": 24.80644702141917
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 79.49318883093002,
+                "normalized_intensity": 79.49318883093002
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 57.59217342862731,
+                "normalized_intensity": 57.59217342862731
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.24786378373942,
+                "normalized_intensity": 57.24786378373942
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.778134320809976,
+                "normalized_intensity": 49.778134320809976
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 49.302950758785286,
+                "normalized_intensity": 49.302950758785286
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.08465782456039,
+                "normalized_intensity": 49.08465782456039
+            }
+        ]
+    }
+}

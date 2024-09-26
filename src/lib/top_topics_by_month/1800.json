@@ -1,0 +1,232 @@
+{
+    "2023-09": {
+        "total_ads": 50,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 2283.6797567747444,
+                "normalized_intensity": 45.673595135494885
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 1620.4376182948695,
+                "normalized_intensity": 32.40875236589739
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 874.0985838552614,
+                "normalized_intensity": 17.48197167710523
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 838.0558861777448,
+                "normalized_intensity": 16.761117723554896
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 269.82307334468044,
+                "normalized_intensity": 5.396461466893609
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 261.6651003412509,
+                "normalized_intensity": 5.233302006825017
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 223.1056174878429,
+                "normalized_intensity": 4.4621123497568576
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 208.4639051761809,
+                "normalized_intensity": 4.169278103523618
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 173.95552260488816,
+                "normalized_intensity": 3.479110452097763
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 161.6436587412253,
+                "normalized_intensity": 3.232873174824506
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 155.1944698977405,
+                "normalized_intensity": 3.10388939795481
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 148.54871391905084,
+                "normalized_intensity": 2.970974278381017
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 147.99236023434133,
+                "normalized_intensity": 2.9598472046868265
+            },
+            {
+                "topic": "community",
+                "weighted_count": 111.31930354304372,
+                "normalized_intensity": 2.2263860708608743
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 107.82499607966129,
+                "normalized_intensity": 2.156499921593226
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 69.82575261831411,
+                "normalized_intensity": 1.3965150523662822
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.69009862891115,
+                "normalized_intensity": 1.273801972578223
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 61.23640879979426,
+                "normalized_intensity": 1.2247281759958852
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.171151453916394,
+                "normalized_intensity": 1.2034230290783279
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 58.843400963939715,
+                "normalized_intensity": 1.1768680192787944
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 57.7084528734938,
+                "normalized_intensity": 1.154169057469876
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.47433372019975,
+                "normalized_intensity": 1.129486674403995
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.278296395305155,
+                "normalized_intensity": 1.0455659279061031
+            },
+            {
+                "topic": "business",
+                "weighted_count": 52.15908788314524,
+                "normalized_intensity": 1.0431817576629048
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.00692848558418,
+                "normalized_intensity": 1.0401385697116836
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.66590684952411,
+                "normalized_intensity": 1.0133181369904822
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.54265339410219,
+                "normalized_intensity": 0.9908530678820437
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.288751005149294,
+                "normalized_intensity": 0.9857750201029859
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 1293.8952343177523,
+                "normalized_intensity": 56.256314535554445
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 1183.6758034077263,
+                "normalized_intensity": 51.46416536555332
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 424.578496180042,
+                "normalized_intensity": 18.459934616523565
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 158.75365204389925,
+                "normalized_intensity": 6.902332697560837
+            },
+            {
+                "topic": "community",
+                "weighted_count": 111.31930354304372,
+                "normalized_intensity": 4.83996971926277
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 107.82499607966129,
+                "normalized_intensity": 4.688043307811361
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 107.36982272838486,
+                "normalized_intensity": 4.66825316210369
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 69.4879683920603,
+                "normalized_intensity": 3.0212160170461
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 57.985174201629384,
+                "normalized_intensity": 2.5210945305056254
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 54.4624745002222,
+                "normalized_intensity": 2.367933673922704
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 53.88121958040843,
+                "normalized_intensity": 2.342661720887323
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.86436700029474,
+                "normalized_intensity": 2.341929000012815
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 52.34281367672436,
+                "normalized_intensity": 2.2757745076836677
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 51.731489965913504,
+                "normalized_intensity": 2.2491952159092827
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.51623797301694,
+                "normalized_intensity": 2.152879911870302
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.33078674478044,
+                "normalized_intensity": 2.144816814990454
+            }
+        ]
+    }
+}

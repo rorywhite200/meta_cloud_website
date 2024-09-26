@@ -1,0 +1,32 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 134.04453791818807,
+                "normalized_intensity": 67.02226895909403
+            },
+            {
+                "topic": "art",
+                "weighted_count": 124.16673592050243,
+                "normalized_intensity": 62.083367960251216
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 112.63807368418814,
+                "normalized_intensity": 56.31903684209407
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 109.29935295973934,
+                "normalized_intensity": 54.64967647986967
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 101.44735147558524,
+                "normalized_intensity": 50.72367573779262
+            }
+        ]
+    }
+}

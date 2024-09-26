@@ -1,0 +1,42 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 154.47351382053716,
+                "normalized_intensity": 77.23675691026858
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 147.53437471901952,
+                "normalized_intensity": 73.76718735950976
+            },
+            {
+                "topic": "food",
+                "weighted_count": 54.53104935547811,
+                "normalized_intensity": 27.265524677739055
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.715617501027985,
+                "normalized_intensity": 25.357808750513993
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 50.245026598425035,
+                "normalized_intensity": 25.122513299212518
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.098708722215015,
+                "normalized_intensity": 25.049354361107508
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.68816025782047,
+                "normalized_intensity": 24.844080128910235
+            }
+        ]
+    }
+}

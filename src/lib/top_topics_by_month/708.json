@@ -1,0 +1,72 @@
+{
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "agriculture",
+                "weighted_count": 113.75808777109555,
+                "normalized_intensity": 22.75161755421911
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 105.01605295198513,
+                "normalized_intensity": 21.003210590397025
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "agriculture",
+                "weighted_count": 56.87904388554777,
+                "normalized_intensity": 28.439521942773887
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.508026475992565,
+                "normalized_intensity": 26.254013237996283
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "agriculture",
+                "weighted_count": 56.87904388554777,
+                "normalized_intensity": 28.439521942773887
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.508026475992565,
+                "normalized_intensity": 26.254013237996283
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 183.65209681933985,
+                "normalized_intensity": 30.608682803223306
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 56.87904388554777,
+                "normalized_intensity": 9.479840647591296
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.508026475992565,
+                "normalized_intensity": 8.751337745998761
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.3748974833769,
+                "normalized_intensity": 8.229149580562817
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 215.35991572153102,
+                "normalized_intensity": 71.78663857384367
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 187.32522514087623,
+                "normalized_intensity": 62.44174171362541
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 186.51689538327628,
+                "normalized_intensity": 62.17229846109209
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 171.31503279546715,
+                "normalized_intensity": 57.105010931822385
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 147.12181908941758,
+                "normalized_intensity": 49.0406063631392
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 71.78663857384367,
+                "normalized_intensity": 71.78663857384367
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.44174171362541,
+                "normalized_intensity": 62.44174171362541
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 62.17229846109209,
+                "normalized_intensity": 62.17229846109209
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 57.105010931822385,
+                "normalized_intensity": 57.105010931822385
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 49.0406063631392,
+                "normalized_intensity": 49.0406063631392
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 60.35017331910167,
+                "normalized_intensity": 60.35017331910167
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.71398218159104,
+                "normalized_intensity": 57.71398218159104
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 53.46409935235329,
+                "normalized_intensity": 53.46409935235329
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 51.715783684640016,
+                "normalized_intensity": 51.715783684640016
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.128242357012084,
+                "normalized_intensity": 62.128242357012084
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 61.230492777093005,
+                "normalized_intensity": 61.230492777093005
+            },
+            {
+                "topic": "history",
+                "weighted_count": 58.770293940987486,
+                "normalized_intensity": 58.770293940987486
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 56.57309733038339,
+                "normalized_intensity": 56.57309733038339
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.200983190028175,
+                "normalized_intensity": 56.200983190028175
+            }
+        ]
+    }
+}

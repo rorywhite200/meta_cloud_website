@@ -1,0 +1,77 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 72.40847125019758,
+                "normalized_intensity": 72.40847125019758
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 62.44527856473474,
+                "normalized_intensity": 62.44527856473474
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.27950337242771,
+                "normalized_intensity": 62.27950337242771
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.68913518399378,
+                "normalized_intensity": 55.68913518399378
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.36989968125759,
+                "normalized_intensity": 55.36989968125759
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.102184153816715,
+                "normalized_intensity": 54.102184153816715
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 52.29936758341744,
+                "normalized_intensity": 52.29936758341744
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.59357577557959,
+                "normalized_intensity": 49.59357577557959
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 70.07159572583286,
+                "normalized_intensity": 70.07159572583286
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 63.17681239696385,
+                "normalized_intensity": 63.17681239696385
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.761548800471346,
+                "normalized_intensity": 62.761548800471346
+            },
+            {
+                "topic": "family",
+                "weighted_count": 53.963997736807414,
+                "normalized_intensity": 53.963997736807414
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.353962018872394,
+                "normalized_intensity": 49.353962018872394
+            }
+        ]
+    }
+}

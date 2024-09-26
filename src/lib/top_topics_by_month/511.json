@@ -1,0 +1,62 @@
+{
+    "2024-03": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 370.16549468364394,
+                "normalized_intensity": 52.88078495480628
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 164.41363138719584,
+                "normalized_intensity": 23.487661626742263
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 55.26612976995504,
+                "normalized_intensity": 55.26612976995504
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 54.804543795731945,
+                "normalized_intensity": 54.804543795731945
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 121.50454807668412,
+                "normalized_intensity": 60.75227403834206
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 114.47781509869739,
+                "normalized_intensity": 57.238907549348696
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 118.24282388423673,
+                "normalized_intensity": 59.121411942118364
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 114.45397186359392,
+                "normalized_intensity": 57.22698593179696
+            }
+        ]
+    }
+}

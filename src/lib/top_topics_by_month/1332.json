@@ -1,0 +1,32 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 128.38321089487476,
+                "normalized_intensity": 32.09580272371869
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 124.10900693976824,
+                "normalized_intensity": 31.02725173494206
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 104.91010009559321,
+                "normalized_intensity": 26.227525023898302
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 60.12664140838959,
+                "normalized_intensity": 15.031660352097397
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.0967159939719,
+                "normalized_intensity": 12.524178998492975
+            }
+        ]
+    }
+}

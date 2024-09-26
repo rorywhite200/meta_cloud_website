@@ -1,0 +1,137 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 78.7107009784362,
+                "normalized_intensity": 78.7107009784362
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.87312648357124,
+                "normalized_intensity": 60.87312648357124
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 60.8656894995606,
+                "normalized_intensity": 60.8656894995606
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 77.08160100015371,
+                "normalized_intensity": 77.08160100015371
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 59.86461783859938,
+                "normalized_intensity": 59.86461783859938
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.58150727993581,
+                "normalized_intensity": 52.58150727993581
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.17820048268583,
+                "normalized_intensity": 50.17820048268583
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 134.61545378420453,
+                "normalized_intensity": 33.65386344605113
+            },
+            {
+                "topic": "community",
+                "weighted_count": 112.59325268965686,
+                "normalized_intensity": 28.148313172414216
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 108.14932898615987,
+                "normalized_intensity": 27.037332246539968
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 70.24051129469333,
+                "normalized_intensity": 17.560127823673334
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 68.07075331828773,
+                "normalized_intensity": 17.017688329571932
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 60.04134614191812,
+                "normalized_intensity": 15.01033653547953
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 58.81236937896258,
+                "normalized_intensity": 14.703092344740645
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 56.71671994642773,
+                "normalized_intensity": 14.179179986606933
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 53.030999695946015,
+                "normalized_intensity": 13.257749923986504
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 52.66534072326142,
+                "normalized_intensity": 13.166335180815356
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.00990733203206,
+                "normalized_intensity": 12.752476833008014
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.83672633730587,
+                "normalized_intensity": 12.709181584326467
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.34028299679027,
+                "normalized_intensity": 12.335070749197568
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 106.84017945366058,
+                "normalized_intensity": 53.42008972683029
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 100.46316568096185,
+                "normalized_intensity": 50.231582840480925
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 99.12390752532642,
+                "normalized_intensity": 49.56195376266321
+            }
+        ]
+    }
+}

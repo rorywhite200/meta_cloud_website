@@ -1,0 +1,52 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 57.2996847201717,
+                "normalized_intensity": 57.2996847201717
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.82636247491145,
+                "normalized_intensity": 51.82636247491145
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 83.37966712084956,
+                "normalized_intensity": 83.37966712084956
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 80.70113786645928,
+                "normalized_intensity": 80.70113786645928
+            },
+            {
+                "topic": "family",
+                "weighted_count": 79.32194710135344,
+                "normalized_intensity": 79.32194710135344
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 64.72475294086415,
+                "normalized_intensity": 64.72475294086415
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 63.603170245415754,
+                "normalized_intensity": 63.603170245415754
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.57825321132448,
+                "normalized_intensity": 56.57825321132448
+            }
+        ]
+    }
+}

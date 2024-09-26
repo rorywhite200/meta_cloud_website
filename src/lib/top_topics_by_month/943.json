@@ -1,0 +1,42 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 63.64021332144746,
+                "normalized_intensity": 63.64021332144746
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 65.34811399146545,
+                "normalized_intensity": 65.34811399146545
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 63.09294358859279,
+                "normalized_intensity": 63.09294358859279
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 58.16141003182391,
+                "normalized_intensity": 58.16141003182391
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 53.06903508697428,
+                "normalized_intensity": 53.06903508697428
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.06552981489196,
+                "normalized_intensity": 50.06552981489196
+            }
+        ]
+    }
+}

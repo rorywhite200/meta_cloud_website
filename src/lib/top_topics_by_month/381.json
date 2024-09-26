@@ -1,0 +1,282 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 148.9877140358189,
+                "normalized_intensity": 74.49385701790945
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 140.81618948333585,
+                "normalized_intensity": 70.40809474166792
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 121.92806990290907,
+                "normalized_intensity": 60.964034951454536
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 117.19798533771582,
+                "normalized_intensity": 58.59899266885791
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 117.06018783067005,
+                "normalized_intensity": 58.53009391533502
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 108.09121938685323,
+                "normalized_intensity": 54.04560969342661
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 104.58277521551445,
+                "normalized_intensity": 52.29138760775722
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 102.15941002603076,
+                "normalized_intensity": 51.07970501301538
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 101.70129556458967,
+                "normalized_intensity": 50.850647782294836
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 101.33350027081977,
+                "normalized_intensity": 50.666750135409885
+            },
+            {
+                "topic": "media",
+                "weighted_count": 98.50108241327399,
+                "normalized_intensity": 49.250541206636996
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 157.94201923859055,
+                "normalized_intensity": 78.97100961929527
+            },
+            {
+                "topic": "health",
+                "weighted_count": 134.0179430789076,
+                "normalized_intensity": 67.0089715394538
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 125.98627176210722,
+                "normalized_intensity": 62.99313588105361
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 121.96854056731404,
+                "normalized_intensity": 60.98427028365702
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 114.75715015588189,
+                "normalized_intensity": 57.378575077940944
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 108.52117612197212,
+                "normalized_intensity": 54.26058806098606
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 106.88664674682,
+                "normalized_intensity": 53.44332337341
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 101.33430811000865,
+                "normalized_intensity": 50.667154055004325
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 100.07875545534033,
+                "normalized_intensity": 50.039377727670164
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "security",
+                "weighted_count": 531.6596419003927,
+                "normalized_intensity": 66.45745523754908
+            },
+            {
+                "topic": "law",
+                "weighted_count": 494.55876427029324,
+                "normalized_intensity": 61.819845533786655
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 483.26457837690236,
+                "normalized_intensity": 60.408072297112795
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 469.80521786495285,
+                "normalized_intensity": 58.725652233119106
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 453.39443819486746,
+                "normalized_intensity": 56.67430477435843
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 440.704276673734,
+                "normalized_intensity": 55.08803458421675
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 321.00226359757124,
+                "normalized_intensity": 40.125282949696405
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 265.1942358907066,
+                "normalized_intensity": 33.14927948633832
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 155.95683038048952,
+                "normalized_intensity": 19.49460379756119
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "security",
+                "weighted_count": 313.29645918127676,
+                "normalized_intensity": 44.75663702589668
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 292.96877936272676,
+                "normalized_intensity": 41.852682766103825
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 285.8943290229386,
+                "normalized_intensity": 40.842047003276946
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 285.4311584562804,
+                "normalized_intensity": 40.77587977946863
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 279.84044233525316,
+                "normalized_intensity": 39.97720604789331
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 255.26969209104976,
+                "normalized_intensity": 36.46709887014997
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 235.80455507964444,
+                "normalized_intensity": 33.68636501137778
+            },
+            {
+                "topic": "law",
+                "weighted_count": 186.14430640096222,
+                "normalized_intensity": 26.592043771566033
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 101.28649587716791,
+                "normalized_intensity": 14.469499411023987
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 61.98716039112592,
+                "normalized_intensity": 8.855308627303703
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 60.6815159804403,
+                "normalized_intensity": 8.668787997205758
+            },
+            {
+                "topic": "science",
+                "weighted_count": 52.88043422351052,
+                "normalized_intensity": 7.554347746215789
+            },
+            {
+                "topic": "music",
+                "weighted_count": 51.950009787427234,
+                "normalized_intensity": 7.421429969632462
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 68.62271294254676,
+                "normalized_intensity": 22.874237647515585
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 64.1293271120005,
+                "normalized_intensity": 21.376442370666833
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 63.0392723612614,
+                "normalized_intensity": 21.013090787087133
+            },
+            {
+                "topic": "music",
+                "weighted_count": 58.63554148905909,
+                "normalized_intensity": 19.54518049635303
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 56.24317386649984,
+                "normalized_intensity": 18.74772462216661
+            },
+            {
+                "topic": "security",
+                "weighted_count": 53.794775959636056,
+                "normalized_intensity": 17.931591986545353
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 52.41712372823915,
+                "normalized_intensity": 17.472374576079716
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.08885769196364,
+                "normalized_intensity": 16.696285897321214
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 49.97029922531734,
+                "normalized_intensity": 16.656766408439115
+            }
+        ]
+    }
+}

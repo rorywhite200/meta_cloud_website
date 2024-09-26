@@ -1,0 +1,102 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 57.77097946780532,
+                "normalized_intensity": 28.88548973390266
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.2577118333414,
+                "normalized_intensity": 25.6288559166707
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 561.2639885048727,
+                "normalized_intensity": 37.41759923365818
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 551.6000944427383,
+                "normalized_intensity": 36.77333962951589
+            },
+            {
+                "topic": "history",
+                "weighted_count": 463.124763409362,
+                "normalized_intensity": 30.8749842272908
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 383.548833541014,
+                "normalized_intensity": 25.5699222360676
+            },
+            {
+                "topic": "television",
+                "weighted_count": 369.774204786622,
+                "normalized_intensity": 24.65161365244147
+            },
+            {
+                "topic": "art",
+                "weighted_count": 312.5642759581688,
+                "normalized_intensity": 20.837618397211255
+            },
+            {
+                "topic": "community",
+                "weighted_count": 311.9251990008531,
+                "normalized_intensity": 20.79501326672354
+            },
+            {
+                "topic": "film",
+                "weighted_count": 277.30990153489495,
+                "normalized_intensity": 18.487326768992997
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 211.17723578328884,
+                "normalized_intensity": 14.078482385552588
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 158.61839978400525,
+                "normalized_intensity": 10.57455998560035
+            },
+            {
+                "topic": "family",
+                "weighted_count": 106.80893821862082,
+                "normalized_intensity": 7.120595881241388
+            },
+            {
+                "topic": "food",
+                "weighted_count": 78.85593783011893,
+                "normalized_intensity": 5.257062522007929
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 57.938759171247035,
+                "normalized_intensity": 3.8625839447498023
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 55.08949039628842,
+                "normalized_intensity": 3.6726326930858946
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 54.29852321128148,
+                "normalized_intensity": 3.619901547418765
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.07333558727379,
+                "normalized_intensity": 3.2715557058182525
+            }
+        ]
+    }
+}

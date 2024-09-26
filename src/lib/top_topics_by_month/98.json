@@ -1,0 +1,42 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 143.37361457409094,
+                "normalized_intensity": 71.68680728704547
+            },
+            {
+                "topic": "community",
+                "weighted_count": 120.76686367290827,
+                "normalized_intensity": 60.383431836454136
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 120.0527206672538,
+                "normalized_intensity": 60.0263603336269
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 113.19876668093123,
+                "normalized_intensity": 56.599383340465614
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 104.36137958182555,
+                "normalized_intensity": 52.18068979091277
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 103.91020214859432,
+                "normalized_intensity": 51.95510107429716
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 103.63061285438262,
+                "normalized_intensity": 51.81530642719131
+            }
+        ]
+    }
+}

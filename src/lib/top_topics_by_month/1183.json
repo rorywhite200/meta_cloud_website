@@ -1,0 +1,127 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 86.28306054679614,
+                "normalized_intensity": 86.28306054679614
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 73.58552941920689,
+                "normalized_intensity": 73.58552941920689
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 70.5102062419166,
+                "normalized_intensity": 70.5102062419166
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 64.54429535481574,
+                "normalized_intensity": 64.54429535481574
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 61.869817035793226,
+                "normalized_intensity": 61.869817035793226
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 54.82627710207038,
+                "normalized_intensity": 54.82627710207038
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 53.44458755453425,
+                "normalized_intensity": 53.44458755453425
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 127.55664157239907,
+                "normalized_intensity": 31.88916039309977
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 122.42019577200222,
+                "normalized_intensity": 30.605048943000554
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 119.71828933082546,
+                "normalized_intensity": 29.929572332706364
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 118.72814360579733,
+                "normalized_intensity": 29.682035901449332
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 118.42509740190604,
+                "normalized_intensity": 29.60627435047651
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 75.49860789803115,
+                "normalized_intensity": 18.87465197450779
+            },
+            {
+                "topic": "science",
+                "weighted_count": 66.60601053588682,
+                "normalized_intensity": 16.651502633971706
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 61.02408703192677,
+                "normalized_intensity": 15.256021757981692
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.20996436237936,
+                "normalized_intensity": 14.05249109059484
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.39110643969395,
+                "normalized_intensity": 13.847776609923487
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 54.3431625697536,
+                "normalized_intensity": 13.5857906424384
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.52529747264787,
+                "normalized_intensity": 13.381324368161968
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 50.50157515666835,
+                "normalized_intensity": 12.625393789167088
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.351333934785416,
+                "normalized_intensity": 12.587833483696354
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.95007986227281,
+                "normalized_intensity": 12.487519965568202
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.26319055641898,
+                "normalized_intensity": 12.315797639104744
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 122.48601690072672,
+                "normalized_intensity": 61.24300845036336
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 121.53146992996862,
+                "normalized_intensity": 60.76573496498431
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 121.45558513294856,
+                "normalized_intensity": 60.72779256647428
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 108.32358251733525,
+                "normalized_intensity": 54.16179125866763
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 104.0182443009509,
+                "normalized_intensity": 52.00912215047545
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.65691431746833,
+                "normalized_intensity": 51.82845715873417
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.63507815808369,
+                "normalized_intensity": 51.81753907904184
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 103.53208874179035,
+                "normalized_intensity": 51.76604437089517
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 65.79947897892686,
+                "normalized_intensity": 32.89973948946343
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 62.33123837790322,
+                "normalized_intensity": 31.16561918895161
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 60.88389627792047,
+                "normalized_intensity": 30.441948138960235
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 58.87802928510288,
+                "normalized_intensity": 29.43901464255144
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.1018247577443,
+                "normalized_intensity": 28.05091237887215
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 53.754459434258536,
+                "normalized_intensity": 26.877229717129268
+            },
+            {
+                "topic": "media",
+                "weighted_count": 52.16744918845594,
+                "normalized_intensity": 26.08372459422797
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.885171362452645,
+                "normalized_intensity": 24.942585681226323
+            }
+        ]
+    }
+}

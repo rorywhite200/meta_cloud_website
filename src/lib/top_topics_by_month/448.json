@@ -1,0 +1,122 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 112.25556466847283,
+                "normalized_intensity": 56.127782334236414
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 80.14216020923676,
+                "normalized_intensity": 40.07108010461838
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.067518685649695,
+                "normalized_intensity": 26.533759342824847
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 77.02307588502542,
+                "normalized_intensity": 77.02307588502542
+            },
+            {
+                "topic": "family",
+                "weighted_count": 76.27231496958711,
+                "normalized_intensity": 76.27231496958711
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 74.72332903114817,
+                "normalized_intensity": 74.72332903114817
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 65.2869897186373,
+                "normalized_intensity": 65.2869897186373
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 64.55606162201087,
+                "normalized_intensity": 64.55606162201087
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 60.78310880957566,
+                "normalized_intensity": 60.78310880957566
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 57.92895268149958,
+                "normalized_intensity": 57.92895268149958
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 57.67113580410811,
+                "normalized_intensity": 57.67113580410811
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 54.77464244339293,
+                "normalized_intensity": 54.77464244339293
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.22703428052896,
+                "normalized_intensity": 53.22703428052896
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.96641687993666,
+                "normalized_intensity": 51.96641687993666
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 50.27016397455295,
+                "normalized_intensity": 50.27016397455295
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 73.81111122118423,
+                "normalized_intensity": 73.81111122118423
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.923676958861904,
+                "normalized_intensity": 59.923676958861904
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 57.86091973789118,
+                "normalized_intensity": 57.86091973789118
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 63.58551569222624,
+                "normalized_intensity": 63.58551569222624
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 62.875453081082156,
+                "normalized_intensity": 62.875453081082156
+            }
+        ]
+    }
+}

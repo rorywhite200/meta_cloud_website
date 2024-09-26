@@ -1,0 +1,37 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 58.40058156175222,
+                "normalized_intensity": 58.40058156175222
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.70017565504421,
+                "normalized_intensity": 49.70017565504421
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 57.58309551427221,
+                "normalized_intensity": 57.58309551427221
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.86186593870129,
+                "normalized_intensity": 56.86186593870129
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.131074749077314,
+                "normalized_intensity": 55.131074749077314
+            }
+        ]
+    }
+}

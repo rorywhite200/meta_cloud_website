@@ -1,0 +1,87 @@
+{
+    "2024-06": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 366.5835392728303,
+                "normalized_intensity": 61.097256545471716
+            },
+            {
+                "topic": "community",
+                "weighted_count": 320.9668894494259,
+                "normalized_intensity": 53.49448157490431
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 316.5214748998939,
+                "normalized_intensity": 52.75357914998232
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 270.7454000993997,
+                "normalized_intensity": 45.12423334989995
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 210.15155973736796,
+                "normalized_intensity": 35.02525995622799
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 167.36576161872347,
+                "normalized_intensity": 27.894293603120577
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 156.0112698906526,
+                "normalized_intensity": 26.00187831510877
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 116.31875437469526,
+                "normalized_intensity": 19.38645906244921
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 104.91861964244046,
+                "normalized_intensity": 17.48643660707341
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 103.2055192057458,
+                "normalized_intensity": 17.2009198676243
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 102.16398569591719,
+                "normalized_intensity": 17.02733094931953
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.77988729773755,
+                "normalized_intensity": 16.796647882956258
+            },
+            {
+                "topic": "family",
+                "weighted_count": 99.8338900163972,
+                "normalized_intensity": 16.638981669399534
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 60.574401433517934,
+                "normalized_intensity": 10.095733572252989
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.409425543916846,
+                "normalized_intensity": 9.068237590652808
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.855099629718914,
+                "normalized_intensity": 8.975849938286485
+            }
+        ]
+    }
+}

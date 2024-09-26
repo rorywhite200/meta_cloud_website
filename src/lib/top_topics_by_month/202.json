@@ -1,0 +1,132 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 169.69609485758474,
+                "normalized_intensity": 42.424023714396185
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 155.8474158628261,
+                "normalized_intensity": 38.961853965706524
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 212.78353248761806,
+                "normalized_intensity": 42.556706497523614
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 103.48394174972161,
+                "normalized_intensity": 20.69678834994432
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 102.85572766222054,
+                "normalized_intensity": 20.57114553244411
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 52.51160127019401,
+                "normalized_intensity": 10.502320254038802
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 51.231124025612715,
+                "normalized_intensity": 10.246224805122543
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 49.75794794841837,
+                "normalized_intensity": 9.951589589683675
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.288985465271175,
+                "normalized_intensity": 9.857797093054234
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 49.07524401982429,
+                "normalized_intensity": 9.815048803964858
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.38812694079596,
+                "normalized_intensity": 25.19406347039798
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 50.64573809076369,
+                "normalized_intensity": 16.88191269692123
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.3164190279798,
+                "normalized_intensity": 16.438806342659934
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 100.53740356820651,
+                "normalized_intensity": 33.51246785606884
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 98.63252499893565,
+                "normalized_intensity": 32.87750833297855
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.343851610508594,
+                "normalized_intensity": 20.114617203502863
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 156.17679456772746,
+                "normalized_intensity": 31.23535891354549
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 154.92189175075907,
+                "normalized_intensity": 30.984378350151815
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.490173267018754,
+                "normalized_intensity": 10.09803465340375
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.821115150232544,
+                "normalized_intensity": 9.964223030046508
+            }
+        ]
+    }
+}

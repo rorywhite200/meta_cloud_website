@@ -1,0 +1,32 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "labour-rights",
+                "weighted_count": 231.88284870258937,
+                "normalized_intensity": 57.97071217564734
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 229.6541073980587,
+                "normalized_intensity": 57.413526849514675
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 53.481290705434844,
+                "normalized_intensity": 53.481290705434844
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 49.92972381047304,
+                "normalized_intensity": 49.92972381047304
+            }
+        ]
+    }
+}

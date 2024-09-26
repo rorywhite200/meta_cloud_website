@@ -1,0 +1,192 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 66.63814186118759,
+                "normalized_intensity": 66.63814186118759
+            },
+            {
+                "topic": "education",
+                "weighted_count": 62.21563729793173,
+                "normalized_intensity": 62.21563729793173
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.83310888241191,
+                "normalized_intensity": 60.83310888241191
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 56.087686174639536,
+                "normalized_intensity": 56.087686174639536
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.95485318039354,
+                "normalized_intensity": 49.95485318039354
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 67.77632191353908,
+                "normalized_intensity": 67.77632191353908
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 63.170765538244034,
+                "normalized_intensity": 63.170765538244034
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 70.44210103832401,
+                "normalized_intensity": 70.44210103832401
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 64.64623858694068,
+                "normalized_intensity": 64.64623858694068
+            },
+            {
+                "topic": "education",
+                "weighted_count": 56.6822666495708,
+                "normalized_intensity": 56.6822666495708
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 164.71137062243483,
+                "normalized_intensity": 54.90379020747827
+            },
+            {
+                "topic": "education",
+                "weighted_count": 153.35604084269494,
+                "normalized_intensity": 51.11868028089831
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 129.48479149753658,
+                "normalized_intensity": 43.16159716584553
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 104.65212554721113,
+                "normalized_intensity": 34.88404184907038
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 98.65757628936606,
+                "normalized_intensity": 32.88585876312202
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 65.50076163452275,
+                "normalized_intensity": 21.83358721150758
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.74746612887723,
+                "normalized_intensity": 17.582488709625743
+            },
+            {
+                "topic": "law",
+                "weighted_count": 51.432782399530865,
+                "normalized_intensity": 17.14426079984362
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.553105525341,
+                "normalized_intensity": 16.85103517511367
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.751227986698495,
+                "normalized_intensity": 16.583742662232833
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.620868637436274,
+                "normalized_intensity": 16.54028954581209
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 126.76353573859097,
+                "normalized_intensity": 63.38176786929549
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 121.31098294556406,
+                "normalized_intensity": 60.65549147278203
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 119.22306889292392,
+                "normalized_intensity": 59.61153444646196
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 115.48347401366922,
+                "normalized_intensity": 57.74173700683461
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 69.14487887088431,
+                "normalized_intensity": 69.14487887088431
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 66.92459648762829,
+                "normalized_intensity": 66.92459648762829
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.36643002056229,
+                "normalized_intensity": 60.36643002056229
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.250352127397804,
+                "normalized_intensity": 51.250352127397804
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 50.00802281124284,
+                "normalized_intensity": 50.00802281124284
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.89146318851883,
+                "normalized_intensity": 49.89146318851883
+            }
+        ]
+    }
+}

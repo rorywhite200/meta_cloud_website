@@ -1,0 +1,117 @@
+{
+    "2023-09": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 697.0683559524865,
+                "normalized_intensity": 49.79059685374904
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 566.690858850839,
+                "normalized_intensity": 40.47791848934565
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 520.8558712832539,
+                "normalized_intensity": 37.20399080594671
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 506.0005221527789,
+                "normalized_intensity": 36.14289443948421
+            },
+            {
+                "topic": "science",
+                "weighted_count": 417.7992837327353,
+                "normalized_intensity": 29.842805980909667
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 395.42408324922775,
+                "normalized_intensity": 28.24457737494484
+            },
+            {
+                "topic": "community",
+                "weighted_count": 362.86799354359607,
+                "normalized_intensity": 25.919142395971146
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 197.61218569487434,
+                "normalized_intensity": 14.115156121062453
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 183.38671308714174,
+                "normalized_intensity": 13.099050934795839
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 174.32002772778853,
+                "normalized_intensity": 12.451430551984895
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 167.4916234733185,
+                "normalized_intensity": 11.963687390951321
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 99.72240846179724,
+                "normalized_intensity": 7.12302917584266
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 99.59442573408123,
+                "normalized_intensity": 7.113887552434373
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 98.3602855719741,
+                "normalized_intensity": 7.025734683712436
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 57.77346032032513,
+                "normalized_intensity": 4.126675737166081
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 313.8686856730545,
+                "normalized_intensity": 62.7737371346109
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 279.0728887124656,
+                "normalized_intensity": 55.81457774249312
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 258.6381295606019,
+                "normalized_intensity": 51.72762591212038
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 211.30273484506066,
+                "normalized_intensity": 42.26054696901213
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 197.01954130598307,
+                "normalized_intensity": 39.40390826119661
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 102.37629976856131,
+                "normalized_intensity": 20.47525995371226
+            }
+        ]
+    }
+}

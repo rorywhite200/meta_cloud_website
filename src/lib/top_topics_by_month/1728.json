@@ -1,0 +1,27 @@
+{
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 270.44069425319236,
+                "normalized_intensity": 38.6343848933132
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 258.5033149009001,
+                "normalized_intensity": 36.92904498584287
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 208.00625753677838,
+                "normalized_intensity": 29.715179648111196
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 100.64912729645567,
+                "normalized_intensity": 14.378446756636524
+            }
+        ]
+    }
+}

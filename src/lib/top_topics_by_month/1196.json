@@ -1,0 +1,127 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 71.0033816336175,
+                "normalized_intensity": 71.0033816336175
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 68.90630430374655,
+                "normalized_intensity": 68.90630430374655
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 64.63225595187045,
+                "normalized_intensity": 64.63225595187045
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 62.61626494725223,
+                "normalized_intensity": 62.61626494725223
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 62.55140246899564,
+                "normalized_intensity": 62.55140246899564
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 51.14201589856522,
+                "normalized_intensity": 51.14201589856522
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 127.2025743226665,
+                "normalized_intensity": 63.60128716133325
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 124.1176758272797,
+                "normalized_intensity": 62.05883791363985
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 112.72163132004444,
+                "normalized_intensity": 56.36081566002222
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 65.74874835674215,
+                "normalized_intensity": 32.87437417837108
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 61.098966470690144,
+                "normalized_intensity": 30.549483235345072
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 59.40130047931018,
+                "normalized_intensity": 29.70065023965509
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 59.38047900928568,
+                "normalized_intensity": 29.69023950464284
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 58.974928447657206,
+                "normalized_intensity": 29.487464223828603
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 58.72149150425018,
+                "normalized_intensity": 29.36074575212509
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 55.34429493133717,
+                "normalized_intensity": 27.672147465668584
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.18542023218471,
+                "normalized_intensity": 27.592710116092356
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.30525990137996,
+                "normalized_intensity": 25.65262995068998
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 51.00294881706714,
+                "normalized_intensity": 25.50147440853357
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.34620412568568,
+                "normalized_intensity": 25.17310206284284
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.294068349428,
+                "normalized_intensity": 24.647034174714
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.08417795704093,
+                "normalized_intensity": 24.542088978520464
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.080880315085246,
+                "normalized_intensity": 24.540440157542623
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 73.39678285683674,
+                "normalized_intensity": 73.39678285683674
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.91065368021162,
+                "normalized_intensity": 61.91065368021162
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 56.81316141875007,
+                "normalized_intensity": 56.81316141875007
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.741272462308366,
+                "normalized_intensity": 52.741272462308366
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 57.11571184214157,
+                "normalized_intensity": 57.11571184214157
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.40412171933636,
+                "normalized_intensity": 51.40412171933636
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.348271439004776,
+                "normalized_intensity": 51.348271439004776
+            }
+        ]
+    }
+}

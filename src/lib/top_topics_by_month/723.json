@@ -1,0 +1,207 @@
+{
+    "2023-10": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 2360.720334793695,
+                "normalized_intensity": 78.69067782645651
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 1489.6885954899642,
+                "normalized_intensity": 49.65628651633214
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 794.345613478294,
+                "normalized_intensity": 26.478187115943133
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 709.2686685679215,
+                "normalized_intensity": 23.64228895226405
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 600.6558879699116,
+                "normalized_intensity": 20.02186293233039
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 571.8304118289382,
+                "normalized_intensity": 19.061013727631273
+            },
+            {
+                "topic": "security",
+                "weighted_count": 496.8199292785628,
+                "normalized_intensity": 16.56066430928543
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 461.8261189664379,
+                "normalized_intensity": 15.394203965547929
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 408.06455031391704,
+                "normalized_intensity": 13.602151677130568
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 309.75707445980515,
+                "normalized_intensity": 10.325235815326838
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 303.3225498887386,
+                "normalized_intensity": 10.110751662957954
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 261.7593435385797,
+                "normalized_intensity": 8.72531145128599
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 130.9173577085165,
+                "normalized_intensity": 4.363911923617217
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 130.60679285451727,
+                "normalized_intensity": 4.353559761817242
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 128.4120116414548,
+                "normalized_intensity": 4.280400388048493
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 125.41231436865806,
+                "normalized_intensity": 4.1804104789552685
+            },
+            {
+                "topic": "law",
+                "weighted_count": 60.37269001947777,
+                "normalized_intensity": 2.012423000649259
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.04869400430089,
+                "normalized_intensity": 1.7349564668100297
+            },
+            {
+                "topic": "business",
+                "weighted_count": 49.49466707335377,
+                "normalized_intensity": 1.6498222357784589
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 123.4639547834266,
+                "normalized_intensity": 61.7319773917133
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 104.76546887376578,
+                "normalized_intensity": 52.38273443688289
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 502.30250409816176,
+                "normalized_intensity": 71.75750058545168
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 401.7319880373079,
+                "normalized_intensity": 57.3902840053297
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 389.59183898490653,
+                "normalized_intensity": 55.65597699784379
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 378.2069505173798,
+                "normalized_intensity": 54.02956435962569
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 372.3812939163497,
+                "normalized_intensity": 53.19732770233567
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 364.0702966938813,
+                "normalized_intensity": 52.01004238484018
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 72.25124616093231,
+                "normalized_intensity": 72.25124616093231
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 62.715899513835296,
+                "normalized_intensity": 62.715899513835296
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.68656310898383,
+                "normalized_intensity": 57.68656310898383
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 56.08614467501124,
+                "normalized_intensity": 56.08614467501124
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 54.5583506218552,
+                "normalized_intensity": 54.5583506218552
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 53.01748975300317,
+                "normalized_intensity": 53.01748975300317
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 66.55942345464337,
+                "normalized_intensity": 66.55942345464337
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 57.54528121780196,
+                "normalized_intensity": 57.54528121780196
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.69786693743122,
+                "normalized_intensity": 50.69786693743122
+            }
+        ]
+    }
+}

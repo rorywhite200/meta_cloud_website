@@ -1,0 +1,42 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "agriculture",
+                "weighted_count": 121.8736927109459,
+                "normalized_intensity": 60.93684635547295
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 105.0724338488684,
+                "normalized_intensity": 52.5362169244342
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 100.70537169199758,
+                "normalized_intensity": 50.35268584599879
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 100.30142603996148,
+                "normalized_intensity": 50.15071301998074
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.43417718522777,
+                "normalized_intensity": 50.43417718522777
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.06987891173998,
+                "normalized_intensity": 50.06987891173998
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "2023-12": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 904.0643352201806,
+                "normalized_intensity": 64.57602394429861
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 711.8427435316285,
+                "normalized_intensity": 50.84591025225917
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 624.1894095789994,
+                "normalized_intensity": 44.584957827071385
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 396.5332263343608,
+                "normalized_intensity": 28.32380188102577
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 385.37518042448136,
+                "normalized_intensity": 27.52679860174867
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 256.0338316587499,
+                "normalized_intensity": 18.28813083276785
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 236.00447319846478,
+                "normalized_intensity": 16.857462371318913
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 218.68402609423208,
+                "normalized_intensity": 15.620287578159434
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 164.555074742012,
+                "normalized_intensity": 11.753933910143715
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 55.731618296659455,
+                "normalized_intensity": 3.9808298783328184
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 271.1591388945063,
+                "normalized_intensity": 67.78978472362658
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 240.0120707946475,
+                "normalized_intensity": 60.00301769866188
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 143.1732539435876,
+                "normalized_intensity": 35.7933134858969
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 54.895350518205454,
+                "normalized_intensity": 54.895350518205454
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.831447468365404,
+                "normalized_intensity": 54.831447468365404
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.55260643989798,
+                "normalized_intensity": 49.55260643989798
+            }
+        ]
+    }
+}

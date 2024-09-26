@@ -1,0 +1,32 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 118.45834330639073,
+                "normalized_intensity": 59.229171653195365
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 61.79226215586194,
+                "normalized_intensity": 30.89613107793097
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 57.89624376094502,
+                "normalized_intensity": 28.94812188047251
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 53.185149999004466,
+                "normalized_intensity": 26.592574999502233
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.803735294459145,
+                "normalized_intensity": 24.901867647229572
+            }
+        ]
+    }
+}

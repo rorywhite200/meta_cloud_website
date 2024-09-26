@@ -1,0 +1,82 @@
+{
+    "2023-09": {
+        "total_ads": 121,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 7643.4205966202835,
+                "normalized_intensity": 63.16876526132466
+            },
+            {
+                "topic": "community",
+                "weighted_count": 3773.5997152308482,
+                "normalized_intensity": 31.186774506040067
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 3760.494435987294,
+                "normalized_intensity": 31.078466413118132
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 3316.1372383769044,
+                "normalized_intensity": 27.40609287914797
+            },
+            {
+                "topic": "health",
+                "weighted_count": 3260.518329413493,
+                "normalized_intensity": 26.94643247449168
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 3031.704862090393,
+                "normalized_intensity": 25.055412083391676
+            },
+            {
+                "topic": "family",
+                "weighted_count": 2944.855850740657,
+                "normalized_intensity": 24.337651659013694
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 216,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 13755.161719064885,
+                "normalized_intensity": 63.68130425493002
+            },
+            {
+                "topic": "community",
+                "weighted_count": 6792.482094526156,
+                "normalized_intensity": 31.44667636354702
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 6768.891197945964,
+                "normalized_intensity": 31.337459249749834
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 5969.048244326701,
+                "normalized_intensity": 27.634482612623614
+            },
+            {
+                "topic": "health",
+                "weighted_count": 5868.934558030441,
+                "normalized_intensity": 27.170993324215004
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 5457.0678792940425,
+                "normalized_intensity": 25.264203144879826
+            },
+            {
+                "topic": "family",
+                "weighted_count": 5300.739475309224,
+                "normalized_intensity": 24.540460533839
+            }
+        ]
+    }
+}

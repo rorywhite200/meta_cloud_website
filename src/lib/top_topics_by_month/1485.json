@@ -1,0 +1,142 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "family",
+                "weighted_count": 235.82461848399905,
+                "normalized_intensity": 78.60820616133302
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 228.9331854396921,
+                "normalized_intensity": 76.3110618132307
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 227.90277108765892,
+                "normalized_intensity": 75.96759036255297
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 205.43343572335633,
+                "normalized_intensity": 68.47781190778544
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 162.4195155621419,
+                "normalized_intensity": 54.139838520713965
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 158.0148692648433,
+                "normalized_intensity": 52.6716230882811
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 154.84506764633008,
+                "normalized_intensity": 51.61502254877669
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 101.2591149797903,
+                "normalized_intensity": 33.753038326596766
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 99.98718228270093,
+                "normalized_intensity": 33.32906076090031
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.60237880433782,
+                "normalized_intensity": 33.20079293477927
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 882.7855481080766,
+                "normalized_intensity": 73.56546234233971
+            },
+            {
+                "topic": "family",
+                "weighted_count": 828.0803831119694,
+                "normalized_intensity": 69.00669859266411
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 823.3225648549095,
+                "normalized_intensity": 68.61021373790912
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 803.4785543552598,
+                "normalized_intensity": 66.95654619627165
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 660.2544683827463,
+                "normalized_intensity": 55.02120569856219
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 519.1889355820019,
+                "normalized_intensity": 43.26574463183349
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 421.4836784132343,
+                "normalized_intensity": 35.123639867769526
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 373.8450267862702,
+                "normalized_intensity": 31.15375223218918
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 312.32056806932616,
+                "normalized_intensity": 26.02671400577718
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 211.12056572470215,
+                "normalized_intensity": 17.593380477058513
+            },
+            {
+                "topic": "history",
+                "weighted_count": 160.09076178791642,
+                "normalized_intensity": 13.340896815659702
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 152.41663428169423,
+                "normalized_intensity": 12.701386190141186
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.60237880433782,
+                "normalized_intensity": 8.300198233694818
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 75.44063628844413,
+                "normalized_intensity": 75.44063628844413
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 53.64444329769545,
+                "normalized_intensity": 53.64444329769545
+            }
+        ]
+    }
+}

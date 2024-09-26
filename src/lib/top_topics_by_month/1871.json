@@ -1,0 +1,22 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "manitoba",
+                "weighted_count": 139.25438318380057,
+                "normalized_intensity": 69.62719159190029
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 129.56830668143988,
+                "normalized_intensity": 64.78415334071994
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 122.57870535324133,
+                "normalized_intensity": 61.289352676620666
+            }
+        ]
+    }
+}

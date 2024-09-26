@@ -1,0 +1,472 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 128.78973763007912,
+                "normalized_intensity": 42.929912543359706
+            },
+            {
+                "topic": "community",
+                "weighted_count": 116.06721533825541,
+                "normalized_intensity": 38.68907177941847
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 76.46649279515256,
+                "normalized_intensity": 25.48883093171752
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 74.858744327499,
+                "normalized_intensity": 24.952914775832998
+            },
+            {
+                "topic": "family",
+                "weighted_count": 74.28000942665456,
+                "normalized_intensity": 24.760003142218185
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 58.97134100978248,
+                "normalized_intensity": 19.657113669927494
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.074020750459425,
+                "normalized_intensity": 16.358006916819807
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.06563307787534,
+                "normalized_intensity": 16.355211025958447
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 115.84023468905542,
+                "normalized_intensity": 57.92011734452771
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 67.97658084265377,
+                "normalized_intensity": 33.98829042132689
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 57.99342408727386,
+                "normalized_intensity": 28.99671204363693
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 57.61098602887792,
+                "normalized_intensity": 28.80549301443896
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 56.66476951249349,
+                "normalized_intensity": 28.332384756246746
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.17318312588629,
+                "normalized_intensity": 26.086591562943145
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 179.238340728739,
+                "normalized_intensity": 35.8476681457478
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 124.63615851184176,
+                "normalized_intensity": 24.927231702368353
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 114.12141257830254,
+                "normalized_intensity": 22.824282515660506
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 104.0731512807462,
+                "normalized_intensity": 20.81463025614924
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 100.71474475032866,
+                "normalized_intensity": 20.142948950065733
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 72.33265638054844,
+                "normalized_intensity": 14.466531276109688
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 59.99164754554489,
+                "normalized_intensity": 11.998329509108979
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 57.61366916307307,
+                "normalized_intensity": 11.522733832614614
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 54.76559140117037,
+                "normalized_intensity": 10.953118280234074
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 53.85311160361136,
+                "normalized_intensity": 10.770622320722271
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.4029795026763,
+                "normalized_intensity": 10.28059590053526
+            },
+            {
+                "topic": "security",
+                "weighted_count": 51.104699272471244,
+                "normalized_intensity": 10.22093985449425
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 51.045448567518356,
+                "normalized_intensity": 10.209089713503671
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.97763883519679,
+                "normalized_intensity": 10.195527767039358
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.94131316229875,
+                "normalized_intensity": 9.98826263245975
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 221.72693117870142,
+                "normalized_intensity": 36.95448852978357
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 175.6397805879978,
+                "normalized_intensity": 29.2732967646663
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 165.95768613874685,
+                "normalized_intensity": 27.65961435645781
+            },
+            {
+                "topic": "community",
+                "weighted_count": 164.0485825983957,
+                "normalized_intensity": 27.341430433065952
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 159.20109582605005,
+                "normalized_intensity": 26.53351597100834
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 78.5593610475012,
+                "normalized_intensity": 13.0932268412502
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 77.46046598250564,
+                "normalized_intensity": 12.91007766375094
+            },
+            {
+                "topic": "family",
+                "weighted_count": 75.99020144999447,
+                "normalized_intensity": 12.665033574999079
+            },
+            {
+                "topic": "film",
+                "weighted_count": 71.20157679992654,
+                "normalized_intensity": 11.866929466654424
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 57.82158164219864,
+                "normalized_intensity": 9.636930273699774
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.37530597509935,
+                "normalized_intensity": 8.72921766251656
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 52.12312447966002,
+                "normalized_intensity": 8.68718741327667
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 51.311106623292844,
+                "normalized_intensity": 8.551851103882141
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.13542101993887,
+                "normalized_intensity": 8.52257016998981
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.555680935691264,
+                "normalized_intensity": 8.425946822615211
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.36004405773846,
+                "normalized_intensity": 8.393340676289744
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.092132650542865,
+                "normalized_intensity": 8.348688775090478
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.99471324543378,
+                "normalized_intensity": 8.332452207572297
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.83973680112311,
+                "normalized_intensity": 8.306622800187185
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 62.2369107457392,
+                "normalized_intensity": 31.1184553728696
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 57.354047282950525,
+                "normalized_intensity": 28.677023641475262
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 53.220263900357835,
+                "normalized_intensity": 26.610131950178918
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 117.26866336482752,
+                "normalized_intensity": 29.31716584120688
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 107.12380197342264,
+                "normalized_intensity": 26.78095049335566
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.21122628713812,
+                "normalized_intensity": 26.30280657178453
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 51.475447302365055,
+                "normalized_intensity": 12.868861825591264
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.14312289204727,
+                "normalized_intensity": 12.785780723011818
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 51.11931246949052,
+                "normalized_intensity": 12.77982811737263
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.36598594672183,
+                "normalized_intensity": 12.591496486680457
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 117.64648119848532,
+                "normalized_intensity": 29.41162029962133
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 106.0541678135609,
+                "normalized_intensity": 26.513541953390224
+            },
+            {
+                "topic": "food",
+                "weighted_count": 76.78123912741485,
+                "normalized_intensity": 19.195309781853712
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 70.09515380046251,
+                "normalized_intensity": 17.523788450115628
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 63.48140048009062,
+                "normalized_intensity": 15.870350120022655
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.41020637922832,
+                "normalized_intensity": 13.10255159480708
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 52.24664749551204,
+                "normalized_intensity": 13.06166187387801
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.12853119943582,
+                "normalized_intensity": 12.782132799858955
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.04535802964387,
+                "normalized_intensity": 12.261339507410968
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 111.96830715789343,
+                "normalized_intensity": 37.322769052631145
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 85.03989997170994,
+                "normalized_intensity": 28.346633323903315
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 55.393582877054506,
+                "normalized_intensity": 18.464527625684834
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.43799558869817,
+                "normalized_intensity": 17.145998529566057
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 166.44513590975765,
+                "normalized_intensity": 41.61128397743941
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 164.33310407183004,
+                "normalized_intensity": 41.08327601795751
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 157.3671572007862,
+                "normalized_intensity": 39.34178930019655
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 133.855353847861,
+                "normalized_intensity": 33.46383846196525
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 126.14473078989347,
+                "normalized_intensity": 31.536182697473368
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 111.66918020556882,
+                "normalized_intensity": 27.917295051392205
+            },
+            {
+                "topic": "history",
+                "weighted_count": 102.59641603989388,
+                "normalized_intensity": 25.64910400997347
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 77.96138913665733,
+                "normalized_intensity": 19.490347284164333
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 76.50306412373918,
+                "normalized_intensity": 19.125766030934795
+            },
+            {
+                "topic": "family",
+                "weighted_count": 75.71343765630299,
+                "normalized_intensity": 18.928359414075747
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 68.4905844081108,
+                "normalized_intensity": 17.1226461020277
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.13621729383927,
+                "normalized_intensity": 13.034054323459818
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.27607225124928,
+                "normalized_intensity": 12.56901806281232
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.94500315989244,
+                "normalized_intensity": 12.48625078997311
+            }
+        ]
+    }
+}

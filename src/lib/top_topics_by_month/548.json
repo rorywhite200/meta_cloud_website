@@ -1,0 +1,907 @@
+{
+    "2023-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.50496785881302,
+                "normalized_intensity": 57.50496785881302
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 265.60297282570497,
+                "normalized_intensity": 53.12059456514099
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 222.21092256561428,
+                "normalized_intensity": 44.442184513122854
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 180.54878579443283,
+                "normalized_intensity": 36.109757158886566
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 179.61498989183713,
+                "normalized_intensity": 35.92299797836743
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 170.2894212993125,
+                "normalized_intensity": 34.0578842598625
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 161.52123621974505,
+                "normalized_intensity": 32.30424724394901
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 121.65651928865104,
+                "normalized_intensity": 24.33130385773021
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 107.40359407083955,
+                "normalized_intensity": 21.480718814167908
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 102.68292341043909,
+                "normalized_intensity": 20.536584682087817
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 56.89319991374661,
+                "normalized_intensity": 11.378639982749322
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 54.7772476714074,
+                "normalized_intensity": 10.955449534281481
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1001.8281943227809,
+                "normalized_intensity": 45.53764519649004
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 660.1517155039394,
+                "normalized_intensity": 30.00689615926997
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 545.8170210623346,
+                "normalized_intensity": 24.80986459374248
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 486.306070515598,
+                "normalized_intensity": 22.104821387072636
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 479.25493617718,
+                "normalized_intensity": 21.78431528078091
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 461.3006449443188,
+                "normalized_intensity": 20.96821113383267
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 324.03925680466614,
+                "normalized_intensity": 14.729057127484824
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 308.2496997387024,
+                "normalized_intensity": 14.011349988122838
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 270.26529295075073,
+                "normalized_intensity": 12.284786043215943
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 269.64327469423523,
+                "normalized_intensity": 12.2565124861016
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 267.777209780244,
+                "normalized_intensity": 12.171691353647454
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 256.93850980759174,
+                "normalized_intensity": 11.679023173072352
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 209.02494266546887,
+                "normalized_intensity": 9.501133757521313
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 174.7822381482896,
+                "normalized_intensity": 7.944647188558618
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 166.84472870550672,
+                "normalized_intensity": 7.58385130479576
+            },
+            {
+                "topic": "community",
+                "weighted_count": 156.32480867072954,
+                "normalized_intensity": 7.105673121396797
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 115.68524754381548,
+                "normalized_intensity": 5.2584203429007035
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 109.75866384435261,
+                "normalized_intensity": 4.9890301747433
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 109.28311527909331,
+                "normalized_intensity": 4.967414330867878
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 100.27044037586182,
+                "normalized_intensity": 4.557747289811901
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 99.8506185692773,
+                "normalized_intensity": 4.538664480421695
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 98.57875476399059,
+                "normalized_intensity": 4.4808524892723
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 68.80892509768562,
+                "normalized_intensity": 3.1276784135311644
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 61.22347175347448,
+                "normalized_intensity": 2.7828850797033855
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 58.78444364392045,
+                "normalized_intensity": 2.672020165632748
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 52.91795710592532,
+                "normalized_intensity": 2.405361686632969
+            },
+            {
+                "topic": "security",
+                "weighted_count": 49.303394254160246,
+                "normalized_intensity": 2.241063375189102
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 643.2171962747038,
+                "normalized_intensity": 45.94408544819313
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 372.5738523793132,
+                "normalized_intensity": 26.612418027093803
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 347.1242555566733,
+                "normalized_intensity": 24.79458968261952
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 311.0446185137056,
+                "normalized_intensity": 22.21747275097897
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 206.22255608819225,
+                "normalized_intensity": 14.730182577728018
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 158.66915784301665,
+                "normalized_intensity": 11.33351127450119
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 147.29508721941662,
+                "normalized_intensity": 10.521077658529759
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 100.67285243112735,
+                "normalized_intensity": 7.190918030794811
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.15956711509313,
+                "normalized_intensity": 7.082826222506652
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 62.3012704622377,
+                "normalized_intensity": 4.450090747302693
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 62.23839193249392,
+                "normalized_intensity": 4.445599423749566
+            },
+            {
+                "topic": "science",
+                "weighted_count": 60.762869215674954,
+                "normalized_intensity": 4.340204943976782
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 59.45500037649709,
+                "normalized_intensity": 4.246785741178363
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 59.309884525279664,
+                "normalized_intensity": 4.236420323234261
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 56.7632050247265,
+                "normalized_intensity": 4.054514644623322
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 55.58457384022244,
+                "normalized_intensity": 3.9703267028730314
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 55.51983387590206,
+                "normalized_intensity": 3.96570241970729
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 54.810777157851284,
+                "normalized_intensity": 3.9150555112750918
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 54.451234998981136,
+                "normalized_intensity": 3.8893739284986526
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.372793699396226,
+                "normalized_intensity": 3.8837709785283017
+            },
+            {
+                "topic": "family",
+                "weighted_count": 54.36636076443406,
+                "normalized_intensity": 3.8833114831738618
+            },
+            {
+                "topic": "history",
+                "weighted_count": 54.13803562952082,
+                "normalized_intensity": 3.867002544965773
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.25582783694736,
+                "normalized_intensity": 3.589701988353383
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 49.80922219779097,
+                "normalized_intensity": 3.557801585556498
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.20762331018661,
+                "normalized_intensity": 3.514830236441901
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 687.0691386907625,
+                "normalized_intensity": 31.23041539503466
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 596.9229786690508,
+                "normalized_intensity": 27.13286266677504
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 510.9203788350698,
+                "normalized_intensity": 23.223653583412265
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 473.4647392770015,
+                "normalized_intensity": 21.521124512590976
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 466.23817024581433,
+                "normalized_intensity": 21.19264410208247
+            },
+            {
+                "topic": "community",
+                "weighted_count": 435.4259446786834,
+                "normalized_intensity": 19.792088394485607
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 387.9652201331761,
+                "normalized_intensity": 17.634782733326187
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 304.1692525902345,
+                "normalized_intensity": 13.825875117737933
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 151.365413621519,
+                "normalized_intensity": 6.8802460737054085
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 111.36603946583884,
+                "normalized_intensity": 5.0620927029926746
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 61.49954864634341,
+                "normalized_intensity": 2.795434029379246
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 57.23515174587798,
+                "normalized_intensity": 2.601597806630817
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 55.379836154661334,
+                "normalized_intensity": 2.5172652797573334
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.24850027826717,
+                "normalized_intensity": 2.4203863762848714
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.180997410617344,
+                "normalized_intensity": 2.3718635186644246
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1581.077279641042,
+                "normalized_intensity": 68.74249041917574
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 1170.5148201725221,
+                "normalized_intensity": 50.89194870315314
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 680.9244295447584,
+                "normalized_intensity": 29.605409980206886
+            },
+            {
+                "topic": "community",
+                "weighted_count": 630.1440170861488,
+                "normalized_intensity": 27.39756596026734
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 376.11232022090763,
+                "normalized_intensity": 16.35270957482207
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 216.6177307142208,
+                "normalized_intensity": 9.418162204966123
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 205.45212888403503,
+                "normalized_intensity": 8.93270125582761
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 60.49719253622931,
+                "normalized_intensity": 2.630312718966492
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 60.43862639710984,
+                "normalized_intensity": 2.6277663650917322
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 58.33737518340962,
+                "normalized_intensity": 2.5364076166699836
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 55.71048997168615,
+                "normalized_intensity": 2.4221952161602673
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 55.09325265016901,
+                "normalized_intensity": 2.3953588108769135
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 627.1235871167238,
+                "normalized_intensity": 62.71235871167238
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 589.8620220658906,
+                "normalized_intensity": 58.98620220658906
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 428.2895146418675,
+                "normalized_intensity": 42.82895146418675
+            },
+            {
+                "topic": "community",
+                "weighted_count": 305.86079453046847,
+                "normalized_intensity": 30.586079453046846
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 80.05764960834416,
+                "normalized_intensity": 8.005764960834416
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 62.35341232854428,
+                "normalized_intensity": 6.235341232854428
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 54.4230737789837,
+                "normalized_intensity": 5.44230737789837
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 618.2904095168184,
+                "normalized_intensity": 47.56080073206295
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 507.2211556938977,
+                "normalized_intensity": 39.01701197645367
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 505.8965644922376,
+                "normalized_intensity": 38.91512034555674
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 349.64335067995125,
+                "normalized_intensity": 26.895642359996252
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 261.54184746060776,
+                "normalized_intensity": 20.11860365081598
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 222.21441606866904,
+                "normalized_intensity": 17.09341662066685
+            },
+            {
+                "topic": "community",
+                "weighted_count": 152.4042494430431,
+                "normalized_intensity": 11.723403803311008
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 138.31831494274462,
+                "normalized_intensity": 10.639870380211125
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 127.36330113202771,
+                "normalized_intensity": 9.797177010155979
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 103.36674646659822,
+                "normalized_intensity": 7.9512881897383245
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.07292329845932,
+                "normalized_intensity": 3.77484025372764
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 941.1826499948481,
+                "normalized_intensity": 62.74550999965654
+            },
+            {
+                "topic": "community",
+                "weighted_count": 428.7785244784859,
+                "normalized_intensity": 28.585234965232395
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 168.37852311504503,
+                "normalized_intensity": 11.225234874336335
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 148.98031435773595,
+                "normalized_intensity": 9.932020957182397
+            },
+            {
+                "topic": "food",
+                "weighted_count": 146.6271044955544,
+                "normalized_intensity": 9.775140299703626
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 145.8745936677182,
+                "normalized_intensity": 9.724972911181213
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 144.08865842993993,
+                "normalized_intensity": 9.605910561995994
+            },
+            {
+                "topic": "family",
+                "weighted_count": 141.4175878702423,
+                "normalized_intensity": 9.427839191349486
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 123.7307976744933,
+                "normalized_intensity": 8.248719844966221
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 121.4256134108598,
+                "normalized_intensity": 8.09504089405732
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 117.6841470483539,
+                "normalized_intensity": 7.845609803223594
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 109.01820411609683,
+                "normalized_intensity": 7.267880274406455
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 103.30693896154119,
+                "normalized_intensity": 6.887129264102746
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 65.43576946500428,
+                "normalized_intensity": 4.362384631000285
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 63.23097673428988,
+                "normalized_intensity": 4.215398448952659
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 60.34202470366813,
+                "normalized_intensity": 4.0228016469112085
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 57.51814480383168,
+                "normalized_intensity": 3.834542986922112
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.88307125966434,
+                "normalized_intensity": 3.7922047506442893
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.164529342016976,
+                "normalized_intensity": 3.744301956134465
+            },
+            {
+                "topic": "health",
+                "weighted_count": 55.28417734754447,
+                "normalized_intensity": 3.6856118231696313
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 55.2083798087891,
+                "normalized_intensity": 3.680558653919273
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 54.94698781340244,
+                "normalized_intensity": 3.663132520893496
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 54.10230604132127,
+                "normalized_intensity": 3.6068204027547512
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 54.088499852054284,
+                "normalized_intensity": 3.6058999901369524
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 51.90041749117835,
+                "normalized_intensity": 3.4600278327452236
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.63810867458803,
+                "normalized_intensity": 3.3758739116392023
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.43162264316179,
+                "normalized_intensity": 3.362108176210786
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.206100722110534,
+                "normalized_intensity": 3.3470733814740354
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.59323362575566,
+                "normalized_intensity": 3.3062155750503774
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.34645351418116,
+                "normalized_intensity": 3.289763567612077
+            },
+            {
+                "topic": "security",
+                "weighted_count": 49.043411099372385,
+                "normalized_intensity": 3.269560739958159
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 195.39659645505998,
+                "normalized_intensity": 39.079319291012
+            },
+            {
+                "topic": "community",
+                "weighted_count": 186.06123764108042,
+                "normalized_intensity": 37.21224752821608
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 138.32629678322797,
+                "normalized_intensity": 27.665259356645596
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 118.18666305619385,
+                "normalized_intensity": 23.63733261123877
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.25419858327378,
+                "normalized_intensity": 19.650839716654755
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 62.3012704622377,
+                "normalized_intensity": 12.46025409244754
+            },
+            {
+                "topic": "science",
+                "weighted_count": 60.762869215674954,
+                "normalized_intensity": 12.152573843134991
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 59.45500037649709,
+                "normalized_intensity": 11.891000075299418
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 59.309884525279664,
+                "normalized_intensity": 11.861976905055933
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 56.7632050247265,
+                "normalized_intensity": 11.352641004945301
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 55.58457384022244,
+                "normalized_intensity": 11.116914768044488
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 55.51983387590206,
+                "normalized_intensity": 11.103966775180412
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 54.810777157851284,
+                "normalized_intensity": 10.962155431570256
+            },
+            {
+                "topic": "family",
+                "weighted_count": 54.36636076443406,
+                "normalized_intensity": 10.873272152886813
+            },
+            {
+                "topic": "history",
+                "weighted_count": 54.13803562952082,
+                "normalized_intensity": 10.827607125904164
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 53.992615423011046,
+                "normalized_intensity": 10.798523084602209
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 51.272084521848704,
+                "normalized_intensity": 10.25441690436974
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.04251575892307,
+                "normalized_intensity": 10.008503151784613
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 186.9038113867131,
+                "normalized_intensity": 46.725952846678275
+            },
+            {
+                "topic": "science",
+                "weighted_count": 182.28860764702486,
+                "normalized_intensity": 45.572151911756215
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 178.36500112949128,
+                "normalized_intensity": 44.59125028237282
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 177.92965357583898,
+                "normalized_intensity": 44.482413393959746
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 170.2896150741795,
+                "normalized_intensity": 42.57240376854487
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 166.7537215206673,
+                "normalized_intensity": 41.68843038016683
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 166.55950162770617,
+                "normalized_intensity": 41.63987540692654
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 164.43233147355386,
+                "normalized_intensity": 41.108082868388465
+            },
+            {
+                "topic": "family",
+                "weighted_count": 163.0990822933022,
+                "normalized_intensity": 40.77477057332555
+            },
+            {
+                "topic": "history",
+                "weighted_count": 162.41410688856246,
+                "normalized_intensity": 40.603526722140614
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 161.97784626903314,
+                "normalized_intensity": 40.494461567258284
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 50.69512838469389,
+                "normalized_intensity": 12.673782096173472
+            }
+        ]
+    }
+}

@@ -1,0 +1,352 @@
+{
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 163.14900404030897,
+                "normalized_intensity": 32.629800808061795
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.98756589889467,
+                "normalized_intensity": 20.397513179778933
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.34632442360626,
+                "normalized_intensity": 11.269264884721252
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 54.96468300586289,
+                "normalized_intensity": 10.992936601172577
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 53.68595808195384,
+                "normalized_intensity": 10.737191616390769
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.5969981246665,
+                "normalized_intensity": 10.719399624933299
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 1051.6980940475994,
+                "normalized_intensity": 42.06792376190398
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 861.428696277672,
+                "normalized_intensity": 34.45714785110688
+            },
+            {
+                "topic": "community",
+                "weighted_count": 606.0490122070223,
+                "normalized_intensity": 24.241960488280892
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 513.5345885802824,
+                "normalized_intensity": 20.541383543211296
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 419.02478360015056,
+                "normalized_intensity": 16.760991344006023
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 204.75703151353116,
+                "normalized_intensity": 8.190281260541246
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 172.95220721887483,
+                "normalized_intensity": 6.918088288754993
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 165.88739289161873,
+                "normalized_intensity": 6.635495715664749
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 137.58798659197407,
+                "normalized_intensity": 5.503519463678963
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 109.9307385023135,
+                "normalized_intensity": 4.39722954009254
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 105.67897992570491,
+                "normalized_intensity": 4.227159197028197
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 102.72897845503545,
+                "normalized_intensity": 4.109159138201417
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 98.70698848524565,
+                "normalized_intensity": 3.948279539409826
+            },
+            {
+                "topic": "military",
+                "weighted_count": 69.477424146764,
+                "normalized_intensity": 2.7790969658705595
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 66.3520490497941,
+                "normalized_intensity": 2.654081961991764
+            },
+            {
+                "topic": "security",
+                "weighted_count": 66.01717161035933,
+                "normalized_intensity": 2.640686864414373
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 62.46023455977683,
+                "normalized_intensity": 2.498409382391073
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 60.006321209842184,
+                "normalized_intensity": 2.4002528483936874
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.17445744888116,
+                "normalized_intensity": 2.286978297955246
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 55.466950460393626,
+                "normalized_intensity": 2.218678018415745
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 53.05914168121553,
+                "normalized_intensity": 2.122365667248621
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 52.31558140059689,
+                "normalized_intensity": 2.0926232560238756
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.670601591547104,
+                "normalized_intensity": 2.066824063661884
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 51.45061368833965,
+                "normalized_intensity": 2.058024547533586
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.18029158645354,
+                "normalized_intensity": 2.0472116634581417
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 50.86974005642719,
+                "normalized_intensity": 2.0347896022570877
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.23247116896322,
+                "normalized_intensity": 2.009298846758529
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 50.1941102969271,
+                "normalized_intensity": 2.007764411877084
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 49.21928540749707,
+                "normalized_intensity": 1.9687714162998828
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.11761851941346,
+                "normalized_intensity": 1.9647047407765386
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.04791129951903,
+                "normalized_intensity": 1.9619164519807613
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 98,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 4297.702459913521,
+                "normalized_intensity": 43.85410673381144
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 3835.0645709944797,
+                "normalized_intensity": 39.133311948923264
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2649.651587403877,
+                "normalized_intensity": 27.037261095957927
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 2201.4077854715856,
+                "normalized_intensity": 22.463344749710057
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 2127.675088708688,
+                "normalized_intensity": 21.710970292945795
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 2063.7088731869244,
+                "normalized_intensity": 21.05825380802984
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 1745.145844009893,
+                "normalized_intensity": 17.807610653162172
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 1694.2132323899998,
+                "normalized_intensity": 17.287890126428568
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1545.4649415885522,
+                "normalized_intensity": 15.77005042437298
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1061.6327847967057,
+                "normalized_intensity": 10.832987599966385
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 984.5007915091329,
+                "normalized_intensity": 10.045926443970744
+            },
+            {
+                "topic": "military",
+                "weighted_count": 972.6839380546957,
+                "normalized_intensity": 9.925346306680568
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 960.1011393574753,
+                "normalized_intensity": 9.79695040160689
+            },
+            {
+                "topic": "security",
+                "weighted_count": 924.2404025450309,
+                "normalized_intensity": 9.431024515765621
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 914.7913191820988,
+                "normalized_intensity": 9.33460529777652
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 887.4712073662978,
+                "normalized_intensity": 9.055828646594875
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 874.4432838368756,
+                "normalized_intensity": 8.92289065139669
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 826.7296254647537,
+                "normalized_intensity": 8.436016586375038
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 787.5085665199531,
+                "normalized_intensity": 8.035801699183194
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 764.0436823139461,
+                "normalized_intensity": 7.796364105244348
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 742.8279835370176,
+                "normalized_intensity": 7.579877383030793
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 732.4181396083565,
+                "normalized_intensity": 7.473654485799556
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 720.3085916367553,
+                "normalized_intensity": 7.350087669762809
+            },
+            {
+                "topic": "health",
+                "weighted_count": 716.5240822103498,
+                "normalized_intensity": 7.311470226636223
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 712.1763607899807,
+                "normalized_intensity": 7.2671057223467415
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 703.2545963654851,
+                "normalized_intensity": 7.176067309851889
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 702.7175441569792,
+                "normalized_intensity": 7.1705871852752985
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 686.6707581932662,
+                "normalized_intensity": 7.00684447135986
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 154.13288036636166,
+                "normalized_intensity": 1.5727844935343027
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 138.90722598836734,
+                "normalized_intensity": 1.417420673350687
+            }
+        ]
+    }
+}

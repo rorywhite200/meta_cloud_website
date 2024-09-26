@@ -1,0 +1,102 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 75.81971774710304,
+                "normalized_intensity": 75.81971774710304
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 64.12859070761728,
+                "normalized_intensity": 64.12859070761728
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 55.59395678976865,
+                "normalized_intensity": 55.59395678976865
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 54.110040960252626,
+                "normalized_intensity": 54.110040960252626
+            },
+            {
+                "topic": "business",
+                "weighted_count": 52.277583915525284,
+                "normalized_intensity": 52.277583915525284
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.93207709188855,
+                "normalized_intensity": 51.93207709188855
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 51.771925422493226,
+                "normalized_intensity": 51.771925422493226
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 51.10396599528754,
+                "normalized_intensity": 51.10396599528754
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 50.84670212971935,
+                "normalized_intensity": 50.84670212971935
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 50.00708001474165,
+                "normalized_intensity": 50.00708001474165
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.59516389359913,
+                "normalized_intensity": 49.59516389359913
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 71.59552254275032,
+                "normalized_intensity": 71.59552254275032
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 65.87538469336711,
+                "normalized_intensity": 65.87538469336711
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 65.00588260451372,
+                "normalized_intensity": 65.00588260451372
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.87001270414081,
+                "normalized_intensity": 55.87001270414081
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 55.47641516184402,
+                "normalized_intensity": 55.47641516184402
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 54.48906744434668,
+                "normalized_intensity": 54.48906744434668
+            },
+            {
+                "topic": "business",
+                "weighted_count": 50.780860409495176,
+                "normalized_intensity": 50.780860409495176
+            }
+        ]
+    }
+}

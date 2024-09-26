@@ -1,0 +1,27 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 64.77957604770822,
+                "normalized_intensity": 64.77957604770822
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.13146095977196,
+                "normalized_intensity": 51.13146095977196
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.01325117701126,
+                "normalized_intensity": 51.01325117701126
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.46767316384693,
+                "normalized_intensity": 49.46767316384693
+            }
+        ]
+    }
+}

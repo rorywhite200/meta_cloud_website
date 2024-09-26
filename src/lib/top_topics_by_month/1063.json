@@ -1,0 +1,37 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 69.98751601453775,
+                "normalized_intensity": 69.98751601453775
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 68.85281883973464,
+                "normalized_intensity": 68.85281883973464
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 51.40446588483816,
+                "normalized_intensity": 51.40446588483816
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.67190604957076,
+                "normalized_intensity": 50.67190604957076
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.234871096261216,
+                "normalized_intensity": 50.234871096261216
+            }
+        ]
+    }
+}

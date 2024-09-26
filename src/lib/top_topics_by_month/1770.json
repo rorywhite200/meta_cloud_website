@@ -1,0 +1,52 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 204.66286128858798,
+                "normalized_intensity": 68.22095376286266
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 184.75211777889058,
+                "normalized_intensity": 61.584039259630195
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 170.892767107448,
+                "normalized_intensity": 56.96425570248267
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 147.54211535310714,
+                "normalized_intensity": 49.18070511770238
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 275.7290080102627,
+                "normalized_intensity": 55.14580160205254
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 249.4114997546235,
+                "normalized_intensity": 49.8822999509247
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 203.2353490498032,
+                "normalized_intensity": 40.64706980996064
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 56.205457115731114,
+                "normalized_intensity": 11.241091423146223
+            }
+        ]
+    }
+}

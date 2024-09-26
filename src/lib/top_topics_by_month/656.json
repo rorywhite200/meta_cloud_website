@@ -1,0 +1,72 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 60.86594369672086,
+                "normalized_intensity": 60.86594369672086
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.297769426760155,
+                "normalized_intensity": 49.297769426760155
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 521.2102632709483,
+                "normalized_intensity": 37.22930451935345
+            },
+            {
+                "topic": "community",
+                "weighted_count": 394.16562026279774,
+                "normalized_intensity": 28.15468716162841
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 281.96170391693886,
+                "normalized_intensity": 20.140121708352776
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 269.5902548554295,
+                "normalized_intensity": 19.256446775387822
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 228.1109939475042,
+                "normalized_intensity": 16.29364242482173
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 140.63146202389336,
+                "normalized_intensity": 10.045104430278098
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 104.12109100069745,
+                "normalized_intensity": 7.4372207857641035
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 103.34697796454745,
+                "normalized_intensity": 7.381926997467675
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 60.722032135044856,
+                "normalized_intensity": 4.337288009646061
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 52.87447348581783,
+                "normalized_intensity": 3.776748106129845
+            }
+        ]
+    }
+}

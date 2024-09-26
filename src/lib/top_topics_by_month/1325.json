@@ -1,0 +1,52 @@
+{
+    "2024-02": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 243.0867646784918,
+                "normalized_intensity": 40.51446077974863
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 222.06084009187504,
+                "normalized_intensity": 37.01014001531251
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 219.4711673343133,
+                "normalized_intensity": 36.57852788905222
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 215.15336001679384,
+                "normalized_intensity": 35.858893336132304
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 214.9993870290524,
+                "normalized_intensity": 35.833231171508736
+            },
+            {
+                "topic": "community",
+                "weighted_count": 208.53354936509984,
+                "normalized_intensity": 34.75559156084997
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 127.55446315950059,
+                "normalized_intensity": 21.259077193250096
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 124.55284352682689,
+                "normalized_intensity": 20.758807254471147
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 116.16455971346258,
+                "normalized_intensity": 19.360759952243765
+            }
+        ]
+    }
+}

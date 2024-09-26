@@ -1,0 +1,67 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 55.323874575582884,
+                "normalized_intensity": 55.323874575582884
+            },
+            {
+                "topic": "film",
+                "weighted_count": 54.404474802610615,
+                "normalized_intensity": 54.404474802610615
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 76.20454568150907,
+                "normalized_intensity": 76.20454568150907
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 66.40463305504431,
+                "normalized_intensity": 66.40463305504431
+            },
+            {
+                "topic": "community",
+                "weighted_count": 65.41046649359576,
+                "normalized_intensity": 65.41046649359576
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 61.428873796880225,
+                "normalized_intensity": 61.428873796880225
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 59.63226524019447,
+                "normalized_intensity": 59.63226524019447
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 59.60984377526675,
+                "normalized_intensity": 59.60984377526675
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.61847586183618,
+                "normalized_intensity": 52.61847586183618
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.715690944276446,
+                "normalized_intensity": 51.715690944276446
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.27441765039581,
+                "normalized_intensity": 49.27441765039581
+            }
+        ]
+    }
+}

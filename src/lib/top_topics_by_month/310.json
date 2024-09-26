@@ -1,0 +1,207 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 181.79475437122917,
+                "normalized_intensity": 60.598251457076394
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 168.97402789401244,
+                "normalized_intensity": 56.32467596467081
+            },
+            {
+                "topic": "community",
+                "weighted_count": 162.8058844107304,
+                "normalized_intensity": 54.26862813691014
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 260.93348605088767,
+                "normalized_intensity": 65.23337151272192
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 254.08880992194918,
+                "normalized_intensity": 63.522202480487294
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 165.67978396051754,
+                "normalized_intensity": 41.419945990129385
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 152.66519458831235,
+                "normalized_intensity": 38.16629864707809
+            },
+            {
+                "topic": "community",
+                "weighted_count": 149.4830826260134,
+                "normalized_intensity": 37.37077065650335
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 113.98739266410269,
+                "normalized_intensity": 28.49684816602567
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 110.95853908480731,
+                "normalized_intensity": 27.73963477120183
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 107.5034687201501,
+                "normalized_intensity": 26.875867180037524
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 106.68680054042872,
+                "normalized_intensity": 26.67170013510718
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 103.33676607756348,
+                "normalized_intensity": 25.83419151939087
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 102.69979681189568,
+                "normalized_intensity": 25.67494920297392
+            },
+            {
+                "topic": "health",
+                "weighted_count": 102.62850469872166,
+                "normalized_intensity": 25.657126174680414
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 99.02374052142537,
+                "normalized_intensity": 24.75593513035634
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 72.53574054657643,
+                "normalized_intensity": 72.53574054657643
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.95732597143395,
+                "normalized_intensity": 50.95732597143395
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 540.3001584888573,
+                "normalized_intensity": 67.53751981110716
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 458.3312485665679,
+                "normalized_intensity": 57.29140607082099
+            },
+            {
+                "topic": "community",
+                "weighted_count": 443.39778690184664,
+                "normalized_intensity": 55.42472336273083
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 429.22974311543874,
+                "normalized_intensity": 53.65371788942984
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 410.8312064207644,
+                "normalized_intensity": 51.35390080259555
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 307.9519563538418,
+                "normalized_intensity": 38.493994544230226
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 282.0864935436887,
+                "normalized_intensity": 35.260811692961084
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 204.66141387120157,
+                "normalized_intensity": 25.582676733900197
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 151.5300738478667,
+                "normalized_intensity": 18.941259230983338
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 147.39396336295223,
+                "normalized_intensity": 18.42424542036903
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 131.01716341717437,
+                "normalized_intensity": 16.377145427146797
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "rural",
+                "weighted_count": 77.81087293373832,
+                "normalized_intensity": 77.81087293373832
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 62.74632103013514,
+                "normalized_intensity": 62.74632103013514
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.18045154365983,
+                "normalized_intensity": 54.18045154365983
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.33530574522829,
+                "normalized_intensity": 53.33530574522829
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 51.37088104964145,
+                "normalized_intensity": 51.37088104964145
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.75150823314246,
+                "normalized_intensity": 50.75150823314246
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.39545846607454,
+                "normalized_intensity": 50.39545846607454
+            }
+        ]
+    }
+}

@@ -1,0 +1,1372 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 219.31525230885066,
+                "normalized_intensity": 73.10508410295022
+            },
+            {
+                "topic": "health",
+                "weighted_count": 180.90095318461871,
+                "normalized_intensity": 60.30031772820624
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 154.79896239840548,
+                "normalized_intensity": 51.599654132801824
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 142.54778191604464,
+                "normalized_intensity": 47.515927305348214
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 129.29818744404182,
+                "normalized_intensity": 43.099395814680605
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 123.89213082248523,
+                "normalized_intensity": 41.29737694082841
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 122.72101552062753,
+                "normalized_intensity": 40.90700517354251
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 114.6894619230614,
+                "normalized_intensity": 38.22982064102047
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 111.30971515206764,
+                "normalized_intensity": 37.103238384022546
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 93.12159089107985,
+                "normalized_intensity": 31.040530297026617
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 88.90841719328387,
+                "normalized_intensity": 29.636139064427955
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 74.39154749154845,
+                "normalized_intensity": 24.797182497182817
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 68.72825858339492,
+                "normalized_intensity": 22.909419527798306
+            },
+            {
+                "topic": "education",
+                "weighted_count": 66.01078724845233,
+                "normalized_intensity": 22.00359574948411
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 64.01414286485354,
+                "normalized_intensity": 21.338047621617847
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 61.3948042137007,
+                "normalized_intensity": 20.464934737900233
+            },
+            {
+                "topic": "law",
+                "weighted_count": 61.19644556622953,
+                "normalized_intensity": 20.398815188743175
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 60.44423063430576,
+                "normalized_intensity": 20.14807687810192
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 60.116585618933314,
+                "normalized_intensity": 20.038861872977773
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 58.41770480916051,
+                "normalized_intensity": 19.47256826972017
+            },
+            {
+                "topic": "science",
+                "weighted_count": 57.352554428952665,
+                "normalized_intensity": 19.11751814298422
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 56.73440633107545,
+                "normalized_intensity": 18.91146877702515
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.862061431519784,
+                "normalized_intensity": 18.620687143839927
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 55.47747985886184,
+                "normalized_intensity": 18.49249328628728
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 55.34304573604696,
+                "normalized_intensity": 18.447681912015653
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 54.30116038992616,
+                "normalized_intensity": 18.100386796642052
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 54.09391872069867,
+                "normalized_intensity": 18.03130624023289
+            },
+            {
+                "topic": "media",
+                "weighted_count": 53.942154945115504,
+                "normalized_intensity": 17.9807183150385
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 53.90039346687332,
+                "normalized_intensity": 17.966797822291106
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.20670925929335,
+                "normalized_intensity": 17.73556975309778
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 52.89663953435496,
+                "normalized_intensity": 17.63221317811832
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.37294254588347,
+                "normalized_intensity": 17.124314181961157
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.618411117936446,
+                "normalized_intensity": 16.872803705978814
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.98862547093487,
+                "normalized_intensity": 16.66287515697829
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 467.82837712318167,
+                "normalized_intensity": 77.97139618719694
+            },
+            {
+                "topic": "health",
+                "weighted_count": 360.5006153500171,
+                "normalized_intensity": 60.08343589166952
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 288.1681839389213,
+                "normalized_intensity": 48.028030656486884
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 241.5192522873229,
+                "normalized_intensity": 40.253208714553814
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 240.46502977975388,
+                "normalized_intensity": 40.07750496329231
+            },
+            {
+                "topic": "community",
+                "weighted_count": 233.01991542847327,
+                "normalized_intensity": 38.83665257141221
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 222.29763169623828,
+                "normalized_intensity": 37.04960528270638
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 220.41350741937475,
+                "normalized_intensity": 36.73558456989579
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 206.61131921695733,
+                "normalized_intensity": 34.43521986949289
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 193.38163512621261,
+                "normalized_intensity": 32.23027252103544
+            },
+            {
+                "topic": "family",
+                "weighted_count": 176.42600523636742,
+                "normalized_intensity": 29.404334206061236
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 160.95018998483508,
+                "normalized_intensity": 26.82503166413918
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 154.80782192139586,
+                "normalized_intensity": 25.801303653565977
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 119.6189716679103,
+                "normalized_intensity": 19.93649527798505
+            },
+            {
+                "topic": "science",
+                "weighted_count": 117.98871708920211,
+                "normalized_intensity": 19.664786181533685
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 112.24587337031174,
+                "normalized_intensity": 18.707645561718625
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 111.37574284383759,
+                "normalized_intensity": 18.562623807306263
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 110.12555368546128,
+                "normalized_intensity": 18.35425894757688
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 105.1149799268122,
+                "normalized_intensity": 17.519163321135366
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 102.05730492129896,
+                "normalized_intensity": 17.009550820216493
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 101.28386947954426,
+                "normalized_intensity": 16.880644913257377
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 58.69116373536687,
+                "normalized_intensity": 9.781860622561146
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 58.13770282004928,
+                "normalized_intensity": 9.68961713667488
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.68389673340776,
+                "normalized_intensity": 9.613982788901293
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 57.18322067447534,
+                "normalized_intensity": 9.530536779079224
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 56.70580126542086,
+                "normalized_intensity": 9.450966877570144
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 54.44957495958257,
+                "normalized_intensity": 9.074929159930429
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 54.280876433651216,
+                "normalized_intensity": 9.046812738941869
+            },
+            {
+                "topic": "law",
+                "weighted_count": 53.34011033864252,
+                "normalized_intensity": 8.890018389773752
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 52.84049139357462,
+                "normalized_intensity": 8.80674856559577
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 51.47482065488924,
+                "normalized_intensity": 8.579136775814874
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.56621472721985,
+                "normalized_intensity": 8.427702454536641
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.4316173462979,
+                "normalized_intensity": 8.405269557716316
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.77990383292045,
+                "normalized_intensity": 8.296650638820076
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.605486924964254,
+                "normalized_intensity": 8.267581154160709
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.410799817210425,
+                "normalized_intensity": 8.235133302868404
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.31206461567799,
+                "normalized_intensity": 8.218677435946331
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.2938917908247,
+                "normalized_intensity": 8.215648631804116
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 254.79956737237964,
+                "normalized_intensity": 63.69989184309491
+            },
+            {
+                "topic": "community",
+                "weighted_count": 227.7066141316689,
+                "normalized_intensity": 56.92665353291723
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 179.2160406263697,
+                "normalized_intensity": 44.804010156592426
+            },
+            {
+                "topic": "health",
+                "weighted_count": 177.09397693841152,
+                "normalized_intensity": 44.27349423460288
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 165.9877525402065,
+                "normalized_intensity": 41.49693813505162
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 123.01530563691364,
+                "normalized_intensity": 30.75382640922841
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 121.1319276567541,
+                "normalized_intensity": 30.282981914188525
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 114.33917111926715,
+                "normalized_intensity": 28.584792779816787
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 111.4566636519123,
+                "normalized_intensity": 27.864165912978073
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 107.57505060611763,
+                "normalized_intensity": 26.893762651529407
+            },
+            {
+                "topic": "family",
+                "weighted_count": 105.35672628594781,
+                "normalized_intensity": 26.339181571486954
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 89.6513750632023,
+                "normalized_intensity": 22.412843765800574
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 66.18978660346028,
+                "normalized_intensity": 16.54744665086507
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 64.48349750595837,
+                "normalized_intensity": 16.120874376489592
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 64.44229060356527,
+                "normalized_intensity": 16.110572650891317
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 63.44775684038846,
+                "normalized_intensity": 15.861939210097114
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 57.079849125080685,
+                "normalized_intensity": 14.269962281270171
+            },
+            {
+                "topic": "science",
+                "weighted_count": 55.07046477710751,
+                "normalized_intensity": 13.767616194276878
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 54.79147358264803,
+                "normalized_intensity": 13.697868395662008
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 51.62919761330921,
+                "normalized_intensity": 12.907299403327302
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 51.22532568466737,
+                "normalized_intensity": 12.806331421166842
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 50.48042896715456,
+                "normalized_intensity": 12.62010724178864
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.02159683019058,
+                "normalized_intensity": 12.505399207547645
+            },
+            {
+                "topic": "education",
+                "weighted_count": 49.993393842856065,
+                "normalized_intensity": 12.498348460714016
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 553.4314899636486,
+                "normalized_intensity": 79.06164142337836
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 415.6001680024224,
+                "normalized_intensity": 59.371452571774626
+            },
+            {
+                "topic": "health",
+                "weighted_count": 322.7093409557842,
+                "normalized_intensity": 46.10133442225489
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 284.1354061501811,
+                "normalized_intensity": 40.59077230716873
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 264.08833052055166,
+                "normalized_intensity": 37.72690436007881
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 207.21187076021434,
+                "normalized_intensity": 29.601695822887763
+            },
+            {
+                "topic": "community",
+                "weighted_count": 189.06253260422613,
+                "normalized_intensity": 27.008933229175163
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 153.78946235796136,
+                "normalized_intensity": 21.96992319399448
+            },
+            {
+                "topic": "science",
+                "weighted_count": 126.54380338075828,
+                "normalized_intensity": 18.077686197251182
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 118.21935376878415,
+                "normalized_intensity": 16.888479109826307
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 115.19083436029089,
+                "normalized_intensity": 16.455833480041555
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 109.19239281447634,
+                "normalized_intensity": 15.598913259210905
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 72.82275539400564,
+                "normalized_intensity": 10.403250770572233
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 70.33116181051142,
+                "normalized_intensity": 10.04730883007306
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 65.54007883201916,
+                "normalized_intensity": 9.362868404574167
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 64.95562601138566,
+                "normalized_intensity": 9.279375144483666
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 60.44918050952053,
+                "normalized_intensity": 8.63559721564579
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 53.160182809440315,
+                "normalized_intensity": 7.594311829920045
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.03784372794864,
+                "normalized_intensity": 7.576834818278377
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 52.22862630762817,
+                "normalized_intensity": 7.461232329661167
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.33342188284465,
+                "normalized_intensity": 7.333345983263521
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 51.11030167120247,
+                "normalized_intensity": 7.3014716673146385
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.9113847136185,
+                "normalized_intensity": 7.273054959088357
+            },
+            {
+                "topic": "law",
+                "weighted_count": 50.5555651090325,
+                "normalized_intensity": 7.222223587004643
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 50.39569187584616,
+                "normalized_intensity": 7.199384553692309
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 486.69135899290865,
+                "normalized_intensity": 69.52733699898695
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 330.2076561750899,
+                "normalized_intensity": 47.172522310727125
+            },
+            {
+                "topic": "community",
+                "weighted_count": 286.95938971025964,
+                "normalized_intensity": 40.99419853003709
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 183.44212217896666,
+                "normalized_intensity": 26.206017454138095
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 164.20136163394847,
+                "normalized_intensity": 23.457337376278353
+            },
+            {
+                "topic": "health",
+                "weighted_count": 159.2376851521221,
+                "normalized_intensity": 22.748240736017443
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 119.13893431966692,
+                "normalized_intensity": 17.019847759952416
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 113.6744716358437,
+                "normalized_intensity": 16.239210233691956
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 103.29686781392903,
+                "normalized_intensity": 14.75669540198986
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 93.12159089107985,
+                "normalized_intensity": 13.303084413011407
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 80.02543080304046,
+                "normalized_intensity": 11.432204400434353
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 74.39154749154845,
+                "normalized_intensity": 10.627363927364064
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 68.72825858339492,
+                "normalized_intensity": 9.818322654770702
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 66.03520026466808,
+                "normalized_intensity": 9.433600037809725
+            },
+            {
+                "topic": "education",
+                "weighted_count": 66.01078724845233,
+                "normalized_intensity": 9.430112464064619
+            },
+            {
+                "topic": "television",
+                "weighted_count": 64.96581669181008,
+                "normalized_intensity": 9.280830955972869
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 62.53651400625435,
+                "normalized_intensity": 8.933787715179193
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 62.00845708001632,
+                "normalized_intensity": 8.858351011430903
+            },
+            {
+                "topic": "law",
+                "weighted_count": 61.19644556622953,
+                "normalized_intensity": 8.742349366604218
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 60.44423063430576,
+                "normalized_intensity": 8.634890090615109
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 58.674591332308424,
+                "normalized_intensity": 8.38208447604406
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 58.41770480916051,
+                "normalized_intensity": 8.345386401308645
+            },
+            {
+                "topic": "history",
+                "weighted_count": 58.02667885606855,
+                "normalized_intensity": 8.289525550866935
+            },
+            {
+                "topic": "science",
+                "weighted_count": 57.352554428952665,
+                "normalized_intensity": 8.193222061278952
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 56.73440633107545,
+                "normalized_intensity": 8.104915190153635
+            },
+            {
+                "topic": "family",
+                "weighted_count": 56.36487119391364,
+                "normalized_intensity": 8.052124456273377
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.862061431519784,
+                "normalized_intensity": 7.980294490217112
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 55.47747985886184,
+                "normalized_intensity": 7.925354265551691
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 55.34304573604696,
+                "normalized_intensity": 7.906149390863852
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 54.30116038992616,
+                "normalized_intensity": 7.757308627132309
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 54.09391872069867,
+                "normalized_intensity": 7.727702674385524
+            },
+            {
+                "topic": "media",
+                "weighted_count": 53.942154945115504,
+                "normalized_intensity": 7.706022135016501
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 53.834780855909436,
+                "normalized_intensity": 7.690682979415634
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 52.89663953435496,
+                "normalized_intensity": 7.556662790622137
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.37294254588347,
+                "normalized_intensity": 7.338991792269067
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.618411117936446,
+                "normalized_intensity": 7.231201588276635
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.98862547093487,
+                "normalized_intensity": 7.141232210133553
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.71374076110708,
+                "normalized_intensity": 7.10196296587244
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.588024524145865,
+                "normalized_intensity": 7.084003503449409
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.26293284101938,
+                "normalized_intensity": 7.037561834431339
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 210.86738341507524,
+                "normalized_intensity": 70.28912780502507
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 107.33471374127335,
+                "normalized_intensity": 35.778237913757785
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 71.72670054717348,
+                "normalized_intensity": 23.90890018239116
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.190239483090494,
+                "normalized_intensity": 17.73007982769683
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.90608956246455,
+                "normalized_intensity": 17.635363187488185
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.511530268779275,
+                "normalized_intensity": 17.503843422926426
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.64587974640816,
+                "normalized_intensity": 17.21529324880272
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.93583180294792,
+                "normalized_intensity": 16.645277267649305
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 49.71692023857822,
+                "normalized_intensity": 16.57230674619274
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 232.6696375317208,
+                "normalized_intensity": 58.1674093829302
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 171.1150413525264,
+                "normalized_intensity": 42.7787603381316
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.30331256031099,
+                "normalized_intensity": 16.825828140077746
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 52.426744742239315,
+                "normalized_intensity": 13.106686185559829
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.45379559221549,
+                "normalized_intensity": 12.363448898053873
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.02126289734421,
+                "normalized_intensity": 12.255315724336052
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 278.32075023427524,
+                "normalized_intensity": 55.66415004685505
+            },
+            {
+                "topic": "family",
+                "weighted_count": 203.08468377452,
+                "normalized_intensity": 40.616936754903996
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 182.7751704905376,
+                "normalized_intensity": 36.55503409810752
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 161.75344421722673,
+                "normalized_intensity": 32.35068884344535
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 132.95361913054813,
+                "normalized_intensity": 26.590723826109627
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 127.9553794714229,
+                "normalized_intensity": 25.59107589428458
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 120.25798021186341,
+                "normalized_intensity": 24.051596042372683
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 119.7873471638,
+                "normalized_intensity": 23.95746943276
+            },
+            {
+                "topic": "health",
+                "weighted_count": 117.16844969080705,
+                "normalized_intensity": 23.43368993816141
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 113.60471413482003,
+                "normalized_intensity": 22.720942826964006
+            },
+            {
+                "topic": "community",
+                "weighted_count": 112.23518003670085,
+                "normalized_intensity": 22.44703600734017
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 110.93015125950414,
+                "normalized_intensity": 22.186030251900828
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 106.75116573769972,
+                "normalized_intensity": 21.350233147539946
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 68.47810363667625,
+                "normalized_intensity": 13.69562072733525
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 67.52842519734095,
+                "normalized_intensity": 13.50568503946819
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.570076162427064,
+                "normalized_intensity": 11.514015232485413
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 56.356927283468295,
+                "normalized_intensity": 11.27138545669366
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 56.294612187349856,
+                "normalized_intensity": 11.258922437469971
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 53.955489196720684,
+                "normalized_intensity": 10.791097839344136
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 53.043043812310984,
+                "normalized_intensity": 10.608608762462197
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.94902419369166,
+                "normalized_intensity": 9.989804838738333
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.203414788409766,
+                "normalized_intensity": 9.840682957681953
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 339.9007364010299,
+                "normalized_intensity": 56.650122733504986
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 326.32697377853657,
+                "normalized_intensity": 54.387828963089426
+            },
+            {
+                "topic": "community",
+                "weighted_count": 307.26009119977414,
+                "normalized_intensity": 51.210015199962356
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 175.3347605562341,
+                "normalized_intensity": 29.222460092705685
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 174.74270282555744,
+                "normalized_intensity": 29.123783804259574
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 160.8510170838504,
+                "normalized_intensity": 26.8085028473084
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 155.62079422176012,
+                "normalized_intensity": 25.93679903696002
+            },
+            {
+                "topic": "family",
+                "weighted_count": 134.30409313693806,
+                "normalized_intensity": 22.38401552282301
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 123.05173879538046,
+                "normalized_intensity": 20.50862313256341
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 122.14739121558772,
+                "normalized_intensity": 20.357898535931287
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 112.19292058622835,
+                "normalized_intensity": 18.698820097704726
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 100.34328470436174,
+                "normalized_intensity": 16.723880784060288
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 78.18795675150302,
+                "normalized_intensity": 13.031326125250503
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 65.80230926080691,
+                "normalized_intensity": 10.967051543467818
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.39731866161209,
+                "normalized_intensity": 10.399553110268682
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.1945091006975,
+                "normalized_intensity": 9.532418183449584
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.76341975920419,
+                "normalized_intensity": 9.293903293200698
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 54.327078536712506,
+                "normalized_intensity": 9.054513089452085
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 53.688484893806134,
+                "normalized_intensity": 8.948080815634356
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.26842401968993,
+                "normalized_intensity": 8.711404003281656
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.54944298222932,
+                "normalized_intensity": 8.591573830371553
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 51.21891491921775,
+                "normalized_intensity": 8.536485819869625
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 49.61218104233167,
+                "normalized_intensity": 8.268696840388612
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.60333169487951,
+                "normalized_intensity": 8.267221949146585
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.53297174750826,
+                "normalized_intensity": 8.255495291251377
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.44028457345059,
+                "normalized_intensity": 8.240047428908431
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 389.2742925398444,
+                "normalized_intensity": 77.85485850796888
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 189.40027718406998,
+                "normalized_intensity": 37.880055436814
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 159.53789461972184,
+                "normalized_intensity": 31.907578923944367
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 139.08946794419313,
+                "normalized_intensity": 27.817893588838626
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 103.73493169377804,
+                "normalized_intensity": 20.746986338755608
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.63255712232828,
+                "normalized_intensity": 12.126511424465656
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 56.74041777866243,
+                "normalized_intensity": 11.348083555732487
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 54.06435735904037,
+                "normalized_intensity": 10.812871471808075
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.64681069216668,
+                "normalized_intensity": 10.529362138433337
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.40526045271382,
+                "normalized_intensity": 10.281052090542763
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.07442048864913,
+                "normalized_intensity": 10.014884097729826
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 49.85789103643736,
+                "normalized_intensity": 9.971578207287472
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 49.09435297992478,
+                "normalized_intensity": 9.818870595984956
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "mental-health",
+                "weighted_count": 128.84718772417847,
+                "normalized_intensity": 64.42359386208923
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 117.64953255401483,
+                "normalized_intensity": 58.82476627700741
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 115.71701083887828,
+                "normalized_intensity": 57.85850541943914
+            },
+            {
+                "topic": "family",
+                "weighted_count": 70.15866213100067,
+                "normalized_intensity": 35.079331065500334
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 65.15772100242236,
+                "normalized_intensity": 32.57886050121118
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 63.71081893399375,
+                "normalized_intensity": 31.855409466996875
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 63.31347397944034,
+                "normalized_intensity": 31.65673698972017
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.23972775087609,
+                "normalized_intensity": 30.619863875438046
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.91275470045328,
+                "normalized_intensity": 30.45637735022664
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 58.66173658889564,
+                "normalized_intensity": 29.33086829444782
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 57.04830102139036,
+                "normalized_intensity": 28.52415051069518
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 53.2928908231092,
+                "normalized_intensity": 26.6464454115546
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.63632997795188,
+                "normalized_intensity": 26.31816498897594
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 211.32653733889822,
+                "normalized_intensity": 70.44217911296607
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 106.18322825331919,
+                "normalized_intensity": 35.39440941777306
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 100.09746858220059,
+                "normalized_intensity": 33.36582286073353
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 70.63035954902323,
+                "normalized_intensity": 23.543453183007742
+            },
+            {
+                "topic": "family",
+                "weighted_count": 68.76618217507126,
+                "normalized_intensity": 22.922060725023755
+            },
+            {
+                "topic": "community",
+                "weighted_count": 67.93973204696236,
+                "normalized_intensity": 22.646577348987453
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 62.7192145728033,
+                "normalized_intensity": 20.9064048576011
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 57.20809864515147,
+                "normalized_intensity": 19.06936621505049
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 54.78316974735547,
+                "normalized_intensity": 18.261056582451825
+            },
+            {
+                "topic": "health",
+                "weighted_count": 52.36641171875196,
+                "normalized_intensity": 17.45547057291732
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.514100289081455,
+                "normalized_intensity": 16.83803342969382
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.01140566569292,
+                "normalized_intensity": 16.33713522189764
+            }
+        ]
+    }
+}

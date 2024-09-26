@@ -1,0 +1,202 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 71.57124607512364,
+                "normalized_intensity": 71.57124607512364
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.2428756781467,
+                "normalized_intensity": 52.2428756781467
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 119.65140110579688,
+                "normalized_intensity": 59.82570055289844
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 116.53474598490095,
+                "normalized_intensity": 58.267372992450476
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 113.68843791770664,
+                "normalized_intensity": 56.84421895885332
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 105.64001120135778,
+                "normalized_intensity": 52.82000560067889
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 104.62365235003075,
+                "normalized_intensity": 52.311826175015376
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.25598006292364,
+                "normalized_intensity": 66.25598006292364
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 60.412699158098526,
+                "normalized_intensity": 60.412699158098526
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 50.169884289687616,
+                "normalized_intensity": 50.169884289687616
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.54956591790089,
+                "normalized_intensity": 67.54956591790089
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 64.18609156066378,
+                "normalized_intensity": 64.18609156066378
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 51.86350865711723,
+                "normalized_intensity": 51.86350865711723
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.82576740230525,
+                "normalized_intensity": 50.82576740230525
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.727828826977905,
+                "normalized_intensity": 50.727828826977905
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.115656779530994,
+                "normalized_intensity": 49.115656779530994
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 142.53407783450987,
+                "normalized_intensity": 71.26703891725494
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 129.14678711503075,
+                "normalized_intensity": 64.57339355751537
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 118.37586724973075,
+                "normalized_intensity": 59.18793362486537
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 106.7338184121626,
+                "normalized_intensity": 53.3669092060813
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.08297771604585,
+                "normalized_intensity": 67.08297771604585
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 65.09582478605326,
+                "normalized_intensity": 65.09582478605326
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 62.05031613844385,
+                "normalized_intensity": 62.05031613844385
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 58.73426365197242,
+                "normalized_intensity": 58.73426365197242
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.20697373563007,
+                "normalized_intensity": 55.20697373563007
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 59.82570055289844,
+                "normalized_intensity": 59.82570055289844
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.267372992450476,
+                "normalized_intensity": 58.267372992450476
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.84421895885332,
+                "normalized_intensity": 56.84421895885332
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 52.82000560067889,
+                "normalized_intensity": 52.82000560067889
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 52.311826175015376,
+                "normalized_intensity": 52.311826175015376
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 68.04619478379124,
+                "normalized_intensity": 34.02309739189562
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.03560841787418,
+                "normalized_intensity": 25.01780420893709
+            }
+        ]
+    }
+}

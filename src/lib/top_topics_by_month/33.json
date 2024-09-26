@@ -1,0 +1,32 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "prince edward island",
+                "weighted_count": 79.90904044345689,
+                "normalized_intensity": 79.90904044345689
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.054786069701805,
+                "normalized_intensity": 49.054786069701805
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "prince edward island",
+                "weighted_count": 68.90093375984011,
+                "normalized_intensity": 68.90093375984011
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.3758899099838,
+                "normalized_intensity": 51.3758899099838
+            }
+        ]
+    }
+}

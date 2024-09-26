@@ -1,0 +1,27 @@
+{
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 254.04978148371058,
+                "normalized_intensity": 63.512445370927644
+            },
+            {
+                "topic": "community",
+                "weighted_count": 222.71605938418674,
+                "normalized_intensity": 55.679014846046684
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 203.60315224771597,
+                "normalized_intensity": 50.90078806192899
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 104.12340527367562,
+                "normalized_intensity": 26.030851318418904
+            }
+        ]
+    }
+}

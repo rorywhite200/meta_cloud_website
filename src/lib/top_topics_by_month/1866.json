@@ -1,0 +1,62 @@
+{
+    "2023-09": {
+        "total_ads": 54,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 4150.835693155259,
+                "normalized_intensity": 76.86732765102332
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 3561.4921916491326,
+                "normalized_intensity": 65.95355910461356
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 1426.9560540758973,
+                "normalized_intensity": 26.42511211251662
+            },
+            {
+                "topic": "food",
+                "weighted_count": 249.90033482382157,
+                "normalized_intensity": 4.627783978218918
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 210.5506480396181,
+                "normalized_intensity": 3.8990860748077427
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 124.4521653622615,
+                "normalized_intensity": 2.3046697289307683
+            },
+            {
+                "topic": "community",
+                "weighted_count": 111.5630757522754,
+                "normalized_intensity": 2.065982884301396
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 101.59958205415687,
+                "normalized_intensity": 1.8814737417436458
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 100.51359356067783,
+                "normalized_intensity": 1.8613628437162562
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 99.92402578324999,
+                "normalized_intensity": 1.850444921912037
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 98.4004887680827,
+                "normalized_intensity": 1.8222312734830128
+            }
+        ]
+    }
+}

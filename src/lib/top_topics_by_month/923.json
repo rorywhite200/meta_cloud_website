@@ -1,0 +1,67 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 68.84190417694475,
+                "normalized_intensity": 68.84190417694475
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.49351597837228,
+                "normalized_intensity": 49.49351597837228
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 68.49628158596424,
+                "normalized_intensity": 68.49628158596424
+            },
+            {
+                "topic": "family",
+                "weighted_count": 65.5045298654912,
+                "normalized_intensity": 65.5045298654912
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 57.37334855576815,
+                "normalized_intensity": 57.37334855576815
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 51.92532845279055,
+                "normalized_intensity": 51.92532845279055
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.25203499946842,
+                "normalized_intensity": 51.25203499946842
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.047986267642,
+                "normalized_intensity": 60.047986267642
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 51.024659952929,
+                "normalized_intensity": 51.024659952929
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.02517029973186,
+                "normalized_intensity": 49.02517029973186
+            }
+        ]
+    }
+}

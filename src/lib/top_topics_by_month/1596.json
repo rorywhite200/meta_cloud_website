@@ -1,0 +1,142 @@
+{
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 311.6370049438743,
+                "normalized_intensity": 77.90925123596857
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 285.7164660096151,
+                "normalized_intensity": 71.42911650240377
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 267.6831393043537,
+                "normalized_intensity": 66.92078482608842
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 262.91931371343316,
+                "normalized_intensity": 65.72982842835829
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 256.49265887624796,
+                "normalized_intensity": 64.12316471906199
+            },
+            {
+                "topic": "community",
+                "weighted_count": 252.85703238635318,
+                "normalized_intensity": 63.214258096588296
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 244.47501210888566,
+                "normalized_intensity": 61.118753027221416
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 228.21241156533642,
+                "normalized_intensity": 57.053102891334106
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 227.70607664846497,
+                "normalized_intensity": 56.92651916211624
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 225.98006285882016,
+                "normalized_intensity": 56.49501571470504
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 225.83249642437133,
+                "normalized_intensity": 56.45812410609283
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 220.66968042560018,
+                "normalized_intensity": 55.167420106400044
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 209.53141109988053,
+                "normalized_intensity": 52.38285277497013
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 226.1430692105555,
+                "normalized_intensity": 75.38102307018517
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 206.64862865860502,
+                "normalized_intensity": 68.882876219535
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 202.61058220314374,
+                "normalized_intensity": 67.53686073438125
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 191.1990346460985,
+                "normalized_intensity": 63.7330115486995
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 190.88427239943314,
+                "normalized_intensity": 63.62809079981105
+            },
+            {
+                "topic": "community",
+                "weighted_count": 188.2148043132706,
+                "normalized_intensity": 62.73826810442353
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 173.35918758205526,
+                "normalized_intensity": 57.78639586068508
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 166.246626012026,
+                "normalized_intensity": 55.41554200400867
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 164.9057835530342,
+                "normalized_intensity": 54.96859451767807
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 164.78498819464988,
+                "normalized_intensity": 54.928329398216626
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 162.72257492636794,
+                "normalized_intensity": 54.24085830878931
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 161.75306885921927,
+                "normalized_intensity": 53.917689619739754
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 153.91386859634557,
+                "normalized_intensity": 51.30462286544852
+            }
+        ]
+    }
+}

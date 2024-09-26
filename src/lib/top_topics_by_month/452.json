@@ -1,0 +1,162 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 220.34742141653572,
+                "normalized_intensity": 73.44914047217857
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 184.77118455859724,
+                "normalized_intensity": 61.59039485286575
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 140.84375814562327,
+                "normalized_intensity": 46.94791938187442
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 86.50116726102598,
+                "normalized_intensity": 28.833722420341996
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 75.01967781395253,
+                "normalized_intensity": 25.00655927131751
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.609675832602804,
+                "normalized_intensity": 19.20322527753427
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 54.462662684894646,
+                "normalized_intensity": 18.154220894964883
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.136413363900125,
+                "normalized_intensity": 17.712137787966707
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 90.4179240660192,
+                "normalized_intensity": 90.4179240660192
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 74.3453676979031,
+                "normalized_intensity": 74.3453676979031
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 72.88500961266057,
+                "normalized_intensity": 72.88500961266057
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 60.738509048528385,
+                "normalized_intensity": 60.738509048528385
+            },
+            {
+                "topic": "law",
+                "weighted_count": 54.83158455416728,
+                "normalized_intensity": 54.83158455416728
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 52.74795434363712,
+                "normalized_intensity": 52.74795434363712
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 140.01809192174616,
+                "normalized_intensity": 70.00904596087308
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 57.58034549410226,
+                "normalized_intensity": 28.79017274705113
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.88047060556405,
+                "normalized_intensity": 27.940235302782025
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.73594088592909,
+                "normalized_intensity": 24.867970442964545
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 49.69500369739587,
+                "normalized_intensity": 24.847501848697934
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.398773168726194,
+                "normalized_intensity": 24.699386584363097
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 87.32539487073446,
+                "normalized_intensity": 87.32539487073446
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 76.76922578322473,
+                "normalized_intensity": 76.76922578322473
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 73.40892642954806,
+                "normalized_intensity": 73.40892642954806
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 72.3756568656204,
+                "normalized_intensity": 72.3756568656204
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 63.98935609978326,
+                "normalized_intensity": 63.98935609978326
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.428225472505645,
+                "normalized_intensity": 53.428225472505645
+            },
+            {
+                "topic": "military",
+                "weighted_count": 50.919310045126146,
+                "normalized_intensity": 50.919310045126146
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.531262054064165,
+                "normalized_intensity": 49.531262054064165
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 68.30659326496419,
+                "normalized_intensity": 68.30659326496419
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 61.9709733937436,
+                "normalized_intensity": 61.9709733937436
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 60.78389128059314,
+                "normalized_intensity": 60.78389128059314
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 53.20270942210681,
+                "normalized_intensity": 53.20270942210681
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 53.007237699423925,
+                "normalized_intensity": 53.007237699423925
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.57721922380109,
+                "normalized_intensity": 51.57721922380109
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.20762599239187,
+                "normalized_intensity": 51.20762599239187
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.32446733466175,
+                "normalized_intensity": 50.32446733466175
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 65.1743021328033,
+                "normalized_intensity": 65.1743021328033
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.88711726474325,
+                "normalized_intensity": 58.88711726474325
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 56.578098484611495,
+                "normalized_intensity": 56.578098484611495
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 56.066886263389634,
+                "normalized_intensity": 56.066886263389634
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 55.77813232931143,
+                "normalized_intensity": 55.77813232931143
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.38022027984404,
+                "normalized_intensity": 55.38022027984404
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.26785092577152,
+                "normalized_intensity": 50.26785092577152
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 102.80423962341736,
+                "normalized_intensity": 51.40211981170868
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 57.90666468559873,
+                "normalized_intensity": 28.953332342799364
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 55.65956364813145,
+                "normalized_intensity": 27.829781824065726
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.701552929805004,
+                "normalized_intensity": 25.850776464902502
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 49.97915573652437,
+                "normalized_intensity": 24.989577868262185
+            }
+        ]
+    }
+}

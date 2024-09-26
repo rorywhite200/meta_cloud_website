@@ -1,0 +1,72 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 80.89017683383626,
+                "normalized_intensity": 40.44508841691813
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 66.92043370314971,
+                "normalized_intensity": 33.460216851574856
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.8121002264587,
+                "normalized_intensity": 27.40605011322935
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 53.48271405023849,
+                "normalized_intensity": 26.741357025119246
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.02845236560921,
+                "normalized_intensity": 26.014226182804606
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.35576538573912,
+                "normalized_intensity": 25.67788269286956
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.73884154541617,
+                "normalized_intensity": 25.369420772708086
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 146.81359281694375,
+                "normalized_intensity": 48.937864272314584
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 84.04176731598537,
+                "normalized_intensity": 28.01392243866179
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 65.3530207830743,
+                "normalized_intensity": 21.784340261024767
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 54.42515412988848,
+                "normalized_intensity": 18.141718043296162
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.74693096034123,
+                "normalized_intensity": 17.582310320113745
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 217.82647843494044,
+                "normalized_intensity": 72.60882614498014
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 180.4908941869152,
+                "normalized_intensity": 60.1636313956384
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 172.38881939954226,
+                "normalized_intensity": 57.46293979984742
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 171.59462426791055,
+                "normalized_intensity": 57.19820808930351
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 118.67794220515347,
+                "normalized_intensity": 39.55931406838449
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 117.72797881358757,
+                "normalized_intensity": 39.24265960452919
+            },
+            {
+                "topic": "community",
+                "weighted_count": 112.65069750029153,
+                "normalized_intensity": 37.550232500097174
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 107.19749031236086,
+                "normalized_intensity": 35.73249677078695
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 61.93629720283579,
+                "normalized_intensity": 20.645432400945264
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 51.96628884385718,
+                "normalized_intensity": 17.322096281285727
+            }
+        ]
+    }
+}

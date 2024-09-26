@@ -1,0 +1,77 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 152.0536647021626,
+                "normalized_intensity": 76.0268323510813
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 140.93644308837978,
+                "normalized_intensity": 70.46822154418989
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 125.69999002973992,
+                "normalized_intensity": 62.84999501486996
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 103.61853212395049,
+                "normalized_intensity": 51.809266061975244
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 64.35512026323514,
+                "normalized_intensity": 64.35512026323514
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 58.45247627114325,
+                "normalized_intensity": 58.45247627114325
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.81487124158559,
+                "normalized_intensity": 51.81487124158559
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.80939355085413,
+                "normalized_intensity": 51.80939355085413
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 64.35512026323514,
+                "normalized_intensity": 64.35512026323514
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 58.45247627114325,
+                "normalized_intensity": 58.45247627114325
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.81487124158559,
+                "normalized_intensity": 51.81487124158559
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.80939355085413,
+                "normalized_intensity": 51.80939355085413
+            }
+        ]
+    }
+}

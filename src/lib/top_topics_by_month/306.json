@@ -1,0 +1,152 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.33068518563911,
+                "normalized_intensity": 50.33068518563911
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.179828033804064,
+                "normalized_intensity": 49.179828033804064
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 119.50099116847409,
+                "normalized_intensity": 59.75049558423704
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 119.2358762947778,
+                "normalized_intensity": 59.6179381473889
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 108.35609995642642,
+                "normalized_intensity": 54.17804997821321
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 104.18676951001638,
+                "normalized_intensity": 52.09338475500819
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 17,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1177.7311603299047,
+                "normalized_intensity": 69.27830354881792
+            },
+            {
+                "topic": "community",
+                "weighted_count": 861.8623656705886,
+                "normalized_intensity": 50.69778621591698
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 493.66866981060747,
+                "normalized_intensity": 29.03933351827103
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.742187013687634,
+                "normalized_intensity": 3.0436580596286844
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1788.956040447252,
+                "normalized_intensity": 55.904876263976625
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1666.9020921940112,
+                "normalized_intensity": 52.09069038106285
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 108.58038721703105,
+                "normalized_intensity": 3.39313710053222
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 75.10214698988347,
+                "normalized_intensity": 2.3469420934338583
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 69.18793424796979,
+                "normalized_intensity": 2.162122945249056
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 67.03875908748147,
+                "normalized_intensity": 2.094961221483796
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 63.53450291464742,
+                "normalized_intensity": 1.9854532160827318
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 56.99207231890774,
+                "normalized_intensity": 1.7810022599658668
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.7350695334465,
+                "normalized_intensity": 1.554220922920203
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 212.9617594657949,
+                "normalized_intensity": 53.240439866448725
+            },
+            {
+                "topic": "community",
+                "weighted_count": 203.33246184154808,
+                "normalized_intensity": 50.83311546038702
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 148.69136585905673,
+                "normalized_intensity": 37.17284146476418
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 572.1916513037119,
+                "normalized_intensity": 63.57685014485688
+            },
+            {
+                "topic": "community",
+                "weighted_count": 419.13410540140796,
+                "normalized_intensity": 46.570456155711994
+            }
+        ]
+    }
+}

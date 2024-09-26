@@ -1,0 +1,37 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 80.66303755941136,
+                "normalized_intensity": 80.66303755941136
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 63.7096161872624,
+                "normalized_intensity": 63.7096161872624
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 62.46708768682634,
+                "normalized_intensity": 62.46708768682634
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 61.1970029241856,
+                "normalized_intensity": 61.1970029241856
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 54.902503645521804,
+                "normalized_intensity": 54.902503645521804
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.10632736425649,
+                "normalized_intensity": 52.10632736425649
+            }
+        ]
+    }
+}

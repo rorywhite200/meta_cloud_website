@@ -1,0 +1,157 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 139.28364493153617,
+                "normalized_intensity": 69.64182246576809
+            },
+            {
+                "topic": "artificial-intelligence",
+                "weighted_count": 120.04301993841766,
+                "normalized_intensity": 60.02150996920883
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 112.80537544899396,
+                "normalized_intensity": 56.40268772449698
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 112.71654884579843,
+                "normalized_intensity": 56.358274422899214
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 103.8517490323537,
+                "normalized_intensity": 51.92587451617685
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.83215190961035,
+                "normalized_intensity": 51.41607595480517
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 99.298862167779,
+                "normalized_intensity": 49.6494310838895
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 98.29966438345204,
+                "normalized_intensity": 49.14983219172602
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 137.37828267020174,
+                "normalized_intensity": 68.68914133510087
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 117.10321490136819,
+                "normalized_intensity": 58.551607450684095
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 105.56567512581711,
+                "normalized_intensity": 52.782837562908554
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "theater",
+                "weighted_count": 128.13853401835743,
+                "normalized_intensity": 64.06926700917872
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 105.70207292326003,
+                "normalized_intensity": 52.85103646163002
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 102.41557899703875,
+                "normalized_intensity": 51.207789498519375
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 100.65470341831721,
+                "normalized_intensity": 50.327351709158606
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 123.73477726304891,
+                "normalized_intensity": 61.867388631524456
+            },
+            {
+                "topic": "community",
+                "weighted_count": 114.35150577823603,
+                "normalized_intensity": 57.175752889118016
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 102.1522618832162,
+                "normalized_intensity": 51.0761309416081
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.97542319435124,
+                "normalized_intensity": 49.48771159717562
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 98.17168260378695,
+                "normalized_intensity": 49.085841301893474
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 126.23001245865018,
+                "normalized_intensity": 63.11500622932509
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 124.40411467988434,
+                "normalized_intensity": 62.20205733994217
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 112.38642548127925,
+                "normalized_intensity": 56.19321274063962
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 108.96819804755897,
+                "normalized_intensity": 54.484099023779486
+            },
+            {
+                "topic": "history",
+                "weighted_count": 106.55230052335352,
+                "normalized_intensity": 53.27615026167676
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 101.95726932620668,
+                "normalized_intensity": 50.97863466310334
+            }
+        ]
+    }
+}

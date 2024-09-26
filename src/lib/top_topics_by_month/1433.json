@@ -1,0 +1,27 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 79.20638854102569,
+                "normalized_intensity": 79.20638854102569
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 55.58807943782734,
+                "normalized_intensity": 55.58807943782734
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.46039354357281,
+                "normalized_intensity": 51.46039354357281
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 50.90518288694091,
+                "normalized_intensity": 50.90518288694091
+            }
+        ]
+    }
+}

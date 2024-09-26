@@ -1,0 +1,377 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 237.64179232718993,
+                "normalized_intensity": 59.41044808179748
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 157.16144307233753,
+                "normalized_intensity": 39.29036076808438
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 112.65217488520543,
+                "normalized_intensity": 28.163043721301356
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 60.40695442157589,
+                "normalized_intensity": 15.101738605393972
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.420447873642935,
+                "normalized_intensity": 12.605111968410734
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 128.30138339377845,
+                "normalized_intensity": 32.07534584844461
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 111.66436583100398,
+                "normalized_intensity": 27.916091457750994
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.65940343595592,
+                "normalized_intensity": 13.91485085898898
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.05304439084565,
+                "normalized_intensity": 13.763261097711412
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.712806744024455,
+                "normalized_intensity": 13.428201686006114
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 53.455403508329304,
+                "normalized_intensity": 13.363850877082326
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.185327468134275,
+                "normalized_intensity": 12.796331867033569
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 49.73320031877184,
+                "normalized_intensity": 12.43330007969296
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 57.096852196220674,
+                "normalized_intensity": 57.096852196220674
+            },
+            {
+                "topic": "food",
+                "weighted_count": 53.57638795672065,
+                "normalized_intensity": 53.57638795672065
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.59828814281327,
+                "normalized_intensity": 49.59828814281327
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 49.588138850183775,
+                "normalized_intensity": 49.588138850183775
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 52.34795085177873,
+                "normalized_intensity": 52.34795085177873
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.44866204912953,
+                "normalized_intensity": 50.44866204912953
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.391342125529846,
+                "normalized_intensity": 50.391342125529846
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.315664144250306,
+                "normalized_intensity": 50.315664144250306
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.46838237231284,
+                "normalized_intensity": 49.46838237231284
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.246035865066695,
+                "normalized_intensity": 30.623017932533347
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 60.437073741780914,
+                "normalized_intensity": 30.218536870890457
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.49439974468973,
+                "normalized_intensity": 28.747199872344865
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 57.164089091373185,
+                "normalized_intensity": 28.582044545686593
+            },
+            {
+                "topic": "family",
+                "weighted_count": 57.070358839328236,
+                "normalized_intensity": 28.535179419664118
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 54.07252578252779,
+                "normalized_intensity": 27.036262891263895
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 53.511618768347816,
+                "normalized_intensity": 26.755809384173908
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.064669377821204,
+                "normalized_intensity": 26.032334688910602
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.41804374389741,
+                "normalized_intensity": 24.709021871948703
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 109.89941208147103,
+                "normalized_intensity": 36.633137360490345
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 109.60808632404164,
+                "normalized_intensity": 36.536028774680545
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 106.20430868542607,
+                "normalized_intensity": 35.401436228475355
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 110.94683341083939,
+                "normalized_intensity": 55.473416705419694
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 183.91497534168704,
+                "normalized_intensity": 61.30499178056235
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 103.79776126459028,
+                "normalized_intensity": 34.599253754863426
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 63.01556552009243,
+                "normalized_intensity": 21.005188506697476
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 55.008957149984575,
+                "normalized_intensity": 18.33631904999486
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 53.75562197406857,
+                "normalized_intensity": 17.918540658022856
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 203.9029957227444,
+                "normalized_intensity": 40.78059914454888
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 110.89275797460245,
+                "normalized_intensity": 22.17855159492049
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 101.12000156259708,
+                "normalized_intensity": 20.224000312519415
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 65.35498626903572,
+                "normalized_intensity": 13.070997253807144
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 62.584300660782475,
+                "normalized_intensity": 12.516860132156495
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.940787656730436,
+                "normalized_intensity": 11.988157531346086
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.18148272619022,
+                "normalized_intensity": 10.236296545238044
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.26817748075888,
+                "normalized_intensity": 9.853635496151776
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.72827646204834,
+                "normalized_intensity": 66.72827646204834
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 61.86772311800753,
+                "normalized_intensity": 61.86772311800753
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 59.05962709196339,
+                "normalized_intensity": 59.05962709196339
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 53.69881366466196,
+                "normalized_intensity": 53.69881366466196
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.60092170002785,
+                "normalized_intensity": 51.60092170002785
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 79.83534663016158,
+                "normalized_intensity": 79.83534663016158
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 76.34269350712418,
+                "normalized_intensity": 76.34269350712418
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 312.14503520469214,
+                "normalized_intensity": 44.59214788638459
+            },
+            {
+                "topic": "film",
+                "weighted_count": 298.4231846388571,
+                "normalized_intensity": 42.63188351983673
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 104.07022512101722,
+                "normalized_intensity": 14.867175017288174
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 62.52162925397619,
+                "normalized_intensity": 8.931661321996598
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.51473727766885,
+                "normalized_intensity": 8.78781961109555
+            },
+            {
+                "topic": "family",
+                "weighted_count": 60.39303581034924,
+                "normalized_intensity": 8.627576544335605
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 57.60546713555279,
+                "normalized_intensity": 8.229352447936114
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 49.224065704187666,
+                "normalized_intensity": 7.032009386312524
+            }
+        ]
+    }
+}

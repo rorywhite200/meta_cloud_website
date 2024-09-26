@@ -1,0 +1,372 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 135.28303845560697,
+                "normalized_intensity": 67.64151922780349
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 134.39747965857055,
+                "normalized_intensity": 67.19873982928527
+            },
+            {
+                "topic": "health",
+                "weighted_count": 122.11093866999217,
+                "normalized_intensity": 61.05546933499608
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 116.91604270083684,
+                "normalized_intensity": 58.45802135041842
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 108.12964966927063,
+                "normalized_intensity": 54.06482483463532
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 105.61484517747877,
+                "normalized_intensity": 52.807422588739385
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 98.87241373273417,
+                "normalized_intensity": 49.43620686636709
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 98.51018496644761,
+                "normalized_intensity": 49.255092483223805
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 56.71404675240878,
+                "normalized_intensity": 56.71404675240878
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.94980463310497,
+                "normalized_intensity": 51.94980463310497
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.96726140431259,
+                "normalized_intensity": 49.96726140431259
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 194.87670083378416,
+                "normalized_intensity": 64.95890027792805
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 160.22714508665257,
+                "normalized_intensity": 53.409048362217526
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 113.03225498387354,
+                "normalized_intensity": 37.677418327957845
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 106.15744970015118,
+                "normalized_intensity": 35.38581656671706
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 103.12535918918749,
+                "normalized_intensity": 34.375119729729164
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 64.13351541640642,
+                "normalized_intensity": 21.377838472135476
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.59956094116267,
+                "normalized_intensity": 17.53318698038756
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.442642724842045,
+                "normalized_intensity": 17.48088090828068
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.46494750359359,
+                "normalized_intensity": 16.488315834531196
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1231.5264939461965,
+                "normalized_intensity": 68.41813855256648
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 623.6100464233431,
+                "normalized_intensity": 34.645002579074614
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 524.8011393260552,
+                "normalized_intensity": 29.155618851447514
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 510.82429530341625,
+                "normalized_intensity": 28.379127516856457
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 501.8321522075934,
+                "normalized_intensity": 27.879564011532967
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 420.3724224916673,
+                "normalized_intensity": 23.354023471759294
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 356.9700684850707,
+                "normalized_intensity": 19.83167047139282
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 316.1122157543537,
+                "normalized_intensity": 17.56178976413076
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 313.06709139982263,
+                "normalized_intensity": 17.392616188879035
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 547.9438203382138,
+                "normalized_intensity": 68.49297754227672
+            },
+            {
+                "topic": "health",
+                "weighted_count": 515.6589373713539,
+                "normalized_intensity": 64.45736717141924
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 428.20578834699285,
+                "normalized_intensity": 53.525723543374106
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 425.7651436655344,
+                "normalized_intensity": 53.2206429581918
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 99.33068818809564,
+                "normalized_intensity": 12.416336023511954
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 53.47820175815604,
+                "normalized_intensity": 6.684775219769505
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.97876719822322,
+                "normalized_intensity": 6.247345899777902
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.019536003119306,
+                "normalized_intensity": 6.127442000389913
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 64.54157478833011,
+                "normalized_intensity": 64.54157478833011
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.55325647709131,
+                "normalized_intensity": 60.55325647709131
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 59.658315485057614,
+                "normalized_intensity": 59.658315485057614
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 58.18534569763276,
+                "normalized_intensity": 58.18534569763276
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 52.59965693740971,
+                "normalized_intensity": 52.59965693740971
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 51.21276238461711,
+                "normalized_intensity": 51.21276238461711
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 366.8931522175959,
+                "normalized_intensity": 61.14885870293265
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 247.18162636866467,
+                "normalized_intensity": 41.196937728110775
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 229.33236640225132,
+                "normalized_intensity": 38.222061067041885
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 223.85414795285007,
+                "normalized_intensity": 37.30902465880835
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 205.44099513681783,
+                "normalized_intensity": 34.24016585613631
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 204.39973843906608,
+                "normalized_intensity": 34.06662307317768
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 177.9427343179374,
+                "normalized_intensity": 29.6571223863229
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 156.71894877250406,
+                "normalized_intensity": 26.119824795417344
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 114.33878273190481,
+                "normalized_intensity": 19.056463788650802
+            },
+            {
+                "topic": "family",
+                "weighted_count": 110.37144797590435,
+                "normalized_intensity": 18.39524132931739
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 106.89205627724098,
+                "normalized_intensity": 17.8153427128735
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 106.86946919506342,
+                "normalized_intensity": 17.811578199177237
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 99.57096857046734,
+                "normalized_intensity": 16.595161428411224
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 52.06532232330753,
+                "normalized_intensity": 8.677553720551254
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.769533859684344,
+                "normalized_intensity": 8.461588976614058
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.35656357473109,
+                "normalized_intensity": 8.226093929121848
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.203807662595786,
+                "normalized_intensity": 8.200634610432632
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 219.95318299762334,
+                "normalized_intensity": 73.31772766587444
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 180.91397108285025,
+                "normalized_intensity": 60.30465702761675
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 161.6232710569777,
+                "normalized_intensity": 53.87442368565923
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 157.41382742664587,
+                "normalized_intensity": 52.471275808881956
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 153.94241173618155,
+                "normalized_intensity": 51.31413724539385
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 148.598379314017,
+                "normalized_intensity": 49.53279310467233
+            }
+        ]
+    }
+}

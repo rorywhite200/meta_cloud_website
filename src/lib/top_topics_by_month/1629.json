@@ -1,0 +1,97 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 148.56911119363866,
+                "normalized_intensity": 74.28455559681933
+            },
+            {
+                "topic": "history",
+                "weighted_count": 146.67778341305183,
+                "normalized_intensity": 73.33889170652591
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 146.47940110524752,
+                "normalized_intensity": 73.23970055262376
+            },
+            {
+                "topic": "film",
+                "weighted_count": 137.22601442055768,
+                "normalized_intensity": 68.61300721027884
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 108.68533008518177,
+                "normalized_intensity": 54.34266504259089
+            },
+            {
+                "topic": "television",
+                "weighted_count": 99.35523153238385,
+                "normalized_intensity": 49.67761576619193
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 216.92078229945247,
+                "normalized_intensity": 72.30692743315082
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 207.57166731220133,
+                "normalized_intensity": 69.19055577073378
+            },
+            {
+                "topic": "history",
+                "weighted_count": 199.18134353884182,
+                "normalized_intensity": 66.39378117961394
+            },
+            {
+                "topic": "film",
+                "weighted_count": 195.08193077731022,
+                "normalized_intensity": 65.0273102591034
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 157.6251778084581,
+                "normalized_intensity": 52.541725936152694
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 222.45653868084446,
+                "normalized_intensity": 74.15217956028148
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 208.2644354799665,
+                "normalized_intensity": 69.42147849332217
+            },
+            {
+                "topic": "history",
+                "weighted_count": 204.47703482413903,
+                "normalized_intensity": 68.15901160804634
+            },
+            {
+                "topic": "film",
+                "weighted_count": 194.62914100984034,
+                "normalized_intensity": 64.87638033661345
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 164.1632599752577,
+                "normalized_intensity": 54.72108665841923
+            }
+        ]
+    }
+}

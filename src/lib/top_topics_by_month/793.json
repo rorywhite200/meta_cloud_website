@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 2419.113771823762,
+                "normalized_intensity": 75.59730536949256
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 2062.614884430246,
+                "normalized_intensity": 64.45671513844519
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1500.908855248543,
+                "normalized_intensity": 46.90340172651697
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 302.27525659872475,
+                "normalized_intensity": 9.446101768710149
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 296.84301980815997,
+                "normalized_intensity": 9.276344369004999
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 295.30179059925734,
+                "normalized_intensity": 9.228180956226792
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 272.2441713759143,
+                "normalized_intensity": 8.507630355497321
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 259.64176957181786,
+                "normalized_intensity": 8.113805299119308
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 256.9532325112278,
+                "normalized_intensity": 8.029788515975868
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 256.2075500606441,
+                "normalized_intensity": 8.006485939395128
+            }
+        ]
+    }
+}

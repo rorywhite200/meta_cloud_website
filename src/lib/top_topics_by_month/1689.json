@@ -1,0 +1,57 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 189.3149242476374,
+                "normalized_intensity": 63.10497474921247
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 171.87067414595055,
+                "normalized_intensity": 57.290224715316846
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 116.24676816038195,
+                "normalized_intensity": 38.74892272012732
+            },
+            {
+                "topic": "community",
+                "weighted_count": 104.45123635225454,
+                "normalized_intensity": 34.81707878408485
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 50.62100488559733,
+                "normalized_intensity": 16.87366829519911
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.315651107712135,
+                "normalized_intensity": 16.43855036923738
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 65.41022639993295,
+                "normalized_intensity": 65.41022639993295
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 63.389566690319775,
+                "normalized_intensity": 63.389566690319775
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 60.32515744620153,
+                "normalized_intensity": 60.32515744620153
+            }
+        ]
+    }
+}

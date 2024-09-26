@@ -1,0 +1,2792 @@
+{
+    "2023-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 343.4673620438695,
+                "normalized_intensity": 85.86684051096738
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 321.29538929913815,
+                "normalized_intensity": 80.32384732478454
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 247.8819966620482,
+                "normalized_intensity": 61.97049916551205
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 247.87855380221052,
+                "normalized_intensity": 61.96963845055263
+            },
+            {
+                "topic": "military",
+                "weighted_count": 244.1526877110624,
+                "normalized_intensity": 61.0381719277656
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 201.4740306734415,
+                "normalized_intensity": 50.36850766836037
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 69.50449231280814,
+                "normalized_intensity": 17.376123078202035
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 72,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 4988.29258629409,
+                "normalized_intensity": 69.28184147630681
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 3940.8301570471067,
+                "normalized_intensity": 54.733752181209816
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 3922.7597718430734,
+                "normalized_intensity": 54.48277460893158
+            },
+            {
+                "topic": "military",
+                "weighted_count": 3302.9210534546096,
+                "normalized_intensity": 45.87390352020291
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1722.3345914728827,
+                "normalized_intensity": 23.921313770456706
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 1377.6256255169917,
+                "normalized_intensity": 19.133689243291553
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 951.5274507269427,
+                "normalized_intensity": 13.215659037874204
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 878.4887730164413,
+                "normalized_intensity": 12.201232958561684
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 456.0103902280938,
+                "normalized_intensity": 6.333477642056859
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 390.361943337265,
+                "normalized_intensity": 5.421693657462014
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 360.7593500584974,
+                "normalized_intensity": 5.0105465285902415
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 289.75288235263827,
+                "normalized_intensity": 4.024345588231087
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 265.5904413237618,
+                "normalized_intensity": 3.6887561294966917
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 219.3563413227324,
+                "normalized_intensity": 3.0466158517046167
+            },
+            {
+                "topic": "family",
+                "weighted_count": 215.93843439973193,
+                "normalized_intensity": 2.999144922218499
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 195.45457227905894,
+                "normalized_intensity": 2.714646837209152
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 142.75918373045363,
+                "normalized_intensity": 1.9827664407007448
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 127.66168118939956,
+                "normalized_intensity": 1.7730789054083271
+            },
+            {
+                "topic": "history",
+                "weighted_count": 125.97536542056885,
+                "normalized_intensity": 1.7496578530634563
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 125.28431917154815,
+                "normalized_intensity": 1.7400599884937242
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 120.54285787234437,
+                "normalized_intensity": 1.6742063593381162
+            },
+            {
+                "topic": "food",
+                "weighted_count": 117.50633278817634,
+                "normalized_intensity": 1.6320323998357824
+            },
+            {
+                "topic": "health",
+                "weighted_count": 115.00823291311312,
+                "normalized_intensity": 1.597336568237682
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 102.20979764051842,
+                "normalized_intensity": 1.419580522784978
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 101.48717533336392,
+                "normalized_intensity": 1.4095441018522767
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 75.39945493527158,
+                "normalized_intensity": 1.047214651878772
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 64.87378542845396,
+                "normalized_intensity": 0.901024797617416
+            },
+            {
+                "topic": "music",
+                "weighted_count": 56.70735724146978,
+                "normalized_intensity": 0.7876021839093025
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.47814922916248,
+                "normalized_intensity": 0.7427520726272567
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 52.99285335388011,
+                "normalized_intensity": 0.7360118521372238
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.624283050508225,
+                "normalized_intensity": 0.7031150423681698
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 50.356363272085346,
+                "normalized_intensity": 0.6993939343345187
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.255272757391566,
+                "normalized_intensity": 0.6979898994082162
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.640142902035514,
+                "normalized_intensity": 0.6894464291949377
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.4894910779736,
+                "normalized_intensity": 0.6873540427496333
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 77,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 4234.756659617911,
+                "normalized_intensity": 54.99683973529755
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 3822.2787948823925,
+                "normalized_intensity": 49.63998434912198
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 3395.8436583731545,
+                "normalized_intensity": 44.10186569315785
+            },
+            {
+                "topic": "military",
+                "weighted_count": 3386.320090723557,
+                "normalized_intensity": 43.97818299640983
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2181.09960169143,
+                "normalized_intensity": 28.325968853135457
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 1261.325146429813,
+                "normalized_intensity": 16.38084605753004
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 916.2294974088584,
+                "normalized_intensity": 11.899084381933225
+            },
+            {
+                "topic": "security",
+                "weighted_count": 572.5920983998964,
+                "normalized_intensity": 7.436261018180472
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 498.132557557002,
+                "normalized_intensity": 6.469253994246779
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 452.6336843585272,
+                "normalized_intensity": 5.87835953712373
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 380.162225227392,
+                "normalized_intensity": 4.937171756199897
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 334.06148926034217,
+                "normalized_intensity": 4.338460899484963
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 306.4086319442804,
+                "normalized_intensity": 3.9793328823932517
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 233.03141833522153,
+                "normalized_intensity": 3.0263820563015784
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 220.44410100204004,
+                "normalized_intensity": 2.8629104026238967
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 208.47535121199365,
+                "normalized_intensity": 2.7074720936622554
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 207.758345088999,
+                "normalized_intensity": 2.698160325831156
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 178.3544197750394,
+                "normalized_intensity": 2.3162911659096026
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 168.6035229612694,
+                "normalized_intensity": 2.189656142354148
+            },
+            {
+                "topic": "education",
+                "weighted_count": 157.03305051172546,
+                "normalized_intensity": 2.039390266386045
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 155.6869533650194,
+                "normalized_intensity": 2.0219084852599924
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 154.36084961901534,
+                "normalized_intensity": 2.004686358688511
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 153.68222878563978,
+                "normalized_intensity": 1.9958731011122048
+            },
+            {
+                "topic": "family",
+                "weighted_count": 141.19487818435476,
+                "normalized_intensity": 1.833699716679932
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 135.56119386115353,
+                "normalized_intensity": 1.760534985209786
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 128.32115760127687,
+                "normalized_intensity": 1.666508540276323
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 127.16516947535624,
+                "normalized_intensity": 1.651495707472159
+            },
+            {
+                "topic": "law",
+                "weighted_count": 115.00406412210964,
+                "normalized_intensity": 1.4935592743131123
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 110.21067362919979,
+                "normalized_intensity": 1.4313074497298675
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 110.11806303146491,
+                "normalized_intensity": 1.4301047146943495
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 108.70345970828421,
+                "normalized_intensity": 1.41173324296473
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 108.12814621365926,
+                "normalized_intensity": 1.404261639138432
+            },
+            {
+                "topic": "health",
+                "weighted_count": 107.17309042174651,
+                "normalized_intensity": 1.391858317165539
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 106.39890860907218,
+                "normalized_intensity": 1.3818040079100282
+            },
+            {
+                "topic": "history",
+                "weighted_count": 104.6035280573964,
+                "normalized_intensity": 1.3584873773687844
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 101.2486447544359,
+                "normalized_intensity": 1.3149174643433235
+            },
+            {
+                "topic": "science",
+                "weighted_count": 100.26588988834999,
+                "normalized_intensity": 1.3021544141344155
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.10003981985758,
+                "normalized_intensity": 0.6766238937643841
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 51.89619920177834,
+                "normalized_intensity": 0.6739766130101082
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 51.348331398390236,
+                "normalized_intensity": 0.6668614467323407
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 50.765915570916896,
+                "normalized_intensity": 0.6592976048171025
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.17719926552431,
+                "normalized_intensity": 0.6516519385133027
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 132,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 8110.200003969485,
+                "normalized_intensity": 61.44090912098095
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 6841.299420352038,
+                "normalized_intensity": 51.82802591175787
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 6408.681583732522,
+                "normalized_intensity": 48.550618058579715
+            },
+            {
+                "topic": "military",
+                "weighted_count": 5626.911184797259,
+                "normalized_intensity": 42.62811503634287
+            },
+            {
+                "topic": "community",
+                "weighted_count": 4793.223108034297,
+                "normalized_intensity": 36.3122962729871
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 3222.3856055534484,
+                "normalized_intensity": 24.4120121632837
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 1893.8822731693626,
+                "normalized_intensity": 14.347592978555777
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 1749.5268094889227,
+                "normalized_intensity": 13.253990980976686
+            },
+            {
+                "topic": "history",
+                "weighted_count": 1545.4469001035043,
+                "normalized_intensity": 11.707931061390184
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1133.9984491950654,
+                "normalized_intensity": 8.590897342386858
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 1126.6646622119063,
+                "normalized_intensity": 8.5353383500902
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 1072.914176859711,
+                "normalized_intensity": 8.12813770348266
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 900.4996616328491,
+                "normalized_intensity": 6.8219671335821905
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 600.4853493370904,
+                "normalized_intensity": 4.549131434371897
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 510.83418682916925,
+                "normalized_intensity": 3.8699559608270397
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 500.05601951918504,
+                "normalized_intensity": 3.7883031781756444
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 359.6863438330346,
+                "normalized_intensity": 2.7248965441896558
+            },
+            {
+                "topic": "security",
+                "weighted_count": 355.24754896965004,
+                "normalized_intensity": 2.6912693103761365
+            },
+            {
+                "topic": "family",
+                "weighted_count": 352.2439117036689,
+                "normalized_intensity": 2.6685144826035523
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 322.8121855317971,
+                "normalized_intensity": 2.4455468600893724
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 321.01811944334304,
+                "normalized_intensity": 2.4319554503283562
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 313.746213835105,
+                "normalized_intensity": 2.376865256326553
+            },
+            {
+                "topic": "law",
+                "weighted_count": 270.92088592933123,
+                "normalized_intensity": 2.052430954010085
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 240.60982579964303,
+                "normalized_intensity": 1.8228017106033563
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 213.0385146190782,
+                "normalized_intensity": 1.6139281410536228
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 210.6249803480761,
+                "normalized_intensity": 1.595643790515728
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 166.46750820556454,
+                "normalized_intensity": 1.261117486405792
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 150.435493298198,
+                "normalized_intensity": 1.1396628280166514
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 150.10992530041634,
+                "normalized_intensity": 1.137196403791033
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 113.54741174563173,
+                "normalized_intensity": 0.8602076647396344
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 107.9205576203031,
+                "normalized_intensity": 0.8175799819719932
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 100.54678741081666,
+                "normalized_intensity": 0.7617180864455808
+            },
+            {
+                "topic": "education",
+                "weighted_count": 100.11433891579297,
+                "normalized_intensity": 0.75844196148328
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 73.17633671462336,
+                "normalized_intensity": 0.5543661872319952
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 63.923713584138774,
+                "normalized_intensity": 0.4842705574555968
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 60.84197973561039,
+                "normalized_intensity": 0.4609240889061393
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 56.20776850302628,
+                "normalized_intensity": 0.4258164280532294
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 55.34588989125342,
+                "normalized_intensity": 0.41928704463070776
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 53.82639856589169,
+                "normalized_intensity": 0.4077757467113007
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 53.165611009467085,
+                "normalized_intensity": 0.40276978037475064
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.985488564332364,
+                "normalized_intensity": 0.4014052163964573
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.769679872460806,
+                "normalized_intensity": 0.39219454448833946
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 50.284771046829626,
+                "normalized_intensity": 0.38094523520325474
+            },
+            {
+                "topic": "art",
+                "weighted_count": 50.20281323124409,
+                "normalized_intensity": 0.3803243426609401
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.01061713095842,
+                "normalized_intensity": 0.37886831159816986
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.88598775760663,
+                "normalized_intensity": 0.3779241496788381
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.25342650346868,
+                "normalized_intensity": 0.37313201896567183
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.1591062492697,
+                "normalized_intensity": 0.3724174715853765
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 118,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 7542.042010656801,
+                "normalized_intensity": 63.915610259803394
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 6559.768385276836,
+                "normalized_intensity": 55.59125750234607
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 6071.730976259499,
+                "normalized_intensity": 51.45534725643643
+            },
+            {
+                "topic": "military",
+                "weighted_count": 5610.13639522956,
+                "normalized_intensity": 47.54352877313186
+            },
+            {
+                "topic": "community",
+                "weighted_count": 4628.9256470212795,
+                "normalized_intensity": 39.228183449332874
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 2795.1716334708613,
+                "normalized_intensity": 23.687895198905604
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 2230.8915059246224,
+                "normalized_intensity": 18.90586021970019
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 1261.3285825566563,
+                "normalized_intensity": 10.689225275903867
+            },
+            {
+                "topic": "security",
+                "weighted_count": 1176.0929586493407,
+                "normalized_intensity": 9.966889480079159
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1174.9003283580669,
+                "normalized_intensity": 9.95678244371243
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 1112.7005973048183,
+                "normalized_intensity": 9.429666078854392
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 952.036370625793,
+                "normalized_intensity": 8.068104835811805
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 773.0407449408335,
+                "normalized_intensity": 6.551192753735878
+            },
+            {
+                "topic": "history",
+                "weighted_count": 712.7195800353443,
+                "normalized_intensity": 6.039996440977494
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 520.0859395896694,
+                "normalized_intensity": 4.407507962624316
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 480.2198416722469,
+                "normalized_intensity": 4.069659675188533
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 471.56081084878355,
+                "normalized_intensity": 3.9962780580405384
+            },
+            {
+                "topic": "family",
+                "weighted_count": 372.29523128615165,
+                "normalized_intensity": 3.1550443329334885
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 357.81020945355067,
+                "normalized_intensity": 3.0322899106233105
+            },
+            {
+                "topic": "art",
+                "weighted_count": 264.1936300900124,
+                "normalized_intensity": 2.238929068559427
+            },
+            {
+                "topic": "law",
+                "weighted_count": 258.75611028519177,
+                "normalized_intensity": 2.192848392247388
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 211.14804041793428,
+                "normalized_intensity": 1.7893901730333415
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 205.4091593331239,
+                "normalized_intensity": 1.7407555875688467
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 200.18589243661495,
+                "normalized_intensity": 1.6964906138696183
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 177.70630453133745,
+                "normalized_intensity": 1.505985631621504
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 155.7189445479297,
+                "normalized_intensity": 1.3196520724400822
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 126.52093208954923,
+                "normalized_intensity": 1.072211288894485
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 73.18528737095961,
+                "normalized_intensity": 0.6202142997538951
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 69.91901692464988,
+                "normalized_intensity": 0.592534041734321
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 69.2900274105089,
+                "normalized_intensity": 0.5872036221229567
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 66.64127121101575,
+                "normalized_intensity": 0.5647565356865741
+            },
+            {
+                "topic": "science",
+                "weighted_count": 57.74607410150716,
+                "normalized_intensity": 0.48937350933480644
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.45101133746669,
+                "normalized_intensity": 0.43602551980903975
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.68292749197513,
+                "normalized_intensity": 0.42951633467775535
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.48286477856211,
+                "normalized_intensity": 0.4278208879539162
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 50.311101927752986,
+                "normalized_intensity": 0.42636527057417783
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 50.058834263116715,
+                "normalized_intensity": 0.4242274090094637
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.80572784712115,
+                "normalized_intensity": 0.4220824393823826
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 144,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 9793.829080254081,
+                "normalized_intensity": 68.01270194620889
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 8093.296682383024,
+                "normalized_intensity": 56.20344918321544
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 7611.912489919018,
+                "normalized_intensity": 52.86050340221541
+            },
+            {
+                "topic": "military",
+                "weighted_count": 7572.6590464858255,
+                "normalized_intensity": 52.58791004504045
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 5496.300024796684,
+                "normalized_intensity": 38.168750172199196
+            },
+            {
+                "topic": "community",
+                "weighted_count": 4510.611578566211,
+                "normalized_intensity": 31.32369151782091
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 2722.4271817957324,
+                "normalized_intensity": 18.90574431802592
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 2010.5407720729359,
+                "normalized_intensity": 13.962088694950943
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 1848.53909490376,
+                "normalized_intensity": 12.837077047942778
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1406.403743581416,
+                "normalized_intensity": 9.766692663759834
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 1329.5220803865193,
+                "normalized_intensity": 9.232792224906383
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 1248.2203492701376,
+                "normalized_intensity": 8.668196869931512
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1238.2152996194536,
+                "normalized_intensity": 8.598717358468427
+            },
+            {
+                "topic": "history",
+                "weighted_count": 1200.8895140358754,
+                "normalized_intensity": 8.339510514138023
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 1017.0303149578149,
+                "normalized_intensity": 7.0627105205403815
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 833.3036730364211,
+                "normalized_intensity": 5.786831062752924
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 633.1793673157225,
+                "normalized_intensity": 4.397078939692517
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 622.6143690318783,
+                "normalized_intensity": 4.32371089605471
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 621.243177288024,
+                "normalized_intensity": 4.314188731166833
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 567.8906104106292,
+                "normalized_intensity": 3.943684794518258
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 549.4128585229089,
+                "normalized_intensity": 3.8153670730757563
+            },
+            {
+                "topic": "law",
+                "weighted_count": 549.077793135144,
+                "normalized_intensity": 3.813040230105167
+            },
+            {
+                "topic": "film",
+                "weighted_count": 542.1408115055768,
+                "normalized_intensity": 3.764866746566506
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 519.1897830635503,
+                "normalized_intensity": 3.6054846046079883
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 510.28972211576985,
+                "normalized_intensity": 3.5436786258039574
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 414.224219456988,
+                "normalized_intensity": 2.8765570795624167
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 335.0049561895431,
+                "normalized_intensity": 2.326423306871827
+            },
+            {
+                "topic": "health",
+                "weighted_count": 292.7222168104105,
+                "normalized_intensity": 2.032793172294517
+            },
+            {
+                "topic": "security",
+                "weighted_count": 268.74485385882446,
+                "normalized_intensity": 1.8662837073529477
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 253.82301099168228,
+                "normalized_intensity": 1.7626597985533492
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 213.77689237576254,
+                "normalized_intensity": 1.484561752609462
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 201.1261186997278,
+                "normalized_intensity": 1.3967091576369988
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 188.12331640965874,
+                "normalized_intensity": 1.3064119195115191
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 142.13230703069925,
+                "normalized_intensity": 0.9870299099354115
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 126.69863623551065,
+                "normalized_intensity": 0.8798516405243795
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 126.38814147467205,
+                "normalized_intensity": 0.8776954269074448
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 124.77078444346722,
+                "normalized_intensity": 0.8664637808574113
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 119.77562799603908,
+                "normalized_intensity": 0.831775194416938
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 109.19892028221159,
+                "normalized_intensity": 0.758325835293136
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 108.21556989791941,
+                "normalized_intensity": 0.7514970131799958
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 107.16499013487726,
+                "normalized_intensity": 0.7442013203810921
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 106.04997165743205,
+                "normalized_intensity": 0.7364581365099448
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 104.16333335574215,
+                "normalized_intensity": 0.7233564816370983
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 102.88368047004309,
+                "normalized_intensity": 0.7144700032641881
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 99.57726876146688,
+                "normalized_intensity": 0.69150881084352
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 53.659573554712395,
+                "normalized_intensity": 0.3726359274632805
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.78225632240584,
+                "normalized_intensity": 0.3665434466833739
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 51.89619920177834,
+                "normalized_intensity": 0.36039027223457176
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.190836712701746,
+                "normalized_intensity": 0.3485474771715399
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 50.172259531162055,
+                "normalized_intensity": 0.34841846896640316
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.75502687601686,
+                "normalized_intensity": 0.3455210199723393
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.308461591342336,
+                "normalized_intensity": 0.34241987216209957
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 283,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 18595.06739447149,
+                "normalized_intensity": 65.70695192392753
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 16878.641979708776,
+                "normalized_intensity": 59.64184445126776
+            },
+            {
+                "topic": "military",
+                "weighted_count": 14346.275340166943,
+                "normalized_intensity": 50.69355243875245
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 13990.890312450914,
+                "normalized_intensity": 49.43777495565694
+            },
+            {
+                "topic": "community",
+                "weighted_count": 10664.320046152234,
+                "normalized_intensity": 37.68310970371814
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 8703.018460598823,
+                "normalized_intensity": 30.75271540847641
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 4017.1870375433696,
+                "normalized_intensity": 14.195007199799893
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 3701.0262935477003,
+                "normalized_intensity": 13.077831425963605
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 2900.6637013986046,
+                "normalized_intensity": 10.2496950579456
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 2666.7666114104854,
+                "normalized_intensity": 9.42320357388864
+            },
+            {
+                "topic": "security",
+                "weighted_count": 1785.3510401856945,
+                "normalized_intensity": 6.30866091938408
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 1749.9615655328219,
+                "normalized_intensity": 6.183609772200784
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 1312.1785268954736,
+                "normalized_intensity": 4.636673239913335
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 1256.8593361606747,
+                "normalized_intensity": 4.441199067705565
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 1150.0920065473938,
+                "normalized_intensity": 4.063929351757575
+            },
+            {
+                "topic": "history",
+                "weighted_count": 1144.7224014308601,
+                "normalized_intensity": 4.044955482087845
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1122.399338082279,
+                "normalized_intensity": 3.9660753995840246
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1118.8450076920592,
+                "normalized_intensity": 3.953515928240492
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1087.673295043993,
+                "normalized_intensity": 3.843368533724357
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 1082.7766906264576,
+                "normalized_intensity": 3.826066044616458
+            },
+            {
+                "topic": "family",
+                "weighted_count": 818.98422825232,
+                "normalized_intensity": 2.893937202305018
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 747.3794121434871,
+                "normalized_intensity": 2.6409166506837
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 736.5171229519274,
+                "normalized_intensity": 2.6025340033637008
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 712.9262768285126,
+                "normalized_intensity": 2.5191741230689493
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 708.8468404615897,
+                "normalized_intensity": 2.504759153574522
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 555.7300944589514,
+                "normalized_intensity": 1.9637105811270368
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 545.5290376383143,
+                "normalized_intensity": 1.9276644439516406
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 464.5791147702741,
+                "normalized_intensity": 1.64162231367588
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 448.17931277073694,
+                "normalized_intensity": 1.5836724832888232
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 433.84000919153914,
+                "normalized_intensity": 1.5330035660478414
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 431.92112437681106,
+                "normalized_intensity": 1.5262230543350215
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 405.93382160681676,
+                "normalized_intensity": 1.4343951293527095
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 395.69834469636936,
+                "normalized_intensity": 1.3982273664182663
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 359.05561385601123,
+                "normalized_intensity": 1.2687477521413824
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 258.3591889755986,
+                "normalized_intensity": 0.9129299963802071
+            },
+            {
+                "topic": "science",
+                "weighted_count": 223.66802486809038,
+                "normalized_intensity": 0.7903463776257611
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 200.4577425878395,
+                "normalized_intensity": 0.7083312458934258
+            },
+            {
+                "topic": "law",
+                "weighted_count": 199.42419916640864,
+                "normalized_intensity": 0.7046791489979104
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 165.53492955706628,
+                "normalized_intensity": 0.584929079706948
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 165.46635662392126,
+                "normalized_intensity": 0.58468677252269
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 138.3895823143809,
+                "normalized_intensity": 0.4890091247857982
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 135.69928318054428,
+                "normalized_intensity": 0.479502767422418
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 135.00404191823486,
+                "normalized_intensity": 0.477046084516731
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 116.19024366305419,
+                "normalized_intensity": 0.4105662320249265
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 107.4261242671644,
+                "normalized_intensity": 0.3795976122514643
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 101.03898249203236,
+                "normalized_intensity": 0.35702820668562674
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 98.84827041123505,
+                "normalized_intensity": 0.3492871745980037
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 56.623225536624744,
+                "normalized_intensity": 0.20008206903400969
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 55.55064035179191,
+                "normalized_intensity": 0.19629201537735658
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.78225632240584,
+                "normalized_intensity": 0.1865097396551443
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 51.89619920177834,
+                "normalized_intensity": 0.1833787957660012
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 51.023904696895315,
+                "normalized_intensity": 0.18029648302789864
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 49.772057843264946,
+                "normalized_intensity": 0.17587299591259697
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.57178439136543,
+                "normalized_intensity": 0.17516531587054923
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 135,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 6338.617957974268,
+                "normalized_intensity": 46.952725614624214
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 4794.003153325125,
+                "normalized_intensity": 35.511134469074996
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 4437.41880916771,
+                "normalized_intensity": 32.86976895679785
+            },
+            {
+                "topic": "military",
+                "weighted_count": 3985.286826419223,
+                "normalized_intensity": 29.52064315866091
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2314.6325189181234,
+                "normalized_intensity": 17.145426066060175
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 2245.410120204002,
+                "normalized_intensity": 16.632667557066682
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 1584.0552872463436,
+                "normalized_intensity": 11.733742868491435
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 1112.5825865716486,
+                "normalized_intensity": 8.241352493123323
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 1080.188952885194,
+                "normalized_intensity": 8.001399651001439
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 826.8529007860001,
+                "normalized_intensity": 6.124836302118519
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 706.3118067893091,
+                "normalized_intensity": 5.231939309550438
+            },
+            {
+                "topic": "health",
+                "weighted_count": 647.0096759755887,
+                "normalized_intensity": 4.7926642664858425
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 540.1790257562209,
+                "normalized_intensity": 4.001326116712748
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 493.25285698951853,
+                "normalized_intensity": 3.6537248665890263
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 475.3711477283919,
+                "normalized_intensity": 3.5212677609510514
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 473.4832912833729,
+                "normalized_intensity": 3.5072836391360958
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 469.85557115447676,
+                "normalized_intensity": 3.4804116381813093
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 429.4469509890319,
+                "normalized_intensity": 3.1810885258446806
+            },
+            {
+                "topic": "history",
+                "weighted_count": 420.09988381049067,
+                "normalized_intensity": 3.11185099118882
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 417.11848788450214,
+                "normalized_intensity": 3.089766576922238
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 412.3375016823821,
+                "normalized_intensity": 3.0543518643139413
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 405.106646454509,
+                "normalized_intensity": 3.000789973737104
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 398.9406545434414,
+                "normalized_intensity": 2.9551159595810472
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 372.0108220915349,
+                "normalized_intensity": 2.755635719196555
+            },
+            {
+                "topic": "film",
+                "weighted_count": 368.0327429851619,
+                "normalized_intensity": 2.726168466556755
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 351.75515897480915,
+                "normalized_intensity": 2.6055937701837713
+            },
+            {
+                "topic": "science",
+                "weighted_count": 343.4734187926647,
+                "normalized_intensity": 2.544247546612331
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 314.26573450153705,
+                "normalized_intensity": 2.327894329641015
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 295.5609002386419,
+                "normalized_intensity": 2.189340001767718
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 284.6145360841126,
+                "normalized_intensity": 2.108255822845279
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 273.87470241007077,
+                "normalized_intensity": 2.0287014993338577
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 261.72795028849873,
+                "normalized_intensity": 1.9387255576925833
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 261.29625030871836,
+                "normalized_intensity": 1.9355277800645805
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 252.48228808812576,
+                "normalized_intensity": 1.8702391710231538
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 249.95159150686607,
+                "normalized_intensity": 1.8514932704212301
+            },
+            {
+                "topic": "family",
+                "weighted_count": 225.15348642034724,
+                "normalized_intensity": 1.6678036031136831
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 223.77260423283252,
+                "normalized_intensity": 1.6575748461691298
+            },
+            {
+                "topic": "security",
+                "weighted_count": 151.28677639902878,
+                "normalized_intensity": 1.120642788140954
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 144.42947934556878,
+                "normalized_intensity": 1.0698479951523614
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 141.53064495579878,
+                "normalized_intensity": 1.0483751478207317
+            },
+            {
+                "topic": "art",
+                "weighted_count": 140.13887886108034,
+                "normalized_intensity": 1.0380657693413358
+            },
+            {
+                "topic": "music",
+                "weighted_count": 109.51014655015979,
+                "normalized_intensity": 0.8111862707419244
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 106.31532780430041,
+                "normalized_intensity": 0.7875209466985216
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 102.97992440305265,
+                "normalized_intensity": 0.762814254837427
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 100.31693904578793,
+                "normalized_intensity": 0.7430884373762069
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 53.132772325323565,
+                "normalized_intensity": 0.3935760912986931
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.42152501907017,
+                "normalized_intensity": 0.3734927779190383
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.56507150646352,
+                "normalized_intensity": 0.3671486778256557
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 49.201065600905416,
+                "normalized_intensity": 0.36445233778448455
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 95,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 5751.318746418363,
+                "normalized_intensity": 60.54019733071961
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 5212.4767104709745,
+                "normalized_intensity": 54.86817589969447
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 4282.053251161512,
+                "normalized_intensity": 45.07424474906855
+            },
+            {
+                "topic": "military",
+                "weighted_count": 3166.172058007209,
+                "normalized_intensity": 33.328126926391676
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2844.6296589521235,
+                "normalized_intensity": 29.94347009423288
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 2318.5791560166035,
+                "normalized_intensity": 24.406096379122143
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 730.3026922667616,
+                "normalized_intensity": 7.687396760702754
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 706.3457327720962,
+                "normalized_intensity": 7.435218239706276
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 694.5501695827531,
+                "normalized_intensity": 7.31105441666056
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 686.2465137518219,
+                "normalized_intensity": 7.223647513177073
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 685.7066048230648,
+                "normalized_intensity": 7.217964261295419
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 675.5761038982157,
+                "normalized_intensity": 7.111327409454902
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 637.4997605909605,
+                "normalized_intensity": 6.7105237956943204
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 563.7658815646805,
+                "normalized_intensity": 5.934377700680847
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 529.5223290128852,
+                "normalized_intensity": 5.573919252767213
+            },
+            {
+                "topic": "security",
+                "weighted_count": 520.4457975819446,
+                "normalized_intensity": 5.478376816652048
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 500.5295020147581,
+                "normalized_intensity": 5.268731600155348
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 489.3559874250567,
+                "normalized_intensity": 5.15111565710586
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 419.2519410767711,
+                "normalized_intensity": 4.413178327123907
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 417.10796150135684,
+                "normalized_intensity": 4.390610121066914
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 381.8605305376823,
+                "normalized_intensity": 4.019584531975603
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 381.7690383267257,
+                "normalized_intensity": 4.018621456070797
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 362.7821636702384,
+                "normalized_intensity": 3.8187596175814567
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 356.7832256813243,
+                "normalized_intensity": 3.7556129019086772
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 356.1104612043918,
+                "normalized_intensity": 3.7485311705725453
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 312.07796728158723,
+                "normalized_intensity": 3.2850312345430237
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 301.61036584306913,
+                "normalized_intensity": 3.174845956242833
+            },
+            {
+                "topic": "history",
+                "weighted_count": 283.5857226437798,
+                "normalized_intensity": 2.985112869934524
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 265.7628719762738,
+                "normalized_intensity": 2.7975039155397243
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 264.82462525511744,
+                "normalized_intensity": 2.787627634264394
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 188.25764933766854,
+                "normalized_intensity": 1.9816594667123004
+            },
+            {
+                "topic": "family",
+                "weighted_count": 169.5377260085178,
+                "normalized_intensity": 1.7846076421949244
+            },
+            {
+                "topic": "film",
+                "weighted_count": 167.21064926465652,
+                "normalized_intensity": 1.7601120975227003
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 164.89133836619797,
+                "normalized_intensity": 1.7356982985915577
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 117.65126317538477,
+                "normalized_intensity": 1.2384343492145766
+            },
+            {
+                "topic": "law",
+                "weighted_count": 104.21004934011822,
+                "normalized_intensity": 1.0969478877907182
+            },
+            {
+                "topic": "health",
+                "weighted_count": 101.09922985087911,
+                "normalized_intensity": 1.064202419482938
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 100.80277583155741,
+                "normalized_intensity": 1.0610818508584992
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 76.48455887629466,
+                "normalized_intensity": 0.8051006197504701
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 55.03106453030562,
+                "normalized_intensity": 0.5792743634769013
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.79274293384592,
+                "normalized_intensity": 0.5346604519352203
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.61135036828551,
+                "normalized_intensity": 0.5222247407187948
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 125,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 6438.042182500073,
+                "normalized_intensity": 51.504337460000585
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 5718.693515395481,
+                "normalized_intensity": 45.74954812316385
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 5404.391405609498,
+                "normalized_intensity": 43.23513124487599
+            },
+            {
+                "topic": "military",
+                "weighted_count": 3866.9409261520127,
+                "normalized_intensity": 30.935527409216103
+            },
+            {
+                "topic": "community",
+                "weighted_count": 3855.134007205148,
+                "normalized_intensity": 30.841072057641185
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 3052.932413563349,
+                "normalized_intensity": 24.423459308506793
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 2555.3909078200786,
+                "normalized_intensity": 20.44312726256063
+            },
+            {
+                "topic": "history",
+                "weighted_count": 1910.9575542208443,
+                "normalized_intensity": 15.287660433766755
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 1845.2232081461223,
+                "normalized_intensity": 14.761785665168977
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1268.5563445107632,
+                "normalized_intensity": 10.148450756086106
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 893.450350901762,
+                "normalized_intensity": 7.1476028072140965
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 830.5028785622688,
+                "normalized_intensity": 6.644023028498151
+            },
+            {
+                "topic": "security",
+                "weighted_count": 819.4152492534631,
+                "normalized_intensity": 6.555321994027705
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 806.1876960226641,
+                "normalized_intensity": 6.449501568181313
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 766.3583127474441,
+                "normalized_intensity": 6.130866501979552
+            },
+            {
+                "topic": "health",
+                "weighted_count": 751.9756265097296,
+                "normalized_intensity": 6.015805012077837
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 737.4845920501921,
+                "normalized_intensity": 5.899876736401537
+            },
+            {
+                "topic": "family",
+                "weighted_count": 717.6470950888919,
+                "normalized_intensity": 5.741176760711135
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 523.3496224663018,
+                "normalized_intensity": 4.186796979730414
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 465.12265822543634,
+                "normalized_intensity": 3.720981265803491
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 450.2163103509767,
+                "normalized_intensity": 3.6017304828078136
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 441.52127299061164,
+                "normalized_intensity": 3.532170183924893
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 415.75694533878857,
+                "normalized_intensity": 3.3260555627103083
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 384.10021301704523,
+                "normalized_intensity": 3.0728017041363618
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 357.4091787613171,
+                "normalized_intensity": 2.859273430090537
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 328.0700142824537,
+                "normalized_intensity": 2.6245601142596295
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 298.841991260315,
+                "normalized_intensity": 2.39073593008252
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 284.0265282489455,
+                "normalized_intensity": 2.2722122259915642
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 274.1392980129775,
+                "normalized_intensity": 2.1931143841038203
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 267.7759756343128,
+                "normalized_intensity": 2.142207805074502
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 159.82588929647696,
+                "normalized_intensity": 1.2786071143718156
+            },
+            {
+                "topic": "film",
+                "weighted_count": 157.7282721183773,
+                "normalized_intensity": 1.2618261769470185
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 150.75218159849967,
+                "normalized_intensity": 1.2060174527879974
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 150.62203480059333,
+                "normalized_intensity": 1.2049762784047466
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 148.66472683375662,
+                "normalized_intensity": 1.189317814670053
+            },
+            {
+                "topic": "science",
+                "weighted_count": 147.20293333523253,
+                "normalized_intensity": 1.1776234666818601
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 136.87316297341195,
+                "normalized_intensity": 1.0949853037872956
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 109.73560398392874,
+                "normalized_intensity": 0.87788483187143
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 105.61031166029838,
+                "normalized_intensity": 0.8448824932823871
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 103.72976592821442,
+                "normalized_intensity": 0.8298381274257154
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 98.42339438737694,
+                "normalized_intensity": 0.7873871550990156
+            },
+            {
+                "topic": "law",
+                "weighted_count": 98.11026262848863,
+                "normalized_intensity": 0.784882101027909
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 66.73140125032438,
+                "normalized_intensity": 0.5338512100025951
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 63.65704890288213,
+                "normalized_intensity": 0.5092563912230571
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 55.35741301349947,
+                "normalized_intensity": 0.44285930410799573
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 56,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 3334.7866191367593,
+                "normalized_intensity": 59.54976105601356
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 2564.6625391509697,
+                "normalized_intensity": 45.7975453419816
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 2196.621832390477,
+                "normalized_intensity": 39.225389864115655
+            },
+            {
+                "topic": "military",
+                "weighted_count": 1362.5968261321768,
+                "normalized_intensity": 24.33208618093173
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 1048.7903736334351,
+                "normalized_intensity": 18.728399529168485
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 1020.4599501920956,
+                "normalized_intensity": 18.222499110573136
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1020.3951417401604,
+                "normalized_intensity": 18.221341816788577
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 763.7118932160829,
+                "normalized_intensity": 13.637712378858623
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 665.2880500838124,
+                "normalized_intensity": 11.88014375149665
+            },
+            {
+                "topic": "history",
+                "weighted_count": 538.4400451227446,
+                "normalized_intensity": 9.615000805763296
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 404.2390470529763,
+                "normalized_intensity": 7.218554411660291
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 342.78286807736316,
+                "normalized_intensity": 6.1211226442386275
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 320.54825844114146,
+                "normalized_intensity": 5.724076043591812
+            },
+            {
+                "topic": "health",
+                "weighted_count": 281.5074166956375,
+                "normalized_intensity": 5.026918155279241
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 257.3867008134458,
+                "normalized_intensity": 4.5961910859543895
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 234.85191583234808,
+                "normalized_intensity": 4.19378421129193
+            },
+            {
+                "topic": "family",
+                "weighted_count": 216.85090075264083,
+                "normalized_intensity": 3.872337513440015
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 210.36477977037327,
+                "normalized_intensity": 3.7565139244709513
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 204.99652418395561,
+                "normalized_intensity": 3.660652217570636
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 203.92606602305108,
+                "normalized_intensity": 3.641536893268769
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 200.88324815187508,
+                "normalized_intensity": 3.5872008598549123
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 186.17653873553598,
+                "normalized_intensity": 3.3245810488488567
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 176.4059042707167,
+                "normalized_intensity": 3.1501054334056553
+            },
+            {
+                "topic": "film",
+                "weighted_count": 170.96681635667534,
+                "normalized_intensity": 3.0529788635120596
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 159.23707783130553,
+                "normalized_intensity": 2.8435192469875985
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 159.06618578472518,
+                "normalized_intensity": 2.8404676032986638
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 149.82058393644036,
+                "normalized_intensity": 2.6753675702935777
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 139.0710780362453,
+                "normalized_intensity": 2.4834121077900946
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 105.05968715017386,
+                "normalized_intensity": 1.8760658419673903
+            },
+            {
+                "topic": "television",
+                "weighted_count": 103.5984364212841,
+                "normalized_intensity": 1.849972078951502
+            },
+            {
+                "topic": "law",
+                "weighted_count": 99.74562681074138,
+                "normalized_intensity": 1.7811719073346677
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.88271216207815,
+                "normalized_intensity": 0.9800484314656812
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 54.38280511690464,
+                "normalized_intensity": 0.9711215199447257
+            },
+            {
+                "topic": "media",
+                "weighted_count": 51.095538562241906,
+                "normalized_intensity": 0.9124203314686055
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.662092577118635,
+                "normalized_intensity": 0.9046802245914042
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 50.067792547114905,
+                "normalized_intensity": 0.8940677240556233
+            },
+            {
+                "topic": "security",
+                "weighted_count": 49.384432939188564,
+                "normalized_intensity": 0.8818648739140815
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 124,
+        "topics": [
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 7446.672609161305,
+                "normalized_intensity": 60.05381136420407
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 6351.148455083162,
+                "normalized_intensity": 51.218939153896464
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 5531.701087615632,
+                "normalized_intensity": 44.610492642061544
+            },
+            {
+                "topic": "military",
+                "weighted_count": 3792.954729191013,
+                "normalized_intensity": 30.588344590250106
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 2558.3999257992205,
+                "normalized_intensity": 20.632257466122745
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 2379.8370215042755,
+                "normalized_intensity": 19.19223404438932
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 2114.6242668566874,
+                "normalized_intensity": 17.05342150690877
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2035.2945580861547,
+                "normalized_intensity": 16.413665791017376
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 1397.1631008408367,
+                "normalized_intensity": 11.267444361619651
+            },
+            {
+                "topic": "history",
+                "weighted_count": 1332.6219016223579,
+                "normalized_intensity": 10.746950819535144
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 1317.1384824205888,
+                "normalized_intensity": 10.62208453564991
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 926.0596337757686,
+                "normalized_intensity": 7.468222853030392
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 837.1448931377877,
+                "normalized_intensity": 6.751168493046674
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 720.1488516864501,
+                "normalized_intensity": 5.807652029729437
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 687.4004764199321,
+                "normalized_intensity": 5.5435522291930015
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 551.5058925349983,
+                "normalized_intensity": 4.447628165604825
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 505.56524607101346,
+                "normalized_intensity": 4.07713908121785
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 443.88158598645504,
+                "normalized_intensity": 3.5796902095681857
+            },
+            {
+                "topic": "law",
+                "weighted_count": 348.9788872662582,
+                "normalized_intensity": 2.8143458650504694
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 346.6532639619457,
+                "normalized_intensity": 2.795590838402788
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 315.73036266289364,
+                "normalized_intensity": 2.54621260212011
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 295.87143824450135,
+                "normalized_intensity": 2.3860599858427527
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 283.8122504779925,
+                "normalized_intensity": 2.2888084715967136
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 261.2962616274476,
+                "normalized_intensity": 2.107227916350384
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 246.11963740967315,
+                "normalized_intensity": 1.9848357855618801
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 182.11552915362154,
+                "normalized_intensity": 1.4686736222066252
+            },
+            {
+                "topic": "security",
+                "weighted_count": 153.893844520908,
+                "normalized_intensity": 1.2410793912976452
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 152.91593517817324,
+                "normalized_intensity": 1.2331930256304293
+            },
+            {
+                "topic": "health",
+                "weighted_count": 142.419876652938,
+                "normalized_intensity": 1.1485473923624032
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 139.28939373494956,
+                "normalized_intensity": 1.1233015623786256
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 122.30125706876763,
+                "normalized_intensity": 0.986300460231997
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 121.65264047485682,
+                "normalized_intensity": 0.9810696812488453
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 118.22367096580695,
+                "normalized_intensity": 0.9534167013371528
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 108.47619945189521,
+                "normalized_intensity": 0.8748080600959292
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 108.17726519990322,
+                "normalized_intensity": 0.8723972999992194
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 106.21494217558049,
+                "normalized_intensity": 0.8565721143191974
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 102.0468839296407,
+                "normalized_intensity": 0.8229587413680701
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 101.88252359167338,
+                "normalized_intensity": 0.8216332547715595
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 101.33025638423516,
+                "normalized_intensity": 0.8171794869696384
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 99.46595348961678,
+                "normalized_intensity": 0.8021447862065869
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 65.42445904440623,
+                "normalized_intensity": 0.5276166051968245
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.87614664666386,
+                "normalized_intensity": 0.44254956973116016
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 53.79542260024398,
+                "normalized_intensity": 0.433834053227774
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 53.56217972280541,
+                "normalized_intensity": 0.4319530622806888
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 50.41853893567622,
+                "normalized_intensity": 0.40660112044900176
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.366616817639525,
+                "normalized_intensity": 0.39811787756160905
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 143,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 9864.534425322368,
+                "normalized_intensity": 68.98275821903754
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 9388.019960953396,
+                "normalized_intensity": 65.65048923743633
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 7922.040506326131,
+                "normalized_intensity": 55.3988846596233
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 7298.938174850097,
+                "normalized_intensity": 51.04152569825243
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 5936.642951868195,
+                "normalized_intensity": 41.51498567739997
+            },
+            {
+                "topic": "military",
+                "weighted_count": 5224.3859686954565,
+                "normalized_intensity": 36.534167613254944
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 4625.653005450047,
+                "normalized_intensity": 32.347223814336
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 3768.134758462031,
+                "normalized_intensity": 26.3505927165177
+            },
+            {
+                "topic": "community",
+                "weighted_count": 3628.8161336451053,
+                "normalized_intensity": 25.37633659891682
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 3122.296824895295,
+                "normalized_intensity": 21.834243530736327
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 2291.397179691657,
+                "normalized_intensity": 16.02375650134026
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 2210.2236671694404,
+                "normalized_intensity": 15.456109560625457
+            },
+            {
+                "topic": "law",
+                "weighted_count": 1768.786501659987,
+                "normalized_intensity": 12.369136375244663
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1720.6434714612733,
+                "normalized_intensity": 12.032471828400512
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 1713.004520552379,
+                "normalized_intensity": 11.979052591275378
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 1507.1202955369668,
+                "normalized_intensity": 10.539302765992774
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 1501.4537550542373,
+                "normalized_intensity": 10.49967660877089
+            },
+            {
+                "topic": "security",
+                "weighted_count": 1424.8904356704825,
+                "normalized_intensity": 9.964268780912464
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 1103.7733030832762,
+                "normalized_intensity": 7.718694427155778
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 835.4931127309104,
+                "normalized_intensity": 5.842609179936437
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 551.6929823548253,
+                "normalized_intensity": 3.857992883600177
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 528.2523322733492,
+                "normalized_intensity": 3.694072253659785
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 519.2420826595247,
+                "normalized_intensity": 3.6310635151015713
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 385.3151070293346,
+                "normalized_intensity": 2.694511237967375
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 309.0012518484596,
+                "normalized_intensity": 2.1608479150241933
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 231.03165529045674,
+                "normalized_intensity": 1.615605981052145
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 218.9786281794078,
+                "normalized_intensity": 1.5313190781776769
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 207.00449060570224,
+                "normalized_intensity": 1.4475838503895262
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 202.09276040435296,
+                "normalized_intensity": 1.413236086743727
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 174.75248756323208,
+                "normalized_intensity": 1.2220453675750496
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 172.14071387371877,
+                "normalized_intensity": 1.2037812159001313
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 158.35173685988204,
+                "normalized_intensity": 1.1073548032159584
+            },
+            {
+                "topic": "science",
+                "weighted_count": 151.7126948968925,
+                "normalized_intensity": 1.0609279363419055
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 149.94744995892705,
+                "normalized_intensity": 1.048583566146343
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 147.19197382900742,
+                "normalized_intensity": 1.0293145023007513
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 114.95571892445082,
+                "normalized_intensity": 0.8038861463248309
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 110.25995937642124,
+                "normalized_intensity": 0.7710486669679807
+            },
+            {
+                "topic": "family",
+                "weighted_count": 107.29791112096645,
+                "normalized_intensity": 0.7503350428039611
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 104.73172988092043,
+                "normalized_intensity": 0.7323897194469959
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 99.875573343372,
+                "normalized_intensity": 0.6984305828207832
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 99.43480588419695,
+                "normalized_intensity": 0.6953482928964821
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 99.18122254435131,
+                "normalized_intensity": 0.6935749828276315
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 61.0584631213381,
+                "normalized_intensity": 0.4269822595897769
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 60.15826054198242,
+                "normalized_intensity": 0.42068713665721974
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 51.11161444964565,
+                "normalized_intensity": 0.3574238772702493
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 50.76635522641626,
+                "normalized_intensity": 0.355009477107806
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 50.524645332986886,
+                "normalized_intensity": 0.3533191981327754
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 50.22425526370742,
+                "normalized_intensity": 0.3512185682776743
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.986691316535556,
+                "normalized_intensity": 0.3495572819338151
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.089722695462456,
+                "normalized_intensity": 0.34328477409414304
+            }
+        ]
+    }
+}

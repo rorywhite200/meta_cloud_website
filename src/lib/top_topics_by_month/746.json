@@ -1,0 +1,207 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 124.39530678017697,
+                "normalized_intensity": 62.19765339008848
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 123.12160183349411,
+                "normalized_intensity": 61.560800916747056
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 54.68370211020497,
+                "normalized_intensity": 27.341851055102484
+            },
+            {
+                "topic": "history",
+                "weighted_count": 53.63206269649123,
+                "normalized_intensity": 26.816031348245616
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.98276040782231,
+                "normalized_intensity": 24.991380203911156
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.41881317548285,
+                "normalized_intensity": 24.709406587741427
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "security",
+                "weighted_count": 88.23445241227569,
+                "normalized_intensity": 44.11722620613784
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 68.26971874296324,
+                "normalized_intensity": 34.13485937148162
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 64.12519959676895,
+                "normalized_intensity": 32.062599798384475
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 60.2943063409952,
+                "normalized_intensity": 30.1471531704976
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 58.46784426789742,
+                "normalized_intensity": 29.23392213394871
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.211887808386884,
+                "normalized_intensity": 26.605943904193442
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.722272660337374,
+                "normalized_intensity": 25.361136330168687
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.62707169158554,
+                "normalized_intensity": 24.81353584579277
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 212.84755123354753,
+                "normalized_intensity": 42.569510246709505
+            },
+            {
+                "topic": "music",
+                "weighted_count": 202.8890906413495,
+                "normalized_intensity": 40.5778181282699
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 198.50828676634217,
+                "normalized_intensity": 39.70165735326843
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 57.85564380564367,
+                "normalized_intensity": 11.571128761128735
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 51.50185791559565,
+                "normalized_intensity": 10.30037158311913
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.220325934479995,
+                "normalized_intensity": 9.844065186896
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 166.64110410155482,
+                "normalized_intensity": 41.660276025388704
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 137.62667515992706,
+                "normalized_intensity": 34.406668789981765
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 108.53897651075587,
+                "normalized_intensity": 27.13474412768897
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 58.56646786125596,
+                "normalized_intensity": 14.64161696531399
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.58454039817647,
+                "normalized_intensity": 13.396135099544118
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 51.3209930356736,
+                "normalized_intensity": 12.8302482589184
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.47316480400641,
+                "normalized_intensity": 12.368291201001602
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 134.97843609817255,
+                "normalized_intensity": 67.48921804908628
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 129.24556522863463,
+                "normalized_intensity": 64.62278261431732
+            },
+            {
+                "topic": "history",
+                "weighted_count": 124.38717878474364,
+                "normalized_intensity": 62.19358939237182
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 49.47413141620917,
+                "normalized_intensity": 49.47413141620917
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 49.47413141620917,
+                "normalized_intensity": 49.47413141620917
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 99.04831857136816,
+                "normalized_intensity": 49.52415928568408
+            }
+        ]
+    }
+}

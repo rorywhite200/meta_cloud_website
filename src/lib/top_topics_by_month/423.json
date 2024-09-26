@@ -1,0 +1,102 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 68.47020012701125,
+                "normalized_intensity": 68.47020012701125
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 1000.8044118122716,
+                "normalized_intensity": 71.48602941516226
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 857.3046968498048,
+                "normalized_intensity": 61.23604977498606
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 364.35558001693863,
+                "normalized_intensity": 26.025398572638473
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 311.1824788405341,
+                "normalized_intensity": 22.227319917181006
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 277.92058987169617,
+                "normalized_intensity": 19.851470705121155
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 265.4062545669305,
+                "normalized_intensity": 18.957589611923606
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 183.82599331416753,
+                "normalized_intensity": 61.27533110472251
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 139.45468463875312,
+                "normalized_intensity": 46.484894879584374
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 115.23902170462901,
+                "normalized_intensity": 38.41300723487634
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.4082863308482,
+                "normalized_intensity": 17.4694287769494
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 138.9017844741804,
+                "normalized_intensity": 46.3005948247268
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 137.08952602528046,
+                "normalized_intensity": 45.69650867509349
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 69.154599661678,
+                "normalized_intensity": 23.051533220559335
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.83765721788626,
+                "normalized_intensity": 18.94588573929542
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.79508373052955,
+                "normalized_intensity": 17.93169457684318
+            }
+        ]
+    }
+}

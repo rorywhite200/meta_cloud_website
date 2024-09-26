@@ -1,0 +1,757 @@
+{
+    "2023-08": {
+        "total_ads": 40,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 3268.796053158411,
+                "normalized_intensity": 81.71990132896028
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 2765.096386057049,
+                "normalized_intensity": 69.12740965142623
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2371.954511110269,
+                "normalized_intensity": 59.298862777756725
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 1285.0161780856743,
+                "normalized_intensity": 32.12540445214186
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 1071.5601329681606,
+                "normalized_intensity": 26.789003324204014
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 629.1646131708746,
+                "normalized_intensity": 15.729115329271867
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 547.2271870825223,
+                "normalized_intensity": 13.680679677063058
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 511.84926146439074,
+                "normalized_intensity": 12.796231536609769
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 508.25594283583996,
+                "normalized_intensity": 12.706398570895999
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 507.99406646107957,
+                "normalized_intensity": 12.699851661526989
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 500.6508385803663,
+                "normalized_intensity": 12.516270964509157
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 373.69341862056797,
+                "normalized_intensity": 9.3423354655142
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 363.4299803942207,
+                "normalized_intensity": 9.085749509855518
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 362.63881734555264,
+                "normalized_intensity": 9.065970433638816
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 301.09572372622705,
+                "normalized_intensity": 7.527393093155676
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 295.2361537364719,
+                "normalized_intensity": 7.380903843411798
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 198.20855142211,
+                "normalized_intensity": 4.95521378555275
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 79,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 6436.821068185046,
+                "normalized_intensity": 81.47874769854488
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 5282.824898403192,
+                "normalized_intensity": 66.87120124561002
+            },
+            {
+                "topic": "health",
+                "weighted_count": 3739.1646153771326,
+                "normalized_intensity": 47.33119766300168
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 1055.481341301907,
+                "normalized_intensity": 13.360523307619076
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 1040.3272540246319,
+                "normalized_intensity": 13.168699418033315
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 887.9891226176478,
+                "normalized_intensity": 11.240368640729718
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 810.507474881248,
+                "normalized_intensity": 10.25958828963605
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 749.2362337814336,
+                "normalized_intensity": 9.484002959258653
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 738.0903843411796,
+                "normalized_intensity": 9.342916257483287
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 491.232370570399,
+                "normalized_intensity": 6.218131273043025
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 491.07097990247524,
+                "normalized_intensity": 6.2160883531958895
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 377.9400274007992,
+                "normalized_intensity": 4.784050979756952
+            },
+            {
+                "topic": "family",
+                "weighted_count": 347.9929479077898,
+                "normalized_intensity": 4.404974024149238
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 344.25309332989906,
+                "normalized_intensity": 4.357634092783532
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 342.65581684472403,
+                "normalized_intensity": 4.337415403097773
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 323.2412776922114,
+                "normalized_intensity": 4.091661742939385
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 295.1290125111454,
+                "normalized_intensity": 3.7358102849512074
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 234.2036196945586,
+                "normalized_intensity": 2.9646027809437796
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 159.64981966927192,
+                "normalized_intensity": 2.0208837932819232
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 155.02591094078187,
+                "normalized_intensity": 1.9623533030478717
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 154.81049439805545,
+                "normalized_intensity": 1.9596265113677906
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 124.57413831427735,
+                "normalized_intensity": 1.5768878267630044
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.5521378555275,
+                "normalized_intensity": 0.6272422513357911
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 1614.8887420642304,
+                "normalized_intensity": 76.89946390782049
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1360.8506418247787,
+                "normalized_intensity": 64.80241151546565
+            },
+            {
+                "topic": "health",
+                "weighted_count": 832.7600529889241,
+                "normalized_intensity": 39.655240618520196
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 271.55891569943117,
+                "normalized_intensity": 12.931376938068151
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 265.29210949538503,
+                "normalized_intensity": 12.632957595018334
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 250.9131031051892,
+                "normalized_intensity": 11.94824300500901
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 250.5178237521196,
+                "normalized_intensity": 11.929420178672363
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 246.03010533633326,
+                "normalized_intensity": 11.715719301730156
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 63.71785583367339,
+                "normalized_intensity": 3.0341836111273044
+            },
+            {
+                "topic": "history",
+                "weighted_count": 54.7847222701307,
+                "normalized_intensity": 2.6087962985776523
+            },
+            {
+                "topic": "television",
+                "weighted_count": 53.20097356107289,
+                "normalized_intensity": 2.5333796933844233
+            },
+            {
+                "topic": "film",
+                "weighted_count": 51.416889632494176,
+                "normalized_intensity": 2.448423315833056
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "film",
+                "weighted_count": 67.78304183783008,
+                "normalized_intensity": 67.78304183783008
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 57.14810005325661,
+                "normalized_intensity": 57.14810005325661
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 57,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 4597.521494843125,
+                "normalized_intensity": 80.65827183935306
+            },
+            {
+                "topic": "health",
+                "weighted_count": 3189.2420812462465,
+                "normalized_intensity": 55.95161546046047
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 3172.721305149181,
+                "normalized_intensity": 55.66177728331896
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 736.2689780873819,
+                "normalized_intensity": 12.916999615568104
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 708.2153850729154,
+                "normalized_intensity": 12.42483131706869
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 679.4357872406132,
+                "normalized_intensity": 11.919926091940582
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 651.7416112848144,
+                "normalized_intensity": 11.434063355873938
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 636.7013687815605,
+                "normalized_intensity": 11.17019945230808
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 613.5496210373913,
+                "normalized_intensity": 10.764028439252478
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 601.2430382985441,
+                "normalized_intensity": 10.548123478921827
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 567.7130237779913,
+                "normalized_intensity": 9.959877610140198
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 539.8982716058382,
+                "normalized_intensity": 9.47189950185681
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 53,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 4291.080949743973,
+                "normalized_intensity": 80.96379150460326
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 3542.0494043768485,
+                "normalized_intensity": 66.83112083729903
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2392.8878477250764,
+                "normalized_intensity": 45.14882731556748
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 1150.303327950413,
+                "normalized_intensity": 21.703836376422885
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 1032.7697922989196,
+                "normalized_intensity": 19.48622249620603
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 567.7130237779913,
+                "normalized_intensity": 10.711566486377196
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 543.118009404012,
+                "normalized_intensity": 10.247509611396453
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 539.8982716058382,
+                "normalized_intensity": 10.186759841619589
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 532.4964965729488,
+                "normalized_intensity": 10.047103708923562
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 66.93354346248925,
+                "normalized_intensity": 1.2628970464620615
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 64.3832168248105,
+                "normalized_intensity": 1.2147776759398208
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 61.76688974914665,
+                "normalized_intensity": 1.1654130141348424
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 55.777238276126496,
+                "normalized_intensity": 1.052400722191066
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 51,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 3925.004297360105,
+                "normalized_intensity": 76.96086857568832
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 3688.2102032779867,
+                "normalized_intensity": 72.31784712309778
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2775.429827623888,
+                "normalized_intensity": 54.420192698507606
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 1094.5687411983927,
+                "normalized_intensity": 21.46213218036064
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 614.0258753133434,
+                "normalized_intensity": 12.039723045359674
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 530.0344247077611,
+                "normalized_intensity": 10.392831857014924
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 516.1334077394858,
+                "normalized_intensity": 10.120262896852664
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 515.9377920148436,
+                "normalized_intensity": 10.116427294408698
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 511.636517467207,
+                "normalized_intensity": 10.032088577788372
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 257.4632407037485,
+                "normalized_intensity": 5.048298837328402
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 254.79931863123508,
+                "normalized_intensity": 4.996065071200688
+            },
+            {
+                "topic": "science",
+                "weighted_count": 245.05518665971346,
+                "normalized_intensity": 4.805003659994381
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 62.70691473730549,
+                "normalized_intensity": 1.2295473477903036
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 53.35542462380075,
+                "normalized_intensity": 1.0461847965451128
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.81007184848044,
+                "normalized_intensity": 0.9962759185976557
+            },
+            {
+                "topic": "law",
+                "weighted_count": 49.14095926425425,
+                "normalized_intensity": 0.9635482208677304
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 343.3824871337865,
+                "normalized_intensity": 68.67649742675731
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 321.63529417355204,
+                "normalized_intensity": 64.32705883471041
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 159.03770027047852,
+                "normalized_intensity": 31.807540054095703
+            },
+            {
+                "topic": "health",
+                "weighted_count": 101.52240733238436,
+                "normalized_intensity": 20.304481466476872
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.64571430167551,
+                "normalized_intensity": 11.129142860335103
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.8267633899803,
+                "normalized_intensity": 10.56535267799606
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.43110827308638,
+                "normalized_intensity": 10.286221654617275
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 49.36706061605528,
+                "normalized_intensity": 9.873412123211056
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.31677613438607,
+                "normalized_intensity": 9.863355226877214
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 630.4512371571535,
+                "normalized_intensity": 90.06446245102192
+            },
+            {
+                "topic": "film",
+                "weighted_count": 568.7640194506976,
+                "normalized_intensity": 81.25200277867108
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 452.10938212156617,
+                "normalized_intensity": 64.58705458879517
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 413.17547706161855,
+                "normalized_intensity": 59.025068151659795
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 287.38710129428347,
+                "normalized_intensity": 41.05530018489764
+            },
+            {
+                "topic": "health",
+                "weighted_count": 261.5854322607286,
+                "normalized_intensity": 37.36934746581837
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 249.82740837105393,
+                "normalized_intensity": 35.68962976729342
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 98.28022567034198,
+                "normalized_intensity": 14.040032238620283
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 63.76224157660945,
+                "normalized_intensity": 9.108891653801349
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 56.32477120176481,
+                "normalized_intensity": 8.046395885966401
+            },
+            {
+                "topic": "television",
+                "weighted_count": 52.90206538137002,
+                "normalized_intensity": 7.557437911624289
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 58,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 4278.217275048522,
+                "normalized_intensity": 73.76236681118142
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 3494.573060471676,
+                "normalized_intensity": 60.25125966330476
+            },
+            {
+                "topic": "health",
+                "weighted_count": 2458.559171677423,
+                "normalized_intensity": 42.388951235817636
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1275.3773283864948,
+                "normalized_intensity": 21.989264282525774
+            },
+            {
+                "topic": "law",
+                "weighted_count": 738.9232272492131,
+                "normalized_intensity": 12.740055642227812
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 546.083706997374,
+                "normalized_intensity": 9.41523632754093
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 497.08357714303725,
+                "normalized_intensity": 8.57040650246616
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 398.8815969143702,
+                "normalized_intensity": 6.877268912316728
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 263.5896982580335,
+                "normalized_intensity": 4.544649969966095
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 248.78366255295083,
+                "normalized_intensity": 4.289373492292255
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 248.0724499331097,
+                "normalized_intensity": 4.277111205743271
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 765.2926591351355,
+                "normalized_intensity": 63.774388261261294
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 608.9838595103729,
+                "normalized_intensity": 50.748654959197744
+            },
+            {
+                "topic": "health",
+                "weighted_count": 527.1200101273746,
+                "normalized_intensity": 43.92666751061455
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 301.0097445571536,
+                "normalized_intensity": 25.084145379762802
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 273.1962518323696,
+                "normalized_intensity": 22.766354319364137
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 198.83343085721492,
+                "normalized_intensity": 16.569452571434578
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 105.43587930321338,
+                "normalized_intensity": 8.786323275267781
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.72039922859256,
+                "normalized_intensity": 8.310033269049379
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 99.51346502118034,
+                "normalized_intensity": 8.292788751765029
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 99.22897997324388,
+                "normalized_intensity": 8.26908166443699
+            },
+            {
+                "topic": "law",
+                "weighted_count": 98.7546075293544,
+                "normalized_intensity": 8.2295506274462
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.54205707827629,
+                "normalized_intensity": 4.79517142318969
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 51.43892517072871,
+                "normalized_intensity": 4.286577097560726
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.27697649993706,
+                "normalized_intensity": 4.106414708328088
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 86.05584336323837,
+                "normalized_intensity": 43.02792168161918
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.9618456346512,
+                "normalized_intensity": 26.4809228173256
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.153032730040074,
+                "normalized_intensity": 25.576516365020037
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.75723936752493,
+                "normalized_intensity": 24.878619683762466
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 958.6592190976869,
+                "normalized_intensity": 38.34636876390748
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 919.0018126224886,
+                "normalized_intensity": 36.76007250489955
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 608.6497046139145,
+                "normalized_intensity": 24.34598818455658
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 268.0280615060236,
+                "normalized_intensity": 10.721122460240945
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 205.0364230168155,
+                "normalized_intensity": 8.20145692067262
+            },
+            {
+                "topic": "community",
+                "weighted_count": 203.66345687649977,
+                "normalized_intensity": 8.14653827505999
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 101.94069230641733,
+                "normalized_intensity": 4.077627692256693
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 63.690730209215175,
+                "normalized_intensity": 2.547629208368607
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 51.79798218662627,
+                "normalized_intensity": 2.0719192874650507
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.671626628466285,
+                "normalized_intensity": 2.0668650651386513
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 51.41572371626243,
+                "normalized_intensity": 2.056628948650497
+            }
+        ]
+    }
+}

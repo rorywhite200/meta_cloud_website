@@ -1,0 +1,472 @@
+{
+    "2024-03": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 435.32153204881047,
+                "normalized_intensity": 54.41519150610131
+            },
+            {
+                "topic": "health",
+                "weighted_count": 233.97572112228173,
+                "normalized_intensity": 29.246965140285216
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 229.43840848633113,
+                "normalized_intensity": 28.67980106079139
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 121.47406819920636,
+                "normalized_intensity": 15.184258524900795
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 110.78267046136446,
+                "normalized_intensity": 13.847833807670558
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 110.05890379248955,
+                "normalized_intensity": 13.757362974061193
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.67161002397839,
+                "normalized_intensity": 13.208951252997299
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 103.43113659740104,
+                "normalized_intensity": 12.92889207467513
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 51.110223176295165,
+                "normalized_intensity": 6.388777897036896
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 812.482228917222,
+                "normalized_intensity": 50.78013930732637
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 357.0676155210241,
+                "normalized_intensity": 22.316725970064006
+            },
+            {
+                "topic": "education",
+                "weighted_count": 332.846809893907,
+                "normalized_intensity": 20.802925618369187
+            },
+            {
+                "topic": "family",
+                "weighted_count": 200.0,
+                "normalized_intensity": 12.5
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 200.0,
+                "normalized_intensity": 12.5
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 179.20634148725216,
+                "normalized_intensity": 11.20039634295326
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 152.36301013772862,
+                "normalized_intensity": 9.522688133608039
+            },
+            {
+                "topic": "history",
+                "weighted_count": 124.38651115684114,
+                "normalized_intensity": 7.774156947302571
+            },
+            {
+                "topic": "community",
+                "weighted_count": 112.88185149043508,
+                "normalized_intensity": 7.055115718152193
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 111.77490444167537,
+                "normalized_intensity": 6.985931527604711
+            },
+            {
+                "topic": "health",
+                "weighted_count": 109.88770433253276,
+                "normalized_intensity": 6.867981520783298
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 107.90530218342002,
+                "normalized_intensity": 6.744081386463751
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 105.72681435576796,
+                "normalized_intensity": 6.607925897235497
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 102.61333932835225,
+                "normalized_intensity": 6.413333708022016
+            },
+            {
+                "topic": "film",
+                "weighted_count": 102.354812396154,
+                "normalized_intensity": 6.397175774759625
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 100.10624584298505,
+                "normalized_intensity": 6.256640365186565
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 99.01581630310072,
+                "normalized_intensity": 6.188488518943795
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 98.47951386900664,
+                "normalized_intensity": 6.154969616812915
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 50.73256209289254,
+                "normalized_intensity": 3.170785130805784
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 49.11444231012834,
+                "normalized_intensity": 3.069652644383021
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 1648.8901176243598,
+                "normalized_intensity": 71.69087467931999
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 712.4479163165289,
+                "normalized_intensity": 30.975996361588212
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 339.4850783018451,
+                "normalized_intensity": 14.760220795732394
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 260.6413506261887,
+                "normalized_intensity": 11.332232635921248
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 238.219805467703,
+                "normalized_intensity": 10.357382846421869
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 203.81834342460152,
+                "normalized_intensity": 8.861667105417457
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 197.07602090927162,
+                "normalized_intensity": 8.568522648229202
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 164.08665882230406,
+                "normalized_intensity": 7.134202557491481
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 160.24463701751677,
+                "normalized_intensity": 6.967158131196381
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 111.27482032422411,
+                "normalized_intensity": 4.838035666270613
+            },
+            {
+                "topic": "education",
+                "weighted_count": 109.55798952549094,
+                "normalized_intensity": 4.763390848934389
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 107.67957807348004,
+                "normalized_intensity": 4.68172078580348
+            },
+            {
+                "topic": "family",
+                "weighted_count": 105.5177351368605,
+                "normalized_intensity": 4.587727614646108
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 100.14819526220842,
+                "normalized_intensity": 4.3542693592264525
+            },
+            {
+                "topic": "law",
+                "weighted_count": 51.51050510668635,
+                "normalized_intensity": 2.2395871785515804
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 51.237447049095245,
+                "normalized_intensity": 2.2277150890910975
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 51.02684126175958,
+                "normalized_intensity": 2.2185583157286772
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.966085467567616,
+                "normalized_intensity": 2.1724384985898966
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.57752585117472,
+                "normalized_intensity": 2.155544602224988
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.471835455535306,
+                "normalized_intensity": 2.15094936763197
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 1111.968963593094,
+                "normalized_intensity": 69.49806022456838
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 544.986168160214,
+                "normalized_intensity": 34.061635510013375
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 355.11719335723643,
+                "normalized_intensity": 22.194824584827277
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 335.1485052462568,
+                "normalized_intensity": 20.94678157789105
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 205.53107998099455,
+                "normalized_intensity": 12.84569249881216
+            },
+            {
+                "topic": "history",
+                "weighted_count": 205.44317028895605,
+                "normalized_intensity": 12.840198143059753
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 118.44519404921643,
+                "normalized_intensity": 7.402824628076027
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 117.3984983321726,
+                "normalized_intensity": 7.337406145760787
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 101.17140959951598,
+                "normalized_intensity": 6.323213099969749
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 99.05919928250293,
+                "normalized_intensity": 6.191199955156433
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 66.52115550360104,
+                "normalized_intensity": 4.157572218975065
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 58.74259085605916,
+                "normalized_intensity": 3.6714119285036975
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 53.664380413762494,
+                "normalized_intensity": 3.354023775860156
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 52.34349018535996,
+                "normalized_intensity": 3.2714681365849976
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.111526399450106,
+                "normalized_intensity": 3.2569703999656316
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 51.850286301847056,
+                "normalized_intensity": 3.240642893865441
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.24807204166465,
+                "normalized_intensity": 3.2030045026040406
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 50.87540410260277,
+                "normalized_intensity": 3.1797127564126733
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.69770511289193,
+                "normalized_intensity": 3.1686065695557457
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.85399371897508,
+                "normalized_intensity": 3.1158746074359427
+            },
+            {
+                "topic": "art",
+                "weighted_count": 49.351346269784635,
+                "normalized_intensity": 3.0844591418615397
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.347062491229856,
+                "normalized_intensity": 3.084191405701866
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 292.7953824717398,
+                "normalized_intensity": 73.19884561793495
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 116.04199690714262,
+                "normalized_intensity": 29.010499226785655
+            },
+            {
+                "topic": "business",
+                "weighted_count": 59.27806383050831,
+                "normalized_intensity": 14.819515957627077
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.10976559062377,
+                "normalized_intensity": 14.277441397655943
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 53.29952787205755,
+                "normalized_intensity": 13.324881968014388
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.389576705880216,
+                "normalized_intensity": 13.097394176470054
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.006076934288835,
+                "normalized_intensity": 13.001519233572209
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 49.11537838152163,
+                "normalized_intensity": 12.278844595380408
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 662.258515353423,
+                "normalized_intensity": 66.2258515353423
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 313.72098338834695,
+                "normalized_intensity": 31.372098338834697
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 302.95479881021294,
+                "normalized_intensity": 30.295479881021294
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 302.69629735411854,
+                "normalized_intensity": 30.269629735411854
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 113.74602937262975,
+                "normalized_intensity": 11.374602937262974
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 56.65295504827645,
+                "normalized_intensity": 5.665295504827645
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.38276999524864,
+                "normalized_intensity": 5.138276999524864
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.36079257223901,
+                "normalized_intensity": 5.136079257223901
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.58570479975799,
+                "normalized_intensity": 5.058570479975799
+            }
+        ]
+    }
+}

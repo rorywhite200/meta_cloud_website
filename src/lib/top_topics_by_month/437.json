@@ -1,0 +1,52 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 60.837835018012875,
+                "normalized_intensity": 60.837835018012875
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.507423016940635,
+                "normalized_intensity": 55.507423016940635
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.32736994608241,
+                "normalized_intensity": 55.32736994608241
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 54.84197263356242,
+                "normalized_intensity": 54.84197263356242
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.81501812828302,
+                "normalized_intensity": 52.81501812828302
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.07281627350072,
+                "normalized_intensity": 50.07281627350072
+            },
+            {
+                "topic": "law",
+                "weighted_count": 49.50722861702761,
+                "normalized_intensity": 49.50722861702761
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.28489802932386,
+                "normalized_intensity": 49.28489802932386
+            }
+        ]
+    }
+}

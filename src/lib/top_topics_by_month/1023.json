@@ -1,0 +1,42 @@
+{
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 284.9755552691498,
+                "normalized_intensity": 71.24388881728746
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 223.44564265845318,
+                "normalized_intensity": 55.861410664613295
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 208.26705075977122,
+                "normalized_intensity": 52.066762689942806
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 201.4536645181515,
+                "normalized_intensity": 50.363416129537875
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 99.95778143879824,
+                "normalized_intensity": 24.98944535969956
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.87979306387402,
+                "normalized_intensity": 24.719948265968505
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.890162153264946,
+                "normalized_intensity": 12.472540538316236
+            }
+        ]
+    }
+}

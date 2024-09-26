@@ -1,0 +1,67 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 314.1272456296591,
+                "normalized_intensity": 78.53181140741478
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 291.298237358383,
+                "normalized_intensity": 72.82455933959575
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 248.06111134915136,
+                "normalized_intensity": 62.01527783728784
+            },
+            {
+                "topic": "family",
+                "weighted_count": 233.25591477826978,
+                "normalized_intensity": 58.313978694567446
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 223.50518177195386,
+                "normalized_intensity": 55.876295442988464
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 221.9635269530757,
+                "normalized_intensity": 55.490881738268925
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 211.24511641104152,
+                "normalized_intensity": 52.81127910276038
+            },
+            {
+                "topic": "community",
+                "weighted_count": 207.01771828721178,
+                "normalized_intensity": 51.754429571802945
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 205.50655251467734,
+                "normalized_intensity": 51.376638128669335
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 113.59743228037101,
+                "normalized_intensity": 28.399358070092752
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 101.79988946365737,
+                "normalized_intensity": 25.44997236591434
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.60861713872805,
+                "normalized_intensity": 12.402154284682013
+            }
+        ]
+    }
+}

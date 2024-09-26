@@ -1,0 +1,72 @@
+{
+    "2024-08": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "economy",
+                "weighted_count": 558.2218325708984,
+                "normalized_intensity": 42.94014096699219
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 493.7847123234081,
+                "normalized_intensity": 37.98343940949293
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 400.9398851886495,
+                "normalized_intensity": 30.841529629896115
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 370.3022435578712,
+                "normalized_intensity": 28.48478796599009
+            },
+            {
+                "topic": "business",
+                "weighted_count": 234.9868613439072,
+                "normalized_intensity": 18.075912411069787
+            },
+            {
+                "topic": "food",
+                "weighted_count": 214.65133043956277,
+                "normalized_intensity": 16.51164080304329
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 208.2259335640583,
+                "normalized_intensity": 16.01737950492756
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 156.8842113369063,
+                "normalized_intensity": 12.0680162566851
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 122.46425683545746,
+                "normalized_intensity": 9.420327448881343
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 118.79880203369693,
+                "normalized_intensity": 9.138369387207456
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 103.51474093571275,
+                "normalized_intensity": 7.962672379670211
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.49254618899299,
+                "normalized_intensity": 7.5763497068456145
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 51.41175239975803,
+                "normalized_intensity": 3.9547501845967714
+            }
+        ]
+    }
+}

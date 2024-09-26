@@ -1,0 +1,27 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 62.58317269595418,
+                "normalized_intensity": 62.58317269595418
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 58.32692620140713,
+                "normalized_intensity": 58.32692620140713
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 58.051871137200465,
+                "normalized_intensity": 58.051871137200465
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.215896746635245,
+                "normalized_intensity": 50.215896746635245
+            }
+        ]
+    }
+}

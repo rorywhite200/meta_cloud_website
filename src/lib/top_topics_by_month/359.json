@@ -1,0 +1,137 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 249.37552079622196,
+                "normalized_intensity": 62.34388019905549
+            },
+            {
+                "topic": "health",
+                "weighted_count": 221.14925071132575,
+                "normalized_intensity": 55.28731267783144
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 128.7289124035116,
+                "normalized_intensity": 32.1822281008779
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 109.79287167497677,
+                "normalized_intensity": 27.44821791874419
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 100.24278780294699,
+                "normalized_intensity": 25.060696950736748
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 53.67950294485898,
+                "normalized_intensity": 13.419875736214745
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 127.5921735090136,
+                "normalized_intensity": 63.7960867545068
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 62.608958677023466,
+                "normalized_intensity": 31.304479338511733
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.31230704455293,
+                "normalized_intensity": 25.656153522276465
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.39657947922493,
+                "normalized_intensity": 24.698289739612466
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "elder-care",
+                "weighted_count": 68.14006179684714,
+                "normalized_intensity": 68.14006179684714
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.81185673625791,
+                "normalized_intensity": 57.81185673625791
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 56.28830250170584,
+                "normalized_intensity": 56.28830250170584
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 55.15292533419892,
+                "normalized_intensity": 55.15292533419892
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.5020996344422,
+                "normalized_intensity": 52.5020996344422
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.63934490976365,
+                "normalized_intensity": 49.63934490976365
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 124.64216101702989,
+                "normalized_intensity": 62.321080508514946
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 104.88467967386615,
+                "normalized_intensity": 52.44233983693307
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 100.53597700811959,
+                "normalized_intensity": 50.267988504059794
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "food",
+                "weighted_count": 167.21987761264108,
+                "normalized_intensity": 55.7399592042137
+            },
+            {
+                "topic": "community",
+                "weighted_count": 166.81879721859102,
+                "normalized_intensity": 55.606265739530336
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.81584318991001,
+                "normalized_intensity": 16.605281063303337
+            }
+        ]
+    }
+}

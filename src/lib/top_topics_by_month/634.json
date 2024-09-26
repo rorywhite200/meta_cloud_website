@@ -1,0 +1,297 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 293.0861782471589,
+                "normalized_intensity": 73.27154456178972
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 281.57024542064096,
+                "normalized_intensity": 70.39256135516024
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 280.221731178562,
+                "normalized_intensity": 70.0554327946405
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 276.8130337617012,
+                "normalized_intensity": 69.2032584404253
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 261.19692552654215,
+                "normalized_intensity": 65.29923138163554
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 252.13052152335615,
+                "normalized_intensity": 63.03263038083904
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 233.97842366829363,
+                "normalized_intensity": 58.49460591707341
+            },
+            {
+                "topic": "business",
+                "weighted_count": 215.3377923668705,
+                "normalized_intensity": 53.834448091717626
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 213.62860988245856,
+                "normalized_intensity": 53.40715247061464
+            },
+            {
+                "topic": "science",
+                "weighted_count": 199.87481017756855,
+                "normalized_intensity": 49.96870254439214
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 388.39520156258806,
+                "normalized_intensity": 77.67904031251761
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 368.5390328026088,
+                "normalized_intensity": 73.70780656052176
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 349.0486150635889,
+                "normalized_intensity": 69.80972301271778
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 330.2515543400807,
+                "normalized_intensity": 66.05031086801614
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 299.2282386084763,
+                "normalized_intensity": 59.845647721695265
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 293.5338655539817,
+                "normalized_intensity": 58.706773110796334
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 289.48374973371176,
+                "normalized_intensity": 57.896749946742354
+            },
+            {
+                "topic": "science",
+                "weighted_count": 161.14640482843376,
+                "normalized_intensity": 32.229280965686755
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 103.22850720249563,
+                "normalized_intensity": 20.645701440499128
+            },
+            {
+                "topic": "business",
+                "weighted_count": 102.63414622337773,
+                "normalized_intensity": 20.526829244675547
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 403.8785441323463,
+                "normalized_intensity": 80.77570882646926
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 389.9586620090802,
+                "normalized_intensity": 77.99173240181604
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 357.775884642212,
+                "normalized_intensity": 71.5551769284424
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 335.96763390246656,
+                "normalized_intensity": 67.19352678049331
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 310.4879215872698,
+                "normalized_intensity": 62.09758431745396
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 182.11842333077746,
+                "normalized_intensity": 36.423684666155495
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 179.98005687185744,
+                "normalized_intensity": 35.99601137437149
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 172.02435672765705,
+                "normalized_intensity": 34.40487134553141
+            },
+            {
+                "topic": "science",
+                "weighted_count": 157.8052530662406,
+                "normalized_intensity": 31.56105061324812
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 155.9555182787986,
+                "normalized_intensity": 31.19110365575972
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 108.66051302876052,
+                "normalized_intensity": 21.732102605752104
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 108.0860462160137,
+                "normalized_intensity": 21.61720924320274
+            },
+            {
+                "topic": "business",
+                "weighted_count": 55.2827262075944,
+                "normalized_intensity": 11.05654524151888
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 49.36060923522207,
+                "normalized_intensity": 9.872121847044415
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 87.87133918120384,
+                "normalized_intensity": 87.87133918120384
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 80.66292338163909,
+                "normalized_intensity": 80.66292338163909
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 77.71139715496872,
+                "normalized_intensity": 77.71139715496872
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 71.17380262662675,
+                "normalized_intensity": 71.17380262662675
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 59.83807478675248,
+                "normalized_intensity": 59.83807478675248
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 59.147073222801026,
+                "normalized_intensity": 59.147073222801026
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.36035653094271,
+                "normalized_intensity": 53.36035653094271
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 52.89915569328102,
+                "normalized_intensity": 52.89915569328102
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 412.41071976062653,
+                "normalized_intensity": 68.73511996010443
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 398.5376230841934,
+                "normalized_intensity": 66.4229371806989
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 397.21857393261837,
+                "normalized_intensity": 66.2030956554364
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 259.5643246081458,
+                "normalized_intensity": 43.2607207680243
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 227.07210553203146,
+                "normalized_intensity": 37.845350922005245
+            },
+            {
+                "topic": "business",
+                "weighted_count": 213.7728337860148,
+                "normalized_intensity": 35.628805631002464
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 213.07817804385724,
+                "normalized_intensity": 35.513029673976206
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 198.35744133897612,
+                "normalized_intensity": 33.05957355649602
+            },
+            {
+                "topic": "science",
+                "weighted_count": 197.2880286506906,
+                "normalized_intensity": 32.88133810844843
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 184.67846845146764,
+                "normalized_intensity": 30.779744741911273
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 121.1665008209837,
+                "normalized_intensity": 20.194416803497283
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 121.07498498799039,
+                "normalized_intensity": 20.179164164665064
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2023-10": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 596.4733334412055,
+                "normalized_intensity": 49.70611112010045
+            },
+            {
+                "topic": "community",
+                "weighted_count": 452.8679321709352,
+                "normalized_intensity": 37.738994347577936
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 172.79926473960043,
+                "normalized_intensity": 14.399938728300036
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 166.09209349853109,
+                "normalized_intensity": 13.841007791544257
+            }
+        ]
+    }
+}

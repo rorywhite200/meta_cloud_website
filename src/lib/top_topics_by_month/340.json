@@ -1,0 +1,262 @@
+{
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 468.9791532917498,
+                "normalized_intensity": 66.9970218988214
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 712.1779898929767,
+                "normalized_intensity": 71.21779898929768
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 668.8740200201424,
+                "normalized_intensity": 66.88740200201424
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 306.9747384433102,
+                "normalized_intensity": 30.697473844331018
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 219.4488122567738,
+                "normalized_intensity": 21.94488122567738
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 198.34167971366918,
+                "normalized_intensity": 19.834167971366917
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 196.2723209185594,
+                "normalized_intensity": 19.627232091855937
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1094.5580387628556,
+                "normalized_intensity": 60.808779931269754
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 874.4923479426152,
+                "normalized_intensity": 48.58290821903418
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 859.3111641895156,
+                "normalized_intensity": 47.739509121639756
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 673.3690824215536,
+                "normalized_intensity": 37.409393467864085
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 671.278865711875,
+                "normalized_intensity": 37.29327031732639
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 319.03924885321726,
+                "normalized_intensity": 17.724402714067626
+            },
+            {
+                "topic": "military",
+                "weighted_count": 270.73429842549046,
+                "normalized_intensity": 15.040794356971693
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 269.098953041719,
+                "normalized_intensity": 14.949941835651057
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 258.6740124374011,
+                "normalized_intensity": 14.370778468744504
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 245.2707446142016,
+                "normalized_intensity": 13.626152478566755
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 38,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2018.0858991635766,
+                "normalized_intensity": 53.107523662199384
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1721.5040861885902,
+                "normalized_intensity": 45.30273911022606
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 1681.509714407552,
+                "normalized_intensity": 44.250255642304005
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1602.894080875761,
+                "normalized_intensity": 42.181423180941074
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1508.9330578257639,
+                "normalized_intensity": 39.70876467962537
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1139.396289477872,
+                "normalized_intensity": 29.98411288099663
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 778.3754567307749,
+                "normalized_intensity": 20.483564650809864
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 638.0784977064344,
+                "normalized_intensity": 16.79153941332722
+            },
+            {
+                "topic": "military",
+                "weighted_count": 541.4685968509809,
+                "normalized_intensity": 14.249173601341603
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 538.197906083438,
+                "normalized_intensity": 14.163102791669422
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 517.3480248748023,
+                "normalized_intensity": 13.614421707231639
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 490.5414892284033,
+                "normalized_intensity": 12.908986558642193
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 373.3003095146376,
+                "normalized_intensity": 9.823692355648358
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 360.2206268344352,
+                "normalized_intensity": 9.479490179853558
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 343.2382152645079,
+                "normalized_intensity": 9.032584612223893
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 502.36121410637935,
+                "normalized_intensity": 55.81791267848659
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 324.2386532485864,
+                "normalized_intensity": 36.02651702762071
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 321.22398028601697,
+                "normalized_intensity": 35.691553365112995
+            },
+            {
+                "topic": "military",
+                "weighted_count": 297.9630470879078,
+                "normalized_intensity": 33.10700523198975
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 296.1097453209464,
+                "normalized_intensity": 32.901082813438485
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 171.53553168598043,
+                "normalized_intensity": 19.059503520664492
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 99.89036523283946,
+                "normalized_intensity": 11.098929470315495
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1582.291699149212,
+                "normalized_intensity": 65.92882079788383
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1358.3850384780199,
+                "normalized_intensity": 56.599376603250825
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 317.5810333378774,
+                "normalized_intensity": 13.232543055744891
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 317.40192865723947,
+                "normalized_intensity": 13.22508036071831
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 305.94290801452377,
+                "normalized_intensity": 12.747621167271824
+            },
+            {
+                "topic": "family",
+                "weighted_count": 304.1482947997283,
+                "normalized_intensity": 12.672845616655346
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 149.55112752734942,
+                "normalized_intensity": 6.231296980306226
+            }
+        ]
+    }
+}

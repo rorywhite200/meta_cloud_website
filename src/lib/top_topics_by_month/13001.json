@@ -1,0 +1,22 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 201.71205874339572,
+                "normalized_intensity": 67.23735291446523
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 102.00723032835164,
+                "normalized_intensity": 34.002410109450544
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.98125390753676,
+                "normalized_intensity": 16.993751302512255
+            }
+        ]
+    }
+}

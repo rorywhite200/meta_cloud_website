@@ -1,0 +1,57 @@
+{
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 111.42837503605644,
+                "normalized_intensity": 27.85709375901411
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 107.55543291801659,
+                "normalized_intensity": 26.888858229504148
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.18746375375657,
+                "normalized_intensity": 13.046865938439142
+            },
+            {
+                "topic": "education",
+                "weighted_count": 50.244047677755965,
+                "normalized_intensity": 12.561011919438991
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 175.0971099613966,
+                "normalized_intensity": 35.01942199227932
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 116.82135731567288,
+                "normalized_intensity": 23.36427146313458
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 101.46721702711241,
+                "normalized_intensity": 20.293443405422483
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 56.23184669621545,
+                "normalized_intensity": 11.24636933924309
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.18746375375657,
+                "normalized_intensity": 10.437492750751314
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 70.72501979268316,
+                "normalized_intensity": 70.72501979268316
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 67.5195256813992,
+                "normalized_intensity": 67.5195256813992
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 60.69321273498572,
+                "normalized_intensity": 60.69321273498572
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.60582453668297,
+                "normalized_intensity": 53.60582453668297
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.243999925087294,
+                "normalized_intensity": 53.243999925087294
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.49667800720294,
+                "normalized_intensity": 52.49667800720294
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 51.059685647373996,
+                "normalized_intensity": 51.059685647373996
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.863442404048165,
+                "normalized_intensity": 49.863442404048165
+            }
+        ]
+    }
+}

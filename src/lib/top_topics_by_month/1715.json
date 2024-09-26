@@ -1,0 +1,22 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 142.93215367039113,
+                "normalized_intensity": 71.46607683519557
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 133.01427374452766,
+                "normalized_intensity": 66.50713687226383
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 119.0049142526773,
+                "normalized_intensity": 59.50245712633865
+            }
+        ]
+    }
+}

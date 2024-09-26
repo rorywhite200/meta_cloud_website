@@ -1,0 +1,147 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 133.28909127034893,
+                "normalized_intensity": 66.64454563517447
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 127.48379209599193,
+                "normalized_intensity": 63.741896047995965
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 120.88239101755309,
+                "normalized_intensity": 60.441195508776545
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 120.15887004084897,
+                "normalized_intensity": 60.079435020424484
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 101.36553044168693,
+                "normalized_intensity": 50.682765220843464
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 62.292169382755155,
+                "normalized_intensity": 31.146084691377578
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.509528680435515,
+                "normalized_intensity": 27.754764340217758
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.292462565973196,
+                "normalized_intensity": 26.646231282986598
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.180693836276525,
+                "normalized_intensity": 26.590346918138263
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 52.4651057436462,
+                "normalized_intensity": 26.2325528718231
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.06728013090365,
+                "normalized_intensity": 25.033640065451824
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.83976578308717,
+                "normalized_intensity": 24.919882891543583
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.2502102013637,
+                "normalized_intensity": 24.62510510068185
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.487444714107255,
+                "normalized_intensity": 61.487444714107255
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.73260545357465,
+                "normalized_intensity": 50.73260545357465
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 55.34902826152586,
+                "normalized_intensity": 55.34902826152586
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 70.6953582240853,
+                "normalized_intensity": 70.6953582240853
+            },
+            {
+                "topic": "community",
+                "weighted_count": 62.88834471796194,
+                "normalized_intensity": 62.88834471796194
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 60.929152833752745,
+                "normalized_intensity": 60.929152833752745
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 60.30511009483093,
+                "normalized_intensity": 60.30511009483093
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.16623134938603,
+                "normalized_intensity": 53.16623134938603
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 53.12997505517253,
+                "normalized_intensity": 53.12997505517253
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.164864105605304,
+                "normalized_intensity": 52.164864105605304
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.06144478950907,
+                "normalized_intensity": 51.06144478950907
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.88357836609402,
+                "normalized_intensity": 50.88357836609402
+            }
+        ]
+    }
+}

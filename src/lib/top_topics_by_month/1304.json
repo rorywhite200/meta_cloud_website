@@ -1,0 +1,77 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 75.41756654779441,
+                "normalized_intensity": 75.41756654779441
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 66.1840774421938,
+                "normalized_intensity": 66.1840774421938
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 62.774098193359364,
+                "normalized_intensity": 62.774098193359364
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 57.038091608319995,
+                "normalized_intensity": 57.038091608319995
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 53.83832233931837,
+                "normalized_intensity": 53.83832233931837
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 50.84452942564124,
+                "normalized_intensity": 50.84452942564124
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 72.39915601580633,
+                "normalized_intensity": 72.39915601580633
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 67.28410018739378,
+                "normalized_intensity": 67.28410018739378
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 58.34847482265313,
+                "normalized_intensity": 58.34847482265313
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 58.319406630698865,
+                "normalized_intensity": 58.319406630698865
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 57.27865411484223,
+                "normalized_intensity": 57.27865411484223
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 49.955593084137504,
+                "normalized_intensity": 49.955593084137504
+            }
+        ]
+    }
+}

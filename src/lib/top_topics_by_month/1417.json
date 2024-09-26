@@ -1,0 +1,77 @@
+{
+    "2023-09": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 435.77101834072306,
+                "normalized_intensity": 62.253002620103295
+            },
+            {
+                "topic": "family",
+                "weighted_count": 407.3788431267457,
+                "normalized_intensity": 58.1969775895351
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 360.8218108666289,
+                "normalized_intensity": 51.545972980946985
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 50.71354628676809,
+                "normalized_intensity": 7.244792326681156
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 236.63684522531844,
+                "normalized_intensity": 59.15921130632961
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 213.22255209810282,
+                "normalized_intensity": 53.305638024525706
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 211.97332487971758,
+                "normalized_intensity": 52.993331219929395
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 99.15266667376686,
+                "normalized_intensity": 24.788166668441715
+            },
+            {
+                "topic": "community",
+                "weighted_count": 98.60657055707964,
+                "normalized_intensity": 24.65164263926991
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 180.4758139486127,
+                "normalized_intensity": 60.15860464953757
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 167.85723857576613,
+                "normalized_intensity": 55.95241285858871
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 151.92403963953254,
+                "normalized_intensity": 50.641346546510846
+            }
+        ]
+    }
+}

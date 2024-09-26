@@ -1,0 +1,82 @@
+{
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 109.89937049432456,
+                "normalized_intensity": 36.63312349810818
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 68.17971155553745,
+                "normalized_intensity": 22.726570518512485
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 65.10201660398445,
+                "normalized_intensity": 21.70067220132815
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 64.50539207493715,
+                "normalized_intensity": 21.501797358312384
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 62.960020115491375,
+                "normalized_intensity": 20.98667337183046
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.53067504341859,
+                "normalized_intensity": 20.843558347806198
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 60.94498699230883,
+                "normalized_intensity": 20.31499566410294
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 60.542147660436044,
+                "normalized_intensity": 20.180715886812013
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 57.85080335390096,
+                "normalized_intensity": 19.283601117966985
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 54.88254130128294,
+                "normalized_intensity": 18.29418043376098
+            },
+            {
+                "topic": "pork-industry",
+                "weighted_count": 54.4602950332426,
+                "normalized_intensity": 18.153431677747534
+            },
+            {
+                "topic": "beef-industry",
+                "weighted_count": 54.27431309417634,
+                "normalized_intensity": 18.09143769805878
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 52.59742560859969,
+                "normalized_intensity": 17.532475202866564
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 49.77189687362159,
+                "normalized_intensity": 16.590632291207196
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 49.31786031248011,
+                "normalized_intensity": 16.4392867708267
+            }
+        ]
+    }
+}

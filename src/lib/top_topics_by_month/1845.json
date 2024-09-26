@@ -1,0 +1,27 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.8362728848067,
+                "normalized_intensity": 61.8362728848067
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.81278269781943,
+                "normalized_intensity": 54.81278269781943
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.61032383596219,
+                "normalized_intensity": 50.61032383596219
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 49.451023711114395,
+                "normalized_intensity": 49.451023711114395
+            }
+        ]
+    }
+}

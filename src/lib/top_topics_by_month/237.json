@@ -1,0 +1,27 @@
+{
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 257.0793240678923,
+                "normalized_intensity": 64.26983101697307
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 232.23129956450705,
+                "normalized_intensity": 58.057824891126764
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 231.95157408578302,
+                "normalized_intensity": 57.987893521445756
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 208.4561496458142,
+                "normalized_intensity": 52.11403741145355
+            }
+        ]
+    }
+}

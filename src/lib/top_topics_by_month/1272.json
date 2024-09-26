@@ -1,0 +1,32 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 124.88894617003909,
+                "normalized_intensity": 62.444473085019546
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 64.13349594454984,
+                "normalized_intensity": 64.13349594454984
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 61.85705052911986,
+                "normalized_intensity": 61.85705052911986
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 60.12630552958418,
+                "normalized_intensity": 60.12630552958418
+            }
+        ]
+    }
+}

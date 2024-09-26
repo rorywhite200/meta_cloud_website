@@ -1,0 +1,42 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 58.98949016215326,
+                "normalized_intensity": 58.98949016215326
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 56.20586773854346,
+                "normalized_intensity": 56.20586773854346
+            },
+            {
+                "topic": "history",
+                "weighted_count": 52.09585089287443,
+                "normalized_intensity": 52.09585089287443
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 50.936747168542,
+                "normalized_intensity": 50.936747168542
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.29345066580854,
+                "normalized_intensity": 49.29345066580854
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 54.887675847244644,
+                "normalized_intensity": 54.887675847244644
+            }
+        ]
+    }
+}

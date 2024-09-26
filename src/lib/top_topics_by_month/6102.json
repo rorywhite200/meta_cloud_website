@@ -1,0 +1,32 @@
+{
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "media",
+                "weighted_count": 83.06290324607957,
+                "normalized_intensity": 83.06290324607957
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 62.53724673246904,
+                "normalized_intensity": 62.53724673246904
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 59.88292029845179,
+                "normalized_intensity": 59.88292029845179
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.56275924195467,
+                "normalized_intensity": 49.56275924195467
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.1421895130583,
+                "normalized_intensity": 49.1421895130583
+            }
+        ]
+    }
+}

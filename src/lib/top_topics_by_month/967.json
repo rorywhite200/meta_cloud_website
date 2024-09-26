@@ -1,0 +1,37 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "family",
+                "weighted_count": 63.746677551734734,
+                "normalized_intensity": 63.746677551734734
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 61.89433909416068,
+                "normalized_intensity": 61.89433909416068
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 60.092735992192644,
+                "normalized_intensity": 60.092735992192644
+            },
+            {
+                "topic": "food",
+                "weighted_count": 54.175099723733865,
+                "normalized_intensity": 54.175099723733865
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 67.7905358619438,
+                "normalized_intensity": 67.7905358619438
+            }
+        ]
+    }
+}

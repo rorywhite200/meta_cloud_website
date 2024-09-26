@@ -1,0 +1,47 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 75.60231131685494,
+                "normalized_intensity": 75.60231131685494
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 60.27546129336685,
+                "normalized_intensity": 60.27546129336685
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 56.96512004135996,
+                "normalized_intensity": 56.96512004135996
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 56.34592670553958,
+                "normalized_intensity": 56.34592670553958
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.812988801947284,
+                "normalized_intensity": 55.812988801947284
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 53.8101447034454,
+                "normalized_intensity": 53.8101447034454
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.06196301998044,
+                "normalized_intensity": 52.06196301998044
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 50.814412454711665,
+                "normalized_intensity": 50.814412454711665
+            }
+        ]
+    }
+}

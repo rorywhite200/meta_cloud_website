@@ -1,0 +1,27 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 118.25750963303068,
+                "normalized_intensity": 59.12875481651534
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 109.61534881315613,
+                "normalized_intensity": 54.807674406578066
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 98.95795658516582,
+                "normalized_intensity": 49.47897829258291
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 98.09595579081267,
+                "normalized_intensity": 49.04797789540633
+            }
+        ]
+    }
+}

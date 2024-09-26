@@ -1,0 +1,22 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 132.86988611065917,
+                "normalized_intensity": 66.43494305532958
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 117.65049218053949,
+                "normalized_intensity": 58.825246090269744
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 110.7243648782193,
+                "normalized_intensity": 55.36218243910965
+            }
+        ]
+    }
+}

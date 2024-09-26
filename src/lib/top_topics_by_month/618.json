@@ -1,0 +1,27 @@
+{
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "labour-rights",
+                "weighted_count": 264.8867291439578,
+                "normalized_intensity": 52.977345828791556
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 209.23264276893502,
+                "normalized_intensity": 41.846528553787
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 57.76252235283871,
+                "normalized_intensity": 11.552504470567742
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 51.68771513513527,
+                "normalized_intensity": 10.337543027027055
+            }
+        ]
+    }
+}

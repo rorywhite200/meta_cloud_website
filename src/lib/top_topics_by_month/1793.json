@@ -1,0 +1,157 @@
+{
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 345.2711096784241,
+                "normalized_intensity": 86.31777741960603
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 320.81309382192967,
+                "normalized_intensity": 80.20327345548242
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 292.5025038598576,
+                "normalized_intensity": 73.1256259649644
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 287.66365771060293,
+                "normalized_intensity": 71.91591442765073
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 239.15776852251034,
+                "normalized_intensity": 59.789442130627585
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 207.85218083451286,
+                "normalized_intensity": 51.963045208628216
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 241.4640588538282,
+                "normalized_intensity": 80.48801961794273
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 233.60508957811018,
+                "normalized_intensity": 77.8683631927034
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 232.18592305237763,
+                "normalized_intensity": 77.39530768412588
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 222.40145534113688,
+                "normalized_intensity": 74.13381844704563
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 182.6358410018294,
+                "normalized_intensity": 60.87861366727646
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 173.9076597816715,
+                "normalized_intensity": 57.96921992722383
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 77.1239418935476,
+                "normalized_intensity": 25.707980631182533
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 54.79980864034578,
+                "normalized_intensity": 18.26660288011526
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 135.24817157505012,
+                "normalized_intensity": 67.62408578752506
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 63.62256799057582,
+                "normalized_intensity": 31.81128399528791
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 62.5978098533536,
+                "normalized_intensity": 31.2989049266768
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 55.86071020277761,
+                "normalized_intensity": 27.930355101388805
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 54.92677169884699,
+                "normalized_intensity": 27.463385849423496
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 54.016702754111066,
+                "normalized_intensity": 27.008351377055533
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.359430252614715,
+                "normalized_intensity": 25.179715126307357
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 251.41114056788803,
+                "normalized_intensity": 83.80371352262934
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 234.25852779234123,
+                "normalized_intensity": 78.08617593078041
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 226.70326428224564,
+                "normalized_intensity": 75.56775476074854
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 211.03475591790829,
+                "normalized_intensity": 70.34491863930276
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 169.48101830161625,
+                "normalized_intensity": 56.49367276720542
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 159.709426194802,
+                "normalized_intensity": 53.23647539826734
+            }
+        ]
+    }
+}

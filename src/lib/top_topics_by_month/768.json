@@ -1,0 +1,42 @@
+{
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 332.88241611891567,
+                "normalized_intensity": 66.57648322378313
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 189.29678842211592,
+                "normalized_intensity": 37.85935768442319
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 111.46907383321704,
+                "normalized_intensity": 22.293814766643408
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 109.38149792104264,
+                "normalized_intensity": 21.876299584208528
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 106.99414982039119,
+                "normalized_intensity": 21.39882996407824
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.3088248146231,
+                "normalized_intensity": 10.46176496292462
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.66019864620285,
+                "normalized_intensity": 10.33203972924057
+            }
+        ]
+    }
+}

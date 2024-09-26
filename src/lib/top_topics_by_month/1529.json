@@ -1,0 +1,32 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 93.53750796654218,
+                "normalized_intensity": 93.53750796654218
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 56.14105991311232,
+                "normalized_intensity": 56.14105991311232
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 52.71744981953618,
+                "normalized_intensity": 52.71744981953618
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 52.04668798395311,
+                "normalized_intensity": 52.04668798395311
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.48035903252803,
+                "normalized_intensity": 49.48035903252803
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 56.383720604142674,
+                "normalized_intensity": 56.383720604142674
+            },
+            {
+                "topic": "education",
+                "weighted_count": 52.63369916854885,
+                "normalized_intensity": 52.63369916854885
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 52.40302659392223,
+                "normalized_intensity": 52.40302659392223
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.33979013538168,
+                "normalized_intensity": 52.33979013538168
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.53609078324898,
+                "normalized_intensity": 51.53609078324898
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.11412572083586,
+                "normalized_intensity": 50.11412572083586
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.876205685459546,
+                "normalized_intensity": 49.876205685459546
+            }
+        ]
+    }
+}

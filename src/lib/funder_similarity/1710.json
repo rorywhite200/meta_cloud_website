@@ -1,0 +1,1005 @@
+{
+    "funder_name": "Banff Centre for Arts and Creativity",
+    "similar_funders": [
+        {
+            "funder_id": "1380",
+            "funder_name": "Meier Publishing",
+            "similarity_score": 0.8348630779148952
+        },
+        {
+            "funder_id": "1514",
+            "funder_name": "Richmond News",
+            "similarity_score": 0.8177578259754006
+        },
+        {
+            "funder_id": "795",
+            "funder_name": "Forum for Ukrainian Studies",
+            "similarity_score": 0.8112776358671837
+        },
+        {
+            "funder_id": "1544",
+            "funder_name": "Iranian Canadian Congress",
+            "similarity_score": 0.8099103570895532
+        },
+        {
+            "funder_id": "401",
+            "funder_name": "Rideau Institute",
+            "similarity_score": 0.809431451865774
+        },
+        {
+            "funder_id": "537",
+            "funder_name": "Inter Pares",
+            "similarity_score": 0.80711123095088
+        },
+        {
+            "funder_id": "12925",
+            "funder_name": "Grandawg and the Whipper Snappers",
+            "similarity_score": 0.8058813922650079
+        },
+        {
+            "funder_id": "1717",
+            "funder_name": "Centre Greene",
+            "similarity_score": 0.8028197723769243
+        },
+        {
+            "funder_id": "1964",
+            "funder_name": "SocialRise Inc",
+            "similarity_score": 0.801777354521303
+        },
+        {
+            "funder_id": "1111",
+            "funder_name": "\ud1a0\ub860\ud1a0 \uc0dd\ud0dc\ud76c\ub9dd\uc5f0\ub300 HNET",
+            "similarity_score": 0.8012213989701504
+        },
+        {
+            "funder_id": "254",
+            "funder_name": "Yvan Baker, MP",
+            "similarity_score": 0.7968402019845909
+        },
+        {
+            "funder_id": "570",
+            "funder_name": "The Canada Africa Growth Coalition",
+            "similarity_score": 0.7963069618311063
+        },
+        {
+            "funder_id": "971",
+            "funder_name": "Volkswagen",
+            "similarity_score": 0.795312749965597
+        },
+        {
+            "funder_id": "1759",
+            "funder_name": "Force Jeunesse",
+            "similarity_score": 0.7942663847138262
+        },
+        {
+            "funder_id": "1482",
+            "funder_name": "Georgian Mobile Botox",
+            "similarity_score": 0.7937381157449532
+        },
+        {
+            "funder_id": "1244",
+            "funder_name": "NIFC",
+            "similarity_score": 0.7934944034026484
+        },
+        {
+            "funder_id": "107",
+            "funder_name": "Return to Reason",
+            "similarity_score": 0.7917739016588288
+        },
+        {
+            "funder_id": "60",
+            "funder_name": "Julie Dzerowicz",
+            "similarity_score": 0.791009298442413
+        },
+        {
+            "funder_id": "1815",
+            "funder_name": "UBC Faculty of Arts",
+            "similarity_score": 0.7908547387889353
+        },
+        {
+            "funder_id": "1828",
+            "funder_name": "Syndicat du personnel enseignant du c\u00e9gep de Jonqui\u00e8re",
+            "similarity_score": 0.7903854333772173
+        },
+        {
+            "funder_id": "1117",
+            "funder_name": "The Maple",
+            "similarity_score": 0.7899414873208944
+        },
+        {
+            "funder_id": "1846",
+            "funder_name": "James Bezan, MP",
+            "similarity_score": 0.7897643600582053
+        },
+        {
+            "funder_id": "1521",
+            "funder_name": "What\u2019s up with Canada?",
+            "similarity_score": 0.7878555958210375
+        },
+        {
+            "funder_id": "63",
+            "funder_name": "Robert Gichuru",
+            "similarity_score": 0.7873744861412953
+        },
+        {
+            "funder_id": "1003",
+            "funder_name": "Financial Agent for Erika Ritchie",
+            "similarity_score": 0.7873148314919456
+        },
+        {
+            "funder_id": "1430",
+            "funder_name": "School of Public Policy - The University of Calgary",
+            "similarity_score": 0.7869559668367212
+        },
+        {
+            "funder_id": "1447",
+            "funder_name": "City of West Kelowna",
+            "similarity_score": 0.7863254589055354
+        },
+        {
+            "funder_id": "384",
+            "funder_name": "Chambre de Commerce du Grand Sainte-Agathe",
+            "similarity_score": 0.7861814413005443
+        },
+        {
+            "funder_id": "1760",
+            "funder_name": "CR\u00c9DIL",
+            "similarity_score": 0.7855385057826146
+        },
+        {
+            "funder_id": "9248",
+            "funder_name": "Jewish Federation of Greater Vancouver",
+            "similarity_score": 0.7852698786088105
+        },
+        {
+            "funder_id": "1223",
+            "funder_name": "Arthur V. Mauro Institute for Peace & Justice",
+            "similarity_score": 0.7850623155095042
+        },
+        {
+            "funder_id": "655",
+            "funder_name": "Canadians Against Conservatives 2.0",
+            "similarity_score": 0.7850144525764375
+        },
+        {
+            "funder_id": "980",
+            "funder_name": "Cool World",
+            "similarity_score": 0.7833139410504264
+        },
+        {
+            "funder_id": "1598",
+            "funder_name": "Toronto Centre",
+            "similarity_score": 0.7831615812391457
+        },
+        {
+            "funder_id": "763",
+            "funder_name": "Ottawa International Writers Festival",
+            "similarity_score": 0.783081370281469
+        },
+        {
+            "funder_id": "1574",
+            "funder_name": "Ctip-Picc",
+            "similarity_score": 0.7827826413628421
+        },
+        {
+            "funder_id": "1226",
+            "funder_name": "Ottawa South NDP",
+            "similarity_score": 0.7819847063180455
+        },
+        {
+            "funder_id": "1391",
+            "funder_name": "UCC National - Ukrainian Canadian Congress",
+            "similarity_score": 0.7819267401925413
+        },
+        {
+            "funder_id": "694",
+            "funder_name": "Conseil de quartier du Vieux-Limoilou",
+            "similarity_score": 0.7816729231733904
+        },
+        {
+            "funder_id": "1066",
+            "funder_name": "Meritrusts Immigration Consulting",
+            "similarity_score": 0.7816100287171204
+        },
+        {
+            "funder_id": "81",
+            "funder_name": "Canada Strong and Free Network",
+            "similarity_score": 0.7814214401063906
+        },
+        {
+            "funder_id": "2891",
+            "funder_name": "Unknown",
+            "similarity_score": 0.7807623108574115
+        },
+        {
+            "funder_id": "1209",
+            "funder_name": "Whistleblowing Canada Research Society",
+            "similarity_score": 0.780713799803314
+        },
+        {
+            "funder_id": "538",
+            "funder_name": "CJPME - Canadians for Justice and Peace in the Middle East",
+            "similarity_score": 0.7802766307573482
+        },
+        {
+            "funder_id": "1004",
+            "funder_name": "MP Rachel Blaney",
+            "similarity_score": 0.7796085972868367
+        },
+        {
+            "funder_id": "12972",
+            "funder_name": "Nick Majors",
+            "similarity_score": 0.7795883448960212
+        },
+        {
+            "funder_id": "734",
+            "funder_name": "Communaut\u00e9 R\u00e9gionale de Campbellton Regional Community",
+            "similarity_score": 0.7785290377487445
+        },
+        {
+            "funder_id": "1458",
+            "funder_name": "Centre for International Governance Innovation (CIGI)",
+            "similarity_score": 0.7773708659032204
+        },
+        {
+            "funder_id": "516",
+            "funder_name": "Ek\u014d",
+            "similarity_score": 0.7773421907378445
+        },
+        {
+            "funder_id": "153",
+            "funder_name": "Alexandre Desbiens - Conseiller District 2 - Drummondville",
+            "similarity_score": 0.7769570929955315
+        },
+        {
+            "funder_id": "898",
+            "funder_name": "Alpha Lira",
+            "similarity_score": 0.7768550717514133
+        },
+        {
+            "funder_id": "1584",
+            "funder_name": "R\u00e9alit\u00e9 climatique Canada",
+            "similarity_score": 0.7765858320346435
+        },
+        {
+            "funder_id": "357",
+            "funder_name": "Andrew Dowie PC, Windsor-Tecumseh",
+            "similarity_score": 0.7764328051871167
+        },
+        {
+            "funder_id": "345",
+            "funder_name": "Shuvaloy Majumdar, MP",
+            "similarity_score": 0.7760558668711719
+        },
+        {
+            "funder_id": "1384",
+            "funder_name": "UBC Sustainability",
+            "similarity_score": 0.7753121675158555
+        },
+        {
+            "funder_id": "892",
+            "funder_name": "Manjit Minhas",
+            "similarity_score": 0.7747929851187089
+        },
+        {
+            "funder_id": "1609",
+            "funder_name": "Canadian Roots Exchange",
+            "similarity_score": 0.7747889734204304
+        },
+        {
+            "funder_id": "1089",
+            "funder_name": "Allan Small Financial Group",
+            "similarity_score": 0.7741542460459307
+        },
+        {
+            "funder_id": "1909",
+            "funder_name": "Andrea Sandmaier",
+            "similarity_score": 0.7740982214951476
+        },
+        {
+            "funder_id": "13000",
+            "funder_name": "Unknown",
+            "similarity_score": 0.7740706856436548
+        },
+        {
+            "funder_id": "1636",
+            "funder_name": "Pro\u00c9colo",
+            "similarity_score": 0.7740546293291091
+        },
+        {
+            "funder_id": "605",
+            "funder_name": "The Arab Community Centre of Toronto",
+            "similarity_score": 0.7740207249876638
+        },
+        {
+            "funder_id": "1172",
+            "funder_name": "Democracy XChange",
+            "similarity_score": 0.7735872557078167
+        },
+        {
+            "funder_id": "1321",
+            "funder_name": "the Office of Tako van Popta, MP",
+            "similarity_score": 0.7735474279401318
+        },
+        {
+            "funder_id": "1794",
+            "funder_name": "Tourism Industry Association of Canada",
+            "similarity_score": 0.7733314746832441
+        },
+        {
+            "funder_id": "830",
+            "funder_name": "Nanda and Associate Lawyers",
+            "similarity_score": 0.7728370226382133
+        },
+        {
+            "funder_id": "1776",
+            "funder_name": "Urbaneer",
+            "similarity_score": 0.7727513231440689
+        },
+        {
+            "funder_id": "101",
+            "funder_name": "Victoria Rumble Room",
+            "similarity_score": 0.7722436835987715
+        },
+        {
+            "funder_id": "1730",
+            "funder_name": "Campaign University",
+            "similarity_score": 0.7722168613267679
+        },
+        {
+            "funder_id": "49",
+            "funder_name": "Kevin Lamoureux",
+            "similarity_score": 0.7718823289273561
+        },
+        {
+            "funder_id": "1320",
+            "funder_name": "Lianne Rood M.P.",
+            "similarity_score": 0.7713495560498067
+        },
+        {
+            "funder_id": "522",
+            "funder_name": "Ukrainian Canadian Congress - Toronto Branch",
+            "similarity_score": 0.7713260424397681
+        },
+        {
+            "funder_id": "245",
+            "funder_name": "Conservative Journal of Canada",
+            "similarity_score": 0.7707755703992976
+        },
+        {
+            "funder_id": "1594",
+            "funder_name": "Kieron Testart",
+            "similarity_score": 0.7706372704014465
+        },
+        {
+            "funder_id": "12946",
+            "funder_name": "Kondan & Symss Consultancy Inc.",
+            "similarity_score": 0.7706237069501508
+        },
+        {
+            "funder_id": "465",
+            "funder_name": "Curium",
+            "similarity_score": 0.7705780937369897
+        },
+        {
+            "funder_id": "1448",
+            "funder_name": "Visualizing Palestine",
+            "similarity_score": 0.7704319430526912
+        },
+        {
+            "funder_id": "12923",
+            "funder_name": "Kingston and the Islands Federal Liberal Association (KIFLA)",
+            "similarity_score": 0.7694880359984825
+        },
+        {
+            "funder_id": "104",
+            "funder_name": "People's Alliance Party of NB - L'Alliance des Gens du NB",
+            "similarity_score": 0.7693930323600606
+        },
+        {
+            "funder_id": "12913",
+            "funder_name": "J\u00c9R\u00d4ME LABB\u00c9",
+            "similarity_score": 0.7688780996285686
+        },
+        {
+            "funder_id": "1350",
+            "funder_name": "Political Pacts",
+            "similarity_score": 0.7687260453646343
+        },
+        {
+            "funder_id": "349",
+            "funder_name": "Canadian Association of Military Personnel/Association du Personnel Militaire Canadien",
+            "similarity_score": 0.7685826175570444
+        },
+        {
+            "funder_id": "926",
+            "funder_name": "Lum Mobile",
+            "similarity_score": 0.7682757394724947
+        },
+        {
+            "funder_id": "1425",
+            "funder_name": "Canvoice Data",
+            "similarity_score": 0.7681682001553696
+        },
+        {
+            "funder_id": "765",
+            "funder_name": "Alberta Bold",
+            "similarity_score": 0.7681047835926954
+        },
+        {
+            "funder_id": "936",
+            "funder_name": "Amnistie Internationale Canada Francophone",
+            "similarity_score": 0.7681023411021588
+        },
+        {
+            "funder_id": "788",
+            "funder_name": "Vancouver Is Awesome",
+            "similarity_score": 0.7667729447720195
+        },
+        {
+            "funder_id": "421",
+            "funder_name": "Mark Strahl, MP",
+            "similarity_score": 0.7665659809904394
+        },
+        {
+            "funder_id": "1273",
+            "funder_name": "Femmes du monde \u00e0 C\u00f4te-des-Neiges",
+            "similarity_score": 0.7662830096950145
+        },
+        {
+            "funder_id": "1061",
+            "funder_name": "BC United Party",
+            "similarity_score": 0.7657952668562913
+        },
+        {
+            "funder_id": "414",
+            "funder_name": "Jenny Kwan",
+            "similarity_score": 0.7655456080721185
+        },
+        {
+            "funder_id": "641",
+            "funder_name": "Canadian Police Association",
+            "similarity_score": 0.7651398321965617
+        },
+        {
+            "funder_id": "870",
+            "funder_name": "Business Council of Alberta",
+            "similarity_score": 0.7650241226258218
+        },
+        {
+            "funder_id": "1950",
+            "funder_name": "The SKoop - Inside Saskatchewan Politics",
+            "similarity_score": 0.7649109691099342
+        },
+        {
+            "funder_id": "1557",
+            "funder_name": "ANOKHI MEDIA",
+            "similarity_score": 0.764696648763838
+        },
+        {
+            "funder_id": "1266",
+            "funder_name": "Forum for Young Canadians / Forum pour jeunes canadiens",
+            "similarity_score": 0.7646400011962925
+        },
+        {
+            "funder_id": "1750",
+            "funder_name": "CIJA",
+            "similarity_score": 0.7644148342849911
+        },
+        {
+            "funder_id": "779",
+            "funder_name": "Liberal Party of NB / Parti lib\u00e9ral du NB",
+            "similarity_score": 0.7639037694877158
+        },
+        {
+            "funder_id": "539",
+            "funder_name": "Canadian Museum for Human Rights",
+            "similarity_score": 0.763550780987397
+        },
+        {
+            "funder_id": "750",
+            "funder_name": "Animal Alliance of Canada",
+            "similarity_score": 0.763409616912964
+        },
+        {
+            "funder_id": "12926",
+            "funder_name": "Legislative Assembly of Prince Edward Island",
+            "similarity_score": 0.7627290548448905
+        },
+        {
+            "funder_id": "847",
+            "funder_name": "Canadian Future",
+            "similarity_score": 0.7624562159699788
+        },
+        {
+            "funder_id": "405",
+            "funder_name": "Engag\u00e9s publics",
+            "similarity_score": 0.7623499153625165
+        },
+        {
+            "funder_id": "1891",
+            "funder_name": "Official Agent for Aaron Kowal, Green Party Candidate in Fort Garry",
+            "similarity_score": 0.7621191152725438
+        },
+        {
+            "funder_id": "164",
+            "funder_name": "Ryan Williams MP Bay of Quinte",
+            "similarity_score": 0.7621052231486003
+        },
+        {
+            "funder_id": "753",
+            "funder_name": "Humane Society International/Canada",
+            "similarity_score": 0.7618984205482555
+        },
+        {
+            "funder_id": "572",
+            "funder_name": "Soci\u00e9t\u00e9 de l\u2019arthrite",
+            "similarity_score": 0.7614881609003532
+        },
+        {
+            "funder_id": "2368",
+            "funder_name": "Wildlands League",
+            "similarity_score": 0.7610438073917204
+        },
+        {
+            "funder_id": "1657",
+            "funder_name": "Clear Seas",
+            "similarity_score": 0.7608433158268838
+        },
+        {
+            "funder_id": "743",
+            "funder_name": "The Breach",
+            "similarity_score": 0.7607913914975577
+        },
+        {
+            "funder_id": "1233",
+            "funder_name": "CheckUpProject",
+            "similarity_score": 0.7607588456194182
+        },
+        {
+            "funder_id": "1052",
+            "funder_name": "Chad Krahn for Red Deer City Council",
+            "similarity_score": 0.7604475063102764
+        },
+        {
+            "funder_id": "812",
+            "funder_name": "The Toronto Star",
+            "similarity_score": 0.7601385947849238
+        },
+        {
+            "funder_id": "1499",
+            "funder_name": "Ludovic Gris\u00e9 Farand",
+            "similarity_score": 0.7599345371895995
+        },
+        {
+            "funder_id": "1176",
+            "funder_name": "Coalition of First Nations for Finfish Stewardship",
+            "similarity_score": 0.7599299967218105
+        },
+        {
+            "funder_id": "393",
+            "funder_name": "Democracy Watch",
+            "similarity_score": 0.759694456814674
+        },
+        {
+            "funder_id": "1864",
+            "funder_name": "National Centre for Truth and Reconciliation with Facebook ad credits",
+            "similarity_score": 0.7595597488331267
+        },
+        {
+            "funder_id": "491",
+            "funder_name": "Awesome Ottawa",
+            "similarity_score": 0.7593271481577556
+        },
+        {
+            "funder_id": "837",
+            "funder_name": "Ucore Rare Metals Inc.",
+            "similarity_score": 0.7593190468392572
+        },
+        {
+            "funder_id": "1929",
+            "funder_name": "Hendrik Slegtenhorst",
+            "similarity_score": 0.7592218903166145
+        },
+        {
+            "funder_id": "1787",
+            "funder_name": "ALIGN the World",
+            "similarity_score": 0.7586193990446161
+        },
+        {
+            "funder_id": "1329",
+            "funder_name": "Wayne Long, MP",
+            "similarity_score": 0.7586106688733641
+        },
+        {
+            "funder_id": "736",
+            "funder_name": "Migrant Rights Network",
+            "similarity_score": 0.7584521914049249
+        },
+        {
+            "funder_id": "530",
+            "funder_name": "Woken Promises",
+            "similarity_score": 0.7583897938528297
+        },
+        {
+            "funder_id": "105",
+            "funder_name": "Oil and Gas World/Oil Sands Strong",
+            "similarity_score": 0.7583853723724995
+        },
+        {
+            "funder_id": "1193",
+            "funder_name": "PSAC - AFPC",
+            "similarity_score": 0.7582650395185369
+        },
+        {
+            "funder_id": "1322",
+            "funder_name": "Fondation Ren\u00e9-L\u00e9vesque",
+            "similarity_score": 0.7582210346827807
+        },
+        {
+            "funder_id": "80",
+            "funder_name": "Canadian Affairs News Inc.",
+            "similarity_score": 0.7577896845371533
+        },
+        {
+            "funder_id": "214",
+            "funder_name": "Jamie Schmale, MP",
+            "similarity_score": 0.7577390281567974
+        },
+        {
+            "funder_id": "261",
+            "funder_name": "Mark Gerretsen",
+            "similarity_score": 0.7573582124817323
+        },
+        {
+            "funder_id": "1476",
+            "funder_name": "Carrefour de Solidarit\u00e9 Internationale",
+            "similarity_score": 0.7571186551746274
+        },
+        {
+            "funder_id": "1284",
+            "funder_name": "Dodo News",
+            "similarity_score": 0.757006899202184
+        },
+        {
+            "funder_id": "558",
+            "funder_name": "Scott Anderson, CPC Candidate Nominee",
+            "similarity_score": 0.7568731919466132
+        },
+        {
+            "funder_id": "627",
+            "funder_name": "Iqwinder Gaheer, MP",
+            "similarity_score": 0.7568633061025518
+        },
+        {
+            "funder_id": "122",
+            "funder_name": "Michael Cooper, M.P.",
+            "similarity_score": 0.7568404521476639
+        },
+        {
+            "funder_id": "1212",
+            "funder_name": "Canada United For Israel",
+            "similarity_score": 0.7565273245003465
+        },
+        {
+            "funder_id": "649",
+            "funder_name": "Mauro Francis for Burnaby North-Seymour",
+            "similarity_score": 0.7564883490528715
+        },
+        {
+            "funder_id": "243",
+            "funder_name": "Langley Township Watch",
+            "similarity_score": 0.7564116620986077
+        },
+        {
+            "funder_id": "259",
+            "funder_name": "Montreal Economic Institute",
+            "similarity_score": 0.7560432434543578
+        },
+        {
+            "funder_id": "1260",
+            "funder_name": "Simon Fraser University",
+            "similarity_score": 0.7558572818136314
+        },
+        {
+            "funder_id": "455",
+            "funder_name": "Mennonite Central Committee Canada",
+            "similarity_score": 0.7557461209267665
+        },
+        {
+            "funder_id": "983",
+            "funder_name": "Fa\u00e7onner le travail social de demain",
+            "similarity_score": 0.7556633282161807
+        },
+        {
+            "funder_id": "163",
+            "funder_name": "Michael de Jong",
+            "similarity_score": 0.7554567872983776
+        },
+        {
+            "funder_id": "125",
+            "funder_name": "C2C Journal",
+            "similarity_score": 0.755240918729622
+        },
+        {
+            "funder_id": "328",
+            "funder_name": "Branden Leslie",
+            "similarity_score": 0.7550743261520502
+        },
+        {
+            "funder_id": "56",
+            "funder_name": "Bob Zimmer MP",
+            "similarity_score": 0.7550702342068286
+        },
+        {
+            "funder_id": "1190",
+            "funder_name": "OUI Qu\u00e9bec - Capitale Nationale et Chaudi\u00e8re Appalaches",
+            "similarity_score": 0.7548570336786262
+        },
+        {
+            "funder_id": "1082",
+            "funder_name": "Racquel Hilbert",
+            "similarity_score": 0.7546476592847908
+        },
+        {
+            "funder_id": "106",
+            "funder_name": "Frontier Centre for Public Policy",
+            "similarity_score": 0.7546387326447137
+        },
+        {
+            "funder_id": "1326",
+            "funder_name": "Black Lives Matter - Sudbury",
+            "similarity_score": 0.754570167252607
+        },
+        {
+            "funder_id": "376",
+            "funder_name": "Conservative Party of BC, Financial Agent for Bryan Tepper",
+            "similarity_score": 0.7545355950785122
+        },
+        {
+            "funder_id": "148",
+            "funder_name": "Show Me Your Regina",
+            "similarity_score": 0.7545170808865683
+        },
+        {
+            "funder_id": "89",
+            "funder_name": "Aristotle Foundation",
+            "similarity_score": 0.7544081317848158
+        },
+        {
+            "funder_id": "1301",
+            "funder_name": "KAIROS CANADA",
+            "similarity_score": 0.7543139998277889
+        },
+        {
+            "funder_id": "944",
+            "funder_name": "Northwest Territories Legislative Assembly",
+            "similarity_score": 0.7542525974938277
+        },
+        {
+            "funder_id": "75",
+            "funder_name": "Julie White",
+            "similarity_score": 0.7541856163295658
+        },
+        {
+            "funder_id": "492",
+            "funder_name": "University of Manitoba",
+            "similarity_score": 0.754124812024512
+        },
+        {
+            "funder_id": "696",
+            "funder_name": "Regulator Watch",
+            "similarity_score": 0.753941772344905
+        },
+        {
+            "funder_id": "1259",
+            "funder_name": "Manicouagan Interculturelle",
+            "similarity_score": 0.7538514692410816
+        },
+        {
+            "funder_id": "36",
+            "funder_name": "Terry Sheehan, MP for Sault Ste. Marie",
+            "similarity_score": 0.7538414094438541
+        },
+        {
+            "funder_id": "78",
+            "funder_name": "Oxfam Canada",
+            "similarity_score": 0.7538366801801026
+        },
+        {
+            "funder_id": "754",
+            "funder_name": "Oceans North",
+            "similarity_score": 0.7536878923853333
+        },
+        {
+            "funder_id": "705",
+            "funder_name": "Evercardia Inc.",
+            "similarity_score": 0.7533736484229039
+        },
+        {
+            "funder_id": "413",
+            "funder_name": "Dan Albas",
+            "similarity_score": 0.7527148577115406
+        },
+        {
+            "funder_id": "1134",
+            "funder_name": "Mouvement L'\u00e9cole ensemble",
+            "similarity_score": 0.7524832664643334
+        },
+        {
+            "funder_id": "540",
+            "funder_name": "Mus\u00e9e canadien pour les droits de la personne",
+            "similarity_score": 0.752221704955966
+        },
+        {
+            "funder_id": "129",
+            "funder_name": "Brad Redekopp MP",
+            "similarity_score": 0.7521816958969373
+        },
+        {
+            "funder_id": "561",
+            "funder_name": "Dominion Review",
+            "similarity_score": 0.7521503381903684
+        },
+        {
+            "funder_id": "321",
+            "funder_name": "Independent Contractors and Businesses Association of BC",
+            "similarity_score": 0.7521041749017082
+        },
+        {
+            "funder_id": "1196",
+            "funder_name": "SADC des Sources",
+            "similarity_score": 0.7519884999508334
+        },
+        {
+            "funder_id": "1381",
+            "funder_name": "Jenny Kwan, MP",
+            "similarity_score": 0.7517800783996307
+        },
+        {
+            "funder_id": "1357",
+            "funder_name": "Doug Shipley, MP",
+            "similarity_score": 0.7517526235498254
+        },
+        {
+            "funder_id": "264",
+            "funder_name": "Yvonne Ned and Zachary Astakeesic 4 Upper Nicola Band Council 2024 election",
+            "similarity_score": 0.7517154264290933
+        },
+        {
+            "funder_id": "843",
+            "funder_name": "Aide interntionale pour l'enfance - Children's Care International",
+            "similarity_score": 0.751697731641737
+        },
+        {
+            "funder_id": "233",
+            "funder_name": "University of Toronto Press",
+            "similarity_score": 0.7516950913227326
+        },
+        {
+            "funder_id": "1123",
+            "funder_name": "CIBLES - Carrefour international bas-laurentien pour l'engagement social",
+            "similarity_score": 0.751600104778976
+        },
+        {
+            "funder_id": "1327",
+            "funder_name": "Grey Matter Podcast",
+            "similarity_score": 0.7515823029481047
+        },
+        {
+            "funder_id": "844",
+            "funder_name": "NSNDP",
+            "similarity_score": 0.7513357310345332
+        },
+        {
+            "funder_id": "487",
+            "funder_name": "Grain Farmers of Ontario",
+            "similarity_score": 0.751326685221295
+        },
+        {
+            "funder_id": "229",
+            "funder_name": "Canada Action",
+            "similarity_score": 0.7512308068259692
+        },
+        {
+            "funder_id": "1091",
+            "funder_name": "Solidarit\u00e9 NordSud des BoisFrancs",
+            "similarity_score": 0.7510778742068313
+        },
+        {
+            "funder_id": "372",
+            "funder_name": "Ville de Lac-Brome",
+            "similarity_score": 0.7509720250356727
+        },
+        {
+            "funder_id": "954",
+            "funder_name": "Manitoba Federation of Labour",
+            "similarity_score": 0.7508863924417027
+        },
+        {
+            "funder_id": "1697",
+            "funder_name": "Ambe Chenemu",
+            "similarity_score": 0.7508568172500271
+        },
+        {
+            "funder_id": "50",
+            "funder_name": "Adam Walker, MLA",
+            "similarity_score": 0.7507931408361417
+        },
+        {
+            "funder_id": "182",
+            "funder_name": "Fair Share Report",
+            "similarity_score": 0.7506992187292771
+        },
+        {
+            "funder_id": "336",
+            "funder_name": "Robert Kolosowski's Campaign",
+            "similarity_score": 0.7506963048921785
+        },
+        {
+            "funder_id": "1262",
+            "funder_name": "Lynn Gehl, PhD - Algonquin Anishinaabe-Ikwe",
+            "similarity_score": 0.7506585461888283
+        },
+        {
+            "funder_id": "1530",
+            "funder_name": "Centre for Inquiry Canada",
+            "similarity_score": 0.7506467748335811
+        },
+        {
+            "funder_id": "95",
+            "funder_name": "Act Now Coalition",
+            "similarity_score": 0.7506329025986355
+        },
+        {
+            "funder_id": "1018",
+            "funder_name": "AQOCI",
+            "similarity_score": 0.7505739731486822
+        },
+        {
+            "funder_id": "635",
+            "funder_name": "Moodys Tax Law LLP",
+            "similarity_score": 0.750512388293866
+        },
+        {
+            "funder_id": "1897",
+            "funder_name": "Resistance Press",
+            "similarity_score": 0.7504639402671075
+        },
+        {
+            "funder_id": "112",
+            "funder_name": "USJE - SESJ",
+            "similarity_score": 0.7503170905148876
+        },
+        {
+            "funder_id": "1678",
+            "funder_name": "Canadian Centre for Policy Alternatives",
+            "similarity_score": 0.7502491077794432
+        },
+        {
+            "funder_id": "344",
+            "funder_name": "Ziad Aboultaif",
+            "similarity_score": 0.750224534046361
+        },
+        {
+            "funder_id": "766",
+            "funder_name": "ESKA Inc.",
+            "similarity_score": 0.7502144181885599
+        },
+        {
+            "funder_id": "863",
+            "funder_name": "Gil McGowan ANDP Leadership Campaign",
+            "similarity_score": 0.7502050840358158
+        },
+        {
+            "funder_id": "197",
+            "funder_name": "Coastal First Nations",
+            "similarity_score": 0.7500369568897979
+        },
+        {
+            "funder_id": "1285",
+            "funder_name": "Maison la Grande Ourse Mont\u00e9r\u00e9gie",
+            "similarity_score": 0.7500344491312665
+        }
+    ]
+}

@@ -1,0 +1,507 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 279.710383824333,
+                "normalized_intensity": 55.9420767648666
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 262.3017357268241,
+                "normalized_intensity": 52.46034714536482
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 261.94840352219137,
+                "normalized_intensity": 52.38968070443828
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 259.18875703890774,
+                "normalized_intensity": 51.837751407781546
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 151.4791010184065,
+                "normalized_intensity": 30.295820203681302
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 71.42070980276962,
+                "normalized_intensity": 14.284141960553924
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.93817637622908,
+                "normalized_intensity": 13.387635275245817
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 65.45641056062361,
+                "normalized_intensity": 13.091282112124722
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 62.710185973513724,
+                "normalized_intensity": 12.542037194702745
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.49182380382883,
+                "normalized_intensity": 9.898364760765766
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 126.90776322761171,
+                "normalized_intensity": 63.453881613805855
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 117.53138112859895,
+                "normalized_intensity": 58.765690564299476
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 54.98724922616166,
+                "normalized_intensity": 27.49362461308083
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 53.81208982810435,
+                "normalized_intensity": 26.906044914052174
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.58151239776618,
+                "normalized_intensity": 26.29075619888309
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.77388359843375,
+                "normalized_intensity": 25.886941799216874
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 51.090824582743124,
+                "normalized_intensity": 25.545412291371562
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.969302012996586,
+                "normalized_intensity": 25.484651006498293
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 49.32084575180519,
+                "normalized_intensity": 24.660422875902594
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 369.95173744692545,
+                "normalized_intensity": 61.658622907820906
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 248.8785044985871,
+                "normalized_intensity": 41.47975074976451
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 233.10003626871952,
+                "normalized_intensity": 38.85000604478659
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 222.8328937188212,
+                "normalized_intensity": 37.13881561980353
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 204.09994195025868,
+                "normalized_intensity": 34.01665699170978
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 202.73641682916482,
+                "normalized_intensity": 33.789402804860806
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 158.51766464611978,
+                "normalized_intensity": 26.4196107743533
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 138.7766869468025,
+                "normalized_intensity": 23.129447824467082
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 100.83511267617024,
+                "normalized_intensity": 16.80585211269504
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 99.75066816939298,
+                "normalized_intensity": 16.625111361565498
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.82006248517619,
+                "normalized_intensity": 10.47001041419603
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.969302012996586,
+                "normalized_intensity": 8.494883668832765
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 57.96294290143052,
+                "normalized_intensity": 57.96294290143052
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.40577734815691,
+                "normalized_intensity": 50.40577734815691
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 164.08191223603532,
+                "normalized_intensity": 54.693970745345105
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 132.27758583467687,
+                "normalized_intensity": 44.092528611558954
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 61.25326945953443,
+                "normalized_intensity": 20.417756486511475
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 58.065085501754545,
+                "normalized_intensity": 19.355028500584847
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 56.014763734064175,
+                "normalized_intensity": 18.671587911354724
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 54.37026665114716,
+                "normalized_intensity": 18.123422217049054
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.93991513677815,
+                "normalized_intensity": 17.313305045592717
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.51806002220472,
+                "normalized_intensity": 16.839353340734906
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 57.531072040871365,
+                "normalized_intensity": 28.765536020435682
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 56.53865325107955,
+                "normalized_intensity": 28.269326625539776
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 53.86993409903595,
+                "normalized_intensity": 26.934967049517976
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 53.20003481527355,
+                "normalized_intensity": 26.600017407636773
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 51.202704952423474,
+                "normalized_intensity": 25.601352476211737
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 359.1732413374202,
+                "normalized_intensity": 59.86220688957004
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 358.7175700918739,
+                "normalized_intensity": 59.78626168197898
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 308.48497307461355,
+                "normalized_intensity": 51.414162179102256
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 277.1568126635554,
+                "normalized_intensity": 46.19280211059257
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 157.25114112629623,
+                "normalized_intensity": 26.208523521049372
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 148.77606803757647,
+                "normalized_intensity": 24.796011339596078
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 58.175962303816334,
+                "normalized_intensity": 9.695993717302722
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 55.664141199646345,
+                "normalized_intensity": 9.277356866607724
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.38463541450462,
+                "normalized_intensity": 8.39743923575077
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 224.92694421743096,
+                "normalized_intensity": 44.98538884348619
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 189.76631469298056,
+                "normalized_intensity": 37.95326293859611
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 166.45809892103455,
+                "normalized_intensity": 33.29161978420691
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 105.73290916310623,
+                "normalized_intensity": 21.146581832621244
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 99.04061125673121,
+                "normalized_intensity": 19.80812225134624
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 58.175962303816334,
+                "normalized_intensity": 11.635192460763268
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 57.40438821256817,
+                "normalized_intensity": 11.480877642513635
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.87952551368603,
+                "normalized_intensity": 10.975905102737206
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.3253741528518,
+                "normalized_intensity": 10.66507483057036
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 52.18575731227252,
+                "normalized_intensity": 10.437151462454505
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 50.93657858979491,
+                "normalized_intensity": 10.187315717958983
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.61904760084411,
+                "normalized_intensity": 10.123809520168823
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.38463541450462,
+                "normalized_intensity": 10.076927082900925
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.633464648977146,
+                "normalized_intensity": 9.92669292979543
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 118.39011089525823,
+                "normalized_intensity": 59.195055447629116
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 104.7108726234172,
+                "normalized_intensity": 52.3554363117086
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 101.30539955303736,
+                "normalized_intensity": 50.65269977651868
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 276.32257046325907,
+                "normalized_intensity": 69.08064261581477
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 219.849364600382,
+                "normalized_intensity": 54.9623411500955
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 163.83069414725634,
+                "normalized_intensity": 40.957673536814085
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 158.9937196816735,
+                "normalized_intensity": 39.748429920418374
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 154.37280408602138,
+                "normalized_intensity": 38.593201021505344
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 60.71582712048995,
+                "normalized_intensity": 15.178956780122487
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 56.74889091530514,
+                "normalized_intensity": 14.187222728826285
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 639.5665527753035,
+                "normalized_intensity": 63.95665527753035
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 484.70367211176205,
+                "normalized_intensity": 48.4703672111762
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 363.5134487709008,
+                "normalized_intensity": 36.351344877090085
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 333.994564294464,
+                "normalized_intensity": 33.3994564294464
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 202.8079063889446,
+                "normalized_intensity": 20.28079063889446
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 99.44651313637605,
+                "normalized_intensity": 9.944651313637605
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 58.13741440398682,
+                "normalized_intensity": 5.813741440398681
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 55.583541352312615,
+                "normalized_intensity": 5.558354135231261
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 54.14475671238394,
+                "normalized_intensity": 5.414475671238394
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.50222183380279,
+                "normalized_intensity": 4.950222183380279
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.04202713527109,
+                "normalized_intensity": 4.904202713527109
+            }
+        ]
+    }
+}

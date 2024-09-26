@@ -1,0 +1,187 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 71.00378603874175,
+                "normalized_intensity": 71.00378603874175
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 61.33460798922861,
+                "normalized_intensity": 61.33460798922861
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 58.398127267974566,
+                "normalized_intensity": 58.398127267974566
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.422857633838426,
+                "normalized_intensity": 52.422857633838426
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 57.377347153440816,
+                "normalized_intensity": 57.377347153440816
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 53.729351599367384,
+                "normalized_intensity": 53.729351599367384
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 51.56856993254626,
+                "normalized_intensity": 51.56856993254626
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 147.36604443253668,
+                "normalized_intensity": 73.68302221626834
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 142.6398919064242,
+                "normalized_intensity": 71.3199459532121
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 121.07004921717663,
+                "normalized_intensity": 60.535024608588316
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 117.18364209872354,
+                "normalized_intensity": 58.59182104936177
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 106.45056116871055,
+                "normalized_intensity": 53.225280584355275
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.95097178643043,
+                "normalized_intensity": 49.475485893215215
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 98.27054298126177,
+                "normalized_intensity": 49.135271490630885
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 139.91341006691277,
+                "normalized_intensity": 69.95670503345639
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 134.52588498747113,
+                "normalized_intensity": 67.26294249373557
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 118.53843495638952,
+                "normalized_intensity": 59.26921747819476
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 116.25701499900765,
+                "normalized_intensity": 58.128507499503826
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 109.91645539153927,
+                "normalized_intensity": 54.95822769576964
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 103.47419591076937,
+                "normalized_intensity": 51.737097955384684
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 99.3904989796996,
+                "normalized_intensity": 49.6952494898498
+            },
+            {
+                "topic": "community",
+                "weighted_count": 77.69619305384224,
+                "normalized_intensity": 38.84809652692112
+            },
+            {
+                "topic": "science",
+                "weighted_count": 55.41498737946259,
+                "normalized_intensity": 27.707493689731294
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.31722150989924,
+                "normalized_intensity": 26.65861075494962
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.049606648149414,
+                "normalized_intensity": 24.524803324074707
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 120.46898430679056,
+                "normalized_intensity": 60.23449215339528
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 113.7081593553998,
+                "normalized_intensity": 56.8540796776999
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 110.27738942612959,
+                "normalized_intensity": 55.138694713064794
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 106.83615370952005,
+                "normalized_intensity": 53.418076854760024
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 104.76192019255168,
+                "normalized_intensity": 52.38096009627584
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.582256532989405,
+                "normalized_intensity": 28.791128266494702
+            },
+            {
+                "topic": "education",
+                "weighted_count": 53.92918405020926,
+                "normalized_intensity": 26.96459202510463
+            }
+        ]
+    }
+}

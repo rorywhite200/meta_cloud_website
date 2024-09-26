@@ -1,0 +1,72 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 60.73776239651701,
+                "normalized_intensity": 60.73776239651701
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 59.69345951694018,
+                "normalized_intensity": 59.69345951694018
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 57.87358414729143,
+                "normalized_intensity": 57.87358414729143
+            },
+            {
+                "topic": "history",
+                "weighted_count": 52.92273030436488,
+                "normalized_intensity": 52.92273030436488
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.739933349290226,
+                "normalized_intensity": 52.739933349290226
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 70.72525461183459,
+                "normalized_intensity": 70.72525461183459
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 67.7515106102057,
+                "normalized_intensity": 67.7515106102057
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 61.93207327000657,
+                "normalized_intensity": 61.93207327000657
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.96929357703634,
+                "normalized_intensity": 52.96929357703634
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 52.62639818575474,
+                "normalized_intensity": 52.62639818575474
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.03587318080687,
+                "normalized_intensity": 52.03587318080687
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 51.45641161714342,
+                "normalized_intensity": 51.45641161714342
+            }
+        ]
+    }
+}

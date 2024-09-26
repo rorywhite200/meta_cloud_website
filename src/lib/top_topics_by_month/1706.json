@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 119.30268564865322,
+                "normalized_intensity": 59.65134282432661
+            },
+            {
+                "topic": "health",
+                "weighted_count": 103.96071427466143,
+                "normalized_intensity": 51.980357137330714
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.71328533991249,
+                "normalized_intensity": 51.356642669956244
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 101.41999846300264,
+                "normalized_intensity": 50.70999923150132
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 98.99521427589218,
+                "normalized_intensity": 49.49760713794609
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 119.30268564865322,
+                "normalized_intensity": 59.65134282432661
+            },
+            {
+                "topic": "health",
+                "weighted_count": 103.96071427466143,
+                "normalized_intensity": 51.980357137330714
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.71328533991249,
+                "normalized_intensity": 51.356642669956244
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 101.41999846300264,
+                "normalized_intensity": 50.70999923150132
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 98.99521427589218,
+                "normalized_intensity": 49.49760713794609
+            }
+        ]
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 222.90008539794795,
+                "normalized_intensity": 55.72502134948699
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 211.94095038726118,
+                "normalized_intensity": 52.985237596815296
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 209.21350060817883,
+                "normalized_intensity": 52.30337515204471
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 150.69279914614603,
+                "normalized_intensity": 37.67319978653651
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 52.64570104475479,
+                "normalized_intensity": 13.161425261188697
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.21961905274072,
+                "normalized_intensity": 12.30490476318518
+            }
+        ]
+    }
+}

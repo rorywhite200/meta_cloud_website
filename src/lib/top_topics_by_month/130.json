@@ -1,0 +1,377 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 126.6019556171051,
+                "normalized_intensity": 31.650488904276276
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 100.57902868274334,
+                "normalized_intensity": 25.144757170685835
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 63.67137942146385,
+                "normalized_intensity": 15.917844855365962
+            },
+            {
+                "topic": "education",
+                "weighted_count": 55.043908855990296,
+                "normalized_intensity": 13.760977213997574
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 54.13610212363863,
+                "normalized_intensity": 13.534025530909657
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 52.21143438015373,
+                "normalized_intensity": 13.052858595038433
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.037724616894074,
+                "normalized_intensity": 12.759431154223519
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.84221438717273,
+                "normalized_intensity": 12.460553596793183
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.57364919044548,
+                "normalized_intensity": 12.39341229761137
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 49.12331038255703,
+                "normalized_intensity": 12.280827595639257
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 369.7849567868202,
+                "normalized_intensity": 30.81541306556835
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 252.56813359088383,
+                "normalized_intensity": 21.047344465906985
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 231.315234855564,
+                "normalized_intensity": 19.276269571297
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 228.84007190335853,
+                "normalized_intensity": 19.070005991946545
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 208.1359277608674,
+                "normalized_intensity": 17.344660646738948
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 178.12280551529716,
+                "normalized_intensity": 14.843567126274763
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 176.96237038129962,
+                "normalized_intensity": 14.746864198441635
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 167.81208147152375,
+                "normalized_intensity": 13.98434012262698
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 134.68068168200702,
+                "normalized_intensity": 11.223390140167252
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 121.86186322455275,
+                "normalized_intensity": 10.155155268712729
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 118.9120240794652,
+                "normalized_intensity": 9.909335339955433
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 118.12512402815338,
+                "normalized_intensity": 9.843760335679448
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 114.397976076205,
+                "normalized_intensity": 9.533164673017083
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 106.11673395318259,
+                "normalized_intensity": 8.843061162765215
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 104.86846324063767,
+                "normalized_intensity": 8.739038603386472
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 102.14470412040859,
+                "normalized_intensity": 8.512058676700716
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 100.60807668146134,
+                "normalized_intensity": 8.384006390121778
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 100.45758962939583,
+                "normalized_intensity": 8.371465802449652
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 100.29721693729626,
+                "normalized_intensity": 8.358101411441355
+            },
+            {
+                "topic": "business",
+                "weighted_count": 80.86115085186422,
+                "normalized_intensity": 6.738429237655352
+            },
+            {
+                "topic": "community",
+                "weighted_count": 74.43563542184498,
+                "normalized_intensity": 6.2029696184870815
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 60.58793073296083,
+                "normalized_intensity": 5.048994227746736
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 58.100066532165094,
+                "normalized_intensity": 4.8416722110137576
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 56.576860861099256,
+                "normalized_intensity": 4.714738405091604
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 56.495511028433576,
+                "normalized_intensity": 4.707959252369465
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.23737659253231,
+                "normalized_intensity": 4.4364480493776925
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.240779721653375,
+                "normalized_intensity": 4.353398310137782
+            },
+            {
+                "topic": "media",
+                "weighted_count": 52.16151501117221,
+                "normalized_intensity": 4.346792917597685
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 50.880341698018974,
+                "normalized_intensity": 4.240028474834914
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.73068922948573,
+                "normalized_intensity": 4.2275574357904775
+            },
+            {
+                "topic": "food",
+                "weighted_count": 50.40594888400768,
+                "normalized_intensity": 4.200495740333973
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.03294944407786,
+                "normalized_intensity": 4.1694124536731545
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.55871317099719,
+                "normalized_intensity": 4.129892764249766
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 68.67901003685355,
+                "normalized_intensity": 68.67901003685355
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 63.99011635685884,
+                "normalized_intensity": 63.99011635685884
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.23302971280266,
+                "normalized_intensity": 55.23302971280266
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.88070098597913,
+                "normalized_intensity": 50.88070098597913
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.11125692931086,
+                "normalized_intensity": 49.11125692931086
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 126.52257719448275,
+                "normalized_intensity": 31.630644298620687
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 107.25620830119901,
+                "normalized_intensity": 26.814052075299752
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 53.82750912268276,
+                "normalized_intensity": 13.45687728067069
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.75528733775998,
+                "normalized_intensity": 12.688821834439995
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 121.37872569112264,
+                "normalized_intensity": 40.45957523037421
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 112.08448209302875,
+                "normalized_intensity": 37.361494031009585
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 109.91117174259912,
+                "normalized_intensity": 36.63705724753304
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 109.40039650510474,
+                "normalized_intensity": 36.466798835034915
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 103.5611212743442,
+                "normalized_intensity": 34.52037375811474
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.76323893542117,
+                "normalized_intensity": 17.254412978473724
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.96350585623763,
+                "normalized_intensity": 16.65450195207921
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.118435156633296,
+                "normalized_intensity": 16.372811718877767
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 49.09086935033994,
+                "normalized_intensity": 16.36362311677998
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 57.03907962900203,
+                "normalized_intensity": 14.259769907250508
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.10503909104749,
+                "normalized_intensity": 12.526259772761872
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 162.75288041430278,
+                "normalized_intensity": 40.688220103575695
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 102.75343510694154,
+                "normalized_intensity": 25.688358776735384
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 66.18157909297774,
+                "normalized_intensity": 16.545394773244436
+            },
+            {
+                "topic": "television",
+                "weighted_count": 57.91596883070393,
+                "normalized_intensity": 14.478992207675983
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 50.296186250610674,
+                "normalized_intensity": 12.574046562652669
+            }
+        ]
+    }
+}

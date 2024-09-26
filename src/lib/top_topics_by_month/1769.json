@@ -1,0 +1,132 @@
+{
+    "2023-09": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 237.2967879753984,
+                "normalized_intensity": 39.5494646625664
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 222.21017057840604,
+                "normalized_intensity": 37.03502842973434
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 222.17310905619598,
+                "normalized_intensity": 37.028851509366
+            },
+            {
+                "topic": "family",
+                "weighted_count": 217.45947682067182,
+                "normalized_intensity": 36.24324613677864
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 185.20063260111283,
+                "normalized_intensity": 30.86677210018547
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 172.49728367604075,
+                "normalized_intensity": 28.749547279340124
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 172.32510532046723,
+                "normalized_intensity": 28.72085088674454
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 114.2894179695233,
+                "normalized_intensity": 19.048236328253882
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 109.74963003391784,
+                "normalized_intensity": 18.291605005652972
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 65.64686479587132,
+                "normalized_intensity": 10.94114413264522
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 60.455818652244645,
+                "normalized_intensity": 10.075969775374107
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 59.76015430899322,
+                "normalized_intensity": 9.960025718165538
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 56.766195076846394,
+                "normalized_intensity": 9.461032512807732
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 56.18496470872915,
+                "normalized_intensity": 9.364160784788192
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 55.31633069208305,
+                "normalized_intensity": 9.219388448680508
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.002517271418014,
+                "normalized_intensity": 8.667086211903003
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 50.87440609103038,
+                "normalized_intensity": 8.479067681838396
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 61.219719737624324,
+                "normalized_intensity": 61.219719737624324
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 58.75695784648849,
+                "normalized_intensity": 58.75695784648849
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 57.999881284006214,
+                "normalized_intensity": 57.999881284006214
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.345059080561185,
+                "normalized_intensity": 53.345059080561185
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 51.678264416168005,
+                "normalized_intensity": 51.678264416168005
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.516998720954376,
+                "normalized_intensity": 51.516998720954376
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.5456406180679,
+                "normalized_intensity": 50.5456406180679
+            }
+        ]
+    }
+}

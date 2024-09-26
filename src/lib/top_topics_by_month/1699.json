@@ -1,0 +1,82 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 88.99708756775368,
+                "normalized_intensity": 88.99708756775368
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 87.25403090261052,
+                "normalized_intensity": 87.25403090261052
+            },
+            {
+                "topic": "family",
+                "weighted_count": 80.65089657627486,
+                "normalized_intensity": 80.65089657627486
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.67920510129557,
+                "normalized_intensity": 61.67920510129557
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 59.73696960388051,
+                "normalized_intensity": 59.73696960388051
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 59.315603379033334,
+                "normalized_intensity": 59.315603379033334
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.09109469469074,
+                "normalized_intensity": 51.09109469469074
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.40170269738403,
+                "normalized_intensity": 49.40170269738403
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 83.08241394239307,
+                "normalized_intensity": 83.08241394239307
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 82.53426218080581,
+                "normalized_intensity": 82.53426218080581
+            },
+            {
+                "topic": "family",
+                "weighted_count": 72.45842775732132,
+                "normalized_intensity": 72.45842775732132
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 59.73616369285498,
+                "normalized_intensity": 59.73616369285498
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.46199497971634,
+                "normalized_intensity": 57.46199497971634
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 56.78946156442832,
+                "normalized_intensity": 56.78946156442832
+            }
+        ]
+    }
+}

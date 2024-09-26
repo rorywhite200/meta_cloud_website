@@ -1,0 +1,147 @@
+{
+    "2023-09": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 316.48664546792963,
+                "normalized_intensity": 21.099109697861977
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 241.9063041167073,
+                "normalized_intensity": 16.12708694111382
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 232.18873881283508,
+                "normalized_intensity": 15.479249254189005
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 220.06955542959165,
+                "normalized_intensity": 14.67130369530611
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 191.63143848866798,
+                "normalized_intensity": 12.775429232577865
+            },
+            {
+                "topic": "community",
+                "weighted_count": 165.66781433542613,
+                "normalized_intensity": 11.044520955695075
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 163.61315166010914,
+                "normalized_intensity": 10.907543444007276
+            },
+            {
+                "topic": "health",
+                "weighted_count": 140.62776459866518,
+                "normalized_intensity": 9.375184306577678
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 117.56942547641103,
+                "normalized_intensity": 7.837961698427402
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 117.28728214167614,
+                "normalized_intensity": 7.819152142778409
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 115.05213882047035,
+                "normalized_intensity": 7.670142588031356
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 107.4328934576788,
+                "normalized_intensity": 7.162192897178587
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 101.33629493360878,
+                "normalized_intensity": 6.755752995573919
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 100.46199343393405,
+                "normalized_intensity": 6.697466228928937
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 65.43211955349462,
+                "normalized_intensity": 4.3621413035663075
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 63.61282913198584,
+                "normalized_intensity": 4.240855275465723
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 60.30830535749412,
+                "normalized_intensity": 4.020553690499608
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 53.84183041513035,
+                "normalized_intensity": 3.58945536100869
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 53.631935379858795,
+                "normalized_intensity": 3.575462358657253
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 53.28019846592464,
+                "normalized_intensity": 3.552013231061643
+            },
+            {
+                "topic": "business",
+                "weighted_count": 52.9448654543518,
+                "normalized_intensity": 3.5296576969567868
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.9728322386359,
+                "normalized_intensity": 3.39818881590906
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.14606039592593,
+                "normalized_intensity": 3.3430706930617284
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.219578921661856,
+                "normalized_intensity": 3.281305261444124
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 85.26135444763585,
+                "normalized_intensity": 42.630677223817926
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 66.37056221470779,
+                "normalized_intensity": 33.185281107353894
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 60.001586755501975,
+                "normalized_intensity": 30.000793377750988
+            }
+        ]
+    }
+}

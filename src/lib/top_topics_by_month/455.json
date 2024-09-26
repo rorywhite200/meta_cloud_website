@@ -1,0 +1,277 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 134.96427811242202,
+                "normalized_intensity": 67.48213905621101
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 73.67718189277382,
+                "normalized_intensity": 36.83859094638691
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 69.86292983543227,
+                "normalized_intensity": 34.931464917716134
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 61.037055708182194,
+                "normalized_intensity": 30.518527854091097
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 54.91259526362388,
+                "normalized_intensity": 27.45629763181194
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.808489633009025,
+                "normalized_intensity": 27.404244816504512
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 54.690875200620034,
+                "normalized_intensity": 27.345437600310017
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.72989891922744,
+                "normalized_intensity": 26.86494945961372
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 52.79190967858366,
+                "normalized_intensity": 26.39595483929183
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 51.204945095643964,
+                "normalized_intensity": 25.602472547821982
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.115729973671364,
+                "normalized_intensity": 25.557864986835682
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 169.0923941754563,
+                "normalized_intensity": 56.364131391818766
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 61.590677521039986,
+                "normalized_intensity": 20.530225840346663
+            },
+            {
+                "topic": "history",
+                "weighted_count": 54.63165744635443,
+                "normalized_intensity": 18.210552482118143
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.371671562519694,
+                "normalized_intensity": 17.123890520839897
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 230.52604553701622,
+                "normalized_intensity": 76.8420151790054
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 185.14203916315822,
+                "normalized_intensity": 61.71401305438607
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 175.2087345369027,
+                "normalized_intensity": 58.4029115123009
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 173.07468042600732,
+                "normalized_intensity": 57.69156014200244
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 162.01356695712605,
+                "normalized_intensity": 54.00452231904202
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 155.70392563011268,
+                "normalized_intensity": 51.901308543370895
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 131.04066851046935,
+                "normalized_intensity": 43.68022283682311
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 106.2441983296435,
+                "normalized_intensity": 35.41473277654783
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 104.84381287591958,
+                "normalized_intensity": 34.94793762530653
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 101.63828512676858,
+                "normalized_intensity": 33.87942837558953
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.93673976532582,
+                "normalized_intensity": 16.645579921775273
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 49.46122029520904,
+                "normalized_intensity": 16.487073431736345
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 58.909876262240736,
+                "normalized_intensity": 58.909876262240736
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.24941849403765,
+                "normalized_intensity": 52.24941849403765
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 870.2330392604983,
+                "normalized_intensity": 72.51941993837487
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 702.7165732701036,
+                "normalized_intensity": 58.5597144391753
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 614.0547922805839,
+                "normalized_intensity": 51.17123269004866
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 607.9262491857796,
+                "normalized_intensity": 50.660520765481635
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 353.97829079602894,
+                "normalized_intensity": 29.49819089966908
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 247.40999779932488,
+                "normalized_intensity": 20.617499816610408
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 299.05589431686656,
+                "normalized_intensity": 74.76397357921664
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 295.3975490026671,
+                "normalized_intensity": 73.84938725066678
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 242.50709032291195,
+                "normalized_intensity": 60.62677258072799
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 227.70167924878842,
+                "normalized_intensity": 56.925419812197106
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 226.5309729549782,
+                "normalized_intensity": 56.63274323874455
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 150.0524150246548,
+                "normalized_intensity": 37.5131037561637
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 104.91588306732758,
+                "normalized_intensity": 26.228970766831896
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.702641770207315,
+                "normalized_intensity": 12.675660442551829
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 76.29260288077232,
+                "normalized_intensity": 76.29260288077232
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 62.876535612074605,
+                "normalized_intensity": 62.876535612074605
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 59.79928633692156,
+                "normalized_intensity": 59.79928633692156
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 58.815170198172,
+                "normalized_intensity": 58.815170198172
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.04367278552097,
+                "normalized_intensity": 52.04367278552097
+            }
+        ]
+    }
+}

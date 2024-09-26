@@ -1,0 +1,92 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 137.74804067779968,
+                "normalized_intensity": 68.87402033889984
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 133.21911905999679,
+                "normalized_intensity": 66.60955952999839
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 125.46810976536975,
+                "normalized_intensity": 62.73405488268487
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 110.21844144980722,
+                "normalized_intensity": 55.10922072490361
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 107.81510292954799,
+                "normalized_intensity": 53.907551464773995
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 103.13190209355989,
+                "normalized_intensity": 51.565951046779944
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 100.11201333455668,
+                "normalized_intensity": 50.05600666727834
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 136.4101657675572,
+                "normalized_intensity": 68.2050828837786
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 133.3351986782906,
+                "normalized_intensity": 66.6675993391453
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 129.471635910701,
+                "normalized_intensity": 64.7358179553505
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 120.51937990867955,
+                "normalized_intensity": 60.25968995433978
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 105.40946532121706,
+                "normalized_intensity": 52.70473266060853
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 105.17388574313628,
+                "normalized_intensity": 52.58694287156814
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 50.14220293528459,
+                "normalized_intensity": 25.071101467642293
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.664942422931645,
+                "normalized_intensity": 24.832471211465823
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.396561338835504,
+                "normalized_intensity": 24.698280669417752
+            }
+        ]
+    }
+}

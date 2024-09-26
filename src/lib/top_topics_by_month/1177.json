@@ -1,0 +1,32 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 78.98065316378094,
+                "normalized_intensity": 78.98065316378094
+            },
+            {
+                "topic": "education",
+                "weighted_count": 74.02800106520431,
+                "normalized_intensity": 74.02800106520431
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 64.72853644746922,
+                "normalized_intensity": 64.72853644746922
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 54.657928694888724,
+                "normalized_intensity": 54.657928694888724
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.30706161318933,
+                "normalized_intensity": 54.30706161318933
+            }
+        ]
+    }
+}

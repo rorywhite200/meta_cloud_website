@@ -1,0 +1,122 @@
+{
+    "2023-09": {
+        "total_ads": 54,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 3730.7343830471455,
+                "normalized_intensity": 69.08767376013232
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 3537.644963292518,
+                "normalized_intensity": 65.51194376467626
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 1602.0469859372479,
+                "normalized_intensity": 29.6675367766157
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1529.7853718904578,
+                "normalized_intensity": 28.32935873871218
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1229.4249024005646,
+                "normalized_intensity": 22.767127822232677
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 1108.0834370794037,
+                "normalized_intensity": 20.520063649618585
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 828.6632174602956,
+                "normalized_intensity": 15.345615138153622
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 788.8410172102617,
+                "normalized_intensity": 14.608166985375217
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 634.8604435808568,
+                "normalized_intensity": 11.756674881126978
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 579.3249702133995,
+                "normalized_intensity": 10.728240189137027
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 553.9696897177646,
+                "normalized_intensity": 10.25869795773638
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 526.288319453859,
+                "normalized_intensity": 9.746079989886278
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 523.6256749894653,
+                "normalized_intensity": 9.696771759064173
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 520.4469461417194,
+                "normalized_intensity": 9.63790641003184
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 506.86458851439346,
+                "normalized_intensity": 9.386381268785064
+            },
+            {
+                "topic": "science",
+                "weighted_count": 503.1530900599123,
+                "normalized_intensity": 9.317649815924302
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 491.85685132949976,
+                "normalized_intensity": 9.108460209805552
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 123.62629526537864,
+                "normalized_intensity": 2.2893758382477527
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 102.12839503681543,
+                "normalized_intensity": 1.8912665747558413
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 790.2284199115023,
+                "normalized_intensity": 65.85236832595852
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 659.4342598810232,
+                "normalized_intensity": 54.952854990085264
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 652.6907966445771,
+                "normalized_intensity": 54.39089972038142
+            }
+        ]
+    }
+}

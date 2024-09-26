@@ -1,0 +1,47 @@
+{
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 280.15803504270195,
+                "normalized_intensity": 93.38601168090065
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 226.32245298611576,
+                "normalized_intensity": 75.44081766203858
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 162.29101110426467,
+                "normalized_intensity": 54.097003701421556
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 154.4921198193092,
+                "normalized_intensity": 51.49737327310307
+            },
+            {
+                "topic": "security",
+                "weighted_count": 103.8126621987776,
+                "normalized_intensity": 34.60422073292587
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 103.06088896864705,
+                "normalized_intensity": 34.35362965621568
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 99.45468661778406,
+                "normalized_intensity": 33.15156220592802
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.90098134884835,
+                "normalized_intensity": 16.633660449616116
+            }
+        ]
+    }
+}

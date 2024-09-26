@@ -1,0 +1,292 @@
+{
+    "2023-09": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 978.9471364044527,
+                "normalized_intensity": 75.3036258772656
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 343.71068195089487,
+                "normalized_intensity": 26.43928322699191
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 323.87457040404166,
+                "normalized_intensity": 24.91342849261859
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 301.6092253713166,
+                "normalized_intensity": 23.20070964394743
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 98.36094081028392,
+                "normalized_intensity": 7.566226216175687
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 501.66099172948776,
+                "normalized_intensity": 71.66585596135539
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 105.28878687743605,
+                "normalized_intensity": 15.04125526820515
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 63.93660994031111,
+                "normalized_intensity": 63.93660994031111
+            },
+            {
+                "topic": "television",
+                "weighted_count": 60.530664297220596,
+                "normalized_intensity": 60.530664297220596
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 69.34417491867427,
+                "normalized_intensity": 69.34417491867427
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 59.62961195806709,
+                "normalized_intensity": 59.62961195806709
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 325.08760393698003,
+                "normalized_intensity": 46.44108627671143
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 311.76983654231077,
+                "normalized_intensity": 44.53854807747297
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 284.03804747626987,
+                "normalized_intensity": 40.57686392518141
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 158.83210808252676,
+                "normalized_intensity": 22.69030115464668
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 103.46516735876547,
+                "normalized_intensity": 14.780738194109352
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 103.15311827583355,
+                "normalized_intensity": 14.736159753690506
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 547.0862111687643,
+                "normalized_intensity": 78.15517302410919
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 373.1686174413265,
+                "normalized_intensity": 53.30980249161807
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 154.48549925714786,
+                "normalized_intensity": 22.069357036735408
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 154.37150936852066,
+                "normalized_intensity": 22.053072766931525
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 34,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 1473.5614359749088,
+                "normalized_intensity": 43.340042234556144
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 559.4162693024645,
+                "normalized_intensity": 16.4534196853666
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 306.9841718685834,
+                "normalized_intensity": 9.028946231428923
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 306.4067814271022,
+                "normalized_intensity": 9.011964159620653
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 262.51562456286626,
+                "normalized_intensity": 7.721047781260772
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 240.5570008891729,
+                "normalized_intensity": 7.075205908505086
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 229.44372185494512,
+                "normalized_intensity": 6.748344760439562
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 218.22186947313057,
+                "normalized_intensity": 6.4182902786214875
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 213.8444666109943,
+                "normalized_intensity": 6.289543135617479
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 200.4521618172102,
+                "normalized_intensity": 5.895651818153241
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 125.16374314992314,
+                "normalized_intensity": 3.6812865632330336
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 120.55714094870496,
+                "normalized_intensity": 3.5457982631972045
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 113.30791053505523,
+                "normalized_intensity": 3.3325856039722126
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 109.53592975681235,
+                "normalized_intensity": 3.221644992847422
+            },
+            {
+                "topic": "education",
+                "weighted_count": 109.22258578346764,
+                "normalized_intensity": 3.212428993631401
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 102.97180231285256,
+                "normalized_intensity": 3.0285824209662517
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 102.77684260610269,
+                "normalized_intensity": 3.022848311944197
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 101.66420291289984,
+                "normalized_intensity": 2.9901236150852895
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 101.62402133167474,
+                "normalized_intensity": 2.9889418038727866
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 100.5330991819052,
+                "normalized_intensity": 2.9568558582913296
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 99.67102916296847,
+                "normalized_intensity": 2.931500857734367
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 98.43568923445952,
+                "normalized_intensity": 2.89516733042528
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 362.595269590528,
+                "normalized_intensity": 51.799324227218285
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 328.2296253470565,
+                "normalized_intensity": 46.88994647815093
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 209.7208244630131,
+                "normalized_intensity": 29.96011778043044
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 125.18585920522669,
+                "normalized_intensity": 17.883694172175243
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 118.79150090771897,
+                "normalized_intensity": 16.970214415388423
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 112.3932106611887,
+                "normalized_intensity": 16.056172951598388
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 109.56269241243027,
+                "normalized_intensity": 15.651813201775752
+            }
+        ]
+    }
+}

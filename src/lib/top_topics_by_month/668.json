@@ -1,0 +1,82 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 111.66915502010409,
+                "normalized_intensity": 55.83457751005204
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.790964537742425,
+                "normalized_intensity": 26.395482268871213
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 245.81096681520413,
+                "normalized_intensity": 49.16219336304083
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 239.0002686306711,
+                "normalized_intensity": 47.800053726134216
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 73.33521558371227,
+                "normalized_intensity": 36.667607791856135
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 59.37331078461433,
+                "normalized_intensity": 29.686655392307166
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 56.60383852292051,
+                "normalized_intensity": 28.301919261460256
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 56.60213337667638,
+                "normalized_intensity": 28.30106668833819
+            },
+            {
+                "topic": "education",
+                "weighted_count": 49.413315711434834,
+                "normalized_intensity": 24.706657855717417
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 81.80284913267883,
+                "normalized_intensity": 81.80284913267883
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.764795414234776,
+                "normalized_intensity": 51.764795414234776
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.117609108759034,
+                "normalized_intensity": 51.117609108759034
+            }
+        ]
+    }
+}

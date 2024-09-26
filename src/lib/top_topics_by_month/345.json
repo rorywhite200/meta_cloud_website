@@ -1,0 +1,422 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 65.90600228956718,
+                "normalized_intensity": 16.476500572391796
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 62.94294214865188,
+                "normalized_intensity": 15.73573553716297
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 58.40102163521459,
+                "normalized_intensity": 14.600255408803648
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 57.94272431987707,
+                "normalized_intensity": 14.485681079969268
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 57.206765752248,
+                "normalized_intensity": 14.301691438062
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 56.21311753230167,
+                "normalized_intensity": 14.053279383075418
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 53.31713818402556,
+                "normalized_intensity": 13.32928454600639
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.20866026508039,
+                "normalized_intensity": 13.302165066270097
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 53.063503783829745,
+                "normalized_intensity": 13.265875945957436
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 52.56036406587539,
+                "normalized_intensity": 13.140091016468848
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 52.49594072575376,
+                "normalized_intensity": 13.12398518143844
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.62548691268256,
+                "normalized_intensity": 12.65637172817064
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.2915998365251,
+                "normalized_intensity": 12.572899959131275
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 115.25313953441801,
+                "normalized_intensity": 38.41771317813934
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 113.28589221643131,
+                "normalized_intensity": 37.76196407214377
+            },
+            {
+                "topic": "military",
+                "weighted_count": 58.220465610862384,
+                "normalized_intensity": 19.406821870287462
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.61781201126243,
+                "normalized_intensity": 17.205937337087477
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.40917348705626,
+                "normalized_intensity": 17.136391162352087
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.057014366340894,
+                "normalized_intensity": 16.685671455446965
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 175.805801866865,
+                "normalized_intensity": 29.300966977810834
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 172.12507492294804,
+                "normalized_intensity": 28.687512487158006
+            },
+            {
+                "topic": "military",
+                "weighted_count": 168.3352538732952,
+                "normalized_intensity": 28.055875645549197
+            },
+            {
+                "topic": "history",
+                "weighted_count": 160.72837981618426,
+                "normalized_intensity": 26.788063302697378
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 116.4853554747769,
+                "normalized_intensity": 19.414225912462815
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 113.17719211742623,
+                "normalized_intensity": 18.86286535290437
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 57.635464088511135,
+                "normalized_intensity": 9.605910681418523
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.06246680694584,
+                "normalized_intensity": 8.843744467824306
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 327.0436120714991,
+                "normalized_intensity": 46.72051601021416
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 309.604924702037,
+                "normalized_intensity": 44.22927495743386
+            },
+            {
+                "topic": "history",
+                "weighted_count": 249.38919835914862,
+                "normalized_intensity": 35.62702833702123
+            },
+            {
+                "topic": "family",
+                "weighted_count": 169.6942204067184,
+                "normalized_intensity": 24.242031486674055
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 157.19132797343482,
+                "normalized_intensity": 22.455903996204974
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 146.03630755524742,
+                "normalized_intensity": 20.862329650749633
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 124.91546336473967,
+                "normalized_intensity": 17.845066194962808
+            },
+            {
+                "topic": "military",
+                "weighted_count": 115.30523018560427,
+                "normalized_intensity": 16.472175740800612
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 105.03544032212864,
+                "normalized_intensity": 15.005062903161233
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 100.68880221446206,
+                "normalized_intensity": 14.384114602066008
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 98.20942380219293,
+                "normalized_intensity": 14.029917686027561
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "military",
+                "weighted_count": 154.39830308905368,
+                "normalized_intensity": 51.46610102968456
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 150.32106241535746,
+                "normalized_intensity": 50.107020805119156
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 132.81991943068607,
+                "normalized_intensity": 44.27330647689536
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 117.44291067840717,
+                "normalized_intensity": 39.14763689280239
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 103.41098382341258,
+                "normalized_intensity": 34.470327941137526
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 101.96956659114898,
+                "normalized_intensity": 33.98985553038299
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 99.50770301455255,
+                "normalized_intensity": 33.16923433818418
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.58030177503779,
+                "normalized_intensity": 18.193433925012595
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.80695312776434,
+                "normalized_intensity": 16.60231770925478
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 156.56875755114976,
+                "normalized_intensity": 39.14218938778744
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 152.90974737448119,
+                "normalized_intensity": 38.227436843620296
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 121.1382108355574,
+                "normalized_intensity": 30.28455270888935
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 98.95270966373648,
+                "normalized_intensity": 24.73817741593412
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 71.0497011229779,
+                "normalized_intensity": 17.762425280744473
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 64.35172339440808,
+                "normalized_intensity": 16.08793084860202
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 60.41056999210501,
+                "normalized_intensity": 15.102642498026253
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 58.146658753904624,
+                "normalized_intensity": 14.536664688476156
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 56.09638005623664,
+                "normalized_intensity": 14.02409501405916
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.645323153626485,
+                "normalized_intensity": 12.661330788406621
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 64.72539680405511,
+                "normalized_intensity": 64.72539680405511
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 64.11702979146385,
+                "normalized_intensity": 64.11702979146385
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 61.6712221320394,
+                "normalized_intensity": 61.6712221320394
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.96568040800545,
+                "normalized_intensity": 55.96568040800545
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 55.87100883291449,
+                "normalized_intensity": 55.87100883291449
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 52.53766861491766,
+                "normalized_intensity": 52.53766861491766
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.08963454299502,
+                "normalized_intensity": 52.08963454299502
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.73583947494356,
+                "normalized_intensity": 49.73583947494356
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 165.25000994961292,
+                "normalized_intensity": 55.08333664987097
+            },
+            {
+                "topic": "history",
+                "weighted_count": 100.67819867760716,
+                "normalized_intensity": 33.55939955920238
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 100.26840915424074,
+                "normalized_intensity": 33.42280305141358
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 65.48557106485838,
+                "normalized_intensity": 21.828523688286126
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 60.75531860055386,
+                "normalized_intensity": 20.251772866851287
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.88020548853181,
+                "normalized_intensity": 17.293401829510604
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.88583270028437,
+                "normalized_intensity": 16.628610900094788
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.17979380532966,
+                "normalized_intensity": 16.393264601776554
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 49.72371867808706,
+                "normalized_intensity": 49.72371867808706
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.442195738501376,
+                "normalized_intensity": 49.442195738501376
+            }
+        ]
+    }
+}

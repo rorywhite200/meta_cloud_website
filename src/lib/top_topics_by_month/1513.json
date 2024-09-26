@@ -1,0 +1,52 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 63.41945904903271,
+                "normalized_intensity": 63.41945904903271
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 52.85860435021963,
+                "normalized_intensity": 52.85860435021963
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.4795160091993,
+                "normalized_intensity": 52.4795160091993
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.045320805763694,
+                "normalized_intensity": 51.045320805763694
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.155415084904334,
+                "normalized_intensity": 49.155415084904334
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 62.30443620113923,
+                "normalized_intensity": 62.30443620113923
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.65284087135564,
+                "normalized_intensity": 51.65284087135564
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.998770089814194,
+                "normalized_intensity": 49.998770089814194
+            }
+        ]
+    }
+}

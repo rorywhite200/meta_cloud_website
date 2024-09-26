@@ -1,0 +1,42 @@
+{
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 186.2384867263204,
+                "normalized_intensity": 46.5596216815801
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 113.86587787241476,
+                "normalized_intensity": 28.46646946810369
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 106.54869918653122,
+                "normalized_intensity": 26.637174796632806
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 102.62183836432854,
+                "normalized_intensity": 25.655459591082135
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 101.05073903446247,
+                "normalized_intensity": 25.262684758615617
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 61.76269858979748,
+                "normalized_intensity": 15.44067464744937
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 50.51981822757876,
+                "normalized_intensity": 12.62995455689469
+            }
+        ]
+    }
+}

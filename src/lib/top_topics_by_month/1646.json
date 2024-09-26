@@ -1,0 +1,107 @@
+{
+    "2023-09": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 602.6065422738543,
+                "normalized_intensity": 75.32581778423179
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 435.88105795220866,
+                "normalized_intensity": 54.48513224402608
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 106.77851484387753,
+                "normalized_intensity": 13.347314355484691
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 50.57805931682865,
+                "normalized_intensity": 6.322257414603581
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 50.37415736954733,
+                "normalized_intensity": 6.296769671193417
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 49.77369993101678,
+                "normalized_intensity": 6.221712491377097
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.060347737496855,
+                "normalized_intensity": 6.132543467187107
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 48,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 3141.833006062189,
+                "normalized_intensity": 65.45485429296227
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 1150.1467598553659,
+                "normalized_intensity": 23.961390830320124
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1024.097533432757,
+                "normalized_intensity": 21.335365279849103
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 363.01151879747925,
+                "normalized_intensity": 7.562739974947484
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 153.77282090191906,
+                "normalized_intensity": 3.203600435456647
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 100.46924945430922,
+                "normalized_intensity": 2.093109363631442
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 99.54739986203356,
+                "normalized_intensity": 2.0739041637923656
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 99.08607389148062,
+                "normalized_intensity": 2.064293206072513
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.39538733365814,
+                "normalized_intensity": 1.0290705694512112
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 437.0168215869452,
+                "normalized_intensity": 72.83613693115753
+            },
+            {
+                "topic": "community",
+                "weighted_count": 364.65288236702077,
+                "normalized_intensity": 60.77548039450346
+            }
+        ]
+    }
+}

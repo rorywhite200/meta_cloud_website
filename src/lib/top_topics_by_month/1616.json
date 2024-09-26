@@ -1,0 +1,22 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 196.10686962356425,
+                "normalized_intensity": 65.36895654118808
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 191.99553213199528,
+                "normalized_intensity": 63.998510710665094
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 174.20111797861878,
+                "normalized_intensity": 58.06703932620626
+            }
+        ]
+    }
+}

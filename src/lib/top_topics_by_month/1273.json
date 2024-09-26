@@ -1,0 +1,67 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 55.942765063278244,
+                "normalized_intensity": 55.942765063278244
+            },
+            {
+                "topic": "art",
+                "weighted_count": 55.38445957142808,
+                "normalized_intensity": 55.38445957142808
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 66.6889081189893,
+                "normalized_intensity": 66.6889081189893
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 53.26059008199493,
+                "normalized_intensity": 53.26059008199493
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 50.425470967522756,
+                "normalized_intensity": 50.425470967522756
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 110.47746702753791,
+                "normalized_intensity": 55.238733513768956
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 59.50825660106205,
+                "normalized_intensity": 29.754128300531026
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 59.08991677700918,
+                "normalized_intensity": 29.54495838850459
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.66658946989478,
+                "normalized_intensity": 27.83329473494739
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.82144022316353,
+                "normalized_intensity": 26.910720111581764
+            }
+        ]
+    }
+}

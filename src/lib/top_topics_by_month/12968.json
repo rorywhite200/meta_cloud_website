@@ -1,0 +1,37 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 192.59494868768854,
+                "normalized_intensity": 64.19831622922952
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 125.64404875287275,
+                "normalized_intensity": 41.881349584290916
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.25963892348286,
+                "normalized_intensity": 19.08654630782762
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 51.44107047124056,
+                "normalized_intensity": 17.14702349041352
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.30253039481033,
+                "normalized_intensity": 16.767510131603444
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.36306289607711,
+                "normalized_intensity": 16.45435429869237
+            }
+        ]
+    }
+}

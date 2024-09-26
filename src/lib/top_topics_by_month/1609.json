@@ -1,0 +1,42 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 55.63199771404206,
+                "normalized_intensity": 55.63199771404206
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.77068718968448,
+                "normalized_intensity": 51.77068718968448
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 50.599584576585485,
+                "normalized_intensity": 50.599584576585485
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 50.24544247003018,
+                "normalized_intensity": 50.24544247003018
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 49.934572434250754,
+                "normalized_intensity": 49.934572434250754
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.76962369948462,
+                "normalized_intensity": 49.76962369948462
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.21355195881439,
+                "normalized_intensity": 49.21355195881439
+            }
+        ]
+    }
+}

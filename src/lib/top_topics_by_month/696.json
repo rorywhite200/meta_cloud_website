@@ -1,0 +1,642 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 162.5800331608659,
+                "normalized_intensity": 40.645008290216474
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 158.4524088960808,
+                "normalized_intensity": 39.6131022240202
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 115.52059595775074,
+                "normalized_intensity": 28.880148989437686
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 107.1546411942146,
+                "normalized_intensity": 26.78866029855365
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 103.45219878077637,
+                "normalized_intensity": 25.863049695194093
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 58.7534658097876,
+                "normalized_intensity": 14.6883664524469
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.35723191242895,
+                "normalized_intensity": 14.339307978107238
+            },
+            {
+                "topic": "science",
+                "weighted_count": 56.85878529998208,
+                "normalized_intensity": 14.21469632499552
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 50.91553869727701,
+                "normalized_intensity": 12.728884674319252
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.89230753269748,
+                "normalized_intensity": 12.72307688317437
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.95029972771904,
+                "normalized_intensity": 12.48757493192976
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 82.50184314445144,
+                "normalized_intensity": 41.25092157222572
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 66.10907801749718,
+                "normalized_intensity": 33.05453900874859
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 63.35733688166207,
+                "normalized_intensity": 31.678668440831036
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 56.186927234590264,
+                "normalized_intensity": 28.093463617295132
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 54.579982176646155,
+                "normalized_intensity": 27.289991088323077
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.422887537661,
+                "normalized_intensity": 26.7114437688305
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 50.85867371048229,
+                "normalized_intensity": 25.429336855241147
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.35429037458755,
+                "normalized_intensity": 24.677145187293775
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 263.88154056438657,
+                "normalized_intensity": 52.77630811287732
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 226.21325697034615,
+                "normalized_intensity": 45.24265139406923
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 173.75654417602018,
+                "normalized_intensity": 34.751308835204036
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 127.42686468867939,
+                "normalized_intensity": 25.485372937735878
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 125.38434999748088,
+                "normalized_intensity": 25.076869999496175
+            },
+            {
+                "topic": "health",
+                "weighted_count": 120.27231614622148,
+                "normalized_intensity": 24.0544632292443
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 117.01273068022392,
+                "normalized_intensity": 23.402546136044784
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 106.9593478194518,
+                "normalized_intensity": 21.39186956389036
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 106.06793780530288,
+                "normalized_intensity": 21.213587561060574
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 69.29534300363355,
+                "normalized_intensity": 13.85906860072671
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 65.35220992571644,
+                "normalized_intensity": 13.070441985143287
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.631981094056464,
+                "normalized_intensity": 12.526396218811293
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 62.05368919094983,
+                "normalized_intensity": 12.410737838189966
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 57.90808514879488,
+                "normalized_intensity": 11.581617029758977
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 55.51838774194617,
+                "normalized_intensity": 11.103677548389234
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 51.977090769055614,
+                "normalized_intensity": 10.395418153811123
+            },
+            {
+                "topic": "business",
+                "weighted_count": 51.775171026449186,
+                "normalized_intensity": 10.355034205289837
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 51.71776968611466,
+                "normalized_intensity": 10.343553937222932
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.61367973843316,
+                "normalized_intensity": 10.322735947686633
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 51.502174419965264,
+                "normalized_intensity": 10.300434883993052
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.066068234687236,
+                "normalized_intensity": 10.213213646937447
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.7468913617246,
+                "normalized_intensity": 10.14937827234492
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 50.362906909502705,
+                "normalized_intensity": 10.072581381900541
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 49.378964961970254,
+                "normalized_intensity": 9.87579299239405
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.227871699502316,
+                "normalized_intensity": 9.845574339900462
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.18798734586163,
+                "normalized_intensity": 9.837597469172326
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 66.58156495828163,
+                "normalized_intensity": 66.58156495828163
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 57.407367757870844,
+                "normalized_intensity": 57.407367757870844
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 56.21479739605505,
+                "normalized_intensity": 56.21479739605505
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 55.665516158505824,
+                "normalized_intensity": 55.665516158505824
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 54.652142699982505,
+                "normalized_intensity": 54.652142699982505
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.574532421978425,
+                "normalized_intensity": 53.574532421978425
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 52.12717812346508,
+                "normalized_intensity": 52.12717812346508
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 51.95738259986915,
+                "normalized_intensity": 51.95738259986915
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.539077530127706,
+                "normalized_intensity": 51.539077530127706
+            },
+            {
+                "topic": "law",
+                "weighted_count": 50.46493973149521,
+                "normalized_intensity": 50.46493973149521
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.85121047547867,
+                "normalized_intensity": 49.85121047547867
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.5685778189563,
+                "normalized_intensity": 49.5685778189563
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "bioethics",
+                "weighted_count": 109.37190548603506,
+                "normalized_intensity": 54.68595274301753
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 104.23715188612792,
+                "normalized_intensity": 52.11857594306396
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 78.05408480391087,
+                "normalized_intensity": 39.027042401955434
+            },
+            {
+                "topic": "health",
+                "weighted_count": 68.62442928514912,
+                "normalized_intensity": 34.31221464257456
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 65.9554095224157,
+                "normalized_intensity": 32.97770476120785
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 60.03666572826152,
+                "normalized_intensity": 30.01833286413076
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.54937838187292,
+                "normalized_intensity": 28.77468919093646
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 57.05868148746328,
+                "normalized_intensity": 28.52934074373164
+            },
+            {
+                "topic": "law",
+                "weighted_count": 56.753797662250804,
+                "normalized_intensity": 28.376898831125402
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 54.858246001567466,
+                "normalized_intensity": 27.429123000783733
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.47515920259079,
+                "normalized_intensity": 25.237579601295394
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.17351362196919,
+                "normalized_intensity": 24.586756810984596
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 63.510340097914344,
+                "normalized_intensity": 63.510340097914344
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 62.02596643730865,
+                "normalized_intensity": 62.02596643730865
+            },
+            {
+                "topic": "health",
+                "weighted_count": 60.916188458182354,
+                "normalized_intensity": 60.916188458182354
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 56.12391919812747,
+                "normalized_intensity": 56.12391919812747
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 55.891936798553886,
+                "normalized_intensity": 55.891936798553886
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 54.508337339795,
+                "normalized_intensity": 54.508337339795
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 53.637743054730855,
+                "normalized_intensity": 53.637743054730855
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.315588444682646,
+                "normalized_intensity": 51.315588444682646
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.152140616355155,
+                "normalized_intensity": 50.152140616355155
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.14657252618148,
+                "normalized_intensity": 50.14657252618148
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.83446098438627,
+                "normalized_intensity": 49.83446098438627
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 113.88200458944564,
+                "normalized_intensity": 56.94100229472282
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 109.27399791996842,
+                "normalized_intensity": 54.63699895998421
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 70.23212809328182,
+                "normalized_intensity": 35.11606404664091
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 60.17862197072259,
+                "normalized_intensity": 30.089310985361294
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 59.54607100502639,
+                "normalized_intensity": 29.773035502513196
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 57.92819548134121,
+                "normalized_intensity": 28.964097740670606
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 53.948538526362235,
+                "normalized_intensity": 26.974269263181117
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 53.436328335311345,
+                "normalized_intensity": 26.718164167655672
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.323566740211504,
+                "normalized_intensity": 26.661783370105752
+            },
+            {
+                "topic": "film",
+                "weighted_count": 52.321944390637675,
+                "normalized_intensity": 26.160972195318838
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.64568684205295,
+                "normalized_intensity": 25.322843421026477
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.10935974523261,
+                "normalized_intensity": 25.054679872616305
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.785738370656446,
+                "normalized_intensity": 24.892869185328223
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.43059790121908,
+                "normalized_intensity": 24.71529895060954
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 49.2903164617687,
+                "normalized_intensity": 24.64515823088435
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.28352417422907,
+                "normalized_intensity": 24.641762087114536
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.27724437956954,
+                "normalized_intensity": 24.63862218978477
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 128.5258170685465,
+                "normalized_intensity": 64.26290853427325
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 123.82524725522333,
+                "normalized_intensity": 61.912623627611666
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 115.07179960195803,
+                "normalized_intensity": 57.53589980097902
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 106.23805457759954,
+                "normalized_intensity": 53.11902728879977
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 103.50929021542403,
+                "normalized_intensity": 51.754645107712015
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 58.53574368753777,
+                "normalized_intensity": 29.267871843768884
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 58.03653581142568,
+                "normalized_intensity": 29.01826790571284
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 56.400696902041815,
+                "normalized_intensity": 28.200348451020908
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 55.497555504707904,
+                "normalized_intensity": 27.748777752353952
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 53.04976253871787,
+                "normalized_intensity": 26.524881269358936
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.7379260843674,
+                "normalized_intensity": 25.3689630421837
+            },
+            {
+                "topic": "film",
+                "weighted_count": 50.65744500069071,
+                "normalized_intensity": 25.328722500345354
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 50.64429853955675,
+                "normalized_intensity": 25.322149269778375
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.971966794159755,
+                "normalized_intensity": 24.985983397079877
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.359457920919276,
+                "normalized_intensity": 24.679728960459638
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 100.0,
+                "normalized_intensity": 100.0
+            },
+            {
+                "topic": "science",
+                "weighted_count": 72.30185729890165,
+                "normalized_intensity": 72.30185729890165
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 67.9286246313178,
+                "normalized_intensity": 67.9286246313178
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 56.41697068035235,
+                "normalized_intensity": 56.41697068035235
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.20903163381368,
+                "normalized_intensity": 55.20903163381368
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.00690342496507,
+                "normalized_intensity": 52.00690342496507
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.36555799521013,
+                "normalized_intensity": 49.36555799521013
+            }
+        ]
+    }
+}

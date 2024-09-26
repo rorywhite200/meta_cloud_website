@@ -1,0 +1,392 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 119.1628035453684,
+                "normalized_intensity": 59.5814017726842
+            },
+            {
+                "topic": "community",
+                "weighted_count": 110.72524073426251,
+                "normalized_intensity": 55.36262036713126
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 52.30056538091509,
+                "normalized_intensity": 26.150282690457544
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.86386207270236,
+                "normalized_intensity": 24.93193103635118
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.38596413783362,
+                "normalized_intensity": 24.69298206891681
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 49.113614682152146,
+                "normalized_intensity": 24.556807341076073
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 117.42833278474245,
+                "normalized_intensity": 58.714166392371226
+            },
+            {
+                "topic": "community",
+                "weighted_count": 110.13510577578111,
+                "normalized_intensity": 55.06755288789056
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 106.57702868851403,
+                "normalized_intensity": 53.28851434425702
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 104.37942585336967,
+                "normalized_intensity": 52.189712926684834
+            },
+            {
+                "topic": "art",
+                "weighted_count": 102.26092433135904,
+                "normalized_intensity": 51.13046216567952
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 102.23237549857836,
+                "normalized_intensity": 51.11618774928918
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 53.04007905493731,
+                "normalized_intensity": 26.520039527468654
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 102.38209977691874,
+                "normalized_intensity": 51.19104988845937
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 101.5246323648326,
+                "normalized_intensity": 50.7623161824163
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 100.83491579279573,
+                "normalized_intensity": 50.41745789639786
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.10661654193538,
+                "normalized_intensity": 25.55330827096769
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.93394555929662,
+                "normalized_intensity": 24.96697277964831
+            },
+            {
+                "topic": "business",
+                "weighted_count": 49.11568250809743,
+                "normalized_intensity": 24.557841254048714
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 108.01955922402993,
+                "normalized_intensity": 54.00977961201497
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 106.57513763720493,
+                "normalized_intensity": 53.287568818602466
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 105.96694635822679,
+                "normalized_intensity": 52.983473179113396
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 99.57215619048344,
+                "normalized_intensity": 49.78607809524172
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.546219768417686,
+                "normalized_intensity": 25.273109884208843
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.453040708486,
+                "normalized_intensity": 25.226520354243
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.230216494664006,
+                "normalized_intensity": 25.115108247332003
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.645185864711685,
+                "normalized_intensity": 24.822592932355843
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 113.25175679241924,
+                "normalized_intensity": 56.62587839620962
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 105.84547510034224,
+                "normalized_intensity": 52.92273755017112
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 101.26783292946314,
+                "normalized_intensity": 50.63391646473157
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.14349859959516,
+                "normalized_intensity": 27.07174929979758
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 50.58148731152705,
+                "normalized_intensity": 25.290743655763524
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.42958517385364,
+                "normalized_intensity": 25.21479258692682
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 244.48488194929126,
+                "normalized_intensity": 61.121220487322816
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 103.80432214819808,
+                "normalized_intensity": 25.95108053704952
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.223697804108475,
+                "normalized_intensity": 13.555924451027119
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 52.159443976186715,
+                "normalized_intensity": 13.039860994046679
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 128.20613526968918,
+                "normalized_intensity": 64.10306763484459
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 110.67775391037483,
+                "normalized_intensity": 55.338876955187416
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.61828659805204,
+                "normalized_intensity": 51.80914329902602
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 119.16065594980108,
+                "normalized_intensity": 59.58032797490054
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.587140206906426,
+                "normalized_intensity": 27.293570103453213
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.69357776743576,
+                "normalized_intensity": 24.84678888371788
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 49.69115616685873,
+                "normalized_intensity": 24.845578083429366
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 116.95264715861666,
+                "normalized_intensity": 58.47632357930833
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 114.61953457620442,
+                "normalized_intensity": 57.30976728810221
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 56.277168650532914,
+                "normalized_intensity": 28.138584325266457
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 55.79554253563761,
+                "normalized_intensity": 27.897771267818804
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 53.66964005890289,
+                "normalized_intensity": 26.834820029451446
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.1747822433035,
+                "normalized_intensity": 25.58739112165175
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.77506537297,
+                "normalized_intensity": 24.887532686485
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.42034555517714,
+                "normalized_intensity": 24.71017277758857
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.31956892161477,
+                "normalized_intensity": 24.659784460807384
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.29646653003121,
+                "normalized_intensity": 24.648233265015605
+            },
+            {
+                "topic": "history",
+                "weighted_count": 49.281343071502285,
+                "normalized_intensity": 24.640671535751142
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 106.18429353414189,
+                "normalized_intensity": 53.09214676707094
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 103.05270848514714,
+                "normalized_intensity": 51.52635424257357
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.51371722959476,
+                "normalized_intensity": 25.75685861479738
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.68394920798581,
+                "normalized_intensity": 25.341974603992906
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.560494469498565,
+                "normalized_intensity": 24.780247234749282
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.219340001796304,
+                "normalized_intensity": 24.609670000898152
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 120.05734518797007,
+                "normalized_intensity": 60.028672593985036
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 116.14492409926783,
+                "normalized_intensity": 58.07246204963391
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.47261278409712,
+                "normalized_intensity": 52.73630639204856
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.65040904878513,
+                "normalized_intensity": 26.825204524392564
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.569306815733555,
+                "normalized_intensity": 26.784653407866777
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 51.14531197489984,
+                "normalized_intensity": 25.57265598744992
+            }
+        ]
+    }
+}

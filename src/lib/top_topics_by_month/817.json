@@ -1,0 +1,52 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 67.12149704099599,
+                "normalized_intensity": 67.12149704099599
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 59.373648464793085,
+                "normalized_intensity": 59.373648464793085
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.4610859758926,
+                "normalized_intensity": 58.4610859758926
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.670281740558536,
+                "normalized_intensity": 53.670281740558536
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.742002815903355,
+                "normalized_intensity": 51.742002815903355
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 50.49603432130042,
+                "normalized_intensity": 50.49603432130042
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 123.45575920271526,
+                "normalized_intensity": 61.72787960135763
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 105.04610778711981,
+                "normalized_intensity": 52.523053893559904
+            }
+        ]
+    }
+}

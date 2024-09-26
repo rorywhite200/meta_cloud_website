@@ -1,0 +1,132 @@
+{
+    "2024-02": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 982.1933134863121,
+                "normalized_intensity": 54.566295193684006
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 801.8129215937665,
+                "normalized_intensity": 44.54516231076481
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 628.0508984556478,
+                "normalized_intensity": 34.89171658086932
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 434.49850551936174,
+                "normalized_intensity": 24.138805862186764
+            },
+            {
+                "topic": "science",
+                "weighted_count": 297.24454457520005,
+                "normalized_intensity": 16.513585809733335
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 296.9173348917427,
+                "normalized_intensity": 16.495407493985706
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 285.08246421189665,
+                "normalized_intensity": 15.837914678438702
+            },
+            {
+                "topic": "community",
+                "weighted_count": 219.219560694493,
+                "normalized_intensity": 12.17886448302739
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 212.78842327272403,
+                "normalized_intensity": 11.82157907070689
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 208.6425261406181,
+                "normalized_intensity": 11.59125145225656
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 100.01001794584775,
+                "normalized_intensity": 5.556112108102653
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.359891249452396,
+                "normalized_intensity": 2.853327291636244
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.18367530120513,
+                "normalized_intensity": 2.732426405622507
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 267.25318008652414,
+                "normalized_intensity": 66.81329502163103
+            },
+            {
+                "topic": "health",
+                "weighted_count": 235.12617733310208,
+                "normalized_intensity": 58.78154433327552
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 222.39628700161776,
+                "normalized_intensity": 55.59907175040444
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 209.23970170513164,
+                "normalized_intensity": 52.30992542628291
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 167.59069710993595,
+                "normalized_intensity": 41.897674277483986
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 159.72838270464842,
+                "normalized_intensity": 39.932095676162106
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.846806844404924,
+                "normalized_intensity": 13.211701711101231
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.27276465425712,
+                "normalized_intensity": 13.06819116356428
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.33224572279094,
+                "normalized_intensity": 12.583061430697734
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 49.282565942831354,
+                "normalized_intensity": 12.320641485707839
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.26896970777286,
+                "normalized_intensity": 12.317242426943215
+            }
+        ]
+    }
+}

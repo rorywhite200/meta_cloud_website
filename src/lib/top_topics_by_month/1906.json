@@ -1,0 +1,82 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 114.2813766328061,
+                "normalized_intensity": 57.14068831640305
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 114.1878541992995,
+                "normalized_intensity": 57.09392709964975
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 108.92019516023066,
+                "normalized_intensity": 54.46009758011533
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 76.13722634935344,
+                "normalized_intensity": 38.06861317467672
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 74.5657867705703,
+                "normalized_intensity": 37.28289338528515
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 74.39806378593748,
+                "normalized_intensity": 37.19903189296874
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 62.7629940945716,
+                "normalized_intensity": 31.3814970472858
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 61.33134482501133,
+                "normalized_intensity": 30.665672412505664
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 60.7107021567039,
+                "normalized_intensity": 30.35535107835195
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 56.342873639978876,
+                "normalized_intensity": 28.171436819989438
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 55.08942803698628,
+                "normalized_intensity": 27.54471401849314
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 54.28472379449507,
+                "normalized_intensity": 27.142361897247536
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 51.37540706231116,
+                "normalized_intensity": 25.68770353115558
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 50.3943323298614,
+                "normalized_intensity": 25.1971661649307
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.45702749748101,
+                "normalized_intensity": 24.728513748740504
+            }
+        ]
+    }
+}

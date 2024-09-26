@@ -1,0 +1,72 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 126.6321070061525,
+                "normalized_intensity": 63.31605350307625
+            },
+            {
+                "topic": "community",
+                "weighted_count": 66.67781194189236,
+                "normalized_intensity": 33.33890597094618
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 65.72626690656647,
+                "normalized_intensity": 32.86313345328323
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 58.805984137817234,
+                "normalized_intensity": 29.402992068908617
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 58.021318926979944,
+                "normalized_intensity": 29.010659463489972
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.529352285674825,
+                "normalized_intensity": 27.764676142837413
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 55.040901489233704,
+                "normalized_intensity": 27.520450744616852
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 53.62830320940816,
+                "normalized_intensity": 26.81415160470408
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 50.82692642823162,
+                "normalized_intensity": 25.41346321411581
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 444.96894403928104,
+                "normalized_intensity": 63.566992005611574
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 269.40765753696576,
+                "normalized_intensity": 38.486808219566534
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.24759572600789,
+                "normalized_intensity": 7.321085103715412
+            }
+        ]
+    }
+}

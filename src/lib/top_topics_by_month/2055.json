@@ -1,0 +1,127 @@
+{
+    "2024-08": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 1292.025785892937,
+                "normalized_intensity": 53.83440774553904
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1271.5023168652215,
+                "normalized_intensity": 52.97926320271756
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 1185.4336353698343,
+                "normalized_intensity": 49.39306814040976
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 849.5565024625644,
+                "normalized_intensity": 35.398187602606846
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 568.5620989145666,
+                "normalized_intensity": 23.690087454773607
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 437.1790641461496,
+                "normalized_intensity": 18.2157943394229
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 407.26244781805195,
+                "normalized_intensity": 16.969268659085497
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 393.93381712973155,
+                "normalized_intensity": 16.41390904707215
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 391.50336071854105,
+                "normalized_intensity": 16.31264002993921
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 218.71915127599704,
+                "normalized_intensity": 9.11329796983321
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 189.1092608973015,
+                "normalized_intensity": 7.879552537387563
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 173.34141510733974,
+                "normalized_intensity": 7.222558962805823
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 159.72792932786632,
+                "normalized_intensity": 6.655330388661096
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 113.4824735480876,
+                "normalized_intensity": 4.728436397836983
+            },
+            {
+                "topic": "business",
+                "weighted_count": 101.68685880211285,
+                "normalized_intensity": 4.236952450088036
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 69.46035174927835,
+                "normalized_intensity": 2.8941813228865976
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.94352360818541,
+                "normalized_intensity": 2.3309801503410585
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 55.78850606587717,
+                "normalized_intensity": 2.3245210860782155
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.549862914820004,
+                "normalized_intensity": 2.2312442881175003
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.150977136288155,
+                "normalized_intensity": 2.1729573806786733
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.800360389765366,
+                "normalized_intensity": 2.158348349573557
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 50.96152948854259,
+                "normalized_intensity": 2.1233970620226077
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.005343000321034,
+                "normalized_intensity": 2.0835559583467096
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.77459957409429,
+                "normalized_intensity": 2.0739416489205955
+            }
+        ]
+    }
+}

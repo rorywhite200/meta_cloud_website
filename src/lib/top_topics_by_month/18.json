@@ -1,0 +1,102 @@
+{
+    "2024-06": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1350.6828093561498,
+                "normalized_intensity": 71.08856891348157
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 1340.6154802855199,
+                "normalized_intensity": 70.55870948871157
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 1077.3450889136607,
+                "normalized_intensity": 56.70237310071898
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1055.0934860144564,
+                "normalized_intensity": 55.53123610602402
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 1001.9986284407972,
+                "normalized_intensity": 52.7367699179367
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 315.6650484228005,
+                "normalized_intensity": 16.6139499169895
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 198.61884190816903,
+                "normalized_intensity": 10.453623258324686
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.46123074635331,
+                "normalized_intensity": 2.6032226708607005
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 26,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 1842.2597159092247,
+                "normalized_intensity": 70.85614291958557
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1728.9938249835789,
+                "normalized_intensity": 66.49976249936842
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1481.097459899928,
+                "normalized_intensity": 56.965286919228
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 873.8669822614694,
+                "normalized_intensity": 33.61026854851805
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 591.9002673638154,
+                "normalized_intensity": 22.765394898608285
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 375.8330828223306,
+                "normalized_intensity": 14.455118570089638
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 253.8306876711879,
+                "normalized_intensity": 9.76271875658415
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 159.5944039559971,
+                "normalized_intensity": 6.138246305999889
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.223096202807525,
+                "normalized_intensity": 1.931657546261828
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.05584076274528,
+                "normalized_intensity": 1.8867631062594337
+            }
+        ]
+    }
+}

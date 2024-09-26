@@ -1,0 +1,67 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 64.76397769221089,
+                "normalized_intensity": 64.76397769221089
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 58.327591228160905,
+                "normalized_intensity": 58.327591228160905
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.531932754038266,
+                "normalized_intensity": 53.531932754038266
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.18310533389796,
+                "normalized_intensity": 51.18310533389796
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 59.01081957112403,
+                "normalized_intensity": 59.01081957112403
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 56.342337977643076,
+                "normalized_intensity": 56.342337977643076
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.04748402776499,
+                "normalized_intensity": 53.04748402776499
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 52.906299628579866,
+                "normalized_intensity": 52.906299628579866
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.20750941651142,
+                "normalized_intensity": 52.20750941651142
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.62302367112923,
+                "normalized_intensity": 50.62302367112923
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.10124169049593,
+                "normalized_intensity": 50.10124169049593
+            }
+        ]
+    }
+}

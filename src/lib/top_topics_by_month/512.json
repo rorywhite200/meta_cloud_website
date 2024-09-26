@@ -1,0 +1,42 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 122.5529122733306,
+                "normalized_intensity": 61.2764561366653
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 109.72988416884593,
+                "normalized_intensity": 54.864942084422964
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 61.2764561366653,
+                "normalized_intensity": 61.2764561366653
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.864942084422964,
+                "normalized_intensity": 54.864942084422964
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 126.78447784315459,
+                "normalized_intensity": 63.392238921577295
+            }
+        ]
+    }
+}

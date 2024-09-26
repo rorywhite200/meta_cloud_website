@@ -1,0 +1,37 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 68.7708892558121,
+                "normalized_intensity": 68.7708892558121
+            },
+            {
+                "topic": "health",
+                "weighted_count": 62.40608562082266,
+                "normalized_intensity": 62.40608562082266
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.09741682470126,
+                "normalized_intensity": 57.09741682470126
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 56.6554293685589,
+                "normalized_intensity": 56.6554293685589
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 52.63723100440208,
+                "normalized_intensity": 52.63723100440208
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 50.041884469113754,
+                "normalized_intensity": 50.041884469113754
+            }
+        ]
+    }
+}

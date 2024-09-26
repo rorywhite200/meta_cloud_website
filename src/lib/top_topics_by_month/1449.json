@@ -1,0 +1,112 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 245.08358426571868,
+                "normalized_intensity": 81.6945280885729
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 202.8346229376861,
+                "normalized_intensity": 67.6115409792287
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 167.04707844892496,
+                "normalized_intensity": 55.68235948297499
+            },
+            {
+                "topic": "health",
+                "weighted_count": 160.80110599420624,
+                "normalized_intensity": 53.60036866473541
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 47,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 3742.583727375046,
+                "normalized_intensity": 79.6294410079797
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 3115.825900386065,
+                "normalized_intensity": 66.29416809332052
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 2394.552602067494,
+                "normalized_intensity": 50.9479277035637
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1230.8043879592126,
+                "normalized_intensity": 26.187327403387503
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 565.823714141643,
+                "normalized_intensity": 80.83195916309185
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 465.39826480703437,
+                "normalized_intensity": 66.48546640100491
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 373.1200109562071,
+                "normalized_intensity": 53.30285870802959
+            },
+            {
+                "topic": "health",
+                "weighted_count": 215.16998795532106,
+                "normalized_intensity": 30.738569707903007
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.7110557701403,
+                "normalized_intensity": 7.101579395734328
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 551.5805899134862,
+                "normalized_intensity": 78.79722713049803
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 413.5753180970066,
+                "normalized_intensity": 59.082188299572366
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 158.36768092800233,
+                "normalized_intensity": 22.623954418286047
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.432282244864055,
+                "normalized_intensity": 7.347468892123437
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.025927693249585,
+                "normalized_intensity": 7.003703956178512
+            }
+        ]
+    }
+}

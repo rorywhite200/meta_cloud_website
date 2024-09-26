@@ -1,0 +1,77 @@
+{
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 181.5350163701126,
+                "normalized_intensity": 60.511672123370865
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 178.75437812182776,
+                "normalized_intensity": 59.584792707275916
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 175.14174572038195,
+                "normalized_intensity": 58.380581906793985
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 161.7024271835814,
+                "normalized_intensity": 53.9008090611938
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 118.08070785246056,
+                "normalized_intensity": 39.36023595082019
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.45576565463148,
+                "normalized_intensity": 35.48525521821049
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 74.21002091040158,
+                "normalized_intensity": 24.73667363680053
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 59.204105232206835,
+                "normalized_intensity": 19.734701744068946
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 53.1681121071039,
+                "normalized_intensity": 17.7227040357013
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 50.79366749319041,
+                "normalized_intensity": 16.931222497730136
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.71697503459769,
+                "normalized_intensity": 16.905658344865895
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.07675757659615,
+                "normalized_intensity": 16.69225252553205
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.87774681042428,
+                "normalized_intensity": 16.62591560347476
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 49.54357260525915,
+                "normalized_intensity": 16.51452420175305
+            }
+        ]
+    }
+}

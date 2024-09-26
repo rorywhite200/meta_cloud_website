@@ -1,0 +1,192 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 78.29458356366766,
+                "normalized_intensity": 39.14729178183383
+            },
+            {
+                "topic": "art",
+                "weighted_count": 72.5376791808761,
+                "normalized_intensity": 36.26883959043805
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 58.459094860393066,
+                "normalized_intensity": 29.229547430196533
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 54.555221707627545,
+                "normalized_intensity": 27.277610853813773
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.197041023927504,
+                "normalized_intensity": 24.598520511963752
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 77.9743331848254,
+                "normalized_intensity": 25.991444394941798
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 72.90658412345115,
+                "normalized_intensity": 24.30219470781705
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 64.62088172741971,
+                "normalized_intensity": 21.540293909139905
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 62.88834833148032,
+                "normalized_intensity": 20.962782777160108
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 61.59185682867635,
+                "normalized_intensity": 20.530618942892115
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 60.38077215349048,
+                "normalized_intensity": 20.126924051163495
+            },
+            {
+                "topic": "history",
+                "weighted_count": 57.86373313933551,
+                "normalized_intensity": 19.28791104644517
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 68.03848820402524,
+                "normalized_intensity": 22.679496068008415
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 64.3454244655473,
+                "normalized_intensity": 21.4484748218491
+            },
+            {
+                "topic": "science",
+                "weighted_count": 64.26202498890147,
+                "normalized_intensity": 21.42067499630049
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 62.62296879459013,
+                "normalized_intensity": 20.874322931530042
+            },
+            {
+                "topic": "history",
+                "weighted_count": 62.3448738750748,
+                "normalized_intensity": 20.781624625024936
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 51.51745473240198,
+                "normalized_intensity": 17.17248491080066
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.423066933625286,
+                "normalized_intensity": 17.141022311208427
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.30364219360845,
+                "normalized_intensity": 17.101214064536148
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 128.52952850527356,
+                "normalized_intensity": 64.26476425263678
+            },
+            {
+                "topic": "science",
+                "weighted_count": 127.48540441245325,
+                "normalized_intensity": 63.742702206226625
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 79.84839375952257,
+                "normalized_intensity": 39.92419687976128
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 72.20026591672135,
+                "normalized_intensity": 36.100132958360675
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 63.029016197256915,
+                "normalized_intensity": 31.514508098628458
+            },
+            {
+                "topic": "education",
+                "weighted_count": 61.53642571350607,
+                "normalized_intensity": 30.768212856753035
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 55.415728999141656,
+                "normalized_intensity": 27.707864499570828
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 53.627974737524575,
+                "normalized_intensity": 26.813987368762287
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 52.84991047220158,
+                "normalized_intensity": 26.42495523610079
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 52.681666024416984,
+                "normalized_intensity": 26.340833012208492
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.89618200676327,
+                "normalized_intensity": 25.948091003381634
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.894452182629365,
+                "normalized_intensity": 25.447226091314683
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.456152411566634,
+                "normalized_intensity": 25.228076205783317
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 50.01038761773249,
+                "normalized_intensity": 25.005193808866245
+            }
+        ]
+    }
+}

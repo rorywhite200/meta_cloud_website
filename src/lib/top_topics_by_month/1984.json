@@ -1,0 +1,47 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 143.48817063997538,
+                "normalized_intensity": 71.74408531998769
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 121.21212766604441,
+                "normalized_intensity": 60.606063833022205
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 119.45970694089895,
+                "normalized_intensity": 59.72985347044948
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 115.22239979182037,
+                "normalized_intensity": 57.61119989591018
+            },
+            {
+                "topic": "family",
+                "weighted_count": 110.98573174406037,
+                "normalized_intensity": 55.49286587203019
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 108.08632901595358,
+                "normalized_intensity": 54.04316450797679
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.76294809714064,
+                "normalized_intensity": 53.38147404857032
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.91973239363287,
+                "normalized_intensity": 50.459866196816435
+            }
+        ]
+    }
+}

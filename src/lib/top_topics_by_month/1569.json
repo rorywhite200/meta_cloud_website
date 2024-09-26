@@ -1,0 +1,77 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 114.44607859467175,
+                "normalized_intensity": 57.22303929733587
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 79.50818079646447,
+                "normalized_intensity": 39.754090398232236
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 77.35872572103438,
+                "normalized_intensity": 38.67936286051719
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.67184853726464,
+                "normalized_intensity": 33.83592426863232
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 61.78642433177311,
+                "normalized_intensity": 30.893212165886556
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 60.564104420187945,
+                "normalized_intensity": 30.282052210093973
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 58.083578613707665,
+                "normalized_intensity": 29.041789306853833
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 55.32348868015414,
+                "normalized_intensity": 27.66174434007707
+            },
+            {
+                "topic": "business",
+                "weighted_count": 54.593098060005715,
+                "normalized_intensity": 27.296549030002858
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 52.879177737167474,
+                "normalized_intensity": 26.439588868583737
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.30821826987445,
+                "normalized_intensity": 26.154109134937226
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.63310421655874,
+                "normalized_intensity": 25.81655210827937
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.030017626607496,
+                "normalized_intensity": 25.515008813303748
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 50.55334052349726,
+                "normalized_intensity": 25.27667026174863
+            }
+        ]
+    }
+}

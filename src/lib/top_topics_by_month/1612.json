@@ -1,0 +1,37 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "addiction",
+                "weighted_count": 160.48554425722526,
+                "normalized_intensity": 80.24277212861263
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 158.46087643992735,
+                "normalized_intensity": 79.23043821996367
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 110.06128488933085,
+                "normalized_intensity": 55.030642444665425
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 108.13506532466415,
+                "normalized_intensity": 54.06753266233208
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 105.95907663641697,
+                "normalized_intensity": 52.97953831820848
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 102.63774101136806,
+                "normalized_intensity": 51.31887050568403
+            }
+        ]
+    }
+}

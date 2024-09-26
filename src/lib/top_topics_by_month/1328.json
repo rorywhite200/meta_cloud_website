@@ -1,0 +1,77 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 193.55731484545402,
+                "normalized_intensity": 64.51910494848467
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 167.50807491688283,
+                "normalized_intensity": 55.836024972294275
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 154.73286080787705,
+                "normalized_intensity": 51.577620269292346
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 153.6516756646958,
+                "normalized_intensity": 51.217225221565265
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 147.89070433708895,
+                "normalized_intensity": 49.296901445696314
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 217.68923754960628,
+                "normalized_intensity": 72.56307918320209
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 194.2418451939102,
+                "normalized_intensity": 64.7472817313034
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 190.59889300737342,
+                "normalized_intensity": 63.53296433579114
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 164.44125958262697,
+                "normalized_intensity": 54.81375319420899
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 156.60269732765227,
+                "normalized_intensity": 52.200899109217424
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 154.347819592426,
+                "normalized_intensity": 51.44927319747533
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 100.21519694039603,
+                "normalized_intensity": 33.405065646798676
+            },
+            {
+                "topic": "science",
+                "weighted_count": 52.69202960768317,
+                "normalized_intensity": 17.56400986922772
+            }
+        ]
+    }
+}

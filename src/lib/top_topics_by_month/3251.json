@@ -1,0 +1,52 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 212.17185132197517,
+                "normalized_intensity": 70.72395044065838
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 163.30734554152093,
+                "normalized_intensity": 54.435781847173644
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 154.7091708553181,
+                "normalized_intensity": 51.56972361843936
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 152.5766441999134,
+                "normalized_intensity": 50.85888139997113
+            },
+            {
+                "topic": "science",
+                "weighted_count": 101.76423744072542,
+                "normalized_intensity": 33.921412480241806
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.19158814109418,
+                "normalized_intensity": 17.397196047031393
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 51.43801724551583,
+                "normalized_intensity": 17.146005748505278
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.76055641719868,
+                "normalized_intensity": 16.586852139066227
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.562330937337,
+                "normalized_intensity": 16.520776979112334
+            }
+        ]
+    }
+}

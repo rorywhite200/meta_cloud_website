@@ -1,0 +1,372 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "digital-rights",
+                "weighted_count": 126.95011316677392,
+                "normalized_intensity": 63.47505658338696
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 70.8758767442838,
+                "normalized_intensity": 35.4379383721419
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 65.56082995258012,
+                "normalized_intensity": 32.78041497629006
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 65.27218540749834,
+                "normalized_intensity": 32.63609270374917
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 64.80011992946328,
+                "normalized_intensity": 32.40005996473164
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 57.91302398876632,
+                "normalized_intensity": 28.95651199438316
+            },
+            {
+                "topic": "family",
+                "weighted_count": 57.49271870484925,
+                "normalized_intensity": 28.746359352424626
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.24883499702837,
+                "normalized_intensity": 26.124417498514184
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 52.00677782437568,
+                "normalized_intensity": 26.00338891218784
+            },
+            {
+                "topic": "security",
+                "weighted_count": 50.02903521420875,
+                "normalized_intensity": 25.014517607104374
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 422.60355102216164,
+                "normalized_intensity": 32.5079654632432
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 235.6492159318169,
+                "normalized_intensity": 18.126862763985915
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 176.5352889603792,
+                "normalized_intensity": 13.579637612336862
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 173.05737082537357,
+                "normalized_intensity": 13.312105448105658
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 171.53617337542073,
+                "normalized_intensity": 13.195090259647749
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 163.0069197656926,
+                "normalized_intensity": 12.5389938281302
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 161.4990906005498,
+                "normalized_intensity": 12.423006969273063
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 100.32343014047295,
+                "normalized_intensity": 7.717186933882535
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 70.8758767442838,
+                "normalized_intensity": 5.451990518791062
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 65.56082995258012,
+                "normalized_intensity": 5.043140765583086
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 65.27218540749834,
+                "normalized_intensity": 5.020937339038334
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 57.91302398876632,
+                "normalized_intensity": 4.454847999135871
+            },
+            {
+                "topic": "family",
+                "weighted_count": 57.49271870484925,
+                "normalized_intensity": 4.422516823449943
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.24883499702837,
+                "normalized_intensity": 4.019141153617567
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 52.00677782437568,
+                "normalized_intensity": 4.000521371105822
+            },
+            {
+                "topic": "security",
+                "weighted_count": 50.02903521420875,
+                "normalized_intensity": 3.8483873241699036
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "digital-rights",
+                "weighted_count": 204.04352047904746,
+                "normalized_intensity": 68.01450682634915
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 169.80593800703326,
+                "normalized_intensity": 56.601979335677754
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 167.5275825896171,
+                "normalized_intensity": 55.84252752987237
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 130.5701330638114,
+                "normalized_intensity": 43.523377687937135
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 124.23360818333367,
+                "normalized_intensity": 41.41120272777789
+            },
+            {
+                "topic": "security",
+                "weighted_count": 124.07095180373318,
+                "normalized_intensity": 41.35698393457773
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 123.6805283360542,
+                "normalized_intensity": 41.226842778684734
+            },
+            {
+                "topic": "family",
+                "weighted_count": 109.93669822474617,
+                "normalized_intensity": 36.645566074915386
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 108.28667120428223,
+                "normalized_intensity": 36.095557068094074
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.8146305822607,
+                "normalized_intensity": 18.9382101940869
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 54.123526230990116,
+                "normalized_intensity": 18.041175410330037
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.24883499702837,
+                "normalized_intensity": 17.416278332342788
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "digital-rights",
+                "weighted_count": 142.09548552239616,
+                "normalized_intensity": 71.04774276119808
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 137.1516291570392,
+                "normalized_intensity": 68.5758145785196
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 132.87288356093148,
+                "normalized_intensity": 66.43644178046574
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 131.94326875835353,
+                "normalized_intensity": 65.97163437917676
+            },
+            {
+                "topic": "security",
+                "weighted_count": 119.93743167832841,
+                "normalized_intensity": 59.968715839164204
+            },
+            {
+                "topic": "family",
+                "weighted_count": 115.87775776878644,
+                "normalized_intensity": 57.93887888439322
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 113.50392383711042,
+                "normalized_intensity": 56.75196191855521
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 111.14076201701826,
+                "normalized_intensity": 55.57038100850913
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 109.57595556357612,
+                "normalized_intensity": 54.78797778178806
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 55.09288009836416,
+                "normalized_intensity": 27.54644004918208
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.097256813740046,
+                "normalized_intensity": 25.548628406870023
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 182.634958417706,
+                "normalized_intensity": 60.87831947256867
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 174.12841695603194,
+                "normalized_intensity": 58.04280565201065
+            },
+            {
+                "topic": "family",
+                "weighted_count": 159.4180035180911,
+                "normalized_intensity": 53.139334506030366
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 155.98112818035892,
+                "normalized_intensity": 51.993709393452974
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 109.64710262344582,
+                "normalized_intensity": 36.549034207815275
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 100.21646957445734,
+                "normalized_intensity": 33.40548985815244
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 57.58712270668887,
+                "normalized_intensity": 19.19570756889629
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 53.782118930336665,
+                "normalized_intensity": 17.927372976778887
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "digital-rights",
+                "weighted_count": 350.68489261394325,
+                "normalized_intensity": 70.13697852278865
+            },
+            {
+                "topic": "security",
+                "weighted_count": 326.6307017602659,
+                "normalized_intensity": 65.32614035205317
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 316.1779893795145,
+                "normalized_intensity": 63.2355978759029
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 313.03177570801176,
+                "normalized_intensity": 62.60635514160235
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 312.92230922900865,
+                "normalized_intensity": 62.58446184580173
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 285.75918618480785,
+                "normalized_intensity": 57.15183723696157
+            },
+            {
+                "topic": "family",
+                "weighted_count": 228.31202226599675,
+                "normalized_intensity": 45.66240445319935
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 109.6461647246766,
+                "normalized_intensity": 21.92923294493532
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 104.01091358478588,
+                "normalized_intensity": 20.802182716957176
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 100.50280251141945,
+                "normalized_intensity": 20.10056050228389
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.41756849218809,
+                "normalized_intensity": 9.883513698437618
+            }
+        ]
+    }
+}

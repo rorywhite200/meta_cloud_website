@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 58.575484635458274,
+                "normalized_intensity": 58.575484635458274
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.995395315715356,
+                "normalized_intensity": 49.995395315715356
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 320.5829904710362,
+                "normalized_intensity": 64.11659809420725
+            },
+            {
+                "topic": "business",
+                "weighted_count": 300.6231632509792,
+                "normalized_intensity": 60.124632650195835
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 282.3319274346271,
+                "normalized_intensity": 56.466385486925425
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 252.76742520929434,
+                "normalized_intensity": 50.55348504185887
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 246.9220338936724,
+                "normalized_intensity": 49.38440677873448
+            }
+        ]
+    }
+}

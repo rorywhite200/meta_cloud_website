@@ -1,0 +1,77 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 77.28324403633896,
+                "normalized_intensity": 77.28324403633896
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 270.92232434045155,
+                "normalized_intensity": 45.15372072340859
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 227.2435836815523,
+                "normalized_intensity": 37.87393061359205
+            },
+            {
+                "topic": "community",
+                "weighted_count": 211.64727904307748,
+                "normalized_intensity": 35.27454650717958
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 207.61277235111024,
+                "normalized_intensity": 34.60212872518504
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 114.21138688715689,
+                "normalized_intensity": 19.03523114785948
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 103.50177045433736,
+                "normalized_intensity": 17.250295075722892
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 147.52330144902146,
+                "normalized_intensity": 73.76165072451073
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 123.70767000518444,
+                "normalized_intensity": 61.85383500259222
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 58.740496718309366,
+                "normalized_intensity": 29.370248359154683
+            },
+            {
+                "topic": "history",
+                "weighted_count": 57.73334540998029,
+                "normalized_intensity": 28.866672704990144
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 55.606125147377796,
+                "normalized_intensity": 27.803062573688898
+            }
+        ]
+    }
+}

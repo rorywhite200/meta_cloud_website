@@ -1,0 +1,62 @@
+{
+    "2024-08": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 297.3688781084483,
+                "normalized_intensity": 37.17110976355604
+            },
+            {
+                "topic": "health",
+                "weighted_count": 282.2430956048048,
+                "normalized_intensity": 35.2803869506006
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 255.833827026062,
+                "normalized_intensity": 31.97922837825775
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 227.851392310565,
+                "normalized_intensity": 28.481424038820624
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 225.868071305709,
+                "normalized_intensity": 28.233508913213626
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 223.4573549085384,
+                "normalized_intensity": 27.9321693635673
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 207.89791983836528,
+                "normalized_intensity": 25.98723997979566
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 201.13905929465983,
+                "normalized_intensity": 25.14238241183248
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 162.02703668718584,
+                "normalized_intensity": 20.25337958589823
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 61.922225482168194,
+                "normalized_intensity": 7.740278185271024
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 50.741722226074785,
+                "normalized_intensity": 6.342715278259348
+            }
+        ]
+    }
+}

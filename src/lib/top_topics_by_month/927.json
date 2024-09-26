@@ -1,0 +1,212 @@
+{
+    "2023-12": {
+        "total_ads": 24,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 1694.8095172173082,
+                "normalized_intensity": 70.61706321738784
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 1365.0767932579552,
+                "normalized_intensity": 56.878199719081465
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 794.4998337407143,
+                "normalized_intensity": 33.104159739196426
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 1152.0852344937875,
+                "normalized_intensity": 57.60426172468938
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 554.7773422531385,
+                "normalized_intensity": 27.738867112656926
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 450.54765139346483,
+                "normalized_intensity": 22.527382569673243
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 408.6227398388974,
+                "normalized_intensity": 20.43113699194487
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 345.6547273324348,
+                "normalized_intensity": 17.28273636662174
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 341.6925005344538,
+                "normalized_intensity": 17.08462502672269
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 314.7237763180645,
+                "normalized_intensity": 15.736188815903224
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 279.9856355997586,
+                "normalized_intensity": 13.99928177998793
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 208.4478657087908,
+                "normalized_intensity": 10.42239328543954
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 204.38186691978623,
+                "normalized_intensity": 10.219093345989311
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 200.8447896916167,
+                "normalized_intensity": 10.042239484580836
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 103.45585409055309,
+                "normalized_intensity": 5.172792704527654
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 28,
+        "topics": [
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 1071.3956221945823,
+                "normalized_intensity": 38.26412936409223
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 887.7410059748295,
+                "normalized_intensity": 31.70503592767248
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 785.0129876696859,
+                "normalized_intensity": 28.03617813106021
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 761.3445791961062,
+                "normalized_intensity": 27.190877828432367
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 754.9226899781261,
+                "normalized_intensity": 26.961524642075933
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 657.9009417330033,
+                "normalized_intensity": 23.496462204750117
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 650.4656653154135,
+                "normalized_intensity": 23.230916618407626
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 390.7733555118764,
+                "normalized_intensity": 13.9561912682813
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 372.260597845459,
+                "normalized_intensity": 13.295021351623536
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 291.19188482738133,
+                "normalized_intensity": 10.399710172406476
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 287.4343062325433,
+                "normalized_intensity": 10.265510936876547
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 279.9856355997586,
+                "normalized_intensity": 9.999486985705664
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 258.7835487741105,
+                "normalized_intensity": 9.242269599075374
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 208.4478657087908,
+                "normalized_intensity": 7.444566632456814
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 198.15390774157788,
+                "normalized_intensity": 7.076925276484924
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 150.13257103885056,
+                "normalized_intensity": 5.3618775371018055
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 103.02047149283908,
+                "normalized_intensity": 3.6793025533156816
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 120.77122887225937,
+                "normalized_intensity": 60.385614436129686
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 117.12993526093942,
+                "normalized_intensity": 58.56496763046971
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 116.14195230432705,
+                "normalized_intensity": 58.070976152163524
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 101.96505882395157,
+                "normalized_intensity": 50.98252941197578
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 101.2155294973851,
+                "normalized_intensity": 50.60776474869255
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 100.07164081775592,
+                "normalized_intensity": 50.03582040887796
+            }
+        ]
+    }
+}

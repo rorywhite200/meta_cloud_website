@@ -1,0 +1,142 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 67.03688975718177,
+                "normalized_intensity": 33.518444878590884
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 63.10961517045989,
+                "normalized_intensity": 31.554807585229945
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 62.82327144193264,
+                "normalized_intensity": 31.41163572096632
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 61.39405012824179,
+                "normalized_intensity": 30.697025064120893
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.80600715605227,
+                "normalized_intensity": 25.403003578026134
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 133.17074487998576,
+                "normalized_intensity": 44.39024829332859
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 122.37690702618008,
+                "normalized_intensity": 40.792302342060026
+            },
+            {
+                "topic": "history",
+                "weighted_count": 107.26972234023164,
+                "normalized_intensity": 35.756574113410544
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 103.56735196610893,
+                "normalized_intensity": 34.522450655369646
+            },
+            {
+                "topic": "film",
+                "weighted_count": 69.58694664023231,
+                "normalized_intensity": 23.19564888007744
+            },
+            {
+                "topic": "art",
+                "weighted_count": 65.00243779009165,
+                "normalized_intensity": 21.667479263363884
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 56.13959948542679,
+                "normalized_intensity": 18.7131998284756
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.86273974118672,
+                "normalized_intensity": 16.954246580395573
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.52877876873829,
+                "normalized_intensity": 16.8429262562461
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.943356536381465,
+                "normalized_intensity": 16.647785512127154
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 136.7927263316177,
+                "normalized_intensity": 68.39636316580885
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 121.23632926832346,
+                "normalized_intensity": 60.61816463416173
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 118.4171726973541,
+                "normalized_intensity": 59.20858634867705
+            },
+            {
+                "topic": "family",
+                "weighted_count": 117.61702525408712,
+                "normalized_intensity": 58.80851262704356
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 116.73630360600723,
+                "normalized_intensity": 58.36815180300361
+            },
+            {
+                "topic": "community",
+                "weighted_count": 115.96135977267565,
+                "normalized_intensity": 57.980679886337825
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 112.51764962200829,
+                "normalized_intensity": 56.258824811004146
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.52455920997278,
+                "normalized_intensity": 51.76227960498639
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 100.43111868942364,
+                "normalized_intensity": 50.21555934471182
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 100.07521724792905,
+                "normalized_intensity": 50.03760862396452
+            }
+        ]
+    }
+}

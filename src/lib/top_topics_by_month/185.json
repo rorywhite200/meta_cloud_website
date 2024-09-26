@@ -1,0 +1,82 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 64.37288123466867,
+                "normalized_intensity": 64.37288123466867
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 61.74555129041149,
+                "normalized_intensity": 61.74555129041149
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 60.18870723002628,
+                "normalized_intensity": 60.18870723002628
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 156.43494471557122,
+                "normalized_intensity": 78.21747235778561
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.00332098607741,
+                "normalized_intensity": 28.001660493038706
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.34905535316577,
+                "normalized_intensity": 26.174527676582883
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.11913660940597,
+                "normalized_intensity": 26.059568304702985
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.38367776751364,
+                "normalized_intensity": 24.69183888375682
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.20334656632237,
+                "normalized_intensity": 24.601673283161183
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 159.35767166122577,
+                "normalized_intensity": 79.67883583061288
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 50.753422374250114,
+                "normalized_intensity": 25.376711187125057
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 50.35485263217577,
+                "normalized_intensity": 25.177426316087885
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 49.36472862499134,
+                "normalized_intensity": 24.68236431249567
+            }
+        ]
+    }
+}

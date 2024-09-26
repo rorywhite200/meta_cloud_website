@@ -1,0 +1,82 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 141.4953653983158,
+                "normalized_intensity": 70.7476826991579
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 142.57848478958434,
+                "normalized_intensity": 71.28924239479217
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 52.33788723432215,
+                "normalized_intensity": 26.168943617161077
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 150.48396887395666,
+                "normalized_intensity": 75.24198443697833
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 57.51341789836979,
+                "normalized_intensity": 28.756708949184894
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.07579523625405,
+                "normalized_intensity": 27.037897618127026
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.5463995328629,
+                "normalized_intensity": 26.27319976643145
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.4703995101139,
+                "normalized_intensity": 24.73519975505695
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 79.87919762391283,
+                "normalized_intensity": 79.87919762391283
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 157.83861732549363,
+                "normalized_intensity": 78.91930866274681
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 100.50062617154425,
+                "normalized_intensity": 50.25031308577213
+            }
+        ]
+    }
+}

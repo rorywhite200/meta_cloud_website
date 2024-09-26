@@ -1,0 +1,447 @@
+{
+    "2023-09": {
+        "total_ads": 100,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 6068.386337685052,
+                "normalized_intensity": 60.683863376850525
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 5908.00512287982,
+                "normalized_intensity": 59.080051228798204
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 5722.2973752372545,
+                "normalized_intensity": 57.222973752372546
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 4972.824855649284,
+                "normalized_intensity": 49.72824855649284
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 4839.875369936645,
+                "normalized_intensity": 48.39875369936645
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 1371.3020833066228,
+                "normalized_intensity": 13.713020833066228
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1059.2624172956127,
+                "normalized_intensity": 10.592624172956128
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 1008.7744050782926,
+                "normalized_intensity": 10.087744050782925
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 990.6866694145925,
+                "normalized_intensity": 9.906866694145926
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 985.8462739588362,
+                "normalized_intensity": 9.858462739588362
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 120,
+        "topics": [
+            {
+                "topic": "conservation",
+                "weighted_count": 6746.626525527634,
+                "normalized_intensity": 56.221887712730286
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 6568.168895686946,
+                "normalized_intensity": 54.73474079739121
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 5764.413583308869,
+                "normalized_intensity": 48.036779860907245
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 5203.01482781133,
+                "normalized_intensity": 43.358456898427754
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 3979.3572170022844,
+                "normalized_intensity": 33.1613101416857
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 2582.5217225857973,
+                "normalized_intensity": 21.521014354881643
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 1021.2027371024174,
+                "normalized_intensity": 8.510022809186811
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 1017.1498851086219,
+                "normalized_intensity": 8.47624904257185
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 1014.0679813438906,
+                "normalized_intensity": 8.450566511199089
+            },
+            {
+                "topic": "science",
+                "weighted_count": 1001.3363077126793,
+                "normalized_intensity": 8.344469230938994
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 989.4883102760831,
+                "normalized_intensity": 8.245735918967359
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 662.4860683861857,
+                "normalized_intensity": 41.40537927413661
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 604.3228360694296,
+                "normalized_intensity": 37.77017725433935
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 387.38402632722335,
+                "normalized_intensity": 24.21150164545146
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 345.8589722434235,
+                "normalized_intensity": 21.61618576521397
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 319.9291872661859,
+                "normalized_intensity": 19.99557420413662
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 315.8538762282197,
+                "normalized_intensity": 19.74086726426373
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 197.3695452501091,
+                "normalized_intensity": 12.335596578131819
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.57320126014201,
+                "normalized_intensity": 3.2233250787588754
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 92,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 4303.0166037726985,
+                "normalized_intensity": 46.771919606224984
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 2714.0796351726167,
+                "normalized_intensity": 29.500865599702355
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 2608.3029937140523,
+                "normalized_intensity": 28.351119496891872
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 2562.897130415353,
+                "normalized_intensity": 27.857577504514705
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 2545.791168240871,
+                "normalized_intensity": 27.671643133052942
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1558.130588557061,
+                "normalized_intensity": 16.93620204953327
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1049.3056036291798,
+                "normalized_intensity": 11.40549569162152
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 571.2095943539147,
+                "normalized_intensity": 6.208799938629507
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 565.5666715045412,
+                "normalized_intensity": 6.147463820701534
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 491.26216345065785,
+                "normalized_intensity": 5.3398061244636725
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 98.68477262505455,
+                "normalized_intensity": 1.0726605720114626
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 62.7354125768393,
+                "normalized_intensity": 0.6819066584439054
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 51.82313557644792,
+                "normalized_intensity": 0.5632949519179121
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 174.7878278410529,
+                "normalized_intensity": 43.69695696026322
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 115.4920003609347,
+                "normalized_intensity": 28.873000090233674
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 105.91068402696908,
+                "normalized_intensity": 26.47767100674227
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 103.87729926251197,
+                "normalized_intensity": 25.969324815627992
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 64.29824320644921,
+                "normalized_intensity": 16.074560801612304
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 57.87048319937039,
+                "normalized_intensity": 14.467620799842598
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 52.719750317768046,
+                "normalized_intensity": 13.179937579442011
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.873429027315176,
+                "normalized_intensity": 12.968357256828794
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 53,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 2451.6983624869677,
+                "normalized_intensity": 46.258459669565426
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 2362.305206183947,
+                "normalized_intensity": 44.57179634309334
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 1928.692498574214,
+                "normalized_intensity": 36.39042450140026
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 1663.8263347590025,
+                "normalized_intensity": 31.39294971243401
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 834.5203397368637,
+                "normalized_intensity": 15.745666787487993
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 824.366152190117,
+                "normalized_intensity": 15.554078343209754
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 734.7290561748757,
+                "normalized_intensity": 13.862812380658033
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 715.993176102079,
+                "normalized_intensity": 13.509305209473188
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 357.4606976878287,
+                "normalized_intensity": 6.744541465808089
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 258.25217225857966,
+                "normalized_intensity": 4.8726824954448995
+            },
+            {
+                "topic": "science",
+                "weighted_count": 100.13363077126796,
+                "normalized_intensity": 1.8893137881371314
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 98.94883102760829,
+                "normalized_intensity": 1.8669590759926094
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.060135611676706,
+                "normalized_intensity": 0.9633987851259755
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 50.85749425543108,
+                "normalized_intensity": 0.9595753633100204
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 50.70339683617184,
+                "normalized_intensity": 0.9566678648334309
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 774.9866069619407,
+                "normalized_intensity": 64.58221724682839
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 619.8904666469097,
+                "normalized_intensity": 51.657538887242474
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 601.3571041316966,
+                "normalized_intensity": 50.11309201097472
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 152.0269140998498,
+                "normalized_intensity": 12.668909508320816
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 150.00426241946892,
+                "normalized_intensity": 12.50035520162241
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 45,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 2001.116426233947,
+                "normalized_intensity": 44.46925391630994
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1974.3367949497056,
+                "normalized_intensity": 43.87415099888234
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 1360.703343806214,
+                "normalized_intensity": 30.23785208458253
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 1353.5016473006292,
+                "normalized_intensity": 30.077814384458428
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 1307.9060085037063,
+                "normalized_intensity": 29.064577966749027
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 780.6674462019018,
+                "normalized_intensity": 17.348165471153376
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 566.7882721416842,
+                "normalized_intensity": 12.59529493648187
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 495.93678425751216,
+                "normalized_intensity": 11.020817427944715
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 306.85421832946236,
+                "normalized_intensity": 6.818982629543608
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 248.4956957622765,
+                "normalized_intensity": 5.522126572495034
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 153.19748849416428,
+                "normalized_intensity": 3.4043886332036504
+            }
+        ]
+    }
+}

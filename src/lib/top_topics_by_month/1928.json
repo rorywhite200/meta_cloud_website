@@ -1,0 +1,62 @@
+{
+    "2023-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 62.70599172272138,
+                "normalized_intensity": 62.70599172272138
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 60.78416494499959,
+                "normalized_intensity": 60.78416494499959
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 57.49380213222919,
+                "normalized_intensity": 57.49380213222919
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.300722607050346,
+                "normalized_intensity": 54.300722607050346
+            },
+            {
+                "topic": "music",
+                "weighted_count": 51.332203699149424,
+                "normalized_intensity": 51.332203699149424
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.3501021305581,
+                "normalized_intensity": 49.3501021305581
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 58.54642388938972,
+                "normalized_intensity": 58.54642388938972
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 56.984667068183036,
+                "normalized_intensity": 56.984667068183036
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.110427828819375,
+                "normalized_intensity": 53.110427828819375
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.225363414623004,
+                "normalized_intensity": 49.225363414623004
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2024-03": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "demographics",
+                "weighted_count": 196.35044161805277,
+                "normalized_intensity": 17.850040147095708
+            },
+            {
+                "topic": "health",
+                "weighted_count": 176.8451842432079,
+                "normalized_intensity": 16.076834931200718
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 165.7175433856653,
+                "normalized_intensity": 15.065231216878663
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.1922535535491,
+                "normalized_intensity": 9.562932141231736
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 99.40832704601544,
+                "normalized_intensity": 9.037120640546858
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 69.88749466516948,
+                "normalized_intensity": 6.353408605924499
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 69.85647155313242,
+                "normalized_intensity": 6.350588323012039
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 64.14467015828922,
+                "normalized_intensity": 5.831333650753565
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 62.52067823547459,
+                "normalized_intensity": 5.683698021406781
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 58.10210281448865,
+                "normalized_intensity": 5.282009346771695
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 53.23159420104332,
+                "normalized_intensity": 4.839235836458484
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 53.187999752735685,
+                "normalized_intensity": 4.8352727047941535
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 52.98123772573561,
+                "normalized_intensity": 4.816476156885056
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.34611214004289,
+                "normalized_intensity": 4.758737467276626
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 52.22628891794354,
+                "normalized_intensity": 4.747844447085776
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 50.61782195803487,
+                "normalized_intensity": 4.60162017800317
+            }
+        ]
+    }
+}

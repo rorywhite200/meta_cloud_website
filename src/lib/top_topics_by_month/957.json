@@ -1,0 +1,152 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "medicine",
+                "weighted_count": 68.40442172086182,
+                "normalized_intensity": 68.40442172086182
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 56.20076558281675,
+                "normalized_intensity": 56.20076558281675
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.17887637430441,
+                "normalized_intensity": 53.17887637430441
+            },
+            {
+                "topic": "health",
+                "weighted_count": 50.848263424924276,
+                "normalized_intensity": 50.848263424924276
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 60.22084233902573,
+                "normalized_intensity": 30.110421169512865
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 56.146603400093596,
+                "normalized_intensity": 28.073301700046798
+            },
+            {
+                "topic": "health",
+                "weighted_count": 52.12685922138586,
+                "normalized_intensity": 26.06342961069293
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.940642415849304,
+                "normalized_intensity": 25.970321207924652
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.2800649044388,
+                "normalized_intensity": 25.1400324522194
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 49.39953923933207,
+                "normalized_intensity": 24.699769619666036
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 61.39140802553985,
+                "normalized_intensity": 61.39140802553985
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 59.75519492305934,
+                "normalized_intensity": 59.75519492305934
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.48226635269286,
+                "normalized_intensity": 52.48226635269286
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.65554767849875,
+                "normalized_intensity": 49.65554767849875
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 50.22284011656814,
+                "normalized_intensity": 50.22284011656814
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.81947147915042,
+                "normalized_intensity": 49.81947147915042
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.26781770736352,
+                "normalized_intensity": 49.26781770736352
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 158.1588359069855,
+                "normalized_intensity": 39.539708976746375
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 102.6580269248996,
+                "normalized_intensity": 25.6645067312249
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 101.81922985781442,
+                "normalized_intensity": 25.454807464453605
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 75.25022912350896,
+                "normalized_intensity": 18.81255728087724
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 62.478321831865166,
+                "normalized_intensity": 15.619580457966292
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.03381218630973,
+                "normalized_intensity": 12.508453046577433
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.21104783478013,
+                "normalized_intensity": 12.302761958695033
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 49.17131284986271,
+                "normalized_intensity": 12.292828212465677
+            }
+        ]
+    }
+}

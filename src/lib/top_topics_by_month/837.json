@@ -1,0 +1,87 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 202.11588812401953,
+                "normalized_intensity": 67.3719627080065
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 179.97295267931204,
+                "normalized_intensity": 59.99098422643735
+            },
+            {
+                "topic": "science",
+                "weighted_count": 171.07224845510854,
+                "normalized_intensity": 57.024082818369514
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 159.87647458526158,
+                "normalized_intensity": 53.29215819508719
+            },
+            {
+                "topic": "business",
+                "weighted_count": 127.68858298595478,
+                "normalized_intensity": 42.56286099531826
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 121.88314123444577,
+                "normalized_intensity": 40.62771374481526
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 111.00511756017846,
+                "normalized_intensity": 37.00170585339282
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 108.90699426537603,
+                "normalized_intensity": 36.30233142179201
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 107.68699127790737,
+                "normalized_intensity": 35.89566375930246
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 106.60081718985141,
+                "normalized_intensity": 35.53360572995047
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 103.62326496016632,
+                "normalized_intensity": 34.541088320055444
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 54.44316101027816,
+                "normalized_intensity": 54.44316101027816
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 52.875464707236674,
+                "normalized_intensity": 52.875464707236674
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 51.20387932126488,
+                "normalized_intensity": 51.20387932126488
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.09877413682725,
+                "normalized_intensity": 51.09877413682725
+            }
+        ]
+    }
+}

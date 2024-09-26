@@ -1,0 +1,72 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 99.5758903638785,
+                "normalized_intensity": 49.78794518193925
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.95829482721122,
+                "normalized_intensity": 33.97914741360561
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 63.17739972732007,
+                "normalized_intensity": 31.588699863660036
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 60.16799213249173,
+                "normalized_intensity": 30.083996066245867
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.894508272213294,
+                "normalized_intensity": 28.447254136106647
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 52.682899310959684,
+                "normalized_intensity": 26.341449655479842
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 315.80095743820505,
+                "normalized_intensity": 45.11442249117215
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 214.876219319534,
+                "normalized_intensity": 30.696602759933427
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 52.659779499669334,
+                "normalized_intensity": 7.522825642809905
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.740190332716196,
+                "normalized_intensity": 7.2485986189594565
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.79952533703374,
+                "normalized_intensity": 7.114217905290535
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.55179784243419,
+                "normalized_intensity": 7.078828263204884
+            }
+        ]
+    }
+}

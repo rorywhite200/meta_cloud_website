@@ -1,0 +1,142 @@
+{
+    "2023-11": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 1440.9867859257015,
+                "normalized_intensity": 90.06167412035634
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1275.7891925234549,
+                "normalized_intensity": 79.73682453271593
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1099.8284706843967,
+                "normalized_intensity": 68.7392794177748
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 944.5282275867452,
+                "normalized_intensity": 59.03301422417157
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 848.4260525714127,
+                "normalized_intensity": 53.026628285713294
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 1331.7474409038186,
+                "normalized_intensity": 83.23421505648867
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1169.0596847519214,
+                "normalized_intensity": 73.06623029699509
+            },
+            {
+                "topic": "family",
+                "weighted_count": 1019.66149559642,
+                "normalized_intensity": 63.72884347477625
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 843.0211502998145,
+                "normalized_intensity": 52.68882189373841
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 471.34000248410223,
+                "normalized_intensity": 29.45875015525639
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 1464.7444323322234,
+                "normalized_intensity": 73.23722161661117
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 1233.3290121794441,
+                "normalized_intensity": 61.666450608972205
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 615.9331454138447,
+                "normalized_intensity": 30.796657270692236
+            },
+            {
+                "topic": "family",
+                "weighted_count": 485.48635272990145,
+                "normalized_intensity": 24.274317636495073
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 203.9118964387916,
+                "normalized_intensity": 10.19559482193958
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 92,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 5834.8886886980545,
+                "normalized_intensity": 63.42270313802233
+            },
+            {
+                "topic": "education",
+                "weighted_count": 5536.559891441212,
+                "normalized_intensity": 60.179998820013175
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 5487.502036705069,
+                "normalized_intensity": 59.64676126853336
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 100.21084590577922,
+                "normalized_intensity": 1.0892483250628175
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 46,
+        "topics": [
+            {
+                "topic": "yukon",
+                "weighted_count": 2948.4153489505757,
+                "normalized_intensity": 64.09598584675165
+            },
+            {
+                "topic": "education",
+                "weighted_count": 2809.227065230612,
+                "normalized_intensity": 61.07015359196983
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 2712.7112162535054,
+                "normalized_intensity": 58.971982962032726
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.775963685586945,
+                "normalized_intensity": 1.0820861670779771
+            }
+        ]
+    }
+}

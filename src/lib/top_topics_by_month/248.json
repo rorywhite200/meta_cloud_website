@@ -1,0 +1,97 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 134.18135984405257,
+                "normalized_intensity": 67.09067992202628
+            },
+            {
+                "topic": "community",
+                "weighted_count": 105.23197024653396,
+                "normalized_intensity": 52.61598512326698
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 103.29020810737293,
+                "normalized_intensity": 51.64510405368647
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 99.46716324596137,
+                "normalized_intensity": 49.73358162298069
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 174.45425920995683,
+                "normalized_intensity": 87.22712960497842
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 138.74019988108773,
+                "normalized_intensity": 69.37009994054387
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 125.16897097250764,
+                "normalized_intensity": 62.58448548625382
+            },
+            {
+                "topic": "community",
+                "weighted_count": 120.68717740995095,
+                "normalized_intensity": 60.343588704975474
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 109.26122353711523,
+                "normalized_intensity": 54.630611768557614
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 109.02716424409871,
+                "normalized_intensity": 54.51358212204936
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 106.5703724393104,
+                "normalized_intensity": 53.2851862196552
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 106.52210190532655,
+                "normalized_intensity": 53.261050952663275
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 101.74210159230027,
+                "normalized_intensity": 50.871050796150136
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 63.649198493822,
+                "normalized_intensity": 31.824599246911
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 52.75088096988484,
+                "normalized_intensity": 26.37544048494242
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 50.91868044223327,
+                "normalized_intensity": 25.459340221116634
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.24481552361355,
+                "normalized_intensity": 24.622407761806777
+            }
+        ]
+    }
+}

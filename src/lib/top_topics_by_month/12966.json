@@ -1,0 +1,27 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 172.7879022210766,
+                "normalized_intensity": 57.59596740702553
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 152.03481086332155,
+                "normalized_intensity": 50.67827028777385
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 148.95237358652608,
+                "normalized_intensity": 49.650791195508695
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 98.49456904902665,
+                "normalized_intensity": 32.83152301634222
+            }
+        ]
+    }
+}

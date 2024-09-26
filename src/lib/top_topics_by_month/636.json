@@ -1,0 +1,452 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 151.93979050136772,
+                "normalized_intensity": 50.64659683378924
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 127.16294381239175,
+                "normalized_intensity": 42.38764793746392
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 124.75790884418365,
+                "normalized_intensity": 41.58596961472788
+            },
+            {
+                "topic": "food",
+                "weighted_count": 106.74488111258876,
+                "normalized_intensity": 35.581627037529586
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 63.509484979766874,
+                "normalized_intensity": 21.16982832658896
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 57.56244783306328,
+                "normalized_intensity": 19.187482611021093
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 52.792174925530034,
+                "normalized_intensity": 17.597391641843345
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 447.82162048559144,
+                "normalized_intensity": 63.97451721222735
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 445.08545741895625,
+                "normalized_intensity": 63.58363677413661
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 413.95596416199913,
+                "normalized_intensity": 59.13656630885702
+            },
+            {
+                "topic": "family",
+                "weighted_count": 407.48149223543976,
+                "normalized_intensity": 58.21164174791996
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 369.8144514226404,
+                "normalized_intensity": 52.830635917520056
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 345.4645513563185,
+                "normalized_intensity": 49.35207876518836
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 289.05259738862117,
+                "normalized_intensity": 41.29322819837445
+            },
+            {
+                "topic": "food",
+                "weighted_count": 266.48695163657914,
+                "normalized_intensity": 38.0695645195113
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 235.67254887447027,
+                "normalized_intensity": 33.66750698206718
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 217.26494609544645,
+                "normalized_intensity": 31.037849442206635
+            },
+            {
+                "topic": "health",
+                "weighted_count": 168.2027107822498,
+                "normalized_intensity": 24.02895868317854
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 162.62666185379993,
+                "normalized_intensity": 23.23238026482856
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 160.1491333989776,
+                "normalized_intensity": 22.87844762842537
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.56224722135277,
+                "normalized_intensity": 8.651749603050396
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 60.544129155165486,
+                "normalized_intensity": 8.649161307880783
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.20935910105574,
+                "normalized_intensity": 7.315622728722248
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.383963028427665,
+                "normalized_intensity": 7.054851861203952
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 244.0725535901936,
+                "normalized_intensity": 61.0181383975484
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 175.64088235571236,
+                "normalized_intensity": 43.91022058892809
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 139.2602984712496,
+                "normalized_intensity": 34.8150746178124
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 103.59645219081234,
+                "normalized_intensity": 25.899113047703086
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 101.01223589403561,
+                "normalized_intensity": 25.253058973508903
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 99.55759173562423,
+                "normalized_intensity": 24.889397933906057
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 68.54654104568063,
+                "normalized_intensity": 17.136635261420157
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 52.26855140935315,
+                "normalized_intensity": 13.067137852338288
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 49.70691618201472,
+                "normalized_intensity": 12.42672904550368
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.00218453584013,
+                "normalized_intensity": 12.250546133960032
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 140.19909616856077,
+                "normalized_intensity": 70.09954808428039
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 135.34792621768796,
+                "normalized_intensity": 67.67396310884398
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 122.43739171806607,
+                "normalized_intensity": 61.21869585903303
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 110.09195559101732,
+                "normalized_intensity": 55.04597779550866
+            },
+            {
+                "topic": "business",
+                "weighted_count": 53.056825444087785,
+                "normalized_intensity": 26.528412722043893
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.79822609540617,
+                "normalized_intensity": 25.899113047703086
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.778795867812114,
+                "normalized_intensity": 24.889397933906057
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 1028.969148818711,
+                "normalized_intensity": 51.44845744093554
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 977.988409214599,
+                "normalized_intensity": 48.89942046072995
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 747.0188997802115,
+                "normalized_intensity": 37.35094498901058
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 732.6206524159592,
+                "normalized_intensity": 36.63103262079796
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 504.54347910712863,
+                "normalized_intensity": 25.22717395535643
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 493.3920258757191,
+                "normalized_intensity": 24.669601293785956
+            },
+            {
+                "topic": "family",
+                "weighted_count": 469.44477203505363,
+                "normalized_intensity": 23.472238601752682
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 334.2050235600574,
+                "normalized_intensity": 16.71025117800287
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 331.9772793885325,
+                "normalized_intensity": 16.598863969426624
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 326.4414771929545,
+                "normalized_intensity": 16.322073859647723
+            },
+            {
+                "topic": "health",
+                "weighted_count": 287.44737545222813,
+                "normalized_intensity": 14.372368772611406
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 243.6919062618457,
+                "normalized_intensity": 12.184595313092284
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 232.3985993040386,
+                "normalized_intensity": 11.61992996520193
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 203.40410062820638,
+                "normalized_intensity": 10.170205031410319
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 152.7835280943671,
+                "normalized_intensity": 7.639176404718356
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 131.50902252730188,
+                "normalized_intensity": 6.575451126365094
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 125.15418045649935,
+                "normalized_intensity": 6.257709022824967
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 123.02793210670713,
+                "normalized_intensity": 6.151396605335356
+            },
+            {
+                "topic": "food",
+                "weighted_count": 121.83435815284204,
+                "normalized_intensity": 6.091717907642102
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 117.45877582466942,
+                "normalized_intensity": 5.872938791233471
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 117.02336878905366,
+                "normalized_intensity": 5.8511684394526835
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 114.1646719425731,
+                "normalized_intensity": 5.708233597128655
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 112.70842247691293,
+                "normalized_intensity": 5.635421123845647
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 106.23139483330561,
+                "normalized_intensity": 5.311569741665281
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 102.37478760679114,
+                "normalized_intensity": 5.118739380339557
+            },
+            {
+                "topic": "community",
+                "weighted_count": 99.3735324262454,
+                "normalized_intensity": 4.96867662131227
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 98.58486853230755,
+                "normalized_intensity": 4.929243426615377
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 134.60685412704748,
+                "normalized_intensity": 67.30342706352374
+            },
+            {
+                "topic": "family",
+                "weighted_count": 127.76233295779186,
+                "normalized_intensity": 63.88116647889593
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 127.54064683520205,
+                "normalized_intensity": 63.77032341760103
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 62.57709022824967,
+                "normalized_intensity": 31.288545114124837
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 61.51396605335356,
+                "normalized_intensity": 30.75698302667678
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 61.34115272882802,
+                "normalized_intensity": 30.67057636441401
+            },
+            {
+                "topic": "food",
+                "weighted_count": 60.91717907642102,
+                "normalized_intensity": 30.45858953821051
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 60.58139816488467,
+                "normalized_intensity": 30.290699082442334
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 58.960509639471766,
+                "normalized_intensity": 29.480254819735883
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 58.72938791233471,
+                "normalized_intensity": 29.364693956167354
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.9058055498248,
+                "normalized_intensity": 28.9529027749124
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 57.08233597128655,
+                "normalized_intensity": 28.541167985643273
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 56.354211238456465,
+                "normalized_intensity": 28.177105619228232
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.269530543673675,
+                "normalized_intensity": 27.134765271836837
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 51.18739380339557,
+                "normalized_intensity": 25.593696901697786
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 50.422975328510056,
+                "normalized_intensity": 25.211487664255028
+            }
+        ]
+    }
+}

@@ -1,0 +1,342 @@
+{
+    "2024-04": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1256.931688411097,
+                "normalized_intensity": 62.84658442055485
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1140.70375032658,
+                "normalized_intensity": 57.035187516328996
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 981.8208114658555,
+                "normalized_intensity": 49.09104057329277
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 931.779896111632,
+                "normalized_intensity": 46.5889948055816
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 638.1557939389114,
+                "normalized_intensity": 31.90778969694557
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 196.02039494471856,
+                "normalized_intensity": 9.801019747235928
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 104.20210485924497,
+                "normalized_intensity": 5.210105242962248
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.643287427509506,
+                "normalized_intensity": 2.4821643713754753
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "public-health",
+                "weighted_count": 146.31805367846653,
+                "normalized_intensity": 36.57951341961663
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 136.4357519299451,
+                "normalized_intensity": 34.108937982486275
+            },
+            {
+                "topic": "education",
+                "weighted_count": 132.56004308488428,
+                "normalized_intensity": 33.14001077122107
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 120.30061033615765,
+                "normalized_intensity": 30.07515258403941
+            },
+            {
+                "topic": "health",
+                "weighted_count": 114.07930565587057,
+                "normalized_intensity": 28.519826413967643
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 105.27395134531437,
+                "normalized_intensity": 26.318487836328593
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 99.91217899550463,
+                "normalized_intensity": 24.978044748876158
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 204.2723957543617,
+                "normalized_intensity": 68.09079858478724
+            },
+            {
+                "topic": "community",
+                "weighted_count": 170.46720551862967,
+                "normalized_intensity": 56.822401839543225
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 168.32506078970857,
+                "normalized_intensity": 56.10835359656952
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 157.46302051443283,
+                "normalized_intensity": 52.48767350481094
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 118.98911506356102,
+                "normalized_intensity": 39.66303835452034
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 100.36779463712267,
+                "normalized_intensity": 33.45593154570756
+            },
+            {
+                "topic": "health",
+                "weighted_count": 66.72439702551105,
+                "normalized_intensity": 22.24146567517035
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 63.61111440989953,
+                "normalized_intensity": 21.203704803299843
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 58.727554451912454,
+                "normalized_intensity": 19.57585148397082
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 53.20339045339668,
+                "normalized_intensity": 17.73446348446556
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 51.46877338125342,
+                "normalized_intensity": 17.15625779375114
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.73034839989343,
+                "normalized_intensity": 16.91011613329781
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 50.48918077245362,
+                "normalized_intensity": 16.829726924151206
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.24804754680209,
+                "normalized_intensity": 16.41601584893403
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 678.4067794559792,
+                "normalized_intensity": 52.18513688122917
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 481.81012102672923,
+                "normalized_intensity": 37.0623170020561
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 260.0421305230445,
+                "normalized_intensity": 20.00324080946496
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 248.70807683343497,
+                "normalized_intensity": 19.131390525648843
+            },
+            {
+                "topic": "food",
+                "weighted_count": 222.8679913435529,
+                "normalized_intensity": 17.14369164181176
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 180.18930553959933,
+                "normalized_intensity": 13.86071581073841
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 132.49030764522556,
+                "normalized_intensity": 10.191562126555812
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 126.95203165384895,
+                "normalized_intensity": 9.765540896449918
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.39198999139568,
+                "normalized_intensity": 4.876306922415052
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.11139137959605,
+                "normalized_intensity": 3.8547224138150806
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 2252.949537193521,
+                "normalized_intensity": 70.40467303729753
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 1282.4532604426765,
+                "normalized_intensity": 40.07666438883364
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 591.9993403492699,
+                "normalized_intensity": 18.499979385914685
+            },
+            {
+                "topic": "music",
+                "weighted_count": 590.8723477975186,
+                "normalized_intensity": 18.464760868672457
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 567.9878104133818,
+                "normalized_intensity": 17.74961907541818
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 506.384120081458,
+                "normalized_intensity": 15.824503752545562
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 490.41681625502184,
+                "normalized_intensity": 15.325525507969433
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 487.7179327790957,
+                "normalized_intensity": 15.24118539934674
+            },
+            {
+                "topic": "community",
+                "weighted_count": 475.83655232939935,
+                "normalized_intensity": 14.86989226029373
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 454.1108924986987,
+                "normalized_intensity": 14.190965390584335
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 360.52272021472,
+                "normalized_intensity": 11.26633500671
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 341.4157926574046,
+                "normalized_intensity": 10.669243520543894
+            },
+            {
+                "topic": "health",
+                "weighted_count": 304.0734240562582,
+                "normalized_intensity": 9.502294501758069
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 303.21098705870315,
+                "normalized_intensity": 9.475343345584474
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 266.97513265313273,
+                "normalized_intensity": 8.342972895410398
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 252.84395842249504,
+                "normalized_intensity": 7.90137370070297
+            },
+            {
+                "topic": "history",
+                "weighted_count": 209.87103431807708,
+                "normalized_intensity": 6.558469822439909
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 123.00137621082436,
+                "normalized_intensity": 3.8437930065882613
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 118.62489436052314,
+                "normalized_intensity": 3.7070279487663482
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 107.25800054286324,
+                "normalized_intensity": 3.3518125169644764
+            },
+            {
+                "topic": "family",
+                "weighted_count": 104.17216969171459,
+                "normalized_intensity": 3.255380302866081
+            },
+            {
+                "topic": "art",
+                "weighted_count": 101.13633566196947,
+                "normalized_intensity": 3.160510489436546
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 100.6780881019941,
+                "normalized_intensity": 3.146190253187316
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 99.64266891404881,
+                "normalized_intensity": 3.1138334035640254
+            }
+        ]
+    }
+}

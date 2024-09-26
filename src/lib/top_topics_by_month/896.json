@@ -1,0 +1,52 @@
+{
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 123.89286699879446,
+                "normalized_intensity": 41.29762233293149
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 120.03618791702159,
+                "normalized_intensity": 40.0120626390072
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 109.09268927348437,
+                "normalized_intensity": 36.36422975782812
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 108.78642822736032,
+                "normalized_intensity": 36.26214274245344
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 60.72398709591334,
+                "normalized_intensity": 20.241329031971112
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 55.34220548637847,
+                "normalized_intensity": 18.447401828792824
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 52.36646351201425,
+                "normalized_intensity": 17.455487837338083
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.606743143378054,
+                "normalized_intensity": 17.20224771445935
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 50.00995666835713,
+                "normalized_intensity": 16.66998555611904
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 129.72704560880752,
+                "normalized_intensity": 43.24234853626917
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 102.67474021019459,
+                "normalized_intensity": 34.2249134033982
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 60.35328009346682,
+                "normalized_intensity": 20.11776003115561
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.143575505374756,
+                "normalized_intensity": 19.38119183512492
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.660143115590635,
+                "normalized_intensity": 18.886714371863544
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 53.24301456306405,
+                "normalized_intensity": 17.74767152102135
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 163.27852754711887,
+                "normalized_intensity": 54.42617584903962
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 54.20425805748277,
+                "normalized_intensity": 18.068086019160923
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.347169263873596,
+                "normalized_intensity": 16.4490564212912
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 49.19603041629076,
+                "normalized_intensity": 49.19603041629076
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.36972001567203,
+                "normalized_intensity": 66.36972001567203
+            }
+        ]
+    }
+}

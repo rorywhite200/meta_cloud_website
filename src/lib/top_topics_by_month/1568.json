@@ -1,0 +1,122 @@
+{
+    "2023-10": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 622.4294351904556,
+                "normalized_intensity": 62.24294351904556
+            },
+            {
+                "topic": "health",
+                "weighted_count": 525.903369341613,
+                "normalized_intensity": 52.5903369341613
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 198.39976200384837,
+                "normalized_intensity": 19.839976200384836
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 154.11379796970462,
+                "normalized_intensity": 15.411379796970461
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 49.007955398227686,
+                "normalized_intensity": 4.900795539822768
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 123.84666865417196,
+                "normalized_intensity": 61.92333432708598
+            },
+            {
+                "topic": "health",
+                "weighted_count": 110.34563203174267,
+                "normalized_intensity": 55.172816015871334
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 63.31212856362982,
+                "normalized_intensity": 31.65606428181491
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 61.13632524477784,
+                "normalized_intensity": 30.56816262238892
+            },
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 54.82895898157826,
+                "normalized_intensity": 27.41447949078913
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 53.8371860155827,
+                "normalized_intensity": 26.91859300779135
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.8277023916926,
+                "normalized_intensity": 26.9138511958463
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.98754029314125,
+                "normalized_intensity": 25.993770146570625
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.75537642303992,
+                "normalized_intensity": 24.87768821151996
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 341.6977393842598,
+                "normalized_intensity": 68.33954787685197
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 289.39369123117336,
+                "normalized_intensity": 57.878738246234676
+            },
+            {
+                "topic": "health",
+                "weighted_count": 278.60316504039673,
+                "normalized_intensity": 55.720633008079346
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 259.9136415765097,
+                "normalized_intensity": 51.98272831530194
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 64.71363103566284,
+                "normalized_intensity": 12.94272620713257
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.67257579651019,
+                "normalized_intensity": 10.134515159302037
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.470831981130935,
+                "normalized_intensity": 10.094166396226187
+            }
+        ]
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "trade-policy",
+                "weighted_count": 102.20840770148911,
+                "normalized_intensity": 51.104203850744554
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 771.9506245750179,
+                "normalized_intensity": 42.88614580972322
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 664.9332971628314,
+                "normalized_intensity": 36.94073873126841
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 196.55231123336915,
+                "normalized_intensity": 10.919572846298287
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 120.98014597020389,
+                "normalized_intensity": 6.721119220566883
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 105.28784676933857,
+                "normalized_intensity": 5.8493248205188095
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 61.20940822392094,
+                "normalized_intensity": 3.400522679106719
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 60.5998928970399,
+                "normalized_intensity": 3.3666607165022167
+            },
+            {
+                "topic": "food",
+                "weighted_count": 59.706665648063286,
+                "normalized_intensity": 3.3170369804479605
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 57.67190740846715,
+                "normalized_intensity": 3.2039948560259526
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 55.20320599010957,
+                "normalized_intensity": 3.06684477722831
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 52.81107810297906,
+                "normalized_intensity": 2.9339487834988365
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.43606706099809,
+                "normalized_intensity": 2.9131148367221162
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.8996977616985,
+                "normalized_intensity": 2.7722054312054722
+            },
+            {
+                "topic": "business",
+                "weighted_count": 49.85104782446611,
+                "normalized_intensity": 2.7695026569147836
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "digital-economy",
+                "weighted_count": 703.7454292365554,
+                "normalized_intensity": 54.134263787427344
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 666.3469186073256,
+                "normalized_intensity": 51.257455277486585
+            },
+            {
+                "topic": "business",
+                "weighted_count": 635.2886389054308,
+                "normalized_intensity": 48.86835683887929
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 442.54127496473814,
+                "normalized_intensity": 34.041636535749085
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 194.67330184046534,
+                "normalized_intensity": 14.974869372343488
+            },
+            {
+                "topic": "science",
+                "weighted_count": 177.4252758409757,
+                "normalized_intensity": 13.648098141613515
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 173.25458385511092,
+                "normalized_intensity": 13.327275681162378
+            },
+            {
+                "topic": "television",
+                "weighted_count": 164.71939003809865,
+                "normalized_intensity": 12.670722310622974
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 159.0974874415084,
+                "normalized_intensity": 12.238268264731415
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 158.12140756820585,
+                "normalized_intensity": 12.163185197554297
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 157.94107025742812,
+                "normalized_intensity": 12.14931309672524
+            },
+            {
+                "topic": "technology",
+                "weighted_count": 156.79698864247405,
+                "normalized_intensity": 12.06130681865185
+            },
+            {
+                "topic": "education",
+                "weighted_count": 155.92242501652055,
+                "normalized_intensity": 11.994032693578504
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 151.12514925066793,
+                "normalized_intensity": 11.62501148082061
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 150.4488402792481,
+                "normalized_intensity": 11.572987713788315
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 121.07129326819047,
+                "normalized_intensity": 9.313176405245422
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.83615295148546,
+                "normalized_intensity": 8.14124253472965
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 59.59976384697852,
+                "normalized_intensity": 4.584597218998348
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 59.08535340197345,
+                "normalized_intensity": 4.545027184767188
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 59.006208274533456,
+                "normalized_intensity": 4.538939098041035
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 57.60111776526525,
+                "normalized_intensity": 4.430855212712712
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 55.17662120252076,
+                "normalized_intensity": 4.244355477116981
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.29298623817017,
+                "normalized_intensity": 4.022537402936167
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.5165307262227,
+                "normalized_intensity": 3.9628100558632844
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.18202963885532,
+                "normalized_intensity": 3.7832330491427166
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 187.2006658069128,
+                "normalized_intensity": 46.8001664517282
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 176.0339521002321,
+                "normalized_intensity": 44.00848802505803
+            },
+            {
+                "topic": "business",
+                "weighted_count": 161.91460055096417,
+                "normalized_intensity": 40.47865013774104
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 125.73807010911909,
+                "normalized_intensity": 31.434517527279773
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 110.30668975047078,
+                "normalized_intensity": 27.576672437617695
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 108.41089010312157,
+                "normalized_intensity": 27.102722525780393
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 106.76827606923467,
+                "normalized_intensity": 26.69206901730867
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 105.43680327513343,
+                "normalized_intensity": 26.359200818783357
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 59.59976384697852,
+                "normalized_intensity": 14.89994096174463
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 58.58355755251859,
+                "normalized_intensity": 14.645889388129648
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 57.60111776526525,
+                "normalized_intensity": 14.400279441316313
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.29298623817017,
+                "normalized_intensity": 13.073246559542543
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.5165307262227,
+                "normalized_intensity": 12.879132681555674
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.18202963885532,
+                "normalized_intensity": 12.29550740971383
+            }
+        ]
+    }
+}

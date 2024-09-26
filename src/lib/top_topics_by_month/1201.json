@@ -1,0 +1,32 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 140.36180311481615,
+                "normalized_intensity": 70.18090155740808
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 115.85994315199464,
+                "normalized_intensity": 57.92997157599732
+            },
+            {
+                "topic": "community",
+                "weighted_count": 110.24253248148081,
+                "normalized_intensity": 55.121266240740404
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 106.70188659359191,
+                "normalized_intensity": 53.350943296795954
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.948621749519475,
+                "normalized_intensity": 25.474310874759738
+            }
+        ]
+    }
+}

@@ -1,0 +1,292 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 256.2390662598898,
+                "normalized_intensity": 64.05976656497245
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 241.03805444938916,
+                "normalized_intensity": 60.25951361234729
+            },
+            {
+                "topic": "community",
+                "weighted_count": 103.64619888424502,
+                "normalized_intensity": 25.911549721061256
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 63.55254799950063,
+                "normalized_intensity": 15.888136999875158
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 289.98812205102024,
+                "normalized_intensity": 72.49703051275506
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 257.73672964997365,
+                "normalized_intensity": 64.43418241249341
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 79.08295102335673,
+                "normalized_intensity": 19.770737755839182
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 62.59928463415832,
+                "normalized_intensity": 15.64982115853958
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.80843751342527,
+                "normalized_intensity": 13.702109378356317
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 583.9723501794817,
+                "normalized_intensity": 64.88581668660908
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 541.9411745679608,
+                "normalized_intensity": 60.21568606310676
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 199.49090034112393,
+                "normalized_intensity": 22.165655593458215
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 75.27623513375791,
+                "normalized_intensity": 8.364026125973101
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 62.59928463415832,
+                "normalized_intensity": 6.955476070462036
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.77492330860425,
+                "normalized_intensity": 5.974991478733806
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.84107295815464,
+                "normalized_intensity": 5.760119217572738
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 50.24760989744518,
+                "normalized_intensity": 5.583067766382798
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 300.04189576072235,
+                "normalized_intensity": 50.00698262678706
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 132.32917218576844,
+                "normalized_intensity": 22.054862030961406
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 124.6532366544962,
+                "normalized_intensity": 20.775539442416033
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 112.84346301892566,
+                "normalized_intensity": 18.80724383648761
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 108.48716602438999,
+                "normalized_intensity": 18.081194337398333
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.28367671337126,
+                "normalized_intensity": 17.047279452228544
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 66.65004043680369,
+                "normalized_intensity": 11.108340072800615
+            },
+            {
+                "topic": "history",
+                "weighted_count": 60.39403176262,
+                "normalized_intensity": 10.065671960436667
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 56.812560690303215,
+                "normalized_intensity": 9.468760115050536
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.83533313780292,
+                "normalized_intensity": 8.972555522967154
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.49293715052905,
+                "normalized_intensity": 8.415489525088175
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 322.4353698311148,
+                "normalized_intensity": 53.739228305185804
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 314.3760238513363,
+                "normalized_intensity": 52.39600397522272
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 200.27507700570112,
+                "normalized_intensity": 33.37917950095019
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 73.92320545676262,
+                "normalized_intensity": 12.32053424279377
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 70.48083052846901,
+                "normalized_intensity": 11.746805088078169
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 60.01262676084126,
+                "normalized_intensity": 10.00210446014021
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 58.67068120550451,
+                "normalized_intensity": 9.778446867584085
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 55.150899572161606,
+                "normalized_intensity": 9.191816595360267
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.47117632979213,
+                "normalized_intensity": 8.245196054965355
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "prince edward island",
+                "weighted_count": 72.84287181897014,
+                "normalized_intensity": 72.84287181897014
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 50.53547543803237,
+                "normalized_intensity": 50.53547543803237
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 124.62463919736979,
+                "normalized_intensity": 62.312319598684894
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 113.06340125078721,
+                "normalized_intensity": 56.531700625393604
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 60.33066153480229,
+                "normalized_intensity": 30.165330767401144
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 281.19641927674724,
+                "normalized_intensity": 70.29910481918681
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 246.24213977080953,
+                "normalized_intensity": 61.56053494270238
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 60.58032030288778,
+                "normalized_intensity": 15.145080075721944
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 60.53167392110888,
+                "normalized_intensity": 15.13291848027722
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.57289587722365,
+                "normalized_intensity": 12.393223969305913
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 58.97541615216453,
+                "normalized_intensity": 58.97541615216453
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 53.76112025050418,
+                "normalized_intensity": 53.76112025050418
+            }
+        ]
+    }
+}

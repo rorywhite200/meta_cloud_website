@@ -1,0 +1,182 @@
+{
+    "2024-05": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 1320.8533821744659,
+                "normalized_intensity": 62.897780103546
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1196.7586415865615,
+                "normalized_intensity": 56.98850674221721
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1172.3074553124093,
+                "normalized_intensity": 55.824164538686155
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 386.52897709128973,
+                "normalized_intensity": 18.406141766251892
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 218.14070953670864,
+                "normalized_intensity": 10.387652835081363
+            },
+            {
+                "topic": "education",
+                "weighted_count": 215.12849027014767,
+                "normalized_intensity": 10.244213822387984
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 214.55769075357932,
+                "normalized_intensity": 10.217032893027588
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 207.54179235667803,
+                "normalized_intensity": 9.882942493175145
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 360.7521320255591,
+                "normalized_intensity": 60.125355337593184
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 356.46971891241276,
+                "normalized_intensity": 59.41161981873546
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 350.3897402750308,
+                "normalized_intensity": 58.39829004583847
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.58524466543332,
+                "normalized_intensity": 8.264207444238886
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 30,
+        "topics": [
+            {
+                "topic": "disability",
+                "weighted_count": 1882.2002780460864,
+                "normalized_intensity": 62.74000926820288
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1708.0991961698364,
+                "normalized_intensity": 56.93663987232788
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1693.9768797843315,
+                "normalized_intensity": 56.46589599281105
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 548.9578148258386,
+                "normalized_intensity": 18.298593827527952
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 268.4247062612334,
+                "normalized_intensity": 8.94749020870778
+            },
+            {
+                "topic": "education",
+                "weighted_count": 267.6914018450391,
+                "normalized_intensity": 8.92304672816797
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 265.0349599876661,
+                "normalized_intensity": 8.834498666255538
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 257.0232204544128,
+                "normalized_intensity": 8.56744068181376
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 121,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 7144.270868710724,
+                "normalized_intensity": 59.043560898435736
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 6716.667222214127,
+                "normalized_intensity": 55.50964646457956
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 4349.896935630368,
+                "normalized_intensity": 35.949561451490645
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 2293.4302206220214,
+                "normalized_intensity": 18.953968765471252
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1925.0837920939748,
+                "normalized_intensity": 15.909783405735329
+            },
+            {
+                "topic": "education",
+                "weighted_count": 781.226791121325,
+                "normalized_intensity": 6.456419761333265
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 652.574332829884,
+                "normalized_intensity": 5.393176304379207
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 595.5471343512779,
+                "normalized_intensity": 4.921877143398991
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 483.16447127022013,
+                "normalized_intensity": 3.993094803886117
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 477.0629279777991,
+                "normalized_intensity": 3.9426688262628025
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 462.64179681794315,
+                "normalized_intensity": 3.8234859241152326
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 253.90665835608308,
+                "normalized_intensity": 2.0984021351742403
+            }
+        ]
+    }
+}

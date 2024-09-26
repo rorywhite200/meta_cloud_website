@@ -1,0 +1,72 @@
+{
+    "2023-10": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 184.10573710428835,
+                "normalized_intensity": 61.36857903476278
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 108.72867855194322,
+                "normalized_intensity": 36.24289285064774
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.84320512584465,
+                "normalized_intensity": 35.947735041948214
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 64.2144988329435,
+                "normalized_intensity": 21.404832944314503
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 59.29834717418032,
+                "normalized_intensity": 19.766115724726774
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 56.06853205355019,
+                "normalized_intensity": 18.68951068451673
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.13773963385408,
+                "normalized_intensity": 17.379246544618027
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.02359143672404,
+                "normalized_intensity": 17.34119714557468
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 110.10154553582834,
+                "normalized_intensity": 55.05077276791417
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 54.606281298397406,
+                "normalized_intensity": 27.303140649198703
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 52.3086393791126,
+                "normalized_intensity": 26.1543196895563
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.7437146059644,
+                "normalized_intensity": 25.3718573029822
+            }
+        ]
+    }
+}

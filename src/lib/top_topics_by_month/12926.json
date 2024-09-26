@@ -1,0 +1,42 @@
+{
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "prince edward island",
+                "weighted_count": 285.3142870114886,
+                "normalized_intensity": 95.10476233716287
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 174.9723710218713,
+                "normalized_intensity": 58.324123673957104
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 174.70086895567354,
+                "normalized_intensity": 58.233622985224514
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 160.59757287671997,
+                "normalized_intensity": 53.53252429223999
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 158.8540385329137,
+                "normalized_intensity": 52.9513461776379
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 107.69484814950896,
+                "normalized_intensity": 35.89828271650298
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.17763914192173,
+                "normalized_intensity": 18.72587971397391
+            }
+        ]
+    }
+}

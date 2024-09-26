@@ -1,0 +1,67 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 126.59822632412993,
+                "normalized_intensity": 63.29911316206496
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 119.58851871627087,
+                "normalized_intensity": 59.794259358135434
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 100.0325646674197,
+                "normalized_intensity": 50.01628233370985
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 99.56573771742563,
+                "normalized_intensity": 49.78286885871282
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 98.76918183760755,
+                "normalized_intensity": 49.384590918803774
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 98.4946356159882,
+                "normalized_intensity": 49.2473178079941
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 130.57827486476364,
+                "normalized_intensity": 65.28913743238182
+            },
+            {
+                "topic": "health",
+                "weighted_count": 129.43156277682832,
+                "normalized_intensity": 64.71578138841416
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 107.49048846162555,
+                "normalized_intensity": 53.74524423081277
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 101.12993597424061,
+                "normalized_intensity": 50.564967987120305
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 98.40735194027187,
+                "normalized_intensity": 49.20367597013593
+            }
+        ]
+    }
+}

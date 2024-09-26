@@ -1,0 +1,207 @@
+{
+    "2023-09": {
+        "total_ads": 23,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 1340.6881540403792,
+                "normalized_intensity": 58.29078930610344
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 1321.3768242065917,
+                "normalized_intensity": 57.45116626985181
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 680.4925601770602,
+                "normalized_intensity": 29.58663305117653
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 503.46069150409534,
+                "normalized_intensity": 21.889595282786754
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 331.4903262937468,
+                "normalized_intensity": 14.412622882336818
+            },
+            {
+                "topic": "community",
+                "weighted_count": 256.84065816041584,
+                "normalized_intensity": 11.166985137409384
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 251.2320494984516,
+                "normalized_intensity": 10.9231325868892
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 520.1888066424036,
+                "normalized_intensity": 57.798756293600405
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 515.6453682567311,
+                "normalized_intensity": 57.29392980630345
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 314.43727973740573,
+                "normalized_intensity": 34.937475526378414
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 200.70313987343576,
+                "normalized_intensity": 22.300348874826195
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 132.59613051749872,
+                "normalized_intensity": 14.732903390833192
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 99.74645303162063,
+                "normalized_intensity": 11.082939225735625
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.36813163208317,
+                "normalized_intensity": 5.707570181342574
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 346.41777789832554,
+                "normalized_intensity": 57.73629631638759
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 344.3058202875508,
+                "normalized_intensity": 57.38430338125846
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 161.31690286180586,
+                "normalized_intensity": 26.886150476967643
+            },
+            {
+                "topic": "community",
+                "weighted_count": 154.1043212490564,
+                "normalized_intensity": 25.6840535415094
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 286.2318274000992,
+                "normalized_intensity": 57.24636548001983
+            },
+            {
+                "topic": "education",
+                "weighted_count": 285.7336286480782,
+                "normalized_intensity": 57.14672572961564
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 161.76604813785568,
+                "normalized_intensity": 32.35320962757113
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.7362141660376,
+                "normalized_intensity": 20.54724283320752
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 22,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 1162.0127060134732,
+                "normalized_intensity": 52.818759364248784
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 1131.288490445528,
+                "normalized_intensity": 51.42220411116036
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 684.8127805478994,
+                "normalized_intensity": 31.12785366126815
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 198.66539967549028,
+                "normalized_intensity": 9.030245439795012
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 168.17785336673603,
+                "normalized_intensity": 56.05928445557868
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 164.45676994591298,
+                "normalized_intensity": 54.818923315304325
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 104.85777882704234,
+                "normalized_intensity": 34.952592942347444
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 60.42949669717582,
+                "normalized_intensity": 20.143165565725273
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 536.0056934184181,
+                "normalized_intensity": 53.60056934184181
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 520.0477308732072,
+                "normalized_intensity": 52.00477308732072
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 367.19750919765715,
+                "normalized_intensity": 36.719750919765715
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 198.66539967549028,
+                "normalized_intensity": 19.866539967549027
+            }
+        ]
+    }
+}

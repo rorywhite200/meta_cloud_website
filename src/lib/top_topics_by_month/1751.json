@@ -1,0 +1,32 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 128.5657822866226,
+                "normalized_intensity": 64.2828911433113
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 120.7392062009751,
+                "normalized_intensity": 60.36960310048755
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 64.86132622892487,
+                "normalized_intensity": 32.43066311446243
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.64353723769357,
+                "normalized_intensity": 27.821768618846786
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 50.27897006988409,
+                "normalized_intensity": 25.139485034942044
+            }
+        ]
+    }
+}

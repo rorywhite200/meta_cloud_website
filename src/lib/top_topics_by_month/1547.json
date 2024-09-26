@@ -1,0 +1,82 @@
+{
+    "2023-12": {
+        "total_ads": 27,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 1708.6390848126498,
+                "normalized_intensity": 63.28292906713518
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 939.2852101497967,
+                "normalized_intensity": 34.78834111665914
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 841.8628477092257,
+                "normalized_intensity": 31.18010547071206
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 727.3153893676497,
+                "normalized_intensity": 26.937607013616656
+            },
+            {
+                "topic": "family",
+                "weighted_count": 715.7945188180089,
+                "normalized_intensity": 26.5109081043707
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 607.284456083567,
+                "normalized_intensity": 22.492016891983962
+            },
+            {
+                "topic": "health",
+                "weighted_count": 465.17107113640725,
+                "normalized_intensity": 17.228558190237305
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 409.35839337091073,
+                "normalized_intensity": 15.161421976700398
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 407.07716297828057,
+                "normalized_intensity": 15.07693196215854
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 372.2479353034221,
+                "normalized_intensity": 13.786960566793411
+            },
+            {
+                "topic": "community",
+                "weighted_count": 227.94385628977713,
+                "normalized_intensity": 8.442365047769524
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 202.9679920686399,
+                "normalized_intensity": 7.517333039579255
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 201.88409329047707,
+                "normalized_intensity": 7.477188640388039
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 99.96714108469962,
+                "normalized_intensity": 3.702486706840727
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.98765847298783,
+                "normalized_intensity": 1.8513947582588086
+            }
+        ]
+    }
+}

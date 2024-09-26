@@ -1,0 +1,22 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "social justice",
+                "weighted_count": 62.57944545907355,
+                "normalized_intensity": 62.57944545907355
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 61.685914375778296,
+                "normalized_intensity": 61.685914375778296
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.77185940750833,
+                "normalized_intensity": 54.77185940750833
+            }
+        ]
+    }
+}

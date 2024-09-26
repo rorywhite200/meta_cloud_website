@@ -1,0 +1,62 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 67.6505703878826,
+                "normalized_intensity": 67.6505703878826
+            },
+            {
+                "topic": "education",
+                "weighted_count": 55.746493702472655,
+                "normalized_intensity": 55.746493702472655
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 55.26553578561243,
+                "normalized_intensity": 55.26553578561243
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.680315946458485,
+                "normalized_intensity": 50.680315946458485
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 130.01915033444382,
+                "normalized_intensity": 65.00957516722191
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 122.60694927522596,
+                "normalized_intensity": 61.30347463761298
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 121.86150205661255,
+                "normalized_intensity": 60.930751028306275
+            },
+            {
+                "topic": "family",
+                "weighted_count": 119.071355200918,
+                "normalized_intensity": 59.535677600459
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.22169032582747,
+                "normalized_intensity": 53.11084516291373
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 104.60311014538925,
+                "normalized_intensity": 52.301555072694626
+            }
+        ]
+    }
+}

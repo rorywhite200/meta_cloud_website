@@ -1,0 +1,27 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 66.13899131387585,
+                "normalized_intensity": 66.13899131387585
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 55.06337379886942,
+                "normalized_intensity": 55.06337379886942
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.37154266835914,
+                "normalized_intensity": 50.37154266835914
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.17296064811845,
+                "normalized_intensity": 49.17296064811845
+            }
+        ]
+    }
+}

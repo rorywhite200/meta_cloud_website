@@ -1,0 +1,112 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "manitoba",
+                "weighted_count": 61.26952006023178,
+                "normalized_intensity": 61.26952006023178
+            },
+            {
+                "topic": "health",
+                "weighted_count": 54.39487830718397,
+                "normalized_intensity": 54.39487830718397
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.32857524732462,
+                "normalized_intensity": 49.32857524732462
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 74.22494739651663,
+                "normalized_intensity": 74.22494739651663
+            },
+            {
+                "topic": "health",
+                "weighted_count": 58.71021280602997,
+                "normalized_intensity": 58.71021280602997
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 81.92373833152284,
+                "normalized_intensity": 81.92373833152284
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 155.09892659216024,
+                "normalized_intensity": 38.77473164804006
+            },
+            {
+                "topic": "family",
+                "weighted_count": 106.6467261765668,
+                "normalized_intensity": 26.6616815441417
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 105.6819255647935,
+                "normalized_intensity": 26.420481391198376
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 103.68961409856776,
+                "normalized_intensity": 25.92240352464194
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 100.96112962717443,
+                "normalized_intensity": 25.240282406793607
+            },
+            {
+                "topic": "health",
+                "weighted_count": 99.52648038801168,
+                "normalized_intensity": 24.88162009700292
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 69.40327361773424,
+                "normalized_intensity": 69.40327361773424
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 56.063753566946396,
+                "normalized_intensity": 56.063753566946396
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 51.066527214080224,
+                "normalized_intensity": 51.066527214080224
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 50.84826780173793,
+                "normalized_intensity": 50.84826780173793
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.35517009244684,
+                "normalized_intensity": 50.35517009244684
+            }
+        ]
+    }
+}

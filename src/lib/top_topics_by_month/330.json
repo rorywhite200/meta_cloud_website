@@ -1,0 +1,662 @@
+{
+    "2024-03": {
+        "total_ads": 73,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 5027.0478864840015,
+                "normalized_intensity": 68.86366967786303
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 4517.895792433501,
+                "normalized_intensity": 61.88898345799316
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 3987.908139127361,
+                "normalized_intensity": 54.62887861818303
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 3645.608221930049,
+                "normalized_intensity": 49.93983865657601
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 3424.2494111733104,
+                "normalized_intensity": 46.90752618045631
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 2635.474730905967,
+                "normalized_intensity": 36.10239357405435
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1092.5217485717856,
+                "normalized_intensity": 14.966051350298432
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 1050.1898284503964,
+                "normalized_intensity": 14.386162033567073
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 957.421301490794,
+                "normalized_intensity": 13.115360294394439
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 942.8861455273955,
+                "normalized_intensity": 12.916248568868431
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 519.3704565405482,
+                "normalized_intensity": 7.114663788226687
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 421.12956430706066,
+                "normalized_intensity": 5.7688981411926115
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 398.5163250792943,
+                "normalized_intensity": 5.45912774081225
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 217.40609699832254,
+                "normalized_intensity": 2.9781657123057883
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 198.25924382326525,
+                "normalized_intensity": 2.7158800523734965
+            },
+            {
+                "topic": "community",
+                "weighted_count": 98.55197343791234,
+                "normalized_intensity": 1.3500270333960593
+            },
+            {
+                "topic": "history",
+                "weighted_count": 69.72029283940144,
+                "normalized_intensity": 0.9550725046493348
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 62.32234612230069,
+                "normalized_intensity": 0.8537307687986395
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 60.7146500625938,
+                "normalized_intensity": 0.8317075351040246
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 60.601625533191815,
+                "normalized_intensity": 0.83015925387934
+            },
+            {
+                "topic": "science",
+                "weighted_count": 59.560561565774904,
+                "normalized_intensity": 0.8158981036407521
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 57.15378362296145,
+                "normalized_intensity": 0.7829285427802938
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 56.5551438122473,
+                "normalized_intensity": 0.7747279974280452
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 55.976571820279105,
+                "normalized_intensity": 0.7668023537024535
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 50.44102920180773,
+                "normalized_intensity": 0.6909730027644895
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 16,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 1139.7125942415507,
+                "normalized_intensity": 71.23203714009692
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 999.2104255748721,
+                "normalized_intensity": 62.45065159842951
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 891.0040764683037,
+                "normalized_intensity": 55.68775477926898
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 877.3699230566385,
+                "normalized_intensity": 54.83562019103991
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 857.1712978464017,
+                "normalized_intensity": 53.573206115400104
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 844.879004751886,
+                "normalized_intensity": 52.804937796992874
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 56.57693221885201,
+                "normalized_intensity": 3.5360582636782505
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 53.07361624087156,
+                "normalized_intensity": 3.3171010150544724
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 52.06904262947123,
+                "normalized_intensity": 3.2543151643419517
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.26408804848678,
+                "normalized_intensity": 3.2040055030304235
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 73.44641254706912,
+                "normalized_intensity": 73.44641254706912
+            },
+            {
+                "topic": "art",
+                "weighted_count": 65.76359664825753,
+                "normalized_intensity": 65.76359664825753
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 63.12758397543624,
+                "normalized_intensity": 63.12758397543624
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 56.717926514913486,
+                "normalized_intensity": 56.717926514913486
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 53.12133737274435,
+                "normalized_intensity": 53.12133737274435
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 51.10159456867971,
+                "normalized_intensity": 51.10159456867971
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.50494991636194,
+                "normalized_intensity": 50.50494991636194
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 61.59621188186988,
+                "normalized_intensity": 61.59621188186988
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.796911727701776,
+                "normalized_intensity": 60.796911727701776
+            },
+            {
+                "topic": "art",
+                "weighted_count": 60.58986424540937,
+                "normalized_intensity": 60.58986424540937
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 59.813451916771996,
+                "normalized_intensity": 59.813451916771996
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 59.550654597121714,
+                "normalized_intensity": 59.550654597121714
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 59.48866089794649,
+                "normalized_intensity": 59.48866089794649
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 59.11422747079186,
+                "normalized_intensity": 59.11422747079186
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.835980154832875,
+                "normalized_intensity": 56.835980154832875
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.86671453348634,
+                "normalized_intensity": 52.86671453348634
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.734706714631564,
+                "normalized_intensity": 52.734706714631564
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.91976425808325,
+                "normalized_intensity": 50.91976425808325
+            },
+            {
+                "topic": "history",
+                "weighted_count": 50.08943988466951,
+                "normalized_intensity": 50.08943988466951
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.906373087105315,
+                "normalized_intensity": 49.906373087105315
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 189.04192410439316,
+                "normalized_intensity": 47.26048102609829
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 185.21326803938177,
+                "normalized_intensity": 46.30331700984544
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 130.82743954731856,
+                "normalized_intensity": 32.70685988682964
+            },
+            {
+                "topic": "art",
+                "weighted_count": 124.35511736831678,
+                "normalized_intensity": 31.088779342079196
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 117.64317689666744,
+                "normalized_intensity": 29.41079422416686
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 117.32327889623555,
+                "normalized_intensity": 29.330819724058887
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 116.80650085061377,
+                "normalized_intensity": 29.201625212653443
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 111.66214280723088,
+                "normalized_intensity": 27.91553570180772
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 106.6488263643265,
+                "normalized_intensity": 26.662206591081624
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.99794884524013,
+                "normalized_intensity": 25.999487211310033
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 102.60731150758438,
+                "normalized_intensity": 25.651827876896096
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 63.14107051364888,
+                "normalized_intensity": 15.78526762841222
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 51.4239569001947,
+                "normalized_intensity": 12.855989225048676
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.627265418346745,
+                "normalized_intensity": 12.656816354586686
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 134.67346989209827,
+                "normalized_intensity": 67.33673494604913
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 111.50820852254571,
+                "normalized_intensity": 55.75410426127286
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 65.16110128636676,
+                "normalized_intensity": 32.58055064318338
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 65.1528601048741,
+                "normalized_intensity": 32.57643005243705
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 65.14576214025485,
+                "normalized_intensity": 32.57288107012742
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 58.89478280557622,
+                "normalized_intensity": 29.44739140278811
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 56.99326438715704,
+                "normalized_intensity": 28.49663219357852
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.37084515367226,
+                "normalized_intensity": 25.68542257683613
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 67.82185880955961,
+                "normalized_intensity": 67.82185880955961
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 66.45929890938783,
+                "normalized_intensity": 66.45929890938783
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 61.81931529091885,
+                "normalized_intensity": 61.81931529091885
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 56.856190198167766,
+                "normalized_intensity": 56.856190198167766
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 54.9273699705731,
+                "normalized_intensity": 54.9273699705731
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.45716572229131,
+                "normalized_intensity": 53.45716572229131
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.03632658041928,
+                "normalized_intensity": 52.03632658041928
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.70609613587782,
+                "normalized_intensity": 50.70609613587782
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 141.98860304998536,
+                "normalized_intensity": 47.32953434999512
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 120.03379501424311,
+                "normalized_intensity": 40.011265004747706
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 66.87925587628115,
+                "normalized_intensity": 22.293085292093718
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 57.4003455752949,
+                "normalized_intensity": 19.1334485250983
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 56.75587435953449,
+                "normalized_intensity": 18.918624786511497
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 54.801984856800566,
+                "normalized_intensity": 18.26732828560019
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 52.42430819498026,
+                "normalized_intensity": 17.474769398326753
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 50.614131178394594,
+                "normalized_intensity": 16.871377059464866
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 459.3711774174457,
+                "normalized_intensity": 51.04124193527175
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 439.0323207866322,
+                "normalized_intensity": 48.78136897629247
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 409.333674926517,
+                "normalized_intensity": 45.48151943627967
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 393.2628107791011,
+                "normalized_intensity": 43.695867864344564
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 392.52027640419294,
+                "normalized_intensity": 43.61336404491033
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 333.35202598080593,
+                "normalized_intensity": 37.039113997867325
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 304.6972674293281,
+                "normalized_intensity": 33.85525193659201
+            },
+            {
+                "topic": "art",
+                "weighted_count": 193.44311291668572,
+                "normalized_intensity": 21.49367921296508
+            },
+            {
+                "topic": "community",
+                "weighted_count": 156.73364878881054,
+                "normalized_intensity": 17.414849865423392
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 109.99793710396206,
+                "normalized_intensity": 12.22199301155134
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 109.60257687733372,
+                "normalized_intensity": 12.178064097481524
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 108.695739912349,
+                "normalized_intensity": 12.077304434705445
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 1046.5200316013172,
+                "normalized_intensity": 58.14000175562873
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 1036.9285186955221,
+                "normalized_intensity": 57.607139927529005
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 940.8028952546557,
+                "normalized_intensity": 52.266827514147536
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 798.0039656205697,
+                "normalized_intensity": 44.33355364558721
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 783.1896413803147,
+                "normalized_intensity": 43.51053563223971
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 658.8686827264914,
+                "normalized_intensity": 36.6038157070273
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 341.3725252428997,
+                "normalized_intensity": 18.965140291272206
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 282.37296568969685,
+                "normalized_intensity": 15.687386982760936
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 252.597345267898,
+                "normalized_intensity": 14.033185848216554
+            },
+            {
+                "topic": "community",
+                "weighted_count": 203.18163239003553,
+                "normalized_intensity": 11.287868466113085
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 197.51101119022601,
+                "normalized_intensity": 10.972833955012556
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 151.46849286887257,
+                "normalized_intensity": 8.41491627049292
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 124.72905517400662,
+                "normalized_intensity": 6.929391954111479
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 101.5864963539929,
+                "normalized_intensity": 5.643694241888494
+            },
+            {
+                "topic": "music",
+                "weighted_count": 63.88616023958945,
+                "normalized_intensity": 3.5492311244216364
+            },
+            {
+                "topic": "art",
+                "weighted_count": 54.121170476288505,
+                "normalized_intensity": 3.006731693127139
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 53.89793874325599,
+                "normalized_intensity": 2.9943299301808883
+            }
+        ]
+    }
+}

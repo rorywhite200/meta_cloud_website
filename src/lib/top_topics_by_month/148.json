@@ -1,0 +1,667 @@
+{
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 85.41501516496186,
+                "normalized_intensity": 85.41501516496186
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 81.94143339958518,
+                "normalized_intensity": 81.94143339958518
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 78.77388512340042,
+                "normalized_intensity": 78.77388512340042
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 62.85339669850439,
+                "normalized_intensity": 62.85339669850439
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 57.75455726813157,
+                "normalized_intensity": 57.75455726813157
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.55451441595821,
+                "normalized_intensity": 52.55451441595821
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.16068162932292,
+                "normalized_intensity": 52.16068162932292
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.034681107046424,
+                "normalized_intensity": 52.034681107046424
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.73776646879685,
+                "normalized_intensity": 49.73776646879685
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 438.7061711702888,
+                "normalized_intensity": 87.74123423405777
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 428.07654241072754,
+                "normalized_intensity": 85.61530848214551
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 407.4752358268504,
+                "normalized_intensity": 81.49504716537008
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 345.4261352417166,
+                "normalized_intensity": 69.08522704834333
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 272.6072429765178,
+                "normalized_intensity": 54.52144859530356
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 264.6666007518814,
+                "normalized_intensity": 52.933320150376275
+            },
+            {
+                "topic": "media",
+                "weighted_count": 232.6502059920929,
+                "normalized_intensity": 46.53004119841858
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 224.28501892052157,
+                "normalized_intensity": 44.857003784104315
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 223.79405815805873,
+                "normalized_intensity": 44.75881163161175
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 212.80507670058893,
+                "normalized_intensity": 42.561015340117784
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 208.64409804504237,
+                "normalized_intensity": 41.728819609008475
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 130.03425290642227,
+                "normalized_intensity": 26.006850581284453
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 110.51302238074354,
+                "normalized_intensity": 22.102604476148706
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 104.55333244420977,
+                "normalized_intensity": 20.910666488841954
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 102.0141460692458,
+                "normalized_intensity": 20.40282921384916
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 100.9862998981702,
+                "normalized_intensity": 20.19725997963404
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 100.24535100309662,
+                "normalized_intensity": 20.049070200619322
+            },
+            {
+                "topic": "science",
+                "weighted_count": 99.56993365677994,
+                "normalized_intensity": 19.913986731355987
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 61.38642551499366,
+                "normalized_intensity": 12.277285102998732
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 52.50424309814339,
+                "normalized_intensity": 10.500848619628679
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 182.3313026527919,
+                "normalized_intensity": 91.16565132639595
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 168.3246377022881,
+                "normalized_intensity": 84.16231885114405
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 153.7220806201516,
+                "normalized_intensity": 76.8610403100758
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 147.68946082717923,
+                "normalized_intensity": 73.84473041358962
+            },
+            {
+                "topic": "media",
+                "weighted_count": 124.25780483300669,
+                "normalized_intensity": 62.128902416503344
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 119.6805900329297,
+                "normalized_intensity": 59.84029501646485
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 108.5080527071774,
+                "normalized_intensity": 54.2540263535887
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 100.86693848053025,
+                "normalized_intensity": 50.433469240265126
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 74.8899167064423,
+                "normalized_intensity": 37.44495835322115
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 61.267882520577835,
+                "normalized_intensity": 30.633941260288918
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 58.15557208431298,
+                "normalized_intensity": 29.07778604215649
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.91998406981582,
+                "normalized_intensity": 27.45999203490791
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.276666222104886,
+                "normalized_intensity": 26.138333111052443
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 50.4931499490851,
+                "normalized_intensity": 25.24657497454255
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.12267550154831,
+                "normalized_intensity": 25.061337750774154
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 49.51368083084225,
+                "normalized_intensity": 24.756840415421124
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 49.06461733933668,
+                "normalized_intensity": 24.53230866966834
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 151.155816767844,
+                "normalized_intensity": 75.577908383922
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 139.26656141661,
+                "normalized_intensity": 69.633280708305
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 121.08642078957979,
+                "normalized_intensity": 60.543210394789895
+            },
+            {
+                "topic": "community",
+                "weighted_count": 118.18818085295723,
+                "normalized_intensity": 59.094090426478616
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 117.14497704155926,
+                "normalized_intensity": 58.57248852077963
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 115.96990955204087,
+                "normalized_intensity": 57.98495477602044
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 112.99869394426554,
+                "normalized_intensity": 56.49934697213277
+            },
+            {
+                "topic": "media",
+                "weighted_count": 112.97568896885994,
+                "normalized_intensity": 56.48784448442997
+            },
+            {
+                "topic": "history",
+                "weighted_count": 107.88154767720013,
+                "normalized_intensity": 53.940773838600066
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 106.31221987275754,
+                "normalized_intensity": 53.15610993637877
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 105.00795575672377,
+                "normalized_intensity": 52.50397787836189
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 103.79529619670676,
+                "normalized_intensity": 51.89764809835338
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.727969583203,
+                "normalized_intensity": 51.8639847916015
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 102.12917326144546,
+                "normalized_intensity": 51.06458663072273
+            },
+            {
+                "topic": "law",
+                "weighted_count": 102.06881942647084,
+                "normalized_intensity": 51.03440971323542
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 100.33503328067698,
+                "normalized_intensity": 50.16751664033849
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 98.23575662322597,
+                "normalized_intensity": 49.117878311612984
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 378.8452567672774,
+                "normalized_intensity": 63.14087612787957
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 367.4438823517263,
+                "normalized_intensity": 61.24064705862105
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 341.0640713873825,
+                "normalized_intensity": 56.84401189789708
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 301.8029490333027,
+                "normalized_intensity": 50.30049150555045
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 240.63281927516454,
+                "normalized_intensity": 40.10546987919409
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 237.01766823423037,
+                "normalized_intensity": 39.50294470570506
+            },
+            {
+                "topic": "media",
+                "weighted_count": 233.92121974778178,
+                "normalized_intensity": 38.98686995796363
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 232.87636524741066,
+                "normalized_intensity": 38.81272754123511
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 179.89649707280785,
+                "normalized_intensity": 29.982749512134642
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 176.13265432882463,
+                "normalized_intensity": 29.355442388137437
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 119.77096523618951,
+                "normalized_intensity": 19.96182753936492
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 104.77735766304151,
+                "normalized_intensity": 17.462892943840252
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 104.1198014526046,
+                "normalized_intensity": 17.35330024210077
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 100.48784348297235,
+                "normalized_intensity": 16.747973913828726
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 60.02205480589004,
+                "normalized_intensity": 10.003675800981673
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 56.92337216085623,
+                "normalized_intensity": 9.48722869347604
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 56.43031896021603,
+                "normalized_intensity": 9.405053160036005
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 54.20387961651997,
+                "normalized_intensity": 9.033979936086661
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 51.29166774455498,
+                "normalized_intensity": 8.548611290759164
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.233586408122335,
+                "normalized_intensity": 8.372264401353723
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.93302290565303,
+                "normalized_intensity": 8.322170484275505
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.05470365257667,
+                "normalized_intensity": 8.175783942096112
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 278.45992359059346,
+                "normalized_intensity": 55.69198471811869
+            },
+            {
+                "topic": "music",
+                "weighted_count": 198.92691643980478,
+                "normalized_intensity": 39.785383287960954
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 195.0791673294924,
+                "normalized_intensity": 39.01583346589848
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 195.0320104899194,
+                "normalized_intensity": 39.00640209798388
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 174.5115176814619,
+                "normalized_intensity": 34.90230353629238
+            },
+            {
+                "topic": "law",
+                "weighted_count": 174.1908147225822,
+                "normalized_intensity": 34.83816294451644
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 170.22882990543815,
+                "normalized_intensity": 34.04576598108763
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 169.7508645833921,
+                "normalized_intensity": 33.95017291667842
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 162.8857801163026,
+                "normalized_intensity": 32.57715602326052
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 152.8429316733496,
+                "normalized_intensity": 30.56858633466992
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 152.58042811477438,
+                "normalized_intensity": 30.516085622954876
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 139.0995545221984,
+                "normalized_intensity": 27.819910904439677
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 138.87564142305064,
+                "normalized_intensity": 27.775128284610126
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 136.9179500543363,
+                "normalized_intensity": 27.38359001086726
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 135.05688306457222,
+                "normalized_intensity": 27.011376612914443
+            },
+            {
+                "topic": "art",
+                "weighted_count": 131.52344285022022,
+                "normalized_intensity": 26.304688570044043
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 127.96148736034908,
+                "normalized_intensity": 25.592297472069816
+            },
+            {
+                "topic": "history",
+                "weighted_count": 123.89688398029074,
+                "normalized_intensity": 24.77937679605815
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 120.05560006032685,
+                "normalized_intensity": 24.01112001206537
+            },
+            {
+                "topic": "film",
+                "weighted_count": 119.52413548810802,
+                "normalized_intensity": 23.904827097621602
+            },
+            {
+                "topic": "media",
+                "weighted_count": 118.31420054666947,
+                "normalized_intensity": 23.662840109333892
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 116.46161588720396,
+                "normalized_intensity": 23.292323177440792
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 111.34053431084689,
+                "normalized_intensity": 22.26810686216938
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 108.62451344864908,
+                "normalized_intensity": 21.724902689729817
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 108.31935219344393,
+                "normalized_intensity": 21.663870438688786
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 107.84574112621821,
+                "normalized_intensity": 21.569148225243644
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 107.06871163514205,
+                "normalized_intensity": 21.41374232702841
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 106.60682494992236,
+                "normalized_intensity": 21.32136498998447
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 103.12979996908453,
+                "normalized_intensity": 20.625959993816906
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 102.46081332619497,
+                "normalized_intensity": 20.492162665238993
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 101.18709466633469,
+                "normalized_intensity": 20.237418933266937
+            },
+            {
+                "topic": "family",
+                "weighted_count": 60.07113743326515,
+                "normalized_intensity": 12.01422748665303
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.57463836159545,
+                "normalized_intensity": 11.91492767231909
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 54.58066073724795,
+                "normalized_intensity": 10.916132147449591
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 54.162162569977376,
+                "normalized_intensity": 10.832432513995474
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.51499149499349,
+                "normalized_intensity": 10.502998298998698
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 52.51272869595505,
+                "normalized_intensity": 10.50254573919101
+            },
+            {
+                "topic": "science",
+                "weighted_count": 51.262396654429935,
+                "normalized_intensity": 10.252479330885986
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 51.21022094977694,
+                "normalized_intensity": 10.242044189955388
+            },
+            {
+                "topic": "education",
+                "weighted_count": 50.846615510558344,
+                "normalized_intensity": 10.169323102111669
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 49.613652373881436,
+                "normalized_intensity": 9.922730474776287
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 49.4493054684072,
+                "normalized_intensity": 9.889861093681441
+            }
+        ]
+    }
+}

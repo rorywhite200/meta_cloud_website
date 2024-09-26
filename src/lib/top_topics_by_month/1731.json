@@ -1,0 +1,37 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 66.55116175815708,
+                "normalized_intensity": 66.55116175815708
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.13379686308815,
+                "normalized_intensity": 63.13379686308815
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 58.26266314158649,
+                "normalized_intensity": 58.26266314158649
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.6010747076729,
+                "normalized_intensity": 54.6010747076729
+            },
+            {
+                "topic": "media",
+                "weighted_count": 53.24827920944672,
+                "normalized_intensity": 53.24827920944672
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.23704633521836,
+                "normalized_intensity": 51.23704633521836
+            }
+        ]
+    }
+}

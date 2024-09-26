@@ -1,0 +1,42 @@
+{
+    "2024-05": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 854.5008413477353,
+                "normalized_intensity": 71.2084034456446
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 773.4414455992677,
+                "normalized_intensity": 64.45345379993897
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 687.9643369483938,
+                "normalized_intensity": 57.33036141236615
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 670.0423815169389,
+                "normalized_intensity": 55.836865126411574
+            },
+            {
+                "topic": "community",
+                "weighted_count": 631.0976254917484,
+                "normalized_intensity": 52.591468790979036
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 614.857655381489,
+                "normalized_intensity": 51.23813794845742
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 202.42903229027868,
+                "normalized_intensity": 16.86908602418989
+            }
+        ]
+    }
+}

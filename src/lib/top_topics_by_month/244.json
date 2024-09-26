@@ -1,0 +1,42 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 72.71056006510427,
+                "normalized_intensity": 72.71056006510427
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 58.29310167650815,
+                "normalized_intensity": 58.29310167650815
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 54.36001922093098,
+                "normalized_intensity": 54.36001922093098
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 53.918655033696815,
+                "normalized_intensity": 53.918655033696815
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 53.66956992005244,
+                "normalized_intensity": 53.66956992005244
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.57583362139122,
+                "normalized_intensity": 51.57583362139122
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.07535661727538,
+                "normalized_intensity": 50.07535661727538
+            }
+        ]
+    }
+}

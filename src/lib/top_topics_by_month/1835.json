@@ -1,0 +1,142 @@
+{
+    "2023-09": {
+        "total_ads": 20,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 822.0323728916107,
+                "normalized_intensity": 41.10161864458054
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 735.2089967622514,
+                "normalized_intensity": 36.76044983811257
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 245.95271857627256,
+                "normalized_intensity": 12.297635928813628
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 245.5134159085809,
+                "normalized_intensity": 12.275670795429045
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 226.7186960505785,
+                "normalized_intensity": 11.335934802528925
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 219.8186886476003,
+                "normalized_intensity": 10.990934432380016
+            },
+            {
+                "topic": "history",
+                "weighted_count": 205.950500732054,
+                "normalized_intensity": 10.2975250366027
+            },
+            {
+                "topic": "community",
+                "weighted_count": 178.66106947998944,
+                "normalized_intensity": 8.933053473999472
+            },
+            {
+                "topic": "health",
+                "weighted_count": 140.5631568995909,
+                "normalized_intensity": 7.028157844979544
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 133.43456957264132,
+                "normalized_intensity": 6.671728478632066
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 129.28601785343432,
+                "normalized_intensity": 6.464300892671716
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 124.47785104578925,
+                "normalized_intensity": 6.223892552289462
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 122.8332774188696,
+                "normalized_intensity": 6.14166387094348
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 120.41869401864733,
+                "normalized_intensity": 6.020934700932367
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 115.57399621153675,
+                "normalized_intensity": 5.778699810576837
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 114.78624559397375,
+                "normalized_intensity": 5.739312279698687
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 113.54019512251496,
+                "normalized_intensity": 5.677009756125748
+            },
+            {
+                "topic": "family",
+                "weighted_count": 111.07588158610425,
+                "normalized_intensity": 5.553794079305212
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 110.33494050964296,
+                "normalized_intensity": 5.5167470254821485
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 105.15463684098107,
+                "normalized_intensity": 5.257731842049053
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 105.10657213218086,
+                "normalized_intensity": 5.2553286066090426
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 104.23399980272305,
+                "normalized_intensity": 5.211699990136152
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 100.60132964219287,
+                "normalized_intensity": 5.0300664821096435
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 98.01224301604746,
+                "normalized_intensity": 4.900612150802373
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 67.94823399019538,
+                "normalized_intensity": 67.94823399019538
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.43561051690409,
+                "normalized_intensity": 55.43561051690409
+            }
+        ]
+    }
+}

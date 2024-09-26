@@ -1,0 +1,82 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 67.67050829181456,
+                "normalized_intensity": 67.67050829181456
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 65.38444281702554,
+                "normalized_intensity": 65.38444281702554
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 54.212158558229184,
+                "normalized_intensity": 54.212158558229184
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.77486797130012,
+                "normalized_intensity": 49.77486797130012
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 75.36044327303618,
+                "normalized_intensity": 75.36044327303618
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 57.583649803685034,
+                "normalized_intensity": 57.583649803685034
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.26839338747584,
+                "normalized_intensity": 53.26839338747584
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 135.4604967813335,
+                "normalized_intensity": 67.73024839066674
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 123.79446431928727,
+                "normalized_intensity": 61.897232159643636
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 108.61893314912399,
+                "normalized_intensity": 54.309466574561995
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 107.60615064788719,
+                "normalized_intensity": 53.803075323943595
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 103.22129235561242,
+                "normalized_intensity": 51.61064617780621
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 101.2499760784033,
+                "normalized_intensity": 50.62498803920165
+            }
+        ]
+    }
+}

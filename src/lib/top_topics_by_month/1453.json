@@ -1,0 +1,137 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 70.89701228579389,
+                "normalized_intensity": 70.89701228579389
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 62.97575653223982,
+                "normalized_intensity": 62.97575653223982
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 55.6625135594437,
+                "normalized_intensity": 55.6625135594437
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.37208258022665,
+                "normalized_intensity": 54.37208258022665
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.72554053983044,
+                "normalized_intensity": 49.72554053983044
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.23721488965115,
+                "normalized_intensity": 49.23721488965115
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.017755110808345,
+                "normalized_intensity": 49.017755110808345
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 67.24950020935465,
+                "normalized_intensity": 67.24950020935465
+            },
+            {
+                "topic": "law",
+                "weighted_count": 67.14861828063046,
+                "normalized_intensity": 67.14861828063046
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 65.85064467286877,
+                "normalized_intensity": 65.85064467286877
+            },
+            {
+                "topic": "family",
+                "weighted_count": 65.4580528787591,
+                "normalized_intensity": 65.4580528787591
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 61.50060125286354,
+                "normalized_intensity": 61.50060125286354
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.77736436556043,
+                "normalized_intensity": 50.77736436556043
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 396.6382517371122,
+                "normalized_intensity": 79.32765034742245
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 361.1062996192451,
+                "normalized_intensity": 72.22125992384902
+            },
+            {
+                "topic": "community",
+                "weighted_count": 314.1385917429222,
+                "normalized_intensity": 62.82771834858444
+            },
+            {
+                "topic": "health",
+                "weighted_count": 290.68471634434786,
+                "normalized_intensity": 58.13694326886957
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 251.84739797399203,
+                "normalized_intensity": 50.369479594798406
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 221.45792592157946,
+                "normalized_intensity": 44.29158518431589
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 213.4834522414952,
+                "normalized_intensity": 42.69669044829904
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 155.0848701648453,
+                "normalized_intensity": 31.016974032969063
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 56.00808330517118,
+                "normalized_intensity": 11.201616661034237
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 51.389402085542855,
+                "normalized_intensity": 10.277880417108571
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.60793238788413,
+                "normalized_intensity": 10.121586477576825
+            }
+        ]
+    }
+}

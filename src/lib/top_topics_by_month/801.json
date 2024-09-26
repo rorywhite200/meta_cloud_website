@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 238.34885947528565,
+                "normalized_intensity": 79.44961982509521
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 198.07526884647106,
+                "normalized_intensity": 66.02508961549036
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 179.06726049637615,
+                "normalized_intensity": 59.68908683212538
+            },
+            {
+                "topic": "community",
+                "weighted_count": 119.77842014496223,
+                "normalized_intensity": 39.92614004832074
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 76.16957633950511,
+                "normalized_intensity": 25.389858779835038
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 72.34891190231677,
+                "normalized_intensity": 24.116303967438924
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 61.987270496158175,
+                "normalized_intensity": 20.66242349871939
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 60.89426198771446,
+                "normalized_intensity": 20.298087329238154
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 59.87383983990876,
+                "normalized_intensity": 19.95794661330292
+            },
+            {
+                "topic": "racism",
+                "weighted_count": 55.27001590504646,
+                "normalized_intensity": 18.423338635015487
+            }
+        ]
+    }
+}

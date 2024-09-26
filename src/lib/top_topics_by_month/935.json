@@ -1,0 +1,47 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 65.37169937693982,
+                "normalized_intensity": 65.37169937693982
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 64.39353979574238,
+                "normalized_intensity": 64.39353979574238
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.76587557306722,
+                "normalized_intensity": 51.76587557306722
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.201863375662384,
+                "normalized_intensity": 51.201863375662384
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 50.9771014686457,
+                "normalized_intensity": 50.9771014686457
+            },
+            {
+                "topic": "dance",
+                "weighted_count": 50.527570432923774,
+                "normalized_intensity": 50.527570432923774
+            },
+            {
+                "topic": "music",
+                "weighted_count": 49.58376416651388,
+                "normalized_intensity": 49.58376416651388
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.53703063292365,
+                "normalized_intensity": 49.53703063292365
+            }
+        ]
+    }
+}

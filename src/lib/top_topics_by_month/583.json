@@ -1,0 +1,42 @@
+{
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 119.65330621851392,
+                "normalized_intensity": 59.82665310925696
+            },
+            {
+                "topic": "community",
+                "weighted_count": 117.61375729567507,
+                "normalized_intensity": 58.806878647837536
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 111.3135574253716,
+                "normalized_intensity": 55.6567787126858
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 59.57582970054217,
+                "normalized_intensity": 59.57582970054217
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.80819202278153,
+                "normalized_intensity": 58.80819202278153
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 54.25992314215071,
+                "normalized_intensity": 54.25992314215071
+            }
+        ]
+    }
+}

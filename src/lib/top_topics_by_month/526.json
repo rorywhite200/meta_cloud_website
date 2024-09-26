@@ -1,0 +1,27 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 60.789389651162004,
+                "normalized_intensity": 60.789389651162004
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.12640313246061,
+                "normalized_intensity": 56.12640313246061
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.02180174241066,
+                "normalized_intensity": 54.02180174241066
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.28567266667321,
+                "normalized_intensity": 50.28567266667321
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 53.39114424542394,
+                "normalized_intensity": 53.39114424542394
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 53.306432049104956,
+                "normalized_intensity": 53.306432049104956
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.25200088011847,
+                "normalized_intensity": 52.25200088011847
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 182.48446820235284,
+                "normalized_intensity": 60.82815606745095
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 118.98983757966747,
+                "normalized_intensity": 39.663279193222486
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 106.45061608286349,
+                "normalized_intensity": 35.48353869428783
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 99.44933919444603,
+                "normalized_intensity": 33.149779731482006
+            },
+            {
+                "topic": "art",
+                "weighted_count": 67.41736172459728,
+                "normalized_intensity": 22.472453908199096
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 63.30049773487614,
+                "normalized_intensity": 21.10016591162538
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 61.57680675045817,
+                "normalized_intensity": 20.525602250152723
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 56.68128140148389,
+                "normalized_intensity": 18.893760467161297
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 56.39433152143608,
+                "normalized_intensity": 18.79811050714536
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 51.140279624203146,
+                "normalized_intensity": 17.04675987473438
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 127.50831169936296,
+                "normalized_intensity": 63.75415584968148
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 123.17782033969758,
+                "normalized_intensity": 61.58891016984879
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 109.8549812979188,
+                "normalized_intensity": 54.9274906489594
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 108.3103319622861,
+                "normalized_intensity": 54.15516598114305
+            }
+        ]
+    }
+}

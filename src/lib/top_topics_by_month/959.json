@@ -1,0 +1,77 @@
+{
+    "2024-03": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 484.1663388877189,
+                "normalized_intensity": 80.69438981461981
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 371.84633146687884,
+                "normalized_intensity": 61.97438857781314
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 340.45703662893857,
+                "normalized_intensity": 56.74283943815643
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 324.3979326966312,
+                "normalized_intensity": 54.0663221161052
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 305.96765473310234,
+                "normalized_intensity": 50.994609122183725
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 151.48286312158294,
+                "normalized_intensity": 25.247143853597155
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 150.89880732479818,
+                "normalized_intensity": 25.1498012207997
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 475.48744991024324,
+                "normalized_intensity": 79.24790831837387
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 366.16840323136114,
+                "normalized_intensity": 61.028067205226854
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 347.1812504687469,
+                "normalized_intensity": 57.86354174479115
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 323.90183611453733,
+                "normalized_intensity": 53.98363935242289
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 301.41343309191046,
+                "normalized_intensity": 50.23557218198508
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 246.55945114619442,
+                "normalized_intensity": 41.09324185769907
+            }
+        ]
+    }
+}

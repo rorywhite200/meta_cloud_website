@@ -1,0 +1,352 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 71.6913142454912,
+                "normalized_intensity": 35.8456571227456
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 57.32294838688906,
+                "normalized_intensity": 28.66147419344453
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 57.12572953527422,
+                "normalized_intensity": 28.56286476763711
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 55.815837089436805,
+                "normalized_intensity": 27.907918544718402
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.89391337939529,
+                "normalized_intensity": 26.446956689697647
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 51.077696851393206,
+                "normalized_intensity": 25.538848425696603
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 71.11102202619492,
+                "normalized_intensity": 71.11102202619492
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 66.54955051818429,
+                "normalized_intensity": 66.54955051818429
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 56.411755215090984,
+                "normalized_intensity": 56.411755215090984
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 55.99873485921254,
+                "normalized_intensity": 55.99873485921254
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.49222015790456,
+                "normalized_intensity": 55.49222015790456
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "assisted-dying",
+                "weighted_count": 140.4109223982408,
+                "normalized_intensity": 35.1027305995602
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 139.03698999349422,
+                "normalized_intensity": 34.759247498373554
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 132.44672709357272,
+                "normalized_intensity": 33.11168177339318
+            },
+            {
+                "topic": "health",
+                "weighted_count": 122.14985950330768,
+                "normalized_intensity": 30.53746487582692
+            },
+            {
+                "topic": "mental-health",
+                "weighted_count": 121.33776649371177,
+                "normalized_intensity": 30.334441623427942
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 113.94102442156719,
+                "normalized_intensity": 28.485256105391798
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 70.49801343277687,
+                "normalized_intensity": 17.624503358194218
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 66.2262733039914,
+                "normalized_intensity": 16.55656832599785
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 62.124435669916046,
+                "normalized_intensity": 15.531108917479012
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.44614332676265,
+                "normalized_intensity": 12.861535831690663
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.21259689010495,
+                "normalized_intensity": 12.803149222526237
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.59309623460201,
+                "normalized_intensity": 12.648274058650502
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 50.30488707887645,
+                "normalized_intensity": 12.576221769719112
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 102.17292927864379,
+                "normalized_intensity": 51.086464639321896
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.76416163512696,
+                "normalized_intensity": 24.88208081756348
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 82.44537971327198,
+                "normalized_intensity": 27.481793237757326
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 72.79685662860868,
+                "normalized_intensity": 24.265618876202893
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 70.49801343277687,
+                "normalized_intensity": 23.499337810925624
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 66.2262733039914,
+                "normalized_intensity": 22.0754244346638
+            },
+            {
+                "topic": "community",
+                "weighted_count": 63.500966619409716,
+                "normalized_intensity": 21.16698887313657
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.44614332676265,
+                "normalized_intensity": 17.148714442254217
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 123.5302045550789,
+                "normalized_intensity": 61.76510227753945
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 52.71569006870658,
+                "normalized_intensity": 26.35784503435329
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.30332538381701,
+                "normalized_intensity": 25.151662691908506
+            },
+            {
+                "topic": "food",
+                "weighted_count": 50.06209817042375,
+                "normalized_intensity": 25.031049085211876
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 82.44537971327198,
+                "normalized_intensity": 41.22268985663599
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 72.79685662860868,
+                "normalized_intensity": 36.39842831430434
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 70.49801343277687,
+                "normalized_intensity": 35.249006716388436
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 66.2262733039914,
+                "normalized_intensity": 33.1131366519957
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.44614332676265,
+                "normalized_intensity": 25.723071663381326
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 82.44537971327198,
+                "normalized_intensity": 82.44537971327198
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 72.79685662860868,
+                "normalized_intensity": 72.79685662860868
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 70.49801343277687,
+                "normalized_intensity": 70.49801343277687
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 66.2262733039914,
+                "normalized_intensity": 66.2262733039914
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 51.44614332676265,
+                "normalized_intensity": 51.44614332676265
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 965.2995067783245,
+                "normalized_intensity": 80.44162556486037
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 961.9358242383047,
+                "normalized_intensity": 80.16131868652539
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 674.5118206744032,
+                "normalized_intensity": 56.2093183895336
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 433.97418522192703,
+                "normalized_intensity": 36.16451543516059
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 402.8021492292488,
+                "normalized_intensity": 33.56684576910407
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 322.5318618527859,
+                "normalized_intensity": 26.877655154398823
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 298.11980487225134,
+                "normalized_intensity": 24.84331707268761
+            },
+            {
+                "topic": "law",
+                "weighted_count": 282.7755484100416,
+                "normalized_intensity": 23.564629034170135
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 67.80169265798858,
+                "normalized_intensity": 67.80169265798858
+            },
+            {
+                "topic": "food",
+                "weighted_count": 57.07393925460214,
+                "normalized_intensity": 57.07393925460214
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.38515839426281,
+                "normalized_intensity": 51.38515839426281
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.752312662642105,
+                "normalized_intensity": 50.752312662642105
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 50.42904090540561,
+                "normalized_intensity": 50.42904090540561
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.52512086880477,
+                "normalized_intensity": 49.52512086880477
+            }
+        ]
+    }
+}

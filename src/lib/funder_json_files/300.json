@@ -1,0 +1,629 @@
+{
+    "organization_id": 300,
+    "organization_name": "Randene Neill for Powell River-Sunshine Coast",
+    "topics": [
+        {
+            "topic": "weather",
+            "score": 81.563720703125
+        },
+        {
+            "topic": "sustainability",
+            "score": 79.53056335449219
+        },
+        {
+            "topic": "digital-economy",
+            "score": 73.56687927246094
+        },
+        {
+            "topic": "economy",
+            "score": 71.12702941894531
+        },
+        {
+            "topic": "business",
+            "score": 70.80142974853516
+        },
+        {
+            "topic": "climate change",
+            "score": 70.25849151611328
+        },
+        {
+            "topic": "poultry-industry",
+            "score": 70.16007995605469
+        },
+        {
+            "topic": "environment",
+            "score": 68.84992218017578
+        },
+        {
+            "topic": "wealth management",
+            "score": 68.19910430908203
+        },
+        {
+            "topic": "consumer-protection",
+            "score": 68.0539779663086
+        },
+        {
+            "topic": "food-waste",
+            "score": 67.29875183105469
+        },
+        {
+            "topic": "intellectual-property",
+            "score": 67.115234375
+        },
+        {
+            "topic": "pork-industry",
+            "score": 67.0186996459961
+        },
+        {
+            "topic": "social enterprise",
+            "score": 65.90913391113281
+        },
+        {
+            "topic": "beef-industry",
+            "score": 65.41482543945312
+        },
+        {
+            "topic": "artificial intelligence",
+            "score": 64.11762237548828
+        },
+        {
+            "topic": "art",
+            "score": 63.19414138793945
+        },
+        {
+            "topic": "community",
+            "score": 60.86461639404297
+        },
+        {
+            "topic": "technology",
+            "score": 60.7111930847168
+        },
+        {
+            "topic": "finance",
+            "score": 60.353519439697266
+        },
+        {
+            "topic": "pollution",
+            "score": 58.52336883544922
+        },
+        {
+            "topic": "science",
+            "score": 58.427001953125
+        },
+        {
+            "topic": "housing",
+            "score": 58.021461486816406
+        },
+        {
+            "topic": "security",
+            "score": 57.53660583496094
+        },
+        {
+            "topic": "trade-policy",
+            "score": 57.222713470458984
+        },
+        {
+            "topic": "agriculture",
+            "score": 55.598602294921875
+        },
+        {
+            "topic": "gig-economy",
+            "score": 55.103267669677734
+        },
+        {
+            "topic": "urban planning",
+            "score": 54.05000686645508
+        },
+        {
+            "topic": "bioethics",
+            "score": 53.77997589111328
+        },
+        {
+            "topic": "cost of living",
+            "score": 52.28697204589844
+        },
+        {
+            "topic": "conservation",
+            "score": 52.02873611450195
+        },
+        {
+            "topic": "television",
+            "score": 51.92995834350586
+        },
+        {
+            "topic": "public policy",
+            "score": 49.177433013916016
+        },
+        {
+            "topic": "renewable-energy",
+            "score": 49.13566207885742
+        },
+        {
+            "topic": "wealth inequality",
+            "score": 48.923919677734375
+        },
+        {
+            "topic": "dairy-industry",
+            "score": 47.875980377197266
+        },
+        {
+            "topic": "seafood-industry",
+            "score": 47.56045150756836
+        },
+        {
+            "topic": "economic-inequality",
+            "score": 47.52030944824219
+        },
+        {
+            "topic": "dance",
+            "score": 47.437156677246094
+        },
+        {
+            "topic": "infrastructure",
+            "score": 45.71071243286133
+        },
+        {
+            "topic": "lifestyle",
+            "score": 45.544795989990234
+        },
+        {
+            "topic": "social-media",
+            "score": 45.250789642333984
+        },
+        {
+            "topic": "heritage",
+            "score": 44.77064514160156
+        },
+        {
+            "topic": "entertainment",
+            "score": 44.47518539428711
+        },
+        {
+            "topic": "disability",
+            "score": 44.150203704833984
+        },
+        {
+            "topic": "privacy",
+            "score": 43.6037483215332
+        },
+        {
+            "topic": "joy",
+            "score": 43.25872039794922
+        },
+        {
+            "topic": "anti-woke",
+            "score": 42.63310623168945
+        },
+        {
+            "topic": "demographics",
+            "score": 42.51729965209961
+        },
+        {
+            "topic": "public-safety",
+            "score": 42.437686920166016
+        },
+        {
+            "topic": "sports",
+            "score": 42.275577545166016
+        },
+        {
+            "topic": "plant-based",
+            "score": 42.244476318359375
+        },
+        {
+            "topic": "outrage",
+            "score": 42.01090621948242
+        },
+        {
+            "topic": "food",
+            "score": 41.8456916809082
+        },
+        {
+            "topic": "music",
+            "score": 41.69757843017578
+        },
+        {
+            "topic": "nunavut",
+            "score": 41.39133834838867
+        },
+        {
+            "topic": "social services",
+            "score": 41.22235107421875
+        },
+        {
+            "topic": "homelessness",
+            "score": 40.86325454711914
+        },
+        {
+            "topic": "history",
+            "score": 39.83487319946289
+        },
+        {
+            "topic": "travel",
+            "score": 39.25620651245117
+        },
+        {
+            "topic": "energy-policy",
+            "score": 39.0252571105957
+        },
+        {
+            "topic": "literature",
+            "score": 38.91001892089844
+        },
+        {
+            "topic": "religion",
+            "score": 38.830772399902344
+        },
+        {
+            "topic": "government-ethics",
+            "score": 38.692962646484375
+        },
+        {
+            "topic": "fossil-fuels",
+            "score": 38.12889099121094
+        },
+        {
+            "topic": "culture",
+            "score": 37.090274810791016
+        },
+        {
+            "topic": "workplace culture",
+            "score": 36.5479736328125
+        },
+        {
+            "topic": "rural",
+            "score": 36.4056510925293
+        },
+        {
+            "topic": "digital-rights",
+            "score": 35.87538146972656
+        },
+        {
+            "topic": "foreign-policy",
+            "score": 34.83474349975586
+        },
+        {
+            "topic": "womens-rights",
+            "score": 33.78457260131836
+        },
+        {
+            "topic": "indigenous-rights",
+            "score": 33.162986755371094
+        },
+        {
+            "topic": "addiction",
+            "score": 33.14067840576172
+        },
+        {
+            "topic": "tax-policy",
+            "score": 30.464750289916992
+        },
+        {
+            "topic": "education-policy",
+            "score": 30.094322204589844
+        },
+        {
+            "topic": "scientific research",
+            "score": 30.077669143676758
+        },
+        {
+            "topic": "healthcare-policy",
+            "score": 29.833099365234375
+        },
+        {
+            "topic": "transportation",
+            "score": 28.639692306518555
+        },
+        {
+            "topic": "film",
+            "score": 28.37827491760254
+        },
+        {
+            "topic": "campaign-finance",
+            "score": 28.26019287109375
+        },
+        {
+            "topic": "social justice",
+            "score": 27.02811050415039
+        },
+        {
+            "topic": "theater",
+            "score": 26.916614532470703
+        },
+        {
+            "topic": "social-justice",
+            "score": 26.852815628051758
+        },
+        {
+            "topic": "assisted dying",
+            "score": 26.670989990234375
+        },
+        {
+            "topic": "education",
+            "score": 26.520883560180664
+        },
+        {
+            "topic": "corruption",
+            "score": 26.014062881469727
+        },
+        {
+            "topic": "immigration",
+            "score": 25.920549392700195
+        },
+        {
+            "topic": "disaster-relief",
+            "score": 25.150304794311523
+        },
+        {
+            "topic": "transparency",
+            "score": 25.113080978393555
+        },
+        {
+            "topic": "voting",
+            "score": 24.887197494506836
+        },
+        {
+            "topic": "public-health",
+            "score": 23.949050903320312
+        },
+        {
+            "topic": "human-rights",
+            "score": 23.875484466552734
+        },
+        {
+            "topic": "parenting",
+            "score": 23.79290008544922
+        },
+        {
+            "topic": "crime",
+            "score": 23.7374267578125
+        },
+        {
+            "topic": "elder care",
+            "score": 23.24104118347168
+        },
+        {
+            "topic": "criminal-justice",
+            "score": 23.071088790893555
+        },
+        {
+            "topic": "family",
+            "score": 22.97089958190918
+        },
+        {
+            "topic": "nonprofits",
+            "score": 22.84457015991211
+        },
+        {
+            "topic": "gun-control",
+            "score": 21.96860122680664
+        },
+        {
+            "topic": "human-trafficking",
+            "score": 21.73011589050293
+        },
+        {
+            "topic": "labor",
+            "score": 21.674001693725586
+        },
+        {
+            "topic": "childcare",
+            "score": 20.959531784057617
+        },
+        {
+            "topic": "politics",
+            "score": 20.09229278564453
+        },
+        {
+            "topic": "racism",
+            "score": 19.55729866027832
+        },
+        {
+            "topic": "animal rights",
+            "score": 17.92681312561035
+        },
+        {
+            "topic": "law",
+            "score": 17.830066680908203
+        },
+        {
+            "topic": "lgbtq",
+            "score": 16.6091365814209
+        },
+        {
+            "topic": "media",
+            "score": 16.600805282592773
+        },
+        {
+            "topic": "voter-rights",
+            "score": 16.480754852294922
+        },
+        {
+            "topic": "labour-rights",
+            "score": 16.455501556396484
+        },
+        {
+            "topic": "health",
+            "score": 15.605530738830566
+        },
+        {
+            "topic": "violence",
+            "score": 15.124168395996094
+        },
+        {
+            "topic": "mental-health",
+            "score": 13.898714065551758
+        },
+        {
+            "topic": "veterans-affairs",
+            "score": 13.540424346923828
+        },
+        {
+            "topic": "youth",
+            "score": 12.789194107055664
+        },
+        {
+            "topic": "humanitarian aid",
+            "score": 11.741052627563477
+        },
+        {
+            "topic": "military",
+            "score": 7.989494800567627
+        },
+        {
+            "topic": "alberta",
+            "score": 32.018680572509766
+        },
+        {
+            "topic": "yukon",
+            "score": 30.47915267944336
+        },
+        {
+            "topic": "nova scotia",
+            "score": 30.192697525024414
+        },
+        {
+            "topic": "prince edward island",
+            "score": 28.905611038208008
+        },
+        {
+            "topic": "saskatchewan",
+            "score": 26.5080623626709
+        },
+        {
+            "topic": "northwest territories",
+            "score": 26.42214012145996
+        },
+        {
+            "topic": "newfoundland and labrador",
+            "score": 23.636234283447266
+        },
+        {
+            "topic": "manitoba",
+            "score": 23.076053619384766
+        },
+        {
+            "topic": "quebec",
+            "score": 20.010114669799805
+        },
+        {
+            "topic": "new brunswick",
+            "score": 19.816272735595703
+        },
+        {
+            "topic": "british columbia",
+            "score": 19.684215545654297
+        },
+        {
+            "topic": "ontario",
+            "score": 18.882394790649414
+        }
+    ],
+    "organization_matches": [
+        {
+            "organization_name": "Soprema Canada",
+            "closest_funders": [
+                {
+                    "funder_id": 470,
+                    "funder_name": "Forests Ontario",
+                    "similarity_score": 0.9643850922584534
+                },
+                {
+                    "funder_id": 12992,
+                    "funder_name": "Atalanta Climate",
+                    "similarity_score": 0.9611996412277222
+                },
+                {
+                    "funder_id": 44,
+                    "funder_name": "350 Canada",
+                    "similarity_score": 0.9550392031669617
+                },
+                {
+                    "funder_id": 1642,
+                    "funder_name": "Énergir",
+                    "similarity_score": 0.9520617127418518
+                },
+                {
+                    "funder_id": 234,
+                    "funder_name": "Encorp Atlantic / Atlantique",
+                    "similarity_score": 0.9458078145980835
+                },
+                {
+                    "funder_id": 947,
+                    "funder_name": "Clear Rush Co.",
+                    "similarity_score": 0.9447176456451416
+                },
+                {
+                    "funder_id": 176,
+                    "funder_name": "Cuso International",
+                    "similarity_score": 0.944715142250061
+                },
+                {
+                    "funder_id": 205,
+                    "funder_name": "Forest Products Association of Canada",
+                    "similarity_score": 0.9375452399253845
+                },
+                {
+                    "funder_id": 1339,
+                    "funder_name": "County of Brant",
+                    "similarity_score": 0.9364452958106995
+                },
+                {
+                    "funder_id": 1,
+                    "funder_name": "Unspecified",
+                    "similarity_score": 0.9344781637191772
+                },
+                {
+                    "funder_id": 306,
+                    "funder_name": "City of Burnaby",
+                    "similarity_score": 0.9319573044776917
+                },
+                {
+                    "funder_id": 12962,
+                    "funder_name": "Neighbours United",
+                    "similarity_score": 0.929521918296814
+                },
+                {
+                    "funder_id": 30,
+                    "funder_name": "Endangered Ecosystems Alliance",
+                    "similarity_score": 0.9264740347862244
+                },
+                {
+                    "funder_id": 418,
+                    "funder_name": "Science North",
+                    "similarity_score": 0.9263669848442078
+                },
+                {
+                    "funder_id": 160,
+                    "funder_name": "City of Mississauga",
+                    "similarity_score": 0.9262601733207703
+                },
+                {
+                    "funder_id": 934,
+                    "funder_name": "City of Edmonton",
+                    "similarity_score": 0.9256266355514526
+                },
+                {
+                    "funder_id": 1947,
+                    "funder_name": "Canadian Wildlife Federation",
+                    "similarity_score": 0.9244861006736755
+                },
+                {
+                    "funder_id": 463,
+                    "funder_name": "Resort Municipality of Whistler (RMOW)",
+                    "similarity_score": 0.9239203929901123
+                },
+                {
+                    "funder_id": 544,
+                    "funder_name": "TheFutureEconomy.ca",
+                    "similarity_score": 0.9216631054878235
+                },
+                {
+                    "funder_id": 664,
+                    "funder_name": "Save on Energy",
+                    "similarity_score": 0.9170463681221008
+                }
+            ]
+        }
+    ]
+}

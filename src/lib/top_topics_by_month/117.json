@@ -1,0 +1,122 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 75.0227611951381,
+                "normalized_intensity": 37.51138059756905
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 60.672524758196865,
+                "normalized_intensity": 30.336262379098432
+            },
+            {
+                "topic": "military",
+                "weighted_count": 53.643573012626725,
+                "normalized_intensity": 26.821786506313362
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.08663364817509,
+                "normalized_intensity": 26.043316824087544
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 115.33820992722008,
+                "normalized_intensity": 57.66910496361004
+            },
+            {
+                "topic": "community",
+                "weighted_count": 102.73572318475011,
+                "normalized_intensity": 51.36786159237506
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 54.16413528461492,
+                "normalized_intensity": 27.08206764230746
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 53.86116263267665,
+                "normalized_intensity": 26.930581316338326
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 67.76578708521629,
+                "normalized_intensity": 67.76578708521629
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 59.67327801993847,
+                "normalized_intensity": 59.67327801993847
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 56.842154728127014,
+                "normalized_intensity": 56.842154728127014
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.74726738227189,
+                "normalized_intensity": 55.74726738227189
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 49.06611462389187,
+                "normalized_intensity": 49.06611462389187
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.023458783669994,
+                "normalized_intensity": 49.023458783669994
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 71.16680055844652,
+                "normalized_intensity": 71.16680055844652
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 62.24090971424453,
+                "normalized_intensity": 62.24090971424453
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 52.02154580189624,
+                "normalized_intensity": 52.02154580189624
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 79.14037567818045,
+                "normalized_intensity": 39.570187839090224
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.22565898716647,
+                "normalized_intensity": 26.612829493583234
+            }
+        ]
+    }
+}

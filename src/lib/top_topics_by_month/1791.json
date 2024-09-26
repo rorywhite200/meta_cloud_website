@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "food-waste",
+                "weighted_count": 360.5978184920993,
+                "normalized_intensity": 72.11956369841985
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 292.68282656169043,
+                "normalized_intensity": 58.536565312338084
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 285.269643033191,
+                "normalized_intensity": 57.0539286066382
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 281.82519789674177,
+                "normalized_intensity": 56.365039579348355
+            },
+            {
+                "topic": "community",
+                "weighted_count": 270.73388200492207,
+                "normalized_intensity": 54.146776400984415
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 265.31779868745105,
+                "normalized_intensity": 53.06355973749021
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 260.4338831008654,
+                "normalized_intensity": 52.086776620173076
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 258.8232872670223,
+                "normalized_intensity": 51.76465745340446
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 252.68794154054308,
+                "normalized_intensity": 50.53758830810862
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 169.30560459673967,
+                "normalized_intensity": 33.86112091934793
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 99.32631771212867,
+                "normalized_intensity": 19.865263542425733
+            }
+        ]
+    }
+}

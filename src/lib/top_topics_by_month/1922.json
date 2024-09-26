@@ -1,0 +1,37 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "education-policy",
+                "weighted_count": 215.27429622239936,
+                "normalized_intensity": 71.75809874079978
+            },
+            {
+                "topic": "education",
+                "weighted_count": 205.65890818201842,
+                "normalized_intensity": 68.55296939400614
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 200.90266346415635,
+                "normalized_intensity": 66.96755448805212
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 154.900754221125,
+                "normalized_intensity": 51.633584740375
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.91793332481798,
+                "normalized_intensity": 18.305977774939326
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 54.34322752930425,
+                "normalized_intensity": 18.11440917643475
+            }
+        ]
+    }
+}

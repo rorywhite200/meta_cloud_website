@@ -1,0 +1,62 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 59.38526778473712,
+                "normalized_intensity": 19.79508926157904
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 56.23848704473629,
+                "normalized_intensity": 18.74616234824543
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 55.64406549256259,
+                "normalized_intensity": 18.548021830854196
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 55.01715365492886,
+                "normalized_intensity": 18.33905121830962
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 53.988746255320095,
+                "normalized_intensity": 17.996248751773365
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.71387701140352,
+                "normalized_intensity": 17.90462567046784
+            },
+            {
+                "topic": "science",
+                "weighted_count": 53.43036204020899,
+                "normalized_intensity": 17.810120680069662
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.76835575388997,
+                "normalized_intensity": 16.589451917963324
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.38709655733407,
+                "normalized_intensity": 16.462365519111355
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.31977276164193,
+                "normalized_intensity": 16.439924253880644
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.17982879419973,
+                "normalized_intensity": 16.39327626473324
+            }
+        ]
+    }
+}

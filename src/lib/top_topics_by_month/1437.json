@@ -1,0 +1,137 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nova scotia",
+                "weighted_count": 215.51271517447185,
+                "normalized_intensity": 53.87817879361796
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 120.80499406003182,
+                "normalized_intensity": 30.201248515007954
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 120.27331978472762,
+                "normalized_intensity": 30.068329946181905
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 117.64697960604144,
+                "normalized_intensity": 29.41174490151036
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 75.5269891611496,
+                "normalized_intensity": 18.8817472902874
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 62.80464913849958,
+                "normalized_intensity": 15.701162284624894
+            },
+            {
+                "topic": "privacy",
+                "weighted_count": 60.0364903864599,
+                "normalized_intensity": 15.009122596614976
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 59.621838759978104,
+                "normalized_intensity": 14.905459689994526
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.71201396366742,
+                "normalized_intensity": 13.928003490916854
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.46173684452841,
+                "normalized_intensity": 13.865434211132103
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 52.438922049274204,
+                "normalized_intensity": 13.109730512318551
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 52.25742328993847,
+                "normalized_intensity": 13.064355822484618
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 50.75977098613064,
+                "normalized_intensity": 12.68994274653266
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.437896840552156,
+                "normalized_intensity": 12.359474210138039
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 74.10182836423512,
+                "normalized_intensity": 74.10182836423512
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 50.443042360473065,
+                "normalized_intensity": 50.443042360473065
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.33249195287514,
+                "normalized_intensity": 50.33249195287514
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 141.28268427232754,
+                "normalized_intensity": 70.64134213616377
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.62706188153338,
+                "normalized_intensity": 27.31353094076669
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 51.85321850021866,
+                "normalized_intensity": 25.92660925010933
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 51.706915463636335,
+                "normalized_intensity": 25.853457731818168
+            },
+            {
+                "topic": "science",
+                "weighted_count": 50.96353430968733,
+                "normalized_intensity": 25.481767154843666
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 49.96991379942101,
+                "normalized_intensity": 24.984956899710504
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 49.3690226970196,
+                "normalized_intensity": 24.6845113485098
+            }
+        ]
+    }
+}

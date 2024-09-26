@@ -1,0 +1,62 @@
+{
+    "2024-05": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 654.318071274771,
+                "normalized_intensity": 65.4318071274771
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 526.6568207332157,
+                "normalized_intensity": 52.66568207332157
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 526.553845991214,
+                "normalized_intensity": 52.6553845991214
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 258.5212230785938,
+                "normalized_intensity": 25.85212230785938
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 53.41657736363996,
+                "normalized_intensity": 5.341657736363996
+            },
+            {
+                "topic": "science",
+                "weighted_count": 49.18804666684076,
+                "normalized_intensity": 4.918804666684077
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 263.4735365682918,
+                "normalized_intensity": 65.86838414207296
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 210.79600356238365,
+                "normalized_intensity": 52.69900089059591
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 209.98591056560502,
+                "normalized_intensity": 52.496477641401256
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.97477370351394,
+                "normalized_intensity": 12.743693425878485
+            }
+        ]
+    }
+}

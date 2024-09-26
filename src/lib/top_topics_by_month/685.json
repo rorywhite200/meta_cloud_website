@@ -1,0 +1,42 @@
+{
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 78.81302020280361,
+                "normalized_intensity": 78.81302020280361
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 75.97757718095043,
+                "normalized_intensity": 75.97757718095043
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 65.10712175509639,
+                "normalized_intensity": 65.10712175509639
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 65.02076846891592,
+                "normalized_intensity": 65.02076846891592
+            },
+            {
+                "topic": "business",
+                "weighted_count": 54.636807845187775,
+                "normalized_intensity": 54.636807845187775
+            },
+            {
+                "topic": "science",
+                "weighted_count": 52.30278316547715,
+                "normalized_intensity": 52.30278316547715
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.62616391857726,
+                "normalized_intensity": 49.62616391857726
+            }
+        ]
+    }
+}

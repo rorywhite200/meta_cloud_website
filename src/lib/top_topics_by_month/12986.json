@@ -1,0 +1,37 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 183.1472709323237,
+                "normalized_intensity": 61.04909031077457
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 178.91917006953975,
+                "normalized_intensity": 59.63972335651325
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 175.74663378835163,
+                "normalized_intensity": 58.58221126278388
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 168.39975597368363,
+                "normalized_intensity": 56.13325199122787
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 150.37211341190823,
+                "normalized_intensity": 50.12403780396941
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 147.48482436948078,
+                "normalized_intensity": 49.161608123160256
+            }
+        ]
+    }
+}

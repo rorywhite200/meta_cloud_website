@@ -1,0 +1,47 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "food-waste",
+                "weighted_count": 65.86688006635354,
+                "normalized_intensity": 65.86688006635354
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 55.82117317913404,
+                "normalized_intensity": 55.82117317913404
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.93567942533733,
+                "normalized_intensity": 53.93567942533733
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 57.33297310255732,
+                "normalized_intensity": 57.33297310255732
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 51.73209791093916,
+                "normalized_intensity": 51.73209791093916
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 50.06819479068212,
+                "normalized_intensity": 50.06819479068212
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 49.73607052303386,
+                "normalized_intensity": 49.73607052303386
+            }
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 68.98561330143444,
+                "normalized_intensity": 68.98561330143444
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 55.59404695942879,
+                "normalized_intensity": 55.59404695942879
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 54.68852951544078,
+                "normalized_intensity": 54.68852951544078
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.482011630428104,
+                "normalized_intensity": 53.482011630428104
+            }
+        ]
+    }
+}

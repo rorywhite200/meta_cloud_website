@@ -1,0 +1,117 @@
+{
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "culture",
+                "weighted_count": 66.89044420490634,
+                "normalized_intensity": 66.89044420490634
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 60.438193868912016,
+                "normalized_intensity": 60.438193868912016
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 57.128197761773144,
+                "normalized_intensity": 57.128197761773144
+            },
+            {
+                "topic": "history",
+                "weighted_count": 55.82988262433847,
+                "normalized_intensity": 55.82988262433847
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 74.82948569590505,
+                "normalized_intensity": 74.82948569590505
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.66840895187259,
+                "normalized_intensity": 51.66840895187259
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 80.67702076684714,
+                "normalized_intensity": 80.67702076684714
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 66.02829517832281,
+                "normalized_intensity": 66.02829517832281
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 55.02798216524661,
+                "normalized_intensity": 55.02798216524661
+            },
+            {
+                "topic": "science",
+                "weighted_count": 54.621050196476276,
+                "normalized_intensity": 54.621050196476276
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "childcare",
+                "weighted_count": 144.7102940903286,
+                "normalized_intensity": 72.3551470451643
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 141.9178452796998,
+                "normalized_intensity": 70.9589226398499
+            },
+            {
+                "topic": "family",
+                "weighted_count": 125.18374518599246,
+                "normalized_intensity": 62.59187259299623
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 103.19452510306755,
+                "normalized_intensity": 51.597262551533774
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 100.57747328603102,
+                "normalized_intensity": 50.28873664301551
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 66.81304102868897,
+                "normalized_intensity": 66.81304102868897
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.80775345581075,
+                "normalized_intensity": 52.80775345581075
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 50.7213531612121,
+                "normalized_intensity": 50.7213531612121
+            }
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 266.21313709401466,
+                "normalized_intensity": 88.73771236467155
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 207.61645204464077,
+                "normalized_intensity": 69.20548401488026
+            },
+            {
+                "topic": "history",
+                "weighted_count": 172.5093084020304,
+                "normalized_intensity": 57.5031028006768
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 57.15591139730751,
+                "normalized_intensity": 19.05197046576917
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 55.2315083676288,
+                "normalized_intensity": 18.4105027892096
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.92098883631298,
+                "normalized_intensity": 17.97366294543766
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.04093761014625,
+                "normalized_intensity": 16.680312536715416
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.563202939700915,
+                "normalized_intensity": 16.521067646566973
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.113023184408355,
+                "normalized_intensity": 16.371007728136117
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 160.69072133264723,
+                "normalized_intensity": 80.34536066632361
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 123.87480154492731,
+                "normalized_intensity": 61.937400772463654
+            },
+            {
+                "topic": "history",
+                "weighted_count": 111.8999221323323,
+                "normalized_intensity": 55.94996106616615
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 64.33385942238549,
+                "normalized_intensity": 32.16692971119274
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 57.62384886857363,
+                "normalized_intensity": 28.811924434286816
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.183620000240396,
+                "normalized_intensity": 25.091810000120198
+            }
+        ]
+    }
+}

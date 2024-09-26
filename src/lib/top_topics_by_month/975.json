@@ -1,0 +1,112 @@
+{
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 254.10023517863422,
+                "normalized_intensity": 84.70007839287807
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 184.2782478324318,
+                "normalized_intensity": 61.426082610810596
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 68.27931382135274,
+                "normalized_intensity": 22.75977127378425
+            },
+            {
+                "topic": "health",
+                "weighted_count": 64.7955241483802,
+                "normalized_intensity": 21.598508049460065
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 55.431781721498766,
+                "normalized_intensity": 18.477260573832922
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 55.25988067190462,
+                "normalized_intensity": 18.419960223968207
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.093458552043,
+                "normalized_intensity": 17.364486184014336
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 51.87311357510747,
+                "normalized_intensity": 17.291037858369155
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 505.3193554660918,
+                "normalized_intensity": 84.21989257768196
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 320.18714242497464,
+                "normalized_intensity": 53.36452373749577
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 136.5586276427055,
+                "normalized_intensity": 22.75977127378425
+            },
+            {
+                "topic": "health",
+                "weighted_count": 130.7352854270585,
+                "normalized_intensity": 21.789214237843083
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 110.97792753595752,
+                "normalized_intensity": 18.49632125599292
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 110.86356344299753,
+                "normalized_intensity": 18.477260573832922
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 110.79726310144724,
+                "normalized_intensity": 18.466210516907875
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 104.49116229841104,
+                "normalized_intensity": 17.41519371640184
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.442729785201,
+                "normalized_intensity": 9.240454964200167
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 53.05535497812377,
+                "normalized_intensity": 8.84255916302063
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 50.96701547668279,
+                "normalized_intensity": 8.494502579447131
+            },
+            {
+                "topic": "education",
+                "weighted_count": 49.72459619222335,
+                "normalized_intensity": 8.287432698703892
+            }
+        ]
+    }
+}

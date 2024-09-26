@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 64.7155857571086,
+                "normalized_intensity": 64.7155857571086
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 145.5887520802703,
+                "normalized_intensity": 72.79437604013515
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 128.5756398276314,
+                "normalized_intensity": 64.2878199138157
+            },
+            {
+                "topic": "education",
+                "weighted_count": 52.99396589702368,
+                "normalized_intensity": 26.49698294851184
+            },
+            {
+                "topic": "film",
+                "weighted_count": 51.70114887531844,
+                "normalized_intensity": 25.85057443765922
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 50.57698488774608,
+                "normalized_intensity": 25.28849244387304
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 49.26991600400588,
+                "normalized_intensity": 24.63495800200294
+            }
+        ]
+    }
+}

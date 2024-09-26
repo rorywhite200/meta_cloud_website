@@ -1,0 +1,157 @@
+{
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 109.13444399430614,
+                "normalized_intensity": 54.56722199715307
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.30261017926955,
+                "normalized_intensity": 53.651305089634775
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 190.61327889446267,
+                "normalized_intensity": 63.53775963148755
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 155.0756521518388,
+                "normalized_intensity": 51.691884050612934
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 131.99347197216377,
+                "normalized_intensity": 43.99782399072126
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 108.47529313455568,
+                "normalized_intensity": 36.158431044851895
+            },
+            {
+                "topic": "health",
+                "weighted_count": 57.53544028511095,
+                "normalized_intensity": 19.178480095036985
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 56.117788912992005,
+                "normalized_intensity": 18.705929637664003
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 54.37056271722521,
+                "normalized_intensity": 18.12352090574174
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 53.56192270524879,
+                "normalized_intensity": 17.85397423508293
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 53.44462285515099,
+                "normalized_intensity": 17.81487428505033
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 52.200274319826434,
+                "normalized_intensity": 17.400091439942145
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 51.58563441695014,
+                "normalized_intensity": 17.195211472316714
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.577428041276,
+                "normalized_intensity": 16.525809347092
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 62.518297066060924,
+                "normalized_intensity": 62.518297066060924
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.223891452599396,
+                "normalized_intensity": 57.223891452599396
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 225.0688491723593,
+                "normalized_intensity": 75.02294972411977
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 214.86672231002825,
+                "normalized_intensity": 71.62224077000941
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 180.05967878222856,
+                "normalized_intensity": 60.01989292740952
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 173.9395404540215,
+                "normalized_intensity": 57.97984681800717
+            },
+            {
+                "topic": "health",
+                "weighted_count": 173.69041564532023,
+                "normalized_intensity": 57.896805215106745
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 161.7447279588153,
+                "normalized_intensity": 53.9149093196051
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 159.19153079963903,
+                "normalized_intensity": 53.063843599879675
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 60.81199138930556,
+                "normalized_intensity": 20.270663796435187
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.774702056471064,
+                "normalized_intensity": 16.924900685490353
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.278247591881396,
+                "normalized_intensity": 16.42608253062713
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.227943364307386,
+                "normalized_intensity": 16.409314454769127
+            }
+        ]
+    }
+}

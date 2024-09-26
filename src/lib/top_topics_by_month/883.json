@@ -1,0 +1,87 @@
+{
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 133.13586065951063,
+                "normalized_intensity": 66.56793032975531
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 132.5933584141058,
+                "normalized_intensity": 66.2966792070529
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 113.8343372475225,
+                "normalized_intensity": 56.91716862376125
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 108.6134098761645,
+                "normalized_intensity": 54.30670493808225
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 72.9755589200943,
+                "normalized_intensity": 72.9755589200943
+            },
+            {
+                "topic": "community",
+                "weighted_count": 64.56745162300001,
+                "normalized_intensity": 64.56745162300001
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 58.92668268903629,
+                "normalized_intensity": 58.92668268903629
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 57.723626323096845,
+                "normalized_intensity": 57.723626323096845
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.210189649317634,
+                "normalized_intensity": 49.210189649317634
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 72.18729393986906,
+                "normalized_intensity": 72.18729393986906
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 58.679128912937564,
+                "normalized_intensity": 58.679128912937564
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 58.18209927043083,
+                "normalized_intensity": 58.18209927043083
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.66883925886375,
+                "normalized_intensity": 56.66883925886375
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 54.17600900434331,
+                "normalized_intensity": 54.17600900434331
+            }
+        ]
+    }
+}

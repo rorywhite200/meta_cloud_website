@@ -1,0 +1,87 @@
+{
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 70.68848269289258,
+                "normalized_intensity": 70.68848269289258
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.983909351869904,
+                "normalized_intensity": 50.983909351869904
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 340.29225013613353,
+                "normalized_intensity": 37.810250015125945
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 279.39023794758333,
+                "normalized_intensity": 31.043359771953703
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 272.37432563275456,
+                "normalized_intensity": 30.26381395919495
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 199.56948787067375,
+                "normalized_intensity": 22.174387541185972
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 196.83143000529876,
+                "normalized_intensity": 21.87015888947764
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 51.36217418584395,
+                "normalized_intensity": 5.70690824287155
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 63.67109653357473,
+                "normalized_intensity": 63.67109653357473
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 62.11433872713461,
+                "normalized_intensity": 62.11433872713461
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 268.30760190602183,
+                "normalized_intensity": 67.07690047650546
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 154.2950803692076,
+                "normalized_intensity": 38.5737700923019
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 98.53486679269213,
+                "normalized_intensity": 24.633716698173032
+            }
+        ]
+    }
+}

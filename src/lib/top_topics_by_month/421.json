@@ -1,0 +1,77 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "art",
+                "weighted_count": 54.884791081141316,
+                "normalized_intensity": 54.884791081141316
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 61.46197371762362,
+                "normalized_intensity": 61.46197371762362
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 55.65770772317909,
+                "normalized_intensity": 55.65770772317909
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.57640313466096,
+                "normalized_intensity": 55.57640313466096
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 50.148191377377834,
+                "normalized_intensity": 50.148191377377834
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 125.57066859514777,
+                "normalized_intensity": 41.85688953171592
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 110.84076191052748,
+                "normalized_intensity": 36.94692063684249
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 66.80891358166217,
+                "normalized_intensity": 22.269637860554056
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 61.367165564535796,
+                "normalized_intensity": 20.455721854845265
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 54.894529140978335,
+                "normalized_intensity": 18.29817638032611
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.69403273617734,
+                "normalized_intensity": 17.898010912059114
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 53.59994418503765,
+                "normalized_intensity": 17.866648061679218
+            }
+        ]
+    }
+}

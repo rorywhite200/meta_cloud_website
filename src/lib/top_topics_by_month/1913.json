@@ -1,0 +1,27 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "education",
+                "weighted_count": 52.095682634868346,
+                "normalized_intensity": 52.095682634868346
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 50.28062050503341,
+                "normalized_intensity": 50.28062050503341
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 49.94589839586081,
+                "normalized_intensity": 49.94589839586081
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.56842486316116,
+                "normalized_intensity": 49.56842486316116
+            }
+        ]
+    }
+}

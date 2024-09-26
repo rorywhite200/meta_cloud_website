@@ -1,0 +1,82 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 63.157104961303,
+                "normalized_intensity": 63.157104961303
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 55.525256741831285,
+                "normalized_intensity": 55.525256741831285
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 181.1425422305089,
+                "normalized_intensity": 60.38084741016963
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 169.69387557000152,
+                "normalized_intensity": 56.564625190000505
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 61.68235948678464,
+                "normalized_intensity": 20.56078649559488
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.628216694591224,
+                "normalized_intensity": 16.542738898197076
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 138.16139974608168,
+                "normalized_intensity": 69.08069987304084
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 122.85627160668923,
+                "normalized_intensity": 61.42813580334462
+            },
+            {
+                "topic": "nova scotia",
+                "weighted_count": 60.56340165339418,
+                "normalized_intensity": 30.28170082669709
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 58.84890931999386,
+                "normalized_intensity": 29.42445465999693
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.11469993512444,
+                "normalized_intensity": 25.05734996756222
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 50.10612579026928,
+                "normalized_intensity": 25.05306289513464
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.276309753188364,
+                "normalized_intensity": 24.638154876594182
+            }
+        ]
+    }
+}

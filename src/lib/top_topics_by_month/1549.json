@@ -1,0 +1,67 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.733669684966785,
+                "normalized_intensity": 56.733669684966785
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 54.617506648270094,
+                "normalized_intensity": 54.617506648270094
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 53.54766438616847,
+                "normalized_intensity": 53.54766438616847
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.72853912106534,
+                "normalized_intensity": 51.72853912106534
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.083494968689,
+                "normalized_intensity": 51.083494968689
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 50.71568945304274,
+                "normalized_intensity": 50.71568945304274
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "science",
+                "weighted_count": 134.01617971624168,
+                "normalized_intensity": 67.00808985812084
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 124.2274427028625,
+                "normalized_intensity": 62.11372135143125
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 115.912738140841,
+                "normalized_intensity": 57.9563690704205
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 108.98662446070088,
+                "normalized_intensity": 54.49331223035044
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 101.04823373625624,
+                "normalized_intensity": 50.52411686812812
+            }
+        ]
+    }
+}

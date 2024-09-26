@@ -1,0 +1,127 @@
+{
+    "2024-03": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 255.35385366516144,
+                "normalized_intensity": 36.47912195216592
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 69.02131437156427,
+                "normalized_intensity": 9.860187767366325
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 67.50067312021066,
+                "normalized_intensity": 9.642953302887237
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 61.7310949422658,
+                "normalized_intensity": 8.818727848895113
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 58.316523856012594,
+                "normalized_intensity": 8.330931979430371
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 55.1423851432728,
+                "normalized_intensity": 7.877483591896114
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 49.805319173526975,
+                "normalized_intensity": 7.115045596218139
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.6287076758787,
+                "normalized_intensity": 7.089815382268386
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 248.74051266882242,
+                "normalized_intensity": 19.13388558990942
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 226.43159632270283,
+                "normalized_intensity": 17.41781510174637
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 214.97963019854942,
+                "normalized_intensity": 16.53689463065765
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 69.02131437156427,
+                "normalized_intensity": 5.309331874735713
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 61.59689206171245,
+                "normalized_intensity": 4.738222466285573
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 50.39108602388841,
+                "normalized_intensity": 3.8762373864529547
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.6287076758787,
+                "normalized_intensity": 3.8175928981445155
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 256.4217788009623,
+                "normalized_intensity": 64.10544470024057
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 253.40263218252448,
+                "normalized_intensity": 63.35065804563112
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 245.99541559609963,
+                "normalized_intensity": 61.49885389902491
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 222.47760018748932,
+                "normalized_intensity": 55.61940004687233
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 217.78027342925694,
+                "normalized_intensity": 54.445068357314234
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 211.38579127224128,
+                "normalized_intensity": 52.84644781806032
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 148.01895449442358,
+                "normalized_intensity": 37.004738623605895
+            }
+        ]
+    }
+}

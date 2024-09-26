@@ -1,0 +1,62 @@
+{
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 169.5363542300494,
+                "normalized_intensity": 84.7681771150247
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 147.1754088527255,
+                "normalized_intensity": 73.58770442636275
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 108.4007288965356,
+                "normalized_intensity": 54.2003644482678
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 105.63293831968694,
+                "normalized_intensity": 52.81646915984347
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 102.94656008592939,
+                "normalized_intensity": 51.473280042964696
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 98.53982790541068,
+                "normalized_intensity": 49.26991395270534
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "nunavut",
+                "weighted_count": 365.25576172096714,
+                "normalized_intensity": 91.31394043024179
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 253.75700846569933,
+                "normalized_intensity": 63.43925211642483
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.03322102136382,
+                "normalized_intensity": 14.258305255340955
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 53.85622408217354,
+                "normalized_intensity": 13.464056020543385
+            }
+        ]
+    }
+}

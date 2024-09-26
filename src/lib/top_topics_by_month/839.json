@@ -1,0 +1,152 @@
+{
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 200.4122130362244,
+                "normalized_intensity": 66.8040710120748
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 179.86631435330344,
+                "normalized_intensity": 59.95543811776781
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 107.5540665488225,
+                "normalized_intensity": 35.85135551627417
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 52.63843621317641,
+                "normalized_intensity": 17.54614540439214
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 51.836969970215144,
+                "normalized_intensity": 17.278989990071715
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 50.34161634364931,
+                "normalized_intensity": 16.780538781216435
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.24972535734232,
+                "normalized_intensity": 16.74990845244744
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.786089469262144,
+                "normalized_intensity": 16.595363156420714
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 49.573776697763044,
+                "normalized_intensity": 16.524592232587683
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.56852235311722,
+                "normalized_intensity": 16.522840784372406
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 49.25107926791163,
+                "normalized_intensity": 16.41702642263721
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 64.42917796683258,
+                "normalized_intensity": 64.42917796683258
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 63.04040227007878,
+                "normalized_intensity": 63.04040227007878
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 60.33288217183207,
+                "normalized_intensity": 60.33288217183207
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 58.79426623320112,
+                "normalized_intensity": 58.79426623320112
+            },
+            {
+                "topic": "health",
+                "weighted_count": 57.73210765375756,
+                "normalized_intensity": 57.73210765375756
+            },
+            {
+                "topic": "family",
+                "weighted_count": 55.905988013829734,
+                "normalized_intensity": 55.905988013829734
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 50.88598065623913,
+                "normalized_intensity": 50.88598065623913
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 50.85865791513903,
+                "normalized_intensity": 50.85865791513903
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.165031085252764,
+                "normalized_intensity": 50.165031085252764
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 79.71145824322176,
+                "normalized_intensity": 79.71145824322176
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 62.46403045762053,
+                "normalized_intensity": 62.46403045762053
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.32267290212902,
+                "normalized_intensity": 56.32267290212902
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 55.63515397701644,
+                "normalized_intensity": 55.63515397701644
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.35439344721714,
+                "normalized_intensity": 52.35439344721714
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 50.498946386488065,
+                "normalized_intensity": 50.498946386488065
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 49.898982851578275,
+                "normalized_intensity": 49.898982851578275
+            }
+        ]
+    }
+}

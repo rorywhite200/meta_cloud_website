@@ -1,0 +1,52 @@
+{
+    "2024-08": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 205.3854210914356,
+                "normalized_intensity": 68.46180703047854
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 76.3052401459691,
+                "normalized_intensity": 25.435080048656364
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.452506766335866,
+                "normalized_intensity": 19.817502255445287
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 56.73281259609073,
+                "normalized_intensity": 18.910937532030243
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 55.199379911438164,
+                "normalized_intensity": 18.39979330381272
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 54.48858912069938,
+                "normalized_intensity": 18.162863040233127
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.234815377643976,
+                "normalized_intensity": 17.411605125881326
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.294677010574716,
+                "normalized_intensity": 16.431559003524907
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.2790385571159,
+                "normalized_intensity": 16.426346185705302
+            }
+        ]
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "2023-09": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 286.75010983596206,
+                "normalized_intensity": 57.35002196719241
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 273.0171937139347,
+                "normalized_intensity": 54.60343874278694
+            },
+            {
+                "topic": "family",
+                "weighted_count": 265.4271676582221,
+                "normalized_intensity": 53.085433531644426
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 137.43775917545503,
+                "normalized_intensity": 27.487551835091004
+            },
+            {
+                "topic": "law",
+                "weighted_count": 132.95838187807897,
+                "normalized_intensity": 26.591676375615794
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 128.75319688406316,
+                "normalized_intensity": 25.750639376812632
+            },
+            {
+                "topic": "education",
+                "weighted_count": 111.9117540693106,
+                "normalized_intensity": 22.38235081386212
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 61.440275181643564,
+                "normalized_intensity": 12.288055036328712
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.78999901169511,
+                "normalized_intensity": 10.157999802339022
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 136.22843319895722,
+                "normalized_intensity": 68.11421659947861
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 133.85057762989115,
+                "normalized_intensity": 66.92528881494557
+            },
+            {
+                "topic": "family",
+                "weighted_count": 126.39557742733868,
+                "normalized_intensity": 63.19778871366934
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 57.14210700134006,
+                "normalized_intensity": 28.57105350067003
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 57.13622242925385,
+                "normalized_intensity": 28.568111214626924
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 52.693900798389635,
+                "normalized_intensity": 26.346950399194817
+            },
+            {
+                "topic": "law",
+                "weighted_count": 51.89467171192478,
+                "normalized_intensity": 25.94733585596239
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 50.81830043806297,
+                "normalized_intensity": 25.409150219031485
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 81.3898187436753,
+                "normalized_intensity": 81.3898187436753
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 78.98455887042317,
+                "normalized_intensity": 78.98455887042317
+            },
+            {
+                "topic": "family",
+                "weighted_count": 71.1928198325675,
+                "normalized_intensity": 71.1928198325675
+            },
+            {
+                "topic": "law",
+                "weighted_count": 69.64636934956413,
+                "normalized_intensity": 69.64636934956413
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 50.446618680383146,
+                "normalized_intensity": 50.446618680383146
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 113.59244271262872,
+                "normalized_intensity": 56.79622135631436
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 109.99203811764488,
+                "normalized_intensity": 54.99601905882244
+            },
+            {
+                "topic": "family",
+                "weighted_count": 61.477638046296015,
+                "normalized_intensity": 30.738819023148007
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 57.338448090552816,
+                "normalized_intensity": 28.669224045276408
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.694547574624195,
+                "normalized_intensity": 28.347273787312098
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 55.800498714309576,
+                "normalized_intensity": 27.900249357154788
+            }
+        ]
+    }
+}

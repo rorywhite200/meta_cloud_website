@@ -1,0 +1,62 @@
+{
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 67.37827594004456,
+                "normalized_intensity": 67.37827594004456
+            },
+            {
+                "topic": "family",
+                "weighted_count": 63.6826697717616,
+                "normalized_intensity": 63.6826697717616
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 62.621926515609694,
+                "normalized_intensity": 62.621926515609694
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 62.52818557825278,
+                "normalized_intensity": 62.52818557825278
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 61.468145548746925,
+                "normalized_intensity": 61.468145548746925
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 57.52182961397698,
+                "normalized_intensity": 57.52182961397698
+            },
+            {
+                "topic": "health",
+                "weighted_count": 53.86137846361889,
+                "normalized_intensity": 53.86137846361889
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.606640900048276,
+                "normalized_intensity": 52.606640900048276
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 51.38450982409889,
+                "normalized_intensity": 51.38450982409889
+            },
+            {
+                "topic": "military",
+                "weighted_count": 51.102062429996934,
+                "normalized_intensity": 51.102062429996934
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.34472781237027,
+                "normalized_intensity": 50.34472781237027
+            }
+        ]
+    }
+}

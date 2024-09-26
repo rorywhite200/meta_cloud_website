@@ -1,0 +1,42 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 215.43493023615162,
+                "normalized_intensity": 53.858732559037904
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 210.37405791460606,
+                "normalized_intensity": 52.593514478651514
+            },
+            {
+                "topic": "community",
+                "weighted_count": 209.845328619913,
+                "normalized_intensity": 52.46133215497825
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 181.94946409237264,
+                "normalized_intensity": 45.48736602309316
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.66560104731079,
+                "normalized_intensity": 24.916400261827697
+            },
+            {
+                "topic": "security",
+                "weighted_count": 98.29453512809488,
+                "normalized_intensity": 24.57363378202372
+            },
+            {
+                "topic": "art",
+                "weighted_count": 49.65189414885769,
+                "normalized_intensity": 12.412973537214423
+            }
+        ]
+    }
+}

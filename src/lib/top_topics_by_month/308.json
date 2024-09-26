@@ -1,0 +1,137 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 125.06343420110792,
+                "normalized_intensity": 62.53171710055396
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 99.10506988248558,
+                "normalized_intensity": 49.55253494124279
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 748.1469669704359,
+                "normalized_intensity": 57.54976669003353
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 103.89046137888596,
+                "normalized_intensity": 7.991573952221997
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 103.55288872548407,
+                "normalized_intensity": 7.965606825037236
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 100.5197826288807,
+                "normalized_intensity": 7.732290971452362
+            },
+            {
+                "topic": "food",
+                "weighted_count": 51.582057421483604,
+                "normalized_intensity": 3.9678505708833542
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 669.8076102855932,
+                "normalized_intensity": 55.81730085713277
+            },
+            {
+                "topic": "food",
+                "weighted_count": 104.7387939964141,
+                "normalized_intensity": 8.72823283303451
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 102.57090650353084,
+                "normalized_intensity": 8.547575541960903
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 102.37999002737519,
+                "normalized_intensity": 8.531665835614598
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 61.501717712136895,
+                "normalized_intensity": 5.125143142678074
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 60.44702816740089,
+                "normalized_intensity": 5.037252347283407
+            },
+            {
+                "topic": "history",
+                "weighted_count": 56.308160126546646,
+                "normalized_intensity": 4.69234667721222
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 114.21278025927998,
+                "normalized_intensity": 57.10639012963999
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.03107755325461,
+                "normalized_intensity": 24.515538776627306
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 121.61011148490334,
+                "normalized_intensity": 60.80505574245167
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 49.63256399438385,
+                "normalized_intensity": 24.816281997191926
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 59.31891309922778,
+                "normalized_intensity": 59.31891309922778
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 57.681132869414874,
+                "normalized_intensity": 57.681132869414874
+            }
+        ]
+    }
+}

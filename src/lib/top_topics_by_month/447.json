@@ -1,0 +1,247 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 52.98696468856975,
+                "normalized_intensity": 52.98696468856975
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 49.63597351046556,
+                "normalized_intensity": 49.63597351046556
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 64.58769249192898,
+                "normalized_intensity": 64.58769249192898
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 62.469850135654944,
+                "normalized_intensity": 62.469850135654944
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 51.33856772134258,
+                "normalized_intensity": 51.33856772134258
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 123.28320214407415,
+                "normalized_intensity": 61.641601072037076
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 123.26300386901225,
+                "normalized_intensity": 61.631501934506126
+            },
+            {
+                "topic": "community",
+                "weighted_count": 101.44748648267144,
+                "normalized_intensity": 50.72374324133572
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 99.42524076377057,
+                "normalized_intensity": 49.71262038188529
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 98.62053363579439,
+                "normalized_intensity": 49.310266817897194
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 121.1376756188771,
+                "normalized_intensity": 60.56883780943855
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 105.71537107971028,
+                "normalized_intensity": 52.85768553985514
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 101.35446543353129,
+                "normalized_intensity": 50.677232716765644
+            },
+            {
+                "topic": "community",
+                "weighted_count": 100.75429455194889,
+                "normalized_intensity": 50.377147275974444
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 61.641601072037076,
+                "normalized_intensity": 30.820800536018538
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 86.07391844905942,
+                "normalized_intensity": 86.07391844905942
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 60.95696087475795,
+                "normalized_intensity": 60.95696087475795
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 58.838348906856275,
+                "normalized_intensity": 58.838348906856275
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 54.83621282355472,
+                "normalized_intensity": 54.83621282355472
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 258.9914812468997,
+                "normalized_intensity": 64.74787031172492
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 137.89399962896488,
+                "normalized_intensity": 34.47349990724122
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 120.30602664213635,
+                "normalized_intensity": 30.076506660534086
+            },
+            {
+                "topic": "digital-rights",
+                "weighted_count": 108.91805799941791,
+                "normalized_intensity": 27.229514499854478
+            },
+            {
+                "topic": "security",
+                "weighted_count": 104.98137573974817,
+                "normalized_intensity": 26.245343934937043
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 103.23583391305894,
+                "normalized_intensity": 25.808958478264735
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 98.22651409292997,
+                "normalized_intensity": 24.556628523232494
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.940299888678105,
+                "normalized_intensity": 12.485074972169526
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 194.17722141835037,
+                "normalized_intensity": 48.54430535458759
+            },
+            {
+                "topic": "community",
+                "weighted_count": 176.18986246386686,
+                "normalized_intensity": 44.047465615966715
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 125.24631643353715,
+                "normalized_intensity": 31.311579108384286
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 61.38009318195529,
+                "normalized_intensity": 15.345023295488822
+            },
+            {
+                "topic": "family",
+                "weighted_count": 58.862785496873194,
+                "normalized_intensity": 14.715696374218298
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 52.58282226115371,
+                "normalized_intensity": 13.145705565288427
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.04278903328845,
+                "normalized_intensity": 13.010697258322113
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.021384504305665,
+                "normalized_intensity": 12.755346126076416
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 50.213295159105044,
+                "normalized_intensity": 12.553323789776261
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.940299888678105,
+                "normalized_intensity": 12.485074972169526
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.21629330400425,
+                "normalized_intensity": 12.304073326001063
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 71.92174691180679,
+                "normalized_intensity": 71.92174691180679
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 53.999767946362645,
+                "normalized_intensity": 53.999767946362645
+            },
+            {
+                "topic": "history",
+                "weighted_count": 51.156498434078756,
+                "normalized_intensity": 51.156498434078756
+            }
+        ]
+    }
+}

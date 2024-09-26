@@ -1,0 +1,157 @@
+{
+    "2024-02": {
+        "total_ads": 39,
+        "topics": [
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 2765.2918280081453,
+                "normalized_intensity": 70.90491866687552
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 2575.0377735771103,
+                "normalized_intensity": 66.02660957890026
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 2457.331790663978,
+                "normalized_intensity": 63.008507452922515
+            },
+            {
+                "topic": "law",
+                "weighted_count": 1091.7355000765067,
+                "normalized_intensity": 27.993217950679657
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 967.1354253158811,
+                "normalized_intensity": 24.798344238868747
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 643.9172515521655,
+                "normalized_intensity": 16.510698757747832
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 641.7039853678762,
+                "normalized_intensity": 16.453948342766054
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 608.0902414784432,
+                "normalized_intensity": 15.592057473806236
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 396.7668691180959,
+                "normalized_intensity": 10.17350946456656
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 271.22742757713274,
+                "normalized_intensity": 6.954549425054686
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 696.7039174352274,
+                "normalized_intensity": 69.67039174352274
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 647.1439598345057,
+                "normalized_intensity": 64.71439598345057
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 631.6019881957488,
+                "normalized_intensity": 63.16019881957489
+            },
+            {
+                "topic": "law",
+                "weighted_count": 220.78056117415613,
+                "normalized_intensity": 22.078056117415613
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 201.12463134717848,
+                "normalized_intensity": 20.11246313471785
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 100.25806572884062,
+                "normalized_intensity": 10.025806572884061
+            },
+            {
+                "topic": "intellectual-property",
+                "weighted_count": 49.595858639761985,
+                "normalized_intensity": 4.959585863976199
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 49.187532460534726,
+                "normalized_intensity": 4.918753246053472
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.18322545200598,
+                "normalized_intensity": 4.918322545200597
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 15,
+        "topics": [
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 1047.6460023383343,
+                "normalized_intensity": 69.84306682255561
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 975.9424917804262,
+                "normalized_intensity": 65.06283278536175
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 720.2163511338589,
+                "normalized_intensity": 48.014423408923925
+            },
+            {
+                "topic": "law",
+                "weighted_count": 373.73511387263795,
+                "normalized_intensity": 24.915674258175862
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 348.0557591239611,
+                "normalized_intensity": 23.20371727493074
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 143.08193981909773,
+                "normalized_intensity": 71.54096990954886
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 127.0203780832601,
+                "normalized_intensity": 63.51018904163005
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 113.71876173821155,
+                "normalized_intensity": 56.85938086910578
+            }
+        ]
+    }
+}

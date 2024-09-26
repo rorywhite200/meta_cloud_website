@@ -1,0 +1,27 @@
+{
+    "2024-06": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 170.18828444850791,
+                "normalized_intensity": 56.72942814950264
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 103.28112354778467,
+                "normalized_intensity": 34.42704118259489
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 68.78308162129946,
+                "normalized_intensity": 22.927693873766486
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.482823795451715,
+                "normalized_intensity": 16.827607931817237
+            }
+        ]
+    }
+}

@@ -1,0 +1,477 @@
+{
+    "2023-09": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 198.23434056730002,
+                "normalized_intensity": 49.558585141825006
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 168.62307284162415,
+                "normalized_intensity": 42.15576821040604
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 165.99087525281718,
+                "normalized_intensity": 41.497718813204294
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 143.19739238499022,
+                "normalized_intensity": 35.799348096247556
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 128.17910050084822,
+                "normalized_intensity": 32.044775125212055
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 68.04163729341819,
+                "normalized_intensity": 17.010409323354548
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 65.9489856190316,
+                "normalized_intensity": 16.4872464047579
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 60.326300481359205,
+                "normalized_intensity": 15.081575120339801
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 57.87988422285132,
+                "normalized_intensity": 14.46997105571283
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 57.40827952487996,
+                "normalized_intensity": 14.35206988121999
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 57.22459635405218,
+                "normalized_intensity": 14.306149088513045
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 56.79862382194085,
+                "normalized_intensity": 14.199655955485213
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 56.57265951051136,
+                "normalized_intensity": 14.14316487762784
+            },
+            {
+                "topic": "history",
+                "weighted_count": 56.43066984665255,
+                "normalized_intensity": 14.107667461663137
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.4048862063495,
+                "normalized_intensity": 14.101221551587376
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 55.58177417701301,
+                "normalized_intensity": 13.895443544253252
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.6607652008408,
+                "normalized_intensity": 13.4151913002102
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 52.13382579891835,
+                "normalized_intensity": 13.033456449729588
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.32933423045893,
+                "normalized_intensity": 12.832333557614733
+            },
+            {
+                "topic": "business",
+                "weighted_count": 50.38225258657836,
+                "normalized_intensity": 12.59556314664459
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 49.47292422366367,
+                "normalized_intensity": 12.368231055915917
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 13,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 605.5154920577321,
+                "normalized_intensity": 46.5781147736717
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 590.708143536216,
+                "normalized_intensity": 45.43908796432431
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 537.2827146567384,
+                "normalized_intensity": 41.32943958897988
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 345.7752101749891,
+                "normalized_intensity": 26.598093090383777
+            },
+            {
+                "topic": "community",
+                "weighted_count": 168.5962967736392,
+                "normalized_intensity": 12.968945905664555
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 151.1907000693939,
+                "normalized_intensity": 11.630053851491839
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 111.89959231970894,
+                "normalized_intensity": 8.607660947669919
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 107.25788845934204,
+                "normalized_intensity": 8.250606804564772
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 100.15184823879399,
+                "normalized_intensity": 7.703988326061076
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.8808625136513,
+                "normalized_intensity": 4.760066347203947
+            },
+            {
+                "topic": "health",
+                "weighted_count": 57.04041916013234,
+                "normalized_intensity": 4.387724550779411
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 52.608448432840426,
+                "normalized_intensity": 4.04680372560311
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 52.10820591845603,
+                "normalized_intensity": 4.008323532188926
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 50.4772035660764,
+                "normalized_intensity": 3.8828618127751073
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.8859552478955,
+                "normalized_intensity": 3.8373811729150384
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.8742470801817,
+                "normalized_intensity": 3.836480544629362
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.78484357440282,
+                "normalized_intensity": 3.82960335187714
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.0601478070609,
+                "normalized_intensity": 3.773857523620069
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "social-services",
+                "weighted_count": 184.39471500876945,
+                "normalized_intensity": 61.46490500292315
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 176.61366161326316,
+                "normalized_intensity": 58.87122053775439
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 174.94740478236713,
+                "normalized_intensity": 58.31580159412238
+            },
+            {
+                "topic": "community",
+                "weighted_count": 169.30205782532113,
+                "normalized_intensity": 56.43401927510704
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 122.6482513842861,
+                "normalized_intensity": 40.8827504614287
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 98.66920801636692,
+                "normalized_intensity": 32.88973600545564
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.458113591709505,
+                "normalized_intensity": 16.819371197236503
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 132.8700045319036,
+                "normalized_intensity": 66.4350022659518
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 289.7590878782835,
+                "normalized_intensity": 32.195454208698166
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 273.4324080173098,
+                "normalized_intensity": 30.381378668589978
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 227.44404467685993,
+                "normalized_intensity": 25.271560519651104
+            },
+            {
+                "topic": "community",
+                "weighted_count": 160.77879451819393,
+                "normalized_intensity": 17.86431050202155
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 119.18564333924809,
+                "normalized_intensity": 13.242849259916454
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 115.95156272539963,
+                "normalized_intensity": 12.883506969488847
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 113.46158304670612,
+                "normalized_intensity": 12.606842560745125
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 112.63532081352977,
+                "normalized_intensity": 12.515035645947753
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 103.57914034276328,
+                "normalized_intensity": 11.508793371418143
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 103.56901697143728,
+                "normalized_intensity": 11.50766855238192
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 101.98392342771461,
+                "normalized_intensity": 11.331547047523847
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 68.00138983331333,
+                "normalized_intensity": 7.555709981479258
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 58.45710097986492,
+                "normalized_intensity": 6.495233442207213
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 55.55252736759807,
+                "normalized_intensity": 6.17250304084423
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 55.30509504469199,
+                "normalized_intensity": 6.145010560521332
+            },
+            {
+                "topic": "health",
+                "weighted_count": 51.70422701471313,
+                "normalized_intensity": 5.744914112745904
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.44666953463717,
+                "normalized_intensity": 5.716296614959685
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 49.58775126540661,
+                "normalized_intensity": 5.509750140600734
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.56640838209114,
+                "normalized_intensity": 5.507378709121237
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 91.64696371780013,
+                "normalized_intensity": 91.64696371780013
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 63.94512837401981,
+                "normalized_intensity": 63.94512837401981
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 59.009222292811145,
+                "normalized_intensity": 59.009222292811145
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 57.12726181401073,
+                "normalized_intensity": 57.12726181401073
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 56.45817858393237,
+                "normalized_intensity": 56.45817858393237
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 55.66283405683621,
+                "normalized_intensity": 55.66283405683621
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 54.20319203113652,
+                "normalized_intensity": 54.20319203113652
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 115.74032886242918,
+                "normalized_intensity": 23.148065772485836
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 105.44466255063985,
+                "normalized_intensity": 21.088932510127968
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 99.68690158729018,
+                "normalized_intensity": 19.937380317458036
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 51.92357803317586,
+                "normalized_intensity": 10.384715606635172
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 50.07822048974743,
+                "normalized_intensity": 10.015644097949487
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 49.43311349757536,
+                "normalized_intensity": 9.886622699515073
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 69.70006795355297,
+                "normalized_intensity": 34.85003397677649
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 67.96698940183236,
+                "normalized_intensity": 33.98349470091618
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.91810030700787,
+                "normalized_intensity": 28.459050153503934
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "labor",
+                "weighted_count": 53.81687870071142,
+                "normalized_intensity": 53.81687870071142
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 49.6146973778042,
+                "normalized_intensity": 49.6146973778042
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.60775468547299,
+                "normalized_intensity": 49.60775468547299
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 49.28919356498745,
+                "normalized_intensity": 49.28919356498745
+            }
+        ]
+    }
+}

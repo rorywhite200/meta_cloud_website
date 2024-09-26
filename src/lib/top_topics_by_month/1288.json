@@ -1,0 +1,62 @@
+{
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 254.64407797647203,
+                "normalized_intensity": 63.66101949411801
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 223.38276078155326,
+                "normalized_intensity": 55.845690195388315
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 185.4886126623072,
+                "normalized_intensity": 46.3721531655768
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 63.20383282275942,
+                "normalized_intensity": 15.800958205689856
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 57.564717664911946,
+                "normalized_intensity": 14.391179416227986
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 55.21514214764306,
+                "normalized_intensity": 13.803785536910764
+            },
+            {
+                "topic": "media",
+                "weighted_count": 49.25520636433867,
+                "normalized_intensity": 12.313801591084667
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 62.465764141464994,
+                "normalized_intensity": 62.465764141464994
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 61.76841552158804,
+                "normalized_intensity": 61.76841552158804
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.604460828474004,
+                "normalized_intensity": 49.604460828474004
+            }
+        ]
+    }
+}

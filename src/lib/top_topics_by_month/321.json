@@ -1,0 +1,262 @@
+{
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 69.96817708879567,
+                "normalized_intensity": 34.984088544397835
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 54.04841457855931,
+                "normalized_intensity": 27.024207289279655
+            },
+            {
+                "topic": "business",
+                "weighted_count": 52.62700499159998,
+                "normalized_intensity": 26.31350249579999
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "economy",
+                "weighted_count": 123.92089838584144,
+                "normalized_intensity": 61.96044919292072
+            },
+            {
+                "topic": "business",
+                "weighted_count": 115.13576510431041,
+                "normalized_intensity": 57.567882552155204
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 84.77322443121183,
+                "normalized_intensity": 42.386612215605915
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 70.15678305788207,
+                "normalized_intensity": 35.07839152894103
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 63.42708971057165,
+                "normalized_intensity": 31.713544855285825
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 49.438777095418445,
+                "normalized_intensity": 24.719388547709222
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 76.57359363619103,
+                "normalized_intensity": 76.57359363619103
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 53.51114368851688,
+                "normalized_intensity": 53.51114368851688
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 74.68107632198459,
+                "normalized_intensity": 74.68107632198459
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 68.10538695041585,
+                "normalized_intensity": 68.10538695041585
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 66.927765064753,
+                "normalized_intensity": 66.927765064753
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 64.33053895039109,
+                "normalized_intensity": 64.33053895039109
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.63944525202958,
+                "normalized_intensity": 49.63944525202958
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 64.75287724819204,
+                "normalized_intensity": 32.37643862409602
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 59.50225237229188,
+                "normalized_intensity": 29.75112618614594
+            },
+            {
+                "topic": "business",
+                "weighted_count": 57.215019462882545,
+                "normalized_intensity": 28.607509731441272
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 55.06197956503378,
+                "normalized_intensity": 27.53098978251689
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.93711445311738,
+                "normalized_intensity": 25.96855722655869
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 51.36575774087323,
+                "normalized_intensity": 25.682878870436614
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 50.68750410817488,
+                "normalized_intensity": 25.34375205408744
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 49.43380884525746,
+                "normalized_intensity": 24.71690442262873
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.080783097838925,
+                "normalized_intensity": 24.540391548919462
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 115.40114053944139,
+                "normalized_intensity": 57.70057026972069
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 73.60086476795396,
+                "normalized_intensity": 36.80043238397698
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 72.6286758788229,
+                "normalized_intensity": 36.31433793941145
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 60.65833108265778,
+                "normalized_intensity": 30.32916554132889
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 60.26938989572277,
+                "normalized_intensity": 30.134694947861384
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 59.83207238868018,
+                "normalized_intensity": 29.91603619434009
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 50.900933402983576,
+                "normalized_intensity": 25.450466701491788
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.511533346213014,
+                "normalized_intensity": 24.755766673106507
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.13558518461304,
+                "normalized_intensity": 62.13558518461304
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 54.54970947912175,
+                "normalized_intensity": 54.54970947912175
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.147209511127905,
+                "normalized_intensity": 54.147209511127905
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 51.77453551177052,
+                "normalized_intensity": 51.77453551177052
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 51.40967344607022,
+                "normalized_intensity": 51.40967344607022
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 65.73310291165171,
+                "normalized_intensity": 21.911034303883905
+            },
+            {
+                "topic": "business",
+                "weighted_count": 54.98890688317913,
+                "normalized_intensity": 18.32963562772638
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 52.52863846293471,
+                "normalized_intensity": 17.50954615431157
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 51.95806347865313,
+                "normalized_intensity": 17.319354492884376
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 49.901479877938,
+                "normalized_intensity": 16.633826625979335
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 49.46092404974094,
+                "normalized_intensity": 16.48697468324698
+            }
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "2024-02": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 513.6521404243015,
+                "normalized_intensity": 73.37887720347165
+            },
+            {
+                "topic": "military",
+                "weighted_count": 319.66192593908545,
+                "normalized_intensity": 45.66598941986935
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 237.392276874189,
+                "normalized_intensity": 33.91318241059843
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 162.67193274253043,
+                "normalized_intensity": 23.238847534647203
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 308.05511726177116,
+                "normalized_intensity": 77.01377931544279
+            },
+            {
+                "topic": "military",
+                "weighted_count": 173.83102094990397,
+                "normalized_intensity": 43.45775523747599
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 101.90683200767197,
+                "normalized_intensity": 25.47670800191799
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.84862549355157,
+                "normalized_intensity": 25.21215637338789
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 76.94566909370839,
+                "normalized_intensity": 19.236417273427097
+            },
+            {
+                "topic": "media",
+                "weighted_count": 59.312210723964796,
+                "normalized_intensity": 14.828052680991199
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.93596990284708,
+                "normalized_intensity": 14.73399247571177
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.00016378063056,
+                "normalized_intensity": 12.75004094515764
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 49.9312443861157,
+                "normalized_intensity": 12.482811096528925
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.55769718731081,
+                "normalized_intensity": 12.389424296827702
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "religion",
+                "weighted_count": 79.01067885759365,
+                "normalized_intensity": 79.01067885759365
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 73.57461827713017,
+                "normalized_intensity": 73.57461827713017
+            },
+            {
+                "topic": "military",
+                "weighted_count": 65.60981987386843,
+                "normalized_intensity": 65.60981987386843
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 56.28172933720336,
+                "normalized_intensity": 56.28172933720336
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.1565239571419,
+                "normalized_intensity": 53.1565239571419
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 53.15380307838221,
+                "normalized_intensity": 53.15380307838221
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 145.40213730967736,
+                "normalized_intensity": 72.70106865483868
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 115.23406402710623,
+                "normalized_intensity": 57.617032013553114
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 91.566054354442,
+                "normalized_intensity": 45.783027177221
+            },
+            {
+                "topic": "military",
+                "weighted_count": 68.68777732570868,
+                "normalized_intensity": 34.34388866285434
+            },
+            {
+                "topic": "community",
+                "weighted_count": 55.32443429749784,
+                "normalized_intensity": 27.66221714874892
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.26464888501089,
+                "normalized_intensity": 26.632324442505446
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 52.98101983560127,
+                "normalized_intensity": 26.490509917800637
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 52.44530655738349,
+                "normalized_intensity": 26.222653278691745
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.37264916031678,
+                "normalized_intensity": 25.68632458015839
+            }
+        ]
+    }
+}

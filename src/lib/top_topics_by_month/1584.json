@@ -1,0 +1,27 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 80.27414585849864,
+                "normalized_intensity": 80.27414585849864
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 71.26067440490854,
+                "normalized_intensity": 71.26067440490854
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 66.24230308510735,
+                "normalized_intensity": 66.24230308510735
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 52.376611162244366,
+                "normalized_intensity": 52.376611162244366
+            }
+        ]
+    }
+}

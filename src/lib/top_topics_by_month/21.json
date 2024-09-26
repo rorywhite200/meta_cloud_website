@@ -1,0 +1,122 @@
+{
+    "2024-03": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 241.13797716708615,
+                "normalized_intensity": 80.37932572236205
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 208.01251756290714,
+                "normalized_intensity": 69.33750585430238
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 196.45389612050457,
+                "normalized_intensity": 65.4846320401682
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 67.43094669121956,
+                "normalized_intensity": 67.43094669121956
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 62.50542853493422,
+                "normalized_intensity": 62.50542853493422
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 142.02630246103422,
+                "normalized_intensity": 71.01315123051711
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 137.14562743835143,
+                "normalized_intensity": 68.57281371917571
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 119.73127911745131,
+                "normalized_intensity": 59.865639558725654
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 51.301614142756854,
+                "normalized_intensity": 25.650807071378427
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 50.24208459829336,
+                "normalized_intensity": 25.12104229914668
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.84197733823621,
+                "normalized_intensity": 24.920988669118106
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 73.32903966387704,
+                "normalized_intensity": 73.32903966387704
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 64.43074332273396,
+                "normalized_intensity": 64.43074332273396
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 61.932213084682445,
+                "normalized_intensity": 61.932213084682445
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 74.2087082432164,
+                "normalized_intensity": 74.2087082432164
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 66.1915550147562,
+                "normalized_intensity": 66.1915550147562
+            },
+            {
+                "topic": "yukon",
+                "weighted_count": 65.81556021918638,
+                "normalized_intensity": 65.81556021918638
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.63632383804544,
+                "normalized_intensity": 52.63632383804544
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.54750454223669,
+                "normalized_intensity": 51.54750454223669
+            }
+        ]
+    }
+}

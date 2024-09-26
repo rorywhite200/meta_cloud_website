@@ -1,0 +1,37 @@
+{
+    "2023-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 55.50725709406995,
+                "normalized_intensity": 55.50725709406995
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 52.78943158584472,
+                "normalized_intensity": 52.78943158584472
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.58025666009783,
+                "normalized_intensity": 51.58025666009783
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 52.116006379667034,
+                "normalized_intensity": 26.058003189833517
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.687784999294216,
+                "normalized_intensity": 25.843892499647108
+            }
+        ]
+    }
+}

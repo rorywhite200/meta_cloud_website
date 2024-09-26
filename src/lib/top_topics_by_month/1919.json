@@ -1,0 +1,47 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 63.64908238640531,
+                "normalized_intensity": 63.64908238640531
+            },
+            {
+                "topic": "bioethics",
+                "weighted_count": 55.45418546569094,
+                "normalized_intensity": 55.45418546569094
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 51.77245652527078,
+                "normalized_intensity": 51.77245652527078
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.4595891714077,
+                "normalized_intensity": 49.4595891714077
+            },
+            {
+                "topic": "health",
+                "weighted_count": 49.08620043507037,
+                "normalized_intensity": 49.08620043507037
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 278.3380650780256,
+                "normalized_intensity": 55.66761301560511
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 158.52294529255784,
+                "normalized_intensity": 31.704589058511566
+            }
+        ]
+    }
+}

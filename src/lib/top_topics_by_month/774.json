@@ -1,0 +1,67 @@
+{
+    "2024-05": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 561.8013033558664,
+                "normalized_intensity": 51.072845759624215
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 502.43732815241583,
+                "normalized_intensity": 45.67612074112871
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 187.66703712934438,
+                "normalized_intensity": 17.060639739031306
+            },
+            {
+                "topic": "newfoundland and labrador",
+                "weighted_count": 157.4012265427824,
+                "normalized_intensity": 14.30920241298022
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 125.17524740864692,
+                "normalized_intensity": 11.379567946240629
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 75.72265451716447,
+                "normalized_intensity": 6.883877683378588
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 59.406463713845106,
+                "normalized_intensity": 5.400587610349555
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 51.82860335046029,
+                "normalized_intensity": 4.7116912136782085
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 51.822653481041556,
+                "normalized_intensity": 4.7111503164583235
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.66770386463646,
+                "normalized_intensity": 4.697063987694223
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.54551241303711,
+                "normalized_intensity": 4.5950465830033735
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.20899767008845,
+                "normalized_intensity": 4.564454333644405
+            }
+        ]
+    }
+}

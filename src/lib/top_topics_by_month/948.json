@@ -1,0 +1,172 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 142.3495028867868,
+                "normalized_intensity": 71.1747514433934
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 142.30251451041966,
+                "normalized_intensity": 71.15125725520983
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 129.7720202139975,
+                "normalized_intensity": 64.88601010699875
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 116.87678127616509,
+                "normalized_intensity": 58.438390638082545
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 109.47657531030158,
+                "normalized_intensity": 54.73828765515079
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 106.94815885252908,
+                "normalized_intensity": 53.47407942626454
+            },
+            {
+                "topic": "community",
+                "weighted_count": 106.7451991235984,
+                "normalized_intensity": 53.3725995617992
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 341.487426858227,
+                "normalized_intensity": 68.29748537164541
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 329.5622760387255,
+                "normalized_intensity": 65.9124552077451
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 311.94822807665673,
+                "normalized_intensity": 62.38964561533135
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 231.93198388025914,
+                "normalized_intensity": 46.386396776051825
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 216.7174213973602,
+                "normalized_intensity": 43.34348427947204
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 214.8329891861839,
+                "normalized_intensity": 42.96659783723678
+            },
+            {
+                "topic": "community",
+                "weighted_count": 117.84422391201616,
+                "normalized_intensity": 23.568844782403232
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 59.503460834778444,
+                "normalized_intensity": 11.90069216695569
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 55.41307242303196,
+                "normalized_intensity": 11.082614484606392
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.56136623795007,
+                "normalized_intensity": 10.712273247590014
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.47708006066585,
+                "normalized_intensity": 10.49541601213317
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 61.14498488747859,
+                "normalized_intensity": 61.14498488747859
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.13190826014644,
+                "normalized_intensity": 61.13190826014644
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 60.7524332982209,
+                "normalized_intensity": 60.7524332982209
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 57.98686625409256,
+                "normalized_intensity": 57.98686625409256
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 55.30791973764503,
+                "normalized_intensity": 55.30791973764503
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 51.042326281822334,
+                "normalized_intensity": 51.042326281822334
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "youth",
+                "weighted_count": 63.44811086554528,
+                "normalized_intensity": 63.44811086554528
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 62.190981571752545,
+                "normalized_intensity": 62.190981571752545
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.408741921823506,
+                "normalized_intensity": 60.408741921823506
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 59.35889511502695,
+                "normalized_intensity": 59.35889511502695
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 55.98103809281761,
+                "normalized_intensity": 55.98103809281761
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 52.00699339443189,
+                "normalized_intensity": 52.00699339443189
+            }
+        ]
+    }
+}

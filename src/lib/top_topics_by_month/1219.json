@@ -1,0 +1,97 @@
+{
+    "2023-10": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 170.65162228551566,
+                "normalized_intensity": 34.13032445710313
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 105.03927959343392,
+                "normalized_intensity": 21.007855918686783
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.05851269493491,
+                "normalized_intensity": 10.011702538986983
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 17,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 743.6792876507864,
+                "normalized_intensity": 43.74584045004626
+            },
+            {
+                "topic": "community",
+                "weighted_count": 360.2325287377485,
+                "normalized_intensity": 21.190148749279324
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 171.29296243097136,
+                "normalized_intensity": 10.07605661358655
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "joy",
+                "weighted_count": 204.96303194211916,
+                "normalized_intensity": 51.24075798552979
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 161.50289711602778,
+                "normalized_intensity": 40.375724279006945
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 276.2600153923649,
+                "normalized_intensity": 55.25200307847298
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 101.31417400579205,
+                "normalized_intensity": 20.262834801158412
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 54.39610902769883,
+                "normalized_intensity": 54.39610902769883
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 393.8355504709301,
+                "normalized_intensity": 56.26222149584716
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 54.235244973235716,
+                "normalized_intensity": 7.747892139033674
+            }
+        ]
+    }
+}

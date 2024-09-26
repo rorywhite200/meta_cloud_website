@@ -1,0 +1,32 @@
+{
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "immigration",
+                "weighted_count": 114.31369670154106,
+                "normalized_intensity": 57.15684835077053
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 61.24286361700515,
+                "normalized_intensity": 30.621431808502575
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 58.36347934363134,
+                "normalized_intensity": 29.18173967181567
+            },
+            {
+                "topic": "community",
+                "weighted_count": 53.39733274415579,
+                "normalized_intensity": 26.698666372077895
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 51.319431254345446,
+                "normalized_intensity": 25.659715627172723
+            }
+        ]
+    }
+}

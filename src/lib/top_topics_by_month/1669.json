@@ -1,0 +1,37 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 68.78504445994858,
+                "normalized_intensity": 68.78504445994858
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 63.62838890631417,
+                "normalized_intensity": 63.62838890631417
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.22048949849565,
+                "normalized_intensity": 56.22048949849565
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 54.80721151521285,
+                "normalized_intensity": 54.80721151521285
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.64259646073775,
+                "normalized_intensity": 53.64259646073775
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 52.05313938767804,
+                "normalized_intensity": 52.05313938767804
+            }
+        ]
+    }
+}

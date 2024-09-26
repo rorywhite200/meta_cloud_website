@@ -1,0 +1,87 @@
+{
+    "2024-08": {
+        "total_ads": 9,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 308.8085768067249,
+                "normalized_intensity": 34.312064089636095
+            },
+            {
+                "topic": "community",
+                "weighted_count": 216.72908266283702,
+                "normalized_intensity": 24.08100918475967
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 162.87347982141029,
+                "normalized_intensity": 18.097053313490033
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 127.16335076676788,
+                "normalized_intensity": 14.129261196307542
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 124.19773132528323,
+                "normalized_intensity": 13.79974792503147
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 122.96065435019719,
+                "normalized_intensity": 13.662294927799687
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 114.02953665439838,
+                "normalized_intensity": 12.669948517155376
+            },
+            {
+                "topic": "law",
+                "weighted_count": 112.83509018123213,
+                "normalized_intensity": 12.537232242359126
+            },
+            {
+                "topic": "social-media",
+                "weighted_count": 109.30804810875142,
+                "normalized_intensity": 12.145338678750157
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 105.51268890124167,
+                "normalized_intensity": 11.723632100137964
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 55.23291987797045,
+                "normalized_intensity": 6.136991097552272
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 54.14448017763783,
+                "normalized_intensity": 6.01605335307087
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 51.39328331776234,
+                "normalized_intensity": 5.710364813084705
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 51.13148792847559,
+                "normalized_intensity": 5.6812764364972885
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.67186754321047,
+                "normalized_intensity": 5.630207504801163
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 49.08436927110563,
+                "normalized_intensity": 5.453818807900626
+            }
+        ]
+    }
+}

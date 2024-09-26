@@ -1,0 +1,52 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 74.441012808676,
+                "normalized_intensity": 74.441012808676
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 70.0967792960163,
+                "normalized_intensity": 70.0967792960163
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 69.44910717507109,
+                "normalized_intensity": 69.44910717507109
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 65.27199292626727,
+                "normalized_intensity": 65.27199292626727
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 61.012170785023926,
+                "normalized_intensity": 61.012170785023926
+            },
+            {
+                "topic": "community",
+                "weighted_count": 60.06696984761169,
+                "normalized_intensity": 60.06696984761169
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 51.55080882226778,
+                "normalized_intensity": 51.55080882226778
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.91374866291238,
+                "normalized_intensity": 50.91374866291238
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 49.192441927534375,
+                "normalized_intensity": 49.192441927534375
+            }
+        ]
+    }
+}

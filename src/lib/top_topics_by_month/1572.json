@@ -1,0 +1,107 @@
+{
+    "2023-11": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 281.38407624939396,
+                "normalized_intensity": 70.34601906234849
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 271.8466403521502,
+                "normalized_intensity": 67.96166008803755
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 255.7223467042588,
+                "normalized_intensity": 63.9305866760647
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 250.92772090072611,
+                "normalized_intensity": 62.73193022518153
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 245.77077395521246,
+                "normalized_intensity": 61.442693488803116
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 244.4779408620049,
+                "normalized_intensity": 61.11948521550123
+            },
+            {
+                "topic": "family",
+                "weighted_count": 209.12032806348873,
+                "normalized_intensity": 52.28008201587218
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 206.45521828679554,
+                "normalized_intensity": 51.613804571698886
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 199.10764532030498,
+                "normalized_intensity": 49.776911330076246
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 198.0536260514438,
+                "normalized_intensity": 49.51340651286095
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 196.3827236708243,
+                "normalized_intensity": 49.095680917706076
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 71.84105760881224,
+                "normalized_intensity": 71.84105760881224
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 71.48907413541686,
+                "normalized_intensity": 71.48907413541686
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 68.17055332261634,
+                "normalized_intensity": 68.17055332261634
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 64.06761648545142,
+                "normalized_intensity": 64.06761648545142
+            },
+            {
+                "topic": "community",
+                "weighted_count": 58.56945237174648,
+                "normalized_intensity": 58.56945237174648
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 57.88895185093402,
+                "normalized_intensity": 57.88895185093402
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 52.34419860790156,
+                "normalized_intensity": 52.34419860790156
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 52.12555862037783,
+                "normalized_intensity": 52.12555862037783
+            }
+        ]
+    }
+}

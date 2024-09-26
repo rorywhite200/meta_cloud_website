@@ -1,0 +1,82 @@
+{
+    "2024-02": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 841.0969200945674,
+                "normalized_intensity": 70.09141000788061
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 765.7774952437009,
+                "normalized_intensity": 63.814791270308405
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 671.084166433045,
+                "normalized_intensity": 55.92368053608708
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 627.6100703282266,
+                "normalized_intensity": 52.300839194018884
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 380.08501497800273,
+                "normalized_intensity": 31.673751248166894
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 350.46360254186254,
+                "normalized_intensity": 29.20530021182188
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 252.14574434015944,
+                "normalized_intensity": 21.012145361679952
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 107.17045903111797,
+                "normalized_intensity": 8.930871585926498
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 99.29101506172255,
+                "normalized_intensity": 8.274251255143545
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 286.8543727361891,
+                "normalized_intensity": 71.71359318404727
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 267.2407808928278,
+                "normalized_intensity": 66.81019522320695
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 225.07726937450155,
+                "normalized_intensity": 56.26931734362539
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 210.17771974690854,
+                "normalized_intensity": 52.544429936727134
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 198.04455992620078,
+                "normalized_intensity": 49.511139981550194
+            }
+        ]
+    }
+}

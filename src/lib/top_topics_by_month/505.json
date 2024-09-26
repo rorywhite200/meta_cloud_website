@@ -1,0 +1,37 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "anti-woke",
+                "weighted_count": 63.45911681402065,
+                "normalized_intensity": 63.45911681402065
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 70.94709598874958,
+                "normalized_intensity": 70.94709598874958
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 68.0033139604845,
+                "normalized_intensity": 68.0033139604845
+            },
+            {
+                "topic": "family",
+                "weighted_count": 67.40543265659632,
+                "normalized_intensity": 67.40543265659632
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 52.360608206829006,
+                "normalized_intensity": 52.360608206829006
+            }
+        ]
+    }
+}

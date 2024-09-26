@@ -1,0 +1,47 @@
+{
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 67.44417381712115,
+                "normalized_intensity": 67.44417381712115
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 65.64001029178871,
+                "normalized_intensity": 65.64001029178871
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.9928603070242,
+                "normalized_intensity": 62.9928603070242
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 62.4335679028626,
+                "normalized_intensity": 62.4335679028626
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 58.071585576976325,
+                "normalized_intensity": 58.071585576976325
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 56.55222356472114,
+                "normalized_intensity": 56.55222356472114
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 50.6675644608221,
+                "normalized_intensity": 50.6675644608221
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 49.13851419008196,
+                "normalized_intensity": 49.13851419008196
+            }
+        ]
+    }
+}

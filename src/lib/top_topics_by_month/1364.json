@@ -1,0 +1,72 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 72.55703601102763,
+                "normalized_intensity": 72.55703601102763
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 60.13841230027794,
+                "normalized_intensity": 60.13841230027794
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 58.52488879073415,
+                "normalized_intensity": 58.52488879073415
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 57.6000740515342,
+                "normalized_intensity": 57.6000740515342
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 55.94974391430212,
+                "normalized_intensity": 55.94974391430212
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.22719307300174,
+                "normalized_intensity": 54.22719307300174
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.40943199425131,
+                "normalized_intensity": 49.40943199425131
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "weather",
+                "weighted_count": 175.20109706558546,
+                "normalized_intensity": 87.60054853279273
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 143.45144228077692,
+                "normalized_intensity": 71.72572114038846
+            },
+            {
+                "topic": "manitoba",
+                "weighted_count": 130.7930500514833,
+                "normalized_intensity": 65.39652502574165
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 122.03617871024852,
+                "normalized_intensity": 61.01808935512426
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 116.94713054419881,
+                "normalized_intensity": 58.47356527209941
+            }
+        ]
+    }
+}

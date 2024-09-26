@@ -1,0 +1,462 @@
+{
+    "2023-09": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "corruption",
+                "weighted_count": 713.1964933189731,
+                "normalized_intensity": 64.83604484717938
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 667.7848012445487,
+                "normalized_intensity": 60.707709204049884
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 632.1051686916528,
+                "normalized_intensity": 57.46410624469571
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 501.7321131742957,
+                "normalized_intensity": 45.612010288572336
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 319.50287677670684,
+                "normalized_intensity": 29.045716070609714
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 107.64383096584226,
+                "normalized_intensity": 9.785802815076568
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 103.30781942038517,
+                "normalized_intensity": 9.391619947307744
+            },
+            {
+                "topic": "law",
+                "weighted_count": 53.74864743759866,
+                "normalized_intensity": 4.886240676145333
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 51.180863708699576,
+                "normalized_intensity": 4.6528057916999614
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 49.84703645084307,
+                "normalized_intensity": 4.531548768258461
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 58,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 3754.4420817656046,
+                "normalized_intensity": 64.73176003044146
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 2737.356858105158,
+                "normalized_intensity": 47.1958078983648
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 204.04154704724309,
+                "normalized_intensity": 3.5179577077110875
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 243,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 11454.48845722046,
+                "normalized_intensity": 47.13781258115415
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 7672.50939630908,
+                "normalized_intensity": 31.574112742012677
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 3862.803456137423,
+                "normalized_intensity": 15.896310519084045
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 3561.2541392218045,
+                "normalized_intensity": 14.65536682807327
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2455.8927696868145,
+                "normalized_intensity": 10.106554607764668
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 2149.1051822073355,
+                "normalized_intensity": 8.844054247766813
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 1670.330810895276,
+                "normalized_intensity": 6.873789345248049
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 1493.180686645642,
+                "normalized_intensity": 6.144776488253671
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 893.1381099016869,
+                "normalized_intensity": 3.675465472846448
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 710.504927225708,
+                "normalized_intensity": 2.923888589406206
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 203.6868617269052,
+                "normalized_intensity": 0.8382175379708032
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 127.09799152482954,
+                "normalized_intensity": 0.5230370021597923
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 113.70907686424184,
+                "normalized_intensity": 0.4679385879186907
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 107.52158397263854,
+                "normalized_intensity": 0.442475654208389
+            },
+            {
+                "topic": "health",
+                "weighted_count": 105.7835533026044,
+                "normalized_intensity": 0.4353232646197712
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 101.5178464281105,
+                "normalized_intensity": 0.41776891534201854
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 100.80278749276621,
+                "normalized_intensity": 0.4148262859784618
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 100.75139997280998,
+                "normalized_intensity": 0.4146148147029217
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 99.03621763041686,
+                "normalized_intensity": 0.4075564511539788
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 98.5606154715767,
+                "normalized_intensity": 0.4055992406237724
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 165,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 7194.663369872595,
+                "normalized_intensity": 43.60402042347027
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 6942.324943316052,
+                "normalized_intensity": 42.07469662615789
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 6526.472259010026,
+                "normalized_intensity": 39.55437732733349
+            },
+            {
+                "topic": "health",
+                "weighted_count": 3766.926237136489,
+                "normalized_intensity": 22.829855982645388
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 3466.5589509160077,
+                "normalized_intensity": 21.009448187369742
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 2291.119074795691,
+                "normalized_intensity": 13.885570150276916
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 1775.2653950233914,
+                "normalized_intensity": 10.759184212262978
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 914.4705691022839,
+                "normalized_intensity": 5.542245873347175
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 662.8801125750838,
+                "normalized_intensity": 4.017455227727781
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 562.6320660770268,
+                "normalized_intensity": 3.409891309557738
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 513.6505774141852,
+                "normalized_intensity": 3.1130338025102136
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 420.9600532479313,
+                "normalized_intensity": 2.5512730499874623
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 416.9509049080253,
+                "normalized_intensity": 2.5269751812607595
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 413.20739721335724,
+                "normalized_intensity": 2.5042872558385287
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 355.7586888130114,
+                "normalized_intensity": 2.1561132655334023
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 348.22882677974377,
+                "normalized_intensity": 2.1104777380590534
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 313.8596692106247,
+                "normalized_intensity": 1.9021798133977255
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 300.603773572124,
+                "normalized_intensity": 1.8218410519522668
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 290.4639026526686,
+                "normalized_intensity": 1.7603872888040522
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 231.52922658572774,
+                "normalized_intensity": 1.4032074338528955
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 207.60696974184734,
+                "normalized_intensity": 1.258224059041499
+            },
+            {
+                "topic": "community",
+                "weighted_count": 205.6241906480339,
+                "normalized_intensity": 1.2462072160486903
+            },
+            {
+                "topic": "law",
+                "weighted_count": 118.49172821631097,
+                "normalized_intensity": 0.7181316861594604
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 100.07045565083669,
+                "normalized_intensity": 0.6064876100050709
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.49828030337909,
+                "normalized_intensity": 0.2999895775962369
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 38,
+        "topics": [
+            {
+                "topic": "ontario",
+                "weighted_count": 1836.3330291544085,
+                "normalized_intensity": 48.32455339880022
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 1176.9688607135415,
+                "normalized_intensity": 30.972864755619515
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 698.2220345493503,
+                "normalized_intensity": 18.374264067088166
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 592.5932358430529,
+                "normalized_intensity": 15.594558837975075
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 591.4444314855346,
+                "normalized_intensity": 15.564327144356172
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 509.98029997059916,
+                "normalized_intensity": 13.42053420975261
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 502.7695012705362,
+                "normalized_intensity": 13.230776349224636
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 476.3380937826924,
+                "normalized_intensity": 12.535212994281379
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 471.23262723338956,
+                "normalized_intensity": 12.400858611404988
+            },
+            {
+                "topic": "health",
+                "weighted_count": 320.776356411673,
+                "normalized_intensity": 8.44148306346508
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 319.33158451695033,
+                "normalized_intensity": 8.403462750446062
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 300.8894791246071,
+                "normalized_intensity": 7.91814418748966
+            },
+            {
+                "topic": "law",
+                "weighted_count": 238.34658303224367,
+                "normalized_intensity": 6.272278500848517
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 209.77106346060702,
+                "normalized_intensity": 5.5202911437001845
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 208.34003124193944,
+                "normalized_intensity": 5.482632401103669
+            },
+            {
+                "topic": "community",
+                "weighted_count": 201.1431026335009,
+                "normalized_intensity": 5.293239542986865
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 148.49481826765378,
+                "normalized_intensity": 3.907758375464573
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 100.70656962719495,
+                "normalized_intensity": 2.650172884926183
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 52.84425256992168,
+                "normalized_intensity": 1.3906382255242546
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 11,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 717.5639668926033,
+                "normalized_intensity": 65.23308789932757
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 681.4863849440145,
+                "normalized_intensity": 61.95330772218313
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 646.1095387594033,
+                "normalized_intensity": 58.7372307963094
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 622.3556679370404,
+                "normalized_intensity": 56.5777879942764
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 602.6600043440731,
+                "normalized_intensity": 54.78727312218846
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 599.5291251134387,
+                "normalized_intensity": 54.502647737585335
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 580.1513229002156,
+                "normalized_intensity": 52.74102935456506
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 297.00092758707353,
+                "normalized_intensity": 27.000084326097593
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 200.3944858406415,
+                "normalized_intensity": 18.21768053096741
+            }
+        ]
+    }
+}

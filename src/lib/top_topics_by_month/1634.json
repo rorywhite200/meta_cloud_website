@@ -1,0 +1,42 @@
+{
+    "2023-11": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "scientific-research",
+                "weighted_count": 433.24218181114117,
+                "normalized_intensity": 86.64843636222824
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 422.2645966329451,
+                "normalized_intensity": 84.45291932658901
+            },
+            {
+                "topic": "science",
+                "weighted_count": 287.3672759712829,
+                "normalized_intensity": 57.47345519425657
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 278.7168955168819,
+                "normalized_intensity": 55.74337910337638
+            },
+            {
+                "topic": "community",
+                "weighted_count": 267.1702170751017,
+                "normalized_intensity": 53.434043415020334
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 100.36842798191026,
+                "normalized_intensity": 20.073685596382052
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 49.0748130296926,
+                "normalized_intensity": 9.81496260593852
+            }
+        ]
+    }
+}

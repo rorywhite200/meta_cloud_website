@@ -1,0 +1,97 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 55.28370739970173,
+                "normalized_intensity": 55.28370739970173
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 54.34118152876653,
+                "normalized_intensity": 54.34118152876653
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.29653778301021,
+                "normalized_intensity": 53.29653778301021
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 53.18364719344938,
+                "normalized_intensity": 53.18364719344938
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.02402325628683,
+                "normalized_intensity": 53.02402325628683
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.022525205055665,
+                "normalized_intensity": 49.022525205055665
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 58.54848747077127,
+                "normalized_intensity": 58.54848747077127
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 50.752268463409536,
+                "normalized_intensity": 50.752268463409536
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 59.108525276330404,
+                "normalized_intensity": 59.108525276330404
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 54.6213009160931,
+                "normalized_intensity": 54.6213009160931
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 53.62124005269631,
+                "normalized_intensity": 53.62124005269631
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 49.00646193820526,
+                "normalized_intensity": 49.00646193820526
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 64.68030041567819,
+                "normalized_intensity": 64.68030041567819
+            },
+            {
+                "topic": "community",
+                "weighted_count": 56.3756988811764,
+                "normalized_intensity": 56.3756988811764
+            },
+            {
+                "topic": "film",
+                "weighted_count": 55.64245413412215,
+                "normalized_intensity": 55.64245413412215
+            }
+        ]
+    }
+}

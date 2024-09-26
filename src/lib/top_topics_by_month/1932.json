@@ -1,0 +1,32 @@
+{
+    "2023-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 72.97737189991346,
+                "normalized_intensity": 72.97737189991346
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.160613577134505,
+                "normalized_intensity": 52.160613577134505
+            }
+        ]
+    },
+    "2023-09": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "community",
+                "weighted_count": 511.0986320033878,
+                "normalized_intensity": 73.01409028619825
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 363.8162749398424,
+                "normalized_intensity": 51.97375356283463
+            }
+        ]
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "literature",
+                "weighted_count": 113.05795810922977,
+                "normalized_intensity": 37.68598603640992
+            },
+            {
+                "topic": "film",
+                "weighted_count": 105.78717677029208,
+                "normalized_intensity": 35.262392256764024
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 67.88798145742679,
+                "normalized_intensity": 22.629327152475597
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 56.15637349464318,
+                "normalized_intensity": 18.718791164881058
+            },
+            {
+                "topic": "education",
+                "weighted_count": 51.45574840465928,
+                "normalized_intensity": 17.151916134886427
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 68.11671477125904,
+                "normalized_intensity": 68.11671477125904
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 62.15456052345789,
+                "normalized_intensity": 62.15456052345789
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 60.95572349169222,
+                "normalized_intensity": 60.95572349169222
+            },
+            {
+                "topic": "education",
+                "weighted_count": 55.79845939894861,
+                "normalized_intensity": 55.79845939894861
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.18087080810428,
+                "normalized_intensity": 49.18087080810428
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 64.41889399208442,
+                "normalized_intensity": 64.41889399208442
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 56.58348902247362,
+                "normalized_intensity": 56.58348902247362
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.536568186709765,
+                "normalized_intensity": 49.536568186709765
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "human-rights",
+                "weighted_count": 68.11671477125904,
+                "normalized_intensity": 68.11671477125904
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 62.15456052345789,
+                "normalized_intensity": 62.15456052345789
+            },
+            {
+                "topic": "literature",
+                "weighted_count": 60.95572349169222,
+                "normalized_intensity": 60.95572349169222
+            },
+            {
+                "topic": "education",
+                "weighted_count": 55.79845939894861,
+                "normalized_intensity": 55.79845939894861
+            },
+            {
+                "topic": "disability",
+                "weighted_count": 49.18087080810428,
+                "normalized_intensity": 49.18087080810428
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 63.8078802022755,
+                "normalized_intensity": 63.8078802022755
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 54.08392146237577,
+                "normalized_intensity": 54.08392146237577
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 52.216487189093876,
+                "normalized_intensity": 52.216487189093876
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 50.19907803156459,
+                "normalized_intensity": 50.19907803156459
+            }
+        ]
+    }
+}

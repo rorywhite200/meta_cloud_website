@@ -1,0 +1,37 @@
+{
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "history",
+                "weighted_count": 111.18453658055677,
+                "normalized_intensity": 55.59226829027838
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 104.70163225793439,
+                "normalized_intensity": 52.350816128967196
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 63.875587948641886,
+                "normalized_intensity": 63.875587948641886
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 50.35797055880026,
+                "normalized_intensity": 50.35797055880026
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 49.718331345035125,
+                "normalized_intensity": 49.718331345035125
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 162.2940390080708,
+                "normalized_intensity": 54.098013002690266
+            },
+            {
+                "topic": "community",
+                "weighted_count": 114.17416333719981,
+                "normalized_intensity": 38.05805444573327
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 104.11347444931286,
+                "normalized_intensity": 34.704491483104285
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 103.27989800397518,
+                "normalized_intensity": 34.426632667991726
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 98.94212066774918,
+                "normalized_intensity": 32.980706889249724
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.57573856805471,
+                "normalized_intensity": 17.191912856018238
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 65.35008607628899,
+                "normalized_intensity": 65.35008607628899
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.323317315068834,
+                "normalized_intensity": 49.323317315068834
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "parenting",
+                "weighted_count": 59.01552396028882,
+                "normalized_intensity": 59.01552396028882
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 58.3523979535513,
+                "normalized_intensity": 58.3523979535513
+            },
+            {
+                "topic": "art",
+                "weighted_count": 58.15869939148596,
+                "normalized_intensity": 58.15869939148596
+            },
+            {
+                "topic": "family",
+                "weighted_count": 57.640681384047674,
+                "normalized_intensity": 57.640681384047674
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 61.59482411994806,
+                "normalized_intensity": 61.59482411994806
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 53.23842944305889,
+                "normalized_intensity": 53.23842944305889
+            },
+            {
+                "topic": "heritage",
+                "weighted_count": 49.801083972592835,
+                "normalized_intensity": 49.801083972592835
+            }
+        ]
+    }
+}

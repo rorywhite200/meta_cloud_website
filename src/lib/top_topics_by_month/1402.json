@@ -1,0 +1,22 @@
+{
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 282.74105748476575,
+                "normalized_intensity": 70.68526437119144
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 255.01599989243772,
+                "normalized_intensity": 63.75399997310943
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 236.63234589990208,
+                "normalized_intensity": 59.15808647497552
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "2023-11": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "heritage",
+                "weighted_count": 182.20502077754352,
+                "normalized_intensity": 26.029288682506216
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 137.03253401973515,
+                "normalized_intensity": 19.576076288533592
+            },
+            {
+                "topic": "history",
+                "weighted_count": 127.78589440218484,
+                "normalized_intensity": 18.255127771740693
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 102.01143482469759,
+                "normalized_intensity": 14.573062117813942
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.94422452574277,
+                "normalized_intensity": 7.420603503677539
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "2024-07": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "music",
+                "weighted_count": 68.95756992888869,
+                "normalized_intensity": 34.478784964444344
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 65.90402536074363,
+                "normalized_intensity": 32.952012680371816
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 61.807775659215714,
+                "normalized_intensity": 30.903887829607857
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 61.637702091321145,
+                "normalized_intensity": 30.818851045660573
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 55.8680186282894,
+                "normalized_intensity": 27.9340093141447
+            },
+            {
+                "topic": "community",
+                "weighted_count": 54.551997986976716,
+                "normalized_intensity": 27.275998993488358
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 54.08716360152992,
+                "normalized_intensity": 27.04358180076496
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 53.29539863094078,
+                "normalized_intensity": 26.64769931547039
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 52.32045148451765,
+                "normalized_intensity": 26.160225742258824
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 49.699809245048385,
+                "normalized_intensity": 24.849904622524193
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.685304847250144,
+                "normalized_intensity": 24.842652423625072
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.27789587439182,
+                "normalized_intensity": 24.63894793719591
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 49.21104935411413,
+                "normalized_intensity": 24.605524677057065
+            }
+        ]
+    }
+}

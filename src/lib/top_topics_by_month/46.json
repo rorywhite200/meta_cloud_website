@@ -1,0 +1,107 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 63.23803675010572,
+                "normalized_intensity": 63.23803675010572
+            },
+            {
+                "topic": "community",
+                "weighted_count": 61.59502635955787,
+                "normalized_intensity": 61.59502635955787
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 49.69519172961515,
+                "normalized_intensity": 49.69519172961515
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 346.6753166400624,
+                "normalized_intensity": 69.33506332801248
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.76742616519613,
+                "normalized_intensity": 10.753485233039225
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 52.168139603067154,
+                "normalized_intensity": 10.43362792061343
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 453.0569241532121,
+                "normalized_intensity": 64.72241773617316
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.76742616519613,
+                "normalized_intensity": 7.6810608807423035
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 52.168139603067154,
+                "normalized_intensity": 7.4525913718667365
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 142.56247806426944,
+                "normalized_intensity": 71.28123903213472
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 63.68068111787735,
+                "normalized_intensity": 31.840340558938674
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 58.322750708132176,
+                "normalized_intensity": 29.161375354066088
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 57.71055742260158,
+                "normalized_intensity": 28.85527871130079
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.76742616519613,
+                "normalized_intensity": 26.883713082598064
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 52.168139603067154,
+                "normalized_intensity": 26.084069801533577
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 51.17842167303005,
+                "normalized_intensity": 25.589210836515026
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 50.63830642240351,
+                "normalized_intensity": 25.319153211201755
+            }
+        ]
+    }
+}

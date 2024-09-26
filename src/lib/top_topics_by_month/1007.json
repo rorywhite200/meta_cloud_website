@@ -1,0 +1,132 @@
+{
+    "2023-09": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 1457.7077879468202,
+                "normalized_intensity": 69.4146565688962
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 1283.4458857203201,
+                "normalized_intensity": 61.11647074858667
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1240.734178844146,
+                "normalized_intensity": 59.082579944959335
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 491.783537936413,
+                "normalized_intensity": 23.41826371125776
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 37,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 2595.0340226889757,
+                "normalized_intensity": 70.13605466726962
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 2319.486641703502,
+                "normalized_intensity": 62.6888281541487
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 1936.2862405548465,
+                "normalized_intensity": 52.332060555536394
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 1860.7615205868644,
+                "normalized_intensity": 50.290851907753094
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 71.960070929784,
+                "normalized_intensity": 71.960070929784
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 64.49219902851458,
+                "normalized_intensity": 64.49219902851458
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 54.028469952898405,
+                "normalized_intensity": 54.028469952898405
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 50.73545605430563,
+                "normalized_intensity": 50.73545605430563
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 453.2312068931004,
+                "normalized_intensity": 37.769267241091704
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 448.3316026726618,
+                "normalized_intensity": 37.360966889388486
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 374.86509785998845,
+                "normalized_intensity": 31.238758154999037
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 311.12068647419164,
+                "normalized_intensity": 25.926723872849305
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 178.74073197233596,
+                "normalized_intensity": 14.895060997694664
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 168.18399027197214,
+                "normalized_intensity": 14.015332522664345
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 159.4152148728025,
+                "normalized_intensity": 13.284601239400208
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 158.10955922505397,
+                "normalized_intensity": 13.17579660208783
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 149.59307438232912,
+                "normalized_intensity": 12.46608953186076
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 147.63958591209052,
+                "normalized_intensity": 12.303298826007543
+            }
+        ]
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "2023-09": {
+        "total_ads": 19,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 653.6014348159881,
+                "normalized_intensity": 34.400075516630956
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 149.4087804164384,
+                "normalized_intensity": 7.86362002191781
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 142.5366372607673,
+                "normalized_intensity": 7.501928276882489
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 116.18417076141738,
+                "normalized_intensity": 6.114956355864073
+            },
+            {
+                "topic": "health",
+                "weighted_count": 105.68602279337223,
+                "normalized_intensity": 5.562422252282749
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 99.29541094148843,
+                "normalized_intensity": 5.226074260078338
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 98.87264116330758,
+                "normalized_intensity": 5.2038232191214515
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 32,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 1343.5304894074684,
+                "normalized_intensity": 41.98532779398339
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 814.6983711829197,
+                "normalized_intensity": 25.45932409946624
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 703.8504663667966,
+                "normalized_intensity": 21.995327073962393
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 300.15285854393073,
+                "normalized_intensity": 9.379776829497835
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 226.46637752950403,
+                "normalized_intensity": 7.077074297797001
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 223.92589656780757,
+                "normalized_intensity": 6.9976842677439866
+            },
+            {
+                "topic": "family",
+                "weighted_count": 205.72528063687594,
+                "normalized_intensity": 6.428915019902373
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 201.76603043805517,
+                "normalized_intensity": 6.305188451189224
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 116.18417076141738,
+                "normalized_intensity": 3.630755336294293
+            },
+            {
+                "topic": "health",
+                "weighted_count": 105.68602279337223,
+                "normalized_intensity": 3.3026882122928822
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 29,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 878.6106994507566,
+                "normalized_intensity": 30.296920670715743
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 834.338904815919,
+                "normalized_intensity": 28.770307062617896
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 748.1155206403613,
+                "normalized_intensity": 25.79708691863315
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 348.55251228425215,
+                "normalized_intensity": 12.019052147732832
+            },
+            {
+                "topic": "health",
+                "weighted_count": 317.0580683801167,
+                "normalized_intensity": 10.93303684069368
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 226.46637752950403,
+                "normalized_intensity": 7.809185432051863
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 55.52237524764121,
+                "normalized_intensity": 1.9145646637117657
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 51.733926806712425,
+                "normalized_intensity": 1.7839285105762905
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.65802622956688,
+                "normalized_intensity": 1.74682849067472
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 49.618084191426284,
+                "normalized_intensity": 1.7109684203940099
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 8,
+        "topics": [
+            {
+                "topic": "finance",
+                "weighted_count": 262.0879116811783,
+                "normalized_intensity": 32.76098896014729
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 165.59675065533293,
+                "normalized_intensity": 20.699593831916616
+            },
+            {
+                "topic": "theater",
+                "weighted_count": 100.61626091040692,
+                "normalized_intensity": 12.577032613800865
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 98.25171091057813,
+                "normalized_intensity": 12.281463863822266
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 38,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 877.1827031002981,
+                "normalized_intensity": 23.083755344744688
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 682.4649160752343,
+                "normalized_intensity": 17.95960305461143
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 657.984048360851,
+                "normalized_intensity": 17.315369693706607
+            },
+            {
+                "topic": "health",
+                "weighted_count": 650.3286901953247,
+                "normalized_intensity": 17.113912899876965
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 567.4312574265218,
+                "normalized_intensity": 14.932401511224258
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 547.9097676392182,
+                "normalized_intensity": 14.4186780957689
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 513.3679054591479,
+                "normalized_intensity": 13.509681722609155
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 377.84119299570284,
+                "normalized_intensity": 9.943189289360602
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 363.02616372893004,
+                "normalized_intensity": 9.553320098129738
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 309.8311918607531,
+                "normalized_intensity": 8.15345241738824
+            }
+        ]
+    }
+}

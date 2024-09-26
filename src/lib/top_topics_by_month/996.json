@@ -1,0 +1,57 @@
+{
+    "2024-01": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 126.60032537596386,
+                "normalized_intensity": 63.30016268798193
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 113.30129673502935,
+                "normalized_intensity": 56.65064836751468
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 99.50609103132739,
+                "normalized_intensity": 49.75304551566369
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 98.74611840806674,
+                "normalized_intensity": 49.37305920403337
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "urban-planning",
+                "weighted_count": 65.40264702960653,
+                "normalized_intensity": 65.40264702960653
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.09114429828302,
+                "normalized_intensity": 53.09114429828302
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.951059152543515,
+                "normalized_intensity": 49.951059152543515
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.9408698868738,
+                "normalized_intensity": 49.9408698868738
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.35093770988358,
+                "normalized_intensity": 49.35093770988358
+            }
+        ]
+    }
+}

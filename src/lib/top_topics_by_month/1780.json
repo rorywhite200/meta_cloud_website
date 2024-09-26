@@ -1,0 +1,62 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "travel",
+                "weighted_count": 102.6051626339518,
+                "normalized_intensity": 34.20172087798394
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 64.31483535614329,
+                "normalized_intensity": 21.438278452047765
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 54.33185508107323,
+                "normalized_intensity": 18.110618360357744
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 50.75116887877551,
+                "normalized_intensity": 16.91705629292517
+            },
+            {
+                "topic": "music",
+                "weighted_count": 50.580615744291315,
+                "normalized_intensity": 16.860205248097106
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 50.184576212118955,
+                "normalized_intensity": 16.728192070706317
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "infrastructure",
+                "weighted_count": 144.073315841846,
+                "normalized_intensity": 72.036657920923
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 126.17519681163935,
+                "normalized_intensity": 63.087598405819676
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.90592092210524,
+                "normalized_intensity": 25.95296046105262
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.5621638480106,
+                "normalized_intensity": 24.7810819240053
+            }
+        ]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "2024-02": {
+        "total_ads": 14,
+        "topics": [
+            {
+                "topic": "violence",
+                "weighted_count": 448.90081251133563,
+                "normalized_intensity": 32.06434375080969
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 424.36253231975473,
+                "normalized_intensity": 30.31160945141105
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 410.2640860308707,
+                "normalized_intensity": 29.304577573633622
+            },
+            {
+                "topic": "community",
+                "weighted_count": 394.4808793474859,
+                "normalized_intensity": 28.177205667677562
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 295.88457559245154,
+                "normalized_intensity": 21.134612542317967
+            }
+        ]
+    }
+}

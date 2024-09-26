@@ -1,0 +1,667 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "housing",
+                "weighted_count": 71.1116716404289,
+                "normalized_intensity": 71.1116716404289
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 65.58620907993178,
+                "normalized_intensity": 65.58620907993178
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 56.69403263738688,
+                "normalized_intensity": 56.69403263738688
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 55.62515564084145,
+                "normalized_intensity": 55.62515564084145
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.64282854664668,
+                "normalized_intensity": 53.64282854664668
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.23048853932055,
+                "normalized_intensity": 49.23048853932055
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 178.33976946544647,
+                "normalized_intensity": 44.58494236636162
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 167.77070504771814,
+                "normalized_intensity": 41.942676261929535
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 166.53540476846047,
+                "normalized_intensity": 41.63385119211512
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 67.58231709361337,
+                "normalized_intensity": 16.895579273403342
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 65.9350843448304,
+                "normalized_intensity": 16.4837710862076
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 65.92377687077608,
+                "normalized_intensity": 16.48094421769402
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 59.46681854530645,
+                "normalized_intensity": 14.866704636326613
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 58.11819120099889,
+                "normalized_intensity": 14.529547800249723
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 56.433360569751535,
+                "normalized_intensity": 14.108340142437884
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 56.07521701322883,
+                "normalized_intensity": 14.018804253307207
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 55.500682640068156,
+                "normalized_intensity": 13.875170660017039
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 52.82459805450289,
+                "normalized_intensity": 13.206149513625723
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 51.898365452853845,
+                "normalized_intensity": 12.974591363213461
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 51.630073075138995,
+                "normalized_intensity": 12.907518268784749
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 50.23965559273116,
+                "normalized_intensity": 12.55991389818279
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 170.4244430585666,
+                "normalized_intensity": 28.404073843094434
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 157.19265752835275,
+                "normalized_intensity": 26.19877625472546
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 131.28580787515486,
+                "normalized_intensity": 21.880967979192476
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 107.27210267937086,
+                "normalized_intensity": 17.878683779895145
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 105.77255655197423,
+                "normalized_intensity": 17.62875942532904
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 68.55370245695921,
+                "normalized_intensity": 11.425617076159869
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 62.31715501763485,
+                "normalized_intensity": 10.386192502939142
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 61.02520344945791,
+                "normalized_intensity": 10.17086724157632
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 60.97845837083076,
+                "normalized_intensity": 10.163076395138459
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 59.0584243863607,
+                "normalized_intensity": 9.843070731060116
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 55.16708461916018,
+                "normalized_intensity": 9.194514103193363
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 53.13792017156129,
+                "normalized_intensity": 8.856320028593549
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 52.773401186959376,
+                "normalized_intensity": 8.79556686449323
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 52.673841050596145,
+                "normalized_intensity": 8.77897350843269
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 51.95662502124978,
+                "normalized_intensity": 8.65943750354163
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 51.28900394155216,
+                "normalized_intensity": 8.548167323592027
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 51.109190321988166,
+                "normalized_intensity": 8.518198386998028
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 51.052623757962415,
+                "normalized_intensity": 8.508770626327069
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.672752201572955,
+                "normalized_intensity": 8.278792033595492
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 49.19057842427789,
+                "normalized_intensity": 8.198429737379648
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.084213096240134,
+                "normalized_intensity": 8.180702182706689
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "taxation",
+                "weighted_count": 114.79281619099702,
+                "normalized_intensity": 28.698204047749254
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 107.04864810694433,
+                "normalized_intensity": 26.762162026736082
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 105.95478505201673,
+                "normalized_intensity": 26.488696263004183
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 101.71896323386062,
+                "normalized_intensity": 25.429740808465155
+            },
+            {
+                "topic": "religion",
+                "weighted_count": 86.16740832796623,
+                "normalized_intensity": 21.541852081991557
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 57.23477717863068,
+                "normalized_intensity": 14.30869429465767
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 54.965021633840635,
+                "normalized_intensity": 13.741255408460159
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 52.48538408500442,
+                "normalized_intensity": 13.121346021251105
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 51.99056164822916,
+                "normalized_intensity": 12.99764041205729
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.94381566047905,
+                "normalized_intensity": 12.735953915119763
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 49.95549551092531,
+                "normalized_intensity": 12.488873877731328
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 49.438846262409044,
+                "normalized_intensity": 12.359711565602261
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "transparency",
+                "weighted_count": 133.05079495380517,
+                "normalized_intensity": 44.35026498460172
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 127.72251005176072,
+                "normalized_intensity": 42.57417001725357
+            },
+            {
+                "topic": "government-ethics",
+                "weighted_count": 118.45208543719993,
+                "normalized_intensity": 39.484028479066644
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 109.58240813587079,
+                "normalized_intensity": 36.5274693786236
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 62.56371579433173,
+                "normalized_intensity": 20.85457193144391
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 57.752954220999456,
+                "normalized_intensity": 19.250984740333152
+            },
+            {
+                "topic": "military",
+                "weighted_count": 57.422707251586644,
+                "normalized_intensity": 19.140902417195548
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 56.34204641256265,
+                "normalized_intensity": 18.780682137520884
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 56.25367977414497,
+                "normalized_intensity": 18.751226591381656
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 50.732695561582396,
+                "normalized_intensity": 16.910898520527464
+            },
+            {
+                "topic": "family",
+                "weighted_count": 50.56881109799644,
+                "normalized_intensity": 16.856270365998814
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 50.35513528076729,
+                "normalized_intensity": 16.785045093589098
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "outrage",
+                "weighted_count": 124.53859730559334,
+                "normalized_intensity": 62.26929865279667
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 111.40134578667116,
+                "normalized_intensity": 55.70067289333558
+            },
+            {
+                "topic": "anti-woke",
+                "weighted_count": 67.27010208261302,
+                "normalized_intensity": 33.63505104130651
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 65.05736030966321,
+                "normalized_intensity": 32.528680154831605
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 64.99552644178334,
+                "normalized_intensity": 32.49776322089167
+            },
+            {
+                "topic": "media",
+                "weighted_count": 57.8106704967692,
+                "normalized_intensity": 28.9053352483846
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 55.66354175236218,
+                "normalized_intensity": 27.83177087618109
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 55.218775759630034,
+                "normalized_intensity": 27.609387879815017
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 53.96841476590644,
+                "normalized_intensity": 26.98420738295322
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 53.72226069068443,
+                "normalized_intensity": 26.861130345342215
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 53.68323420814563,
+                "normalized_intensity": 26.841617104072814
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 52.971539503293016,
+                "normalized_intensity": 26.485769751646508
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 51.450412762007936,
+                "normalized_intensity": 25.725206381003968
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 50.99944812517309,
+                "normalized_intensity": 25.499724062586544
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 50.36480697092024,
+                "normalized_intensity": 25.18240348546012
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 78.17736252130216,
+                "normalized_intensity": 19.54434063032554
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 75.25714724374207,
+                "normalized_intensity": 18.814286810935517
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 64.05833424543381,
+                "normalized_intensity": 16.014583561358453
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 60.373192307996035,
+                "normalized_intensity": 15.093298076999009
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 57.95320521201426,
+                "normalized_intensity": 14.488301303003565
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 56.46664252298038,
+                "normalized_intensity": 14.116660630745095
+            },
+            {
+                "topic": "health",
+                "weighted_count": 55.92004148804618,
+                "normalized_intensity": 13.980010372011545
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 55.0828438238768,
+                "normalized_intensity": 13.7707109559692
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 54.01251084026326,
+                "normalized_intensity": 13.503127710065815
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 53.82999359582862,
+                "normalized_intensity": 13.457498398957155
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 53.638806533360835,
+                "normalized_intensity": 13.409701633340209
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 51.888737822972196,
+                "normalized_intensity": 12.972184455743049
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 51.88609620391848,
+                "normalized_intensity": 12.97152405097962
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.25380531717701,
+                "normalized_intensity": 12.563451329294253
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 49.70618144388427,
+                "normalized_intensity": 12.426545360971067
+            },
+            {
+                "topic": "addiction",
+                "weighted_count": 49.33734623090364,
+                "normalized_intensity": 12.33433655772591
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 136.15493198738238,
+                "normalized_intensity": 45.38497732912746
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 79.657540533746,
+                "normalized_intensity": 26.552513511248666
+            },
+            {
+                "topic": "military",
+                "weighted_count": 65.55496702474062,
+                "normalized_intensity": 21.85165567491354
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 64.7697693831814,
+                "normalized_intensity": 21.589923127727133
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 61.78410601625729,
+                "normalized_intensity": 20.594702005419098
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 59.49728012287905,
+                "normalized_intensity": 19.83242670762635
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 57.4819273758172,
+                "normalized_intensity": 19.160642458605732
+            },
+            {
+                "topic": "law",
+                "weighted_count": 53.914049156983545,
+                "normalized_intensity": 17.971349718994514
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 51.19072133949773,
+                "normalized_intensity": 17.063573779832577
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 50.822423336920096,
+                "normalized_intensity": 16.940807778973365
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 50.62961268927126,
+                "normalized_intensity": 16.87653756309042
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 50.44295960858235,
+                "normalized_intensity": 16.81431986952745
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.543404372986195,
+                "normalized_intensity": 16.514468124328733
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 64.82872720759977,
+                "normalized_intensity": 64.82872720759977
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 59.72976498287813,
+                "normalized_intensity": 59.72976498287813
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "crime",
+                "weighted_count": 93.58913551923116,
+                "normalized_intensity": 93.58913551923116
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 87.26178358854119,
+                "normalized_intensity": 87.26178358854119
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 77.04020597026037,
+                "normalized_intensity": 77.04020597026037
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 74.52621117696587,
+                "normalized_intensity": 74.52621117696587
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 71.78872270951628,
+                "normalized_intensity": 71.78872270951628
+            },
+            {
+                "topic": "gun-control",
+                "weighted_count": 68.27193024762613,
+                "normalized_intensity": 68.27193024762613
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 59.41969633310007,
+                "normalized_intensity": 59.41969633310007
+            },
+            {
+                "topic": "law",
+                "weighted_count": 56.79812457823985,
+                "normalized_intensity": 56.79812457823985
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.06181030376944,
+                "normalized_intensity": 53.06181030376944
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 50.02484719171258,
+                "normalized_intensity": 50.02484719171258
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.34324632856183,
+                "normalized_intensity": 49.34324632856183
+            }
+        ]
+    }
+}

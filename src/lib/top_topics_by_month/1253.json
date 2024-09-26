@@ -1,0 +1,27 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 69.89944433238368,
+                "normalized_intensity": 69.89944433238368
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 55.79387701595283,
+                "normalized_intensity": 55.79387701595283
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 51.639910120830244,
+                "normalized_intensity": 51.639910120830244
+            },
+            {
+                "topic": "television",
+                "weighted_count": 49.6744035899665,
+                "normalized_intensity": 49.6744035899665
+            }
+        ]
+    }
+}

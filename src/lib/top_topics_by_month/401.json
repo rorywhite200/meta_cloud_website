@@ -1,0 +1,257 @@
+{
+    "2023-11": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 77.18569563543905,
+                "normalized_intensity": 77.18569563543905
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 51.81141012981886,
+                "normalized_intensity": 51.81141012981886
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.5433967588773,
+                "normalized_intensity": 50.5433967588773
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 50.49987961828732,
+                "normalized_intensity": 50.49987961828732
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 259.5362685404828,
+                "normalized_intensity": 86.51208951349427
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 160.133673454955,
+                "normalized_intensity": 53.37789115165166
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 154.79978383975765,
+                "normalized_intensity": 51.599927946585886
+            },
+            {
+                "topic": "military",
+                "weighted_count": 114.02403557309376,
+                "normalized_intensity": 38.008011857697916
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 106.2788084014615,
+                "normalized_intensity": 35.42626946715384
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 62.92775072561918,
+                "normalized_intensity": 20.975916908539727
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 53.21947823687042,
+                "normalized_intensity": 17.739826078956806
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 50.19129861636774,
+                "normalized_intensity": 16.73043287212258
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 304.30427931861203,
+                "normalized_intensity": 76.07606982965301
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 111.85809084121996,
+                "normalized_intensity": 27.96452271030499
+            },
+            {
+                "topic": "law",
+                "weighted_count": 110.67437482564142,
+                "normalized_intensity": 27.668593706410356
+            },
+            {
+                "topic": "military",
+                "weighted_count": 109.7427142892029,
+                "normalized_intensity": 27.435678572300723
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 99.49321476408606,
+                "normalized_intensity": 24.873303691021516
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 53.44635957924228,
+                "normalized_intensity": 13.36158989481057
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 53.36059857976119,
+                "normalized_intensity": 13.340149644940297
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 50.39256878945352,
+                "normalized_intensity": 12.59814219736338
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 49.13826653186794,
+                "normalized_intensity": 12.284566632966985
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 317.52603333937316,
+                "normalized_intensity": 79.38150833484329
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 216.1746517795652,
+                "normalized_intensity": 54.0436629448913
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 205.2500827941045,
+                "normalized_intensity": 51.31252069852612
+            },
+            {
+                "topic": "military",
+                "weighted_count": 178.1298791509333,
+                "normalized_intensity": 44.532469787733326
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 111.1643315648624,
+                "normalized_intensity": 27.7910828912156
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 109.531406256722,
+                "normalized_intensity": 27.3828515641805
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 103.09221182624238,
+                "normalized_intensity": 25.773052956560594
+            },
+            {
+                "topic": "nunavut",
+                "weighted_count": 60.89990957554694,
+                "normalized_intensity": 15.224977393886736
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.119370330708875,
+                "normalized_intensity": 12.279842582677219
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 49.01026819598139,
+                "normalized_intensity": 12.252567048995347
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 174.1917550545977,
+                "normalized_intensity": 87.09587752729885
+            },
+            {
+                "topic": "military",
+                "weighted_count": 113.95630137277786,
+                "normalized_intensity": 56.97815068638893
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 112.2205946669968,
+                "normalized_intensity": 56.1102973334984
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 112.08762069175987,
+                "normalized_intensity": 56.04381034587993
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 60.26943045851784,
+                "normalized_intensity": 30.13471522925892
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 49.956083035632574,
+                "normalized_intensity": 24.978041517816287
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 168.86331084319758,
+                "normalized_intensity": 84.43165542159879
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 114.83562966052577,
+                "normalized_intensity": 57.417814830262884
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 107.61184594728115,
+                "normalized_intensity": 53.80592297364058
+            },
+            {
+                "topic": "military",
+                "weighted_count": 104.13501369750333,
+                "normalized_intensity": 52.06750684875166
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 52.067859202544255,
+                "normalized_intensity": 26.033929601272128
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 63.934074009150656,
+                "normalized_intensity": 63.934074009150656
+            },
+            {
+                "topic": "military",
+                "weighted_count": 50.602031797515444,
+                "normalized_intensity": 50.602031797515444
+            }
+        ]
+    }
+}

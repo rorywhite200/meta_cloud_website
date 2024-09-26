@@ -1,0 +1,117 @@
+{
+    "2024-01": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 323.86175006648267,
+                "normalized_intensity": 46.26596429521181
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 292.28676779765175,
+                "normalized_intensity": 41.75525254252168
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 247.27464435884588,
+                "normalized_intensity": 35.32494919412084
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 209.28624165774715,
+                "normalized_intensity": 29.89803452253531
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 150.49558595019417,
+                "normalized_intensity": 21.49936942145631
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 113.30196919763576,
+                "normalized_intensity": 16.185995599662252
+            },
+            {
+                "topic": "science",
+                "weighted_count": 106.30934547563824,
+                "normalized_intensity": 15.187049353662605
+            },
+            {
+                "topic": "transportation",
+                "weighted_count": 50.14749863657448,
+                "normalized_intensity": 7.163928376653497
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 49.43606642417999,
+                "normalized_intensity": 7.062295203454284
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 49.34651537220064,
+                "normalized_intensity": 7.049502196028663
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 175.80112516590307,
+                "normalized_intensity": 35.160225033180616
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 165.9461100561692,
+                "normalized_intensity": 33.18922201123384
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 161.03713263406001,
+                "normalized_intensity": 32.207426526812
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 110.48558184893866,
+                "normalized_intensity": 22.097116369787734
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 100.8819248500254,
+                "normalized_intensity": 20.17638497000508
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 52.58475864703702,
+                "normalized_intensity": 10.516951729407404
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "pollution",
+                "weighted_count": 119.89419846197373,
+                "normalized_intensity": 59.947099230986865
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 114.93085657681354,
+                "normalized_intensity": 57.46542828840677
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 109.19663836003457,
+                "normalized_intensity": 54.598319180017285
+            },
+            {
+                "topic": "science",
+                "weighted_count": 53.12739792189115,
+                "normalized_intensity": 26.563698960945576
+            }
+        ]
+    }
+}

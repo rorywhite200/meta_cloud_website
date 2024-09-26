@@ -1,0 +1,112 @@
+{
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-policy",
+                "weighted_count": 121.18640575481362,
+                "normalized_intensity": 60.59320287740681
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 112.92866938709656,
+                "normalized_intensity": 56.46433469354828
+            },
+            {
+                "topic": "alberta",
+                "weighted_count": 63.63590882496558,
+                "normalized_intensity": 31.81795441248279
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 60.153442716584436,
+                "normalized_intensity": 30.076721358292218
+            },
+            {
+                "topic": "education",
+                "weighted_count": 55.423192686912124,
+                "normalized_intensity": 27.711596343456062
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 52.349075481557136,
+                "normalized_intensity": 26.174537740778568
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 51.93406270330691,
+                "normalized_intensity": 25.967031351653453
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.02529781083719,
+                "normalized_intensity": 25.012648905418594
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.35084677339154,
+                "normalized_intensity": 24.67542338669577
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 189.27978685897583,
+                "normalized_intensity": 47.319946714743956
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 116.26906214078645,
+                "normalized_intensity": 29.06726553519661
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 110.38534194728103,
+                "normalized_intensity": 27.59633548682026
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 109.8422355634238,
+                "normalized_intensity": 27.46055889085595
+            },
+            {
+                "topic": "community",
+                "weighted_count": 63.677793530094085,
+                "normalized_intensity": 15.919448382523521
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 55.64019293329796,
+                "normalized_intensity": 13.91004823332449
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 53.91335835474202,
+                "normalized_intensity": 13.478339588685506
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 52.58605413093084,
+                "normalized_intensity": 13.14651353273271
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 50.517225217761855,
+                "normalized_intensity": 12.629306304440464
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 50.375211960708,
+                "normalized_intensity": 12.593802990177
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.75250852761023,
+                "normalized_intensity": 12.438127131902558
+            }
+        ]
+    }
+}

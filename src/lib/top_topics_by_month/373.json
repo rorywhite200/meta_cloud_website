@@ -1,0 +1,952 @@
+{
+    "2023-09": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 87.12690838493364,
+                "normalized_intensity": 87.12690838493364
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 84.13208009804508,
+                "normalized_intensity": 84.13208009804508
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 75.59221457867106,
+                "normalized_intensity": 75.59221457867106
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 65.1152950082184,
+                "normalized_intensity": 65.1152950082184
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 58.42553850772926,
+                "normalized_intensity": 58.42553850772926
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 49.473445329575405,
+                "normalized_intensity": 49.473445329575405
+            }
+        ]
+    },
+    "2023-10": {
+        "total_ads": 6,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 420.6150048132936,
+                "normalized_intensity": 70.1025008022156
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 383.3397384146822,
+                "normalized_intensity": 63.889956402447034
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 362.67139401865523,
+                "normalized_intensity": 60.44523233644254
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 296.6173519084588,
+                "normalized_intensity": 49.43622531807646
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 278.57004478390706,
+                "normalized_intensity": 46.428340797317844
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 171.40360124638173,
+                "normalized_intensity": 28.567266874396953
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 171.20732599444352,
+                "normalized_intensity": 28.534554332407254
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 159.86440784657952,
+                "normalized_intensity": 26.64406797442992
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 154.0851682345241,
+                "normalized_intensity": 25.680861372420683
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 123.63009342665849,
+                "normalized_intensity": 20.60501557110975
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 106.01121928781203,
+                "normalized_intensity": 17.66853654796867
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 105.39841939322154,
+                "normalized_intensity": 17.56640323220359
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 101.4498233097342,
+                "normalized_intensity": 16.9083038849557
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 99.06191941652239,
+                "normalized_intensity": 16.510319902753732
+            },
+            {
+                "topic": "infrastructure",
+                "weighted_count": 49.37116263848749,
+                "normalized_intensity": 8.228527106414582
+            }
+        ]
+    },
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "climate-change",
+                "weighted_count": 191.43463756686384,
+                "normalized_intensity": 63.81154585562128
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 169.4754330517791,
+                "normalized_intensity": 56.4918110172597
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 140.33164807685375,
+                "normalized_intensity": 46.77721602561792
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 122.02000955535283,
+                "normalized_intensity": 40.673336518450945
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 119.31446834667479,
+                "normalized_intensity": 39.77148944889159
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 108.6735917015775,
+                "normalized_intensity": 36.224530567192495
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 53.39981494920117,
+                "normalized_intensity": 17.79993831640039
+            },
+            {
+                "topic": "community",
+                "weighted_count": 51.54594050534249,
+                "normalized_intensity": 17.1819801684475
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 50.9569772389966,
+                "normalized_intensity": 16.985659079665535
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 50.69161524531843,
+                "normalized_intensity": 16.89720508177281
+            }
+        ]
+    },
+    "2023-12": {
+        "total_ads": 5,
+        "topics": [
+            {
+                "topic": "energy-policy",
+                "weighted_count": 366.03726443752936,
+                "normalized_intensity": 73.20745288750587
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 359.1318722789687,
+                "normalized_intensity": 71.82637445579374
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 306.88326099481947,
+                "normalized_intensity": 61.376652198963896
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 302.44747480676847,
+                "normalized_intensity": 60.48949496135369
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 291.27341569923004,
+                "normalized_intensity": 58.25468313984601
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 290.4948627490114,
+                "normalized_intensity": 58.09897254980228
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 282.17819896954296,
+                "normalized_intensity": 56.43563979390859
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 271.60191882270453,
+                "normalized_intensity": 54.32038376454091
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 252.52659085934351,
+                "normalized_intensity": 50.5053181718687
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 90.32871978355882,
+                "normalized_intensity": 90.32871978355882
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 83.91397011840242,
+                "normalized_intensity": 83.91397011840242
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 69.30669209029845,
+                "normalized_intensity": 69.30669209029845
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 60.06473445019128,
+                "normalized_intensity": 60.06473445019128
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 53.34755634687804,
+                "normalized_intensity": 53.34755634687804
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 52.09499916820781,
+                "normalized_intensity": 52.09499916820781
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 26,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 635.1635705623312,
+                "normalized_intensity": 24.4293680985512
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 613.7893816502318,
+                "normalized_intensity": 23.6072839096243
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 589.6088551624845,
+                "normalized_intensity": 22.677263660095555
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 517.8966406838978,
+                "normalized_intensity": 19.9191015647653
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 500.33099344119944,
+                "normalized_intensity": 19.24349974773844
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 438.7094349520292,
+                "normalized_intensity": 16.873439805847276
+            },
+            {
+                "topic": "community",
+                "weighted_count": 428.07676492429687,
+                "normalized_intensity": 16.464490958626804
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 291.04822117520143,
+                "normalized_intensity": 11.194162352892363
+            },
+            {
+                "topic": "digital-economy",
+                "weighted_count": 218.25300324779025,
+                "normalized_intensity": 8.394346278761164
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 210.09130126454335,
+                "normalized_intensity": 8.080434664020897
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 209.29467131397428,
+                "normalized_intensity": 8.049795050537472
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 201.81926354561463,
+                "normalized_intensity": 7.7622793671390244
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 199.98740649933006,
+                "normalized_intensity": 7.69182332689731
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 184.00838432747494,
+                "normalized_intensity": 7.077245551056729
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 66.750272000538,
+                "normalized_intensity": 2.567318153866846
+            },
+            {
+                "topic": "scientific-research",
+                "weighted_count": 61.69922965090584,
+                "normalized_intensity": 2.3730472942656093
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 51.63224409626762,
+                "normalized_intensity": 1.9858555421641393
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 49.22332160770168,
+                "normalized_intensity": 1.8932046772192952
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 28,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 936.7122866282173,
+                "normalized_intensity": 33.45401023672205
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 885.3177097795856,
+                "normalized_intensity": 31.6184896349852
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 815.1676430403586,
+                "normalized_intensity": 29.113130108584237
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 552.6349567868261,
+                "normalized_intensity": 19.73696274238665
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 414.01971181127993,
+                "normalized_intensity": 14.786418278974283
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 359.39148516196525,
+                "normalized_intensity": 12.835410184355903
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 342.07067932370984,
+                "normalized_intensity": 12.21680997584678
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 289.21686307192425,
+                "normalized_intensity": 10.329173681140151
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 216.71275726361011,
+                "normalized_intensity": 7.739741330843218
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 168.46424880047815,
+                "normalized_intensity": 6.016580314302791
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 164.2348373891421,
+                "normalized_intensity": 5.865529906755074
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 153.78028771517415,
+                "normalized_intensity": 5.492153132684791
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 139.6627617235052,
+                "normalized_intensity": 4.987955775839472
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 100.21594147534066,
+                "normalized_intensity": 3.579140766976452
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 57.75830812301371,
+                "normalized_intensity": 2.0627967186790612
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 54.557503302601276,
+                "normalized_intensity": 1.9484822608071883
+            },
+            {
+                "topic": "culture",
+                "weighted_count": 52.540019398475366,
+                "normalized_intensity": 1.876429264231263
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 49.73681256218717,
+                "normalized_intensity": 1.7763147343638275
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 25,
+        "topics": [
+            {
+                "topic": "sustainability",
+                "weighted_count": 1687.102396483277,
+                "normalized_intensity": 67.48409585933108
+            },
+            {
+                "topic": "environment",
+                "weighted_count": 1405.0518644221581,
+                "normalized_intensity": 56.202074576886325
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 1150.3958357026495,
+                "normalized_intensity": 46.01583342810598
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 987.1848391573864,
+                "normalized_intensity": 39.48739356629545
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 893.473272756195,
+                "normalized_intensity": 35.7389309102478
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 659.2488563253015,
+                "normalized_intensity": 26.36995425301206
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 534.9982258064265,
+                "normalized_intensity": 21.39992903225706
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 534.2647832292364,
+                "normalized_intensity": 21.370591329169457
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 526.5690009157116,
+                "normalized_intensity": 21.062760036628465
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 509.72202137846995,
+                "normalized_intensity": 20.388880855138797
+            },
+            {
+                "topic": "agriculture",
+                "weighted_count": 384.8194565909781,
+                "normalized_intensity": 15.392778263639125
+            },
+            {
+                "topic": "plant-based",
+                "weighted_count": 380.5107343399734,
+                "normalized_intensity": 15.220429373598936
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 378.9751750033686,
+                "normalized_intensity": 15.159007000134743
+            },
+            {
+                "topic": "food",
+                "weighted_count": 273.26630971104396,
+                "normalized_intensity": 10.930652388441759
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 258.094714400714,
+                "normalized_intensity": 10.32378857602856
+            },
+            {
+                "topic": "dairy-industry",
+                "weighted_count": 230.67057836416848,
+                "normalized_intensity": 9.22682313456674
+            },
+            {
+                "topic": "lgbtq",
+                "weighted_count": 175.12813063331862,
+                "normalized_intensity": 7.005125225332745
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 157.28738000653834,
+                "normalized_intensity": 6.291495200261534
+            },
+            {
+                "topic": "womens-rights",
+                "weighted_count": 150.07751207772364,
+                "normalized_intensity": 6.003100483108946
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 126.9221507013303,
+                "normalized_intensity": 5.076886028053212
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 124.80308708733276,
+                "normalized_intensity": 4.992123483493311
+            },
+            {
+                "topic": "science",
+                "weighted_count": 99.7696676086238,
+                "normalized_intensity": 3.990786704344952
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 56.13613184143479,
+                "normalized_intensity": 2.2454452736573915
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 53.29848009017353,
+                "normalized_intensity": 2.131939203606941
+            },
+            {
+                "topic": "community",
+                "weighted_count": 49.788816673724526,
+                "normalized_intensity": 1.991552666948981
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 18,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 879.6306700772668,
+                "normalized_intensity": 48.86837055984816
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 811.614036725283,
+                "normalized_intensity": 45.08966870696017
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 789.8089461810146,
+                "normalized_intensity": 43.878274787834144
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 457.5964201226426,
+                "normalized_intensity": 25.42202334014681
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 399.0955243079015,
+                "normalized_intensity": 22.171973572661194
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 326.6654823127225,
+                "normalized_intensity": 18.148082350706805
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 261.38113703504354,
+                "normalized_intensity": 14.52117427972464
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 252.09430701996178,
+                "normalized_intensity": 14.005239278886766
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 224.8422295528731,
+                "normalized_intensity": 12.491234975159617
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 184.44578709639728,
+                "normalized_intensity": 10.246988172022071
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 177.7815253260949,
+                "normalized_intensity": 9.876751407005273
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 169.95618280123816,
+                "normalized_intensity": 9.442010155624342
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 156.3059574336256,
+                "normalized_intensity": 8.683664301868088
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 148.81573923973474,
+                "normalized_intensity": 8.267541068874152
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 141.81119513165154,
+                "normalized_intensity": 7.878399729536197
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 106.70612175493683,
+                "normalized_intensity": 5.9281178752742685
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 103.902511847434,
+                "normalized_intensity": 5.772361769301889
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 103.05610125808806,
+                "normalized_intensity": 5.72533895878267
+            },
+            {
+                "topic": "trade-policy",
+                "weighted_count": 101.88632939680656,
+                "normalized_intensity": 5.66035163315592
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.87654645206435,
+                "normalized_intensity": 5.6042525806702415
+            },
+            {
+                "topic": "poultry-industry",
+                "weighted_count": 98.29551317417054,
+                "normalized_intensity": 5.460861843009474
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 70.73528026803142,
+                "normalized_intensity": 3.929737792668412
+            },
+            {
+                "topic": "community",
+                "weighted_count": 57.3079005026421,
+                "normalized_intensity": 3.183772250146783
+            },
+            {
+                "topic": "rural",
+                "weighted_count": 54.5510929482727,
+                "normalized_intensity": 3.030616274904039
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 31,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 1162.8373605303946,
+                "normalized_intensity": 37.510882597754666
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 1080.420250305299,
+                "normalized_intensity": 34.852266138880616
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 1016.2334435971277,
+                "normalized_intensity": 32.78172398700412
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 593.5510497982249,
+                "normalized_intensity": 19.146808058007256
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 455.20779368710913,
+                "normalized_intensity": 14.68412237700352
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 367.66799157401823,
+                "normalized_intensity": 11.860257792710266
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 321.83441142506035,
+                "normalized_intensity": 10.381755207260012
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 320.5712874673898,
+                "normalized_intensity": 10.341009273141607
+            },
+            {
+                "topic": "community",
+                "weighted_count": 277.4854393361933,
+                "normalized_intensity": 8.95114320439333
+            },
+            {
+                "topic": "conservation",
+                "weighted_count": 254.64166728131465,
+                "normalized_intensity": 8.214247331655312
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 202.76000848755928,
+                "normalized_intensity": 6.540645435082557
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 185.80994936652718,
+                "normalized_intensity": 5.993869334404103
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 175.0839855869896,
+                "normalized_intensity": 5.647870502806116
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 155.206462658171,
+                "normalized_intensity": 5.006660085747452
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 155.034889282507,
+                "normalized_intensity": 5.0011254607260325
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 154.10583014715561,
+                "normalized_intensity": 4.971155811198568
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 132.8483448567504,
+                "normalized_intensity": 4.285430479250013
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 130.4216195487109,
+                "normalized_intensity": 4.207149017700352
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 119.2113928677187,
+                "normalized_intensity": 3.8455288021844742
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 111.06215063860373,
+                "normalized_intensity": 3.5826500206001204
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 110.36909512333739,
+                "normalized_intensity": 3.5602933910753998
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 110.04733518993369,
+                "normalized_intensity": 3.5499140383849577
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 107.30916736407387,
+                "normalized_intensity": 3.461586044002383
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 102.63290666953499,
+                "normalized_intensity": 3.3107389248237094
+            },
+            {
+                "topic": "animal-rights",
+                "weighted_count": 102.02166856974722,
+                "normalized_intensity": 3.291021566766039
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 100.75863034836681,
+                "normalized_intensity": 3.2502783983344132
+            },
+            {
+                "topic": "seafood-industry",
+                "weighted_count": 85.63636617619326,
+                "normalized_intensity": 2.7624634250384923
+            },
+            {
+                "topic": "human-trafficking",
+                "weighted_count": 57.58304226596624,
+                "normalized_intensity": 1.857517492450524
+            },
+            {
+                "topic": "human-rights",
+                "weighted_count": 51.53782974212725,
+                "normalized_intensity": 1.6625106368428146
+            },
+            {
+                "topic": "food",
+                "weighted_count": 49.3692797026639,
+                "normalized_intensity": 1.5925574097633517
+            },
+            {
+                "topic": "foreign-policy",
+                "weighted_count": 49.14571872518546,
+                "normalized_intensity": 1.5853457653285632
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 243.26253562609958,
+                "normalized_intensity": 60.815633906524894
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 237.72291915776134,
+                "normalized_intensity": 59.430729789440335
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 158.90145774622164,
+                "normalized_intensity": 39.72536443655541
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 154.0701617010747,
+                "normalized_intensity": 38.51754042526868
+            },
+            {
+                "topic": "renewable-energy",
+                "weighted_count": 150.59482091667465,
+                "normalized_intensity": 37.64870522916866
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 66.4241724283752,
+                "normalized_intensity": 16.6060431070938
+            },
+            {
+                "topic": "northwest territories",
+                "weighted_count": 63.349851307741076,
+                "normalized_intensity": 15.837462826935269
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 52.85403803812281,
+                "normalized_intensity": 13.213509509530702
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 49.47151891958623,
+                "normalized_intensity": 12.367879729896558
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "environment",
+                "weighted_count": 178.27696553621985,
+                "normalized_intensity": 89.13848276810992
+            },
+            {
+                "topic": "pollution",
+                "weighted_count": 150.80595198919764,
+                "normalized_intensity": 75.40297599459882
+            },
+            {
+                "topic": "fossil-fuels",
+                "weighted_count": 147.53089731400505,
+                "normalized_intensity": 73.76544865700252
+            },
+            {
+                "topic": "climate-change",
+                "weighted_count": 127.8598008025888,
+                "normalized_intensity": 63.9299004012944
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 122.98842740859405,
+                "normalized_intensity": 61.494213704297024
+            },
+            {
+                "topic": "sustainability",
+                "weighted_count": 115.91912444829711,
+                "normalized_intensity": 57.959562224148556
+            },
+            {
+                "topic": "outrage",
+                "weighted_count": 53.067198764582045,
+                "normalized_intensity": 26.533599382291023
+            }
+        ]
+    }
+}

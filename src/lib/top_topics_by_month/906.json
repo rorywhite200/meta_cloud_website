@@ -1,0 +1,52 @@
+{
+    "2024-03": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 66.6606693073501,
+                "normalized_intensity": 66.6606693073501
+            },
+            {
+                "topic": "entertainment",
+                "weighted_count": 57.75899483341749,
+                "normalized_intensity": 57.75899483341749
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.75576634778926,
+                "normalized_intensity": 49.75576634778926
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 112.52087901067208,
+                "normalized_intensity": 56.26043950533604
+            },
+            {
+                "topic": "television",
+                "weighted_count": 98.27181722877087,
+                "normalized_intensity": 49.135908614385436
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "entertainment",
+                "weighted_count": 56.26043950533604,
+                "normalized_intensity": 56.26043950533604
+            },
+            {
+                "topic": "television",
+                "weighted_count": 49.135908614385436,
+                "normalized_intensity": 49.135908614385436
+            }
+        ]
+    }
+}

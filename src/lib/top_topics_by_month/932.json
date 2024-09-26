@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "alberta",
+                "weighted_count": 67.15189916890952,
+                "normalized_intensity": 67.15189916890952
+            },
+            {
+                "topic": "community",
+                "weighted_count": 59.27401051927409,
+                "normalized_intensity": 59.27401051927409
+            },
+            {
+                "topic": "indigenous-rights",
+                "weighted_count": 52.67700261653807,
+                "normalized_intensity": 52.67700261653807
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 50.50584114524966,
+                "normalized_intensity": 50.50584114524966
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "nonprofits",
+                "weighted_count": 72.53333825297408,
+                "normalized_intensity": 72.53333825297408
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 68.79298463926354,
+                "normalized_intensity": 68.79298463926354
+            },
+            {
+                "topic": "community",
+                "weighted_count": 64.20569661038795,
+                "normalized_intensity": 64.20569661038795
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 58.966025641958616,
+                "normalized_intensity": 58.966025641958616
+            },
+            {
+                "topic": "joy",
+                "weighted_count": 55.15120744710711,
+                "normalized_intensity": 55.15120744710711
+            }
+        ]
+    }
+}

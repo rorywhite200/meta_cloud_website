@@ -1,0 +1,27 @@
+{
+    "2024-05": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "quebec",
+                "weighted_count": 66.14663368994577,
+                "normalized_intensity": 66.14663368994577
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 49.24329959200116,
+                "normalized_intensity": 49.24329959200116
+            }
+        ]
+    },
+    "2024-07": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "transportation",
+                "weighted_count": 54.449758071841735,
+                "normalized_intensity": 54.449758071841735
+            }
+        ]
+    }
+}

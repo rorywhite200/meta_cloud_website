@@ -1,0 +1,37 @@
+{
+    "2023-12": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 89.05084556203863,
+                "normalized_intensity": 89.05084556203863
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 81.63279574591094,
+                "normalized_intensity": 81.63279574591094
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 58.36626771762794,
+                "normalized_intensity": 58.36626771762794
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.40542779813304,
+                "normalized_intensity": 52.40542779813304
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 52.060835824635475,
+                "normalized_intensity": 52.060835824635475
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 50.11099423777503,
+                "normalized_intensity": 50.11099423777503
+            }
+        ]
+    }
+}

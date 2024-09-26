@@ -1,0 +1,57 @@
+{
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 263.5349496450655,
+                "normalized_intensity": 65.88373741126638
+            },
+            {
+                "topic": "community",
+                "weighted_count": 226.9887503912507,
+                "normalized_intensity": 56.747187597812676
+            },
+            {
+                "topic": "family",
+                "weighted_count": 63.74493739925761,
+                "normalized_intensity": 15.936234349814402
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 60.82314829082443,
+                "normalized_intensity": 15.205787072706107
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 57.42458917364978,
+                "normalized_intensity": 14.356147293412445
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 56.48082906753212,
+                "normalized_intensity": 14.12020726688303
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 50.733879022120774,
+                "normalized_intensity": 12.683469755530194
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "lgbtq",
+                "weighted_count": 62.16975132486674,
+                "normalized_intensity": 62.16975132486674
+            },
+            {
+                "topic": "community",
+                "weighted_count": 52.231203088272295,
+                "normalized_intensity": 52.231203088272295
+            }
+        ]
+    }
+}

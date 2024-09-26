@@ -1,0 +1,342 @@
+{
+    "2023-12": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "public-safety",
+                "weighted_count": 156.79716113920895,
+                "normalized_intensity": 78.39858056960448
+            },
+            {
+                "topic": "law-enforcement",
+                "weighted_count": 137.15495364628072,
+                "normalized_intensity": 68.57747682314036
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 134.27056045585576,
+                "normalized_intensity": 67.13528022792788
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 120.71073095876581,
+                "normalized_intensity": 60.355365479382904
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 116.98629514858587,
+                "normalized_intensity": 58.493147574292934
+            },
+            {
+                "topic": "urban-planning",
+                "weighted_count": 111.54859875660048,
+                "normalized_intensity": 55.77429937830024
+            },
+            {
+                "topic": "criminal-justice",
+                "weighted_count": 110.20891683897105,
+                "normalized_intensity": 55.104458419485525
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 106.20861243567967,
+                "normalized_intensity": 53.104306217839834
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 105.96358618137802,
+                "normalized_intensity": 52.98179309068901
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 101.4572249523187,
+                "normalized_intensity": 50.72861247615935
+            },
+            {
+                "topic": "violence",
+                "weighted_count": 100.55762960216639,
+                "normalized_intensity": 50.27881480108319
+            }
+        ]
+    },
+    "2024-01": {
+        "total_ads": 106,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 8393.924678326384,
+                "normalized_intensity": 79.18796866345646
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 5010.479909519579,
+                "normalized_intensity": 47.268678391694145
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 4749.495127913221,
+                "normalized_intensity": 44.806557810502085
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 2904.5030361723593,
+                "normalized_intensity": 27.400972039361882
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 2870.5086578403343,
+                "normalized_intensity": 27.080270356984286
+            },
+            {
+                "topic": "community",
+                "weighted_count": 2843.393122579616,
+                "normalized_intensity": 26.824463420562413
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 2669.8421428981983,
+                "normalized_intensity": 25.187190027341494
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 2085.1802391448546,
+                "normalized_intensity": 19.671511690045797
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 1622.095736101766,
+                "normalized_intensity": 15.302789963224209
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 1552.8436290332281,
+                "normalized_intensity": 14.64946819842668
+            },
+            {
+                "topic": "food",
+                "weighted_count": 1007.643984783651,
+                "normalized_intensity": 9.50607532814765
+            },
+            {
+                "topic": "family",
+                "weighted_count": 988.7840510550795,
+                "normalized_intensity": 9.32815142504792
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 939.3023192487005,
+                "normalized_intensity": 8.861342634421703
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 936.3767248831499,
+                "normalized_intensity": 8.833742687576885
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 569.620813027659,
+                "normalized_intensity": 5.373781254977915
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 520.7817029256702,
+                "normalized_intensity": 4.91303493326104
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 515.9481668470427,
+                "normalized_intensity": 4.867435536292855
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 481.82727862293154,
+                "normalized_intensity": 4.5455403643672785
+            },
+            {
+                "topic": "weather",
+                "weighted_count": 463.64299674500967,
+                "normalized_intensity": 4.37399053533028
+            },
+            {
+                "topic": "travel",
+                "weighted_count": 454.74273385864984,
+                "normalized_intensity": 4.290025791119338
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 392.072441825269,
+                "normalized_intensity": 3.698796620993104
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 750.1508265020341,
+                "normalized_intensity": 75.01508265020341
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 398.93903362463084,
+                "normalized_intensity": 39.893903362463085
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 386.47435332368246,
+                "normalized_intensity": 38.64743533236825
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 221.01005162416334,
+                "normalized_intensity": 22.101005162416335
+            },
+            {
+                "topic": "community",
+                "weighted_count": 219.6581051804663,
+                "normalized_intensity": 21.96581051804663
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 212.72829754128907,
+                "normalized_intensity": 21.272829754128907
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 190.48098322951682,
+                "normalized_intensity": 19.04809832295168
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 126.27921120641882,
+                "normalized_intensity": 12.627921120641883
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 115.86338157656036,
+                "normalized_intensity": 11.586338157656035
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 71.20260162845737,
+                "normalized_intensity": 7.120260162845737
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 61.761131040012906,
+                "normalized_intensity": 6.17611310400129
+            },
+            {
+                "topic": "food",
+                "weighted_count": 59.709350292599225,
+                "normalized_intensity": 5.970935029259922
+            },
+            {
+                "topic": "social justice",
+                "weighted_count": 57.8646336584078,
+                "normalized_intensity": 5.786463365840779
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 54.173456084673475,
+                "normalized_intensity": 5.417345608467348
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 53.53636429143685,
+                "normalized_intensity": 5.353636429143685
+            },
+            {
+                "topic": "food-waste",
+                "weighted_count": 53.490419107510604,
+                "normalized_intensity": 5.34904191075106
+            },
+            {
+                "topic": "family",
+                "weighted_count": 49.70005737531311,
+                "normalized_intensity": 4.970005737531311
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 49.00905522815863,
+                "normalized_intensity": 4.900905522815863
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 68,
+        "topics": [
+            {
+                "topic": "homelessness",
+                "weighted_count": 5270.118408949855,
+                "normalized_intensity": 77.5017413080861
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 4799.754615007564,
+                "normalized_intensity": 70.58462669128771
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 2075.3648524846703,
+                "normalized_intensity": 30.52007136006868
+            },
+            {
+                "topic": "wealth-inequality",
+                "weighted_count": 1420.426555428853,
+                "normalized_intensity": 20.88862581513019
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 1318.7805040552132,
+                "normalized_intensity": 19.39383094198843
+            },
+            {
+                "topic": "economic-inequality",
+                "weighted_count": 1215.7769961792926,
+                "normalized_intensity": 17.879073473224892
+            },
+            {
+                "topic": "humanitarian-aid",
+                "weighted_count": 1161.092376738762,
+                "normalized_intensity": 17.074887893217088
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 1000.9955522614936,
+                "normalized_intensity": 14.720522827374905
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 981.268433141031,
+                "normalized_intensity": 14.430418134426926
+            },
+            {
+                "topic": "immigration",
+                "weighted_count": 863.5397853783812,
+                "normalized_intensity": 12.699114490858548
+            },
+            {
+                "topic": "finance",
+                "weighted_count": 544.4401368626599,
+                "normalized_intensity": 8.00647260092147
+            },
+            {
+                "topic": "economy",
+                "weighted_count": 525.2997889854433,
+                "normalized_intensity": 7.724996896844755
+            },
+            {
+                "topic": "demographics",
+                "weighted_count": 331.42369822291664,
+                "normalized_intensity": 4.8738779150428915
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 157.72997536852682,
+                "normalized_intensity": 2.319558461301865
+            }
+        ]
+    }
+}

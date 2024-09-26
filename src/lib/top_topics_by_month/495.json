@@ -1,0 +1,352 @@
+{
+    "2023-09": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 235.26791898362137,
+                "normalized_intensity": 78.42263966120713
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 155.9175232435412,
+                "normalized_intensity": 51.97250774784707
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 31,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 2073.1602906108533,
+                "normalized_intensity": 66.87613840680172
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 1472.0640377265918,
+                "normalized_intensity": 47.4859367008578
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 1168.452274036292,
+                "normalized_intensity": 37.69200883988039
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 989.5319620301557,
+                "normalized_intensity": 31.920385871940507
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 948.6848933483217,
+                "normalized_intensity": 30.60273849510715
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 922.5279637549565,
+                "normalized_intensity": 29.758966572740533
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 862.0697304253129,
+                "normalized_intensity": 27.808700981461705
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 597.7297253213522,
+                "normalized_intensity": 19.281604042624267
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 587.8866085468189,
+                "normalized_intensity": 18.964084146671578
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 507.5717217298178,
+                "normalized_intensity": 16.373281346123154
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 456.06906646950824,
+                "normalized_intensity": 14.711905369984137
+            },
+            {
+                "topic": "community",
+                "weighted_count": 254.43634734471183,
+                "normalized_intensity": 8.20762410789393
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 203.39066183818005,
+                "normalized_intensity": 6.5609890915541955
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 126.19200079687133,
+                "normalized_intensity": 4.070709703124882
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 98.84434842394657,
+                "normalized_intensity": 3.1885273685144053
+            },
+            {
+                "topic": "saskatchewan",
+                "weighted_count": 68.29676410907778,
+                "normalized_intensity": 2.203121422873477
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 64.73620024518338,
+                "normalized_intensity": 2.088264524038174
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 49.201383520110795,
+                "normalized_intensity": 1.5871414038745417
+            }
+        ]
+    },
+    "2024-03": {
+        "total_ads": 21,
+        "topics": [
+            {
+                "topic": "health",
+                "weighted_count": 1199.8710351335312,
+                "normalized_intensity": 57.13671595873958
+            },
+            {
+                "topic": "labor",
+                "weighted_count": 845.0711130810474,
+                "normalized_intensity": 40.24148157528797
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 767.9500829810229,
+                "normalized_intensity": 36.5690515705249
+            },
+            {
+                "topic": "lifestyle",
+                "weighted_count": 733.5637036074841,
+                "normalized_intensity": 34.93160493368972
+            },
+            {
+                "topic": "medicine",
+                "weighted_count": 673.8118842058611,
+                "normalized_intensity": 32.0862802002791
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 656.4416688622575,
+                "normalized_intensity": 31.25912708867893
+            },
+            {
+                "topic": "workplace-culture",
+                "weighted_count": 585.3903239402698,
+                "normalized_intensity": 27.87572971144142
+            },
+            {
+                "topic": "sports",
+                "weighted_count": 563.7550062467692,
+                "normalized_intensity": 26.84547648794139
+            },
+            {
+                "topic": "community",
+                "weighted_count": 511.43137002191,
+                "normalized_intensity": 24.353874762948095
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 407.2078085305635,
+                "normalized_intensity": 19.39084802526493
+            },
+            {
+                "topic": "labour-rights",
+                "weighted_count": 301.71129811896355,
+                "normalized_intensity": 14.367204672331598
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 271.45874649582186,
+                "normalized_intensity": 12.926606975991517
+            },
+            {
+                "topic": "gig-economy",
+                "weighted_count": 148.1889469631269,
+                "normalized_intensity": 7.0566165220536625
+            },
+            {
+                "topic": "quebec",
+                "weighted_count": 130.0496531164449,
+                "normalized_intensity": 6.1928406245926135
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 100.56670207750233,
+                "normalized_intensity": 4.788890575119159
+            },
+            {
+                "topic": "prince edward island",
+                "weighted_count": 62.26578401931552,
+                "normalized_intensity": 2.96503733425312
+            },
+            {
+                "topic": "elder-care",
+                "weighted_count": 49.861816452958905,
+                "normalized_intensity": 2.374372212045662
+            }
+        ]
+    },
+    "2024-04": {
+        "total_ads": 12,
+        "topics": [
+            {
+                "topic": "new brunswick",
+                "weighted_count": 725.4652867025758,
+                "normalized_intensity": 60.455440558547984
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 307.1044284641203,
+                "normalized_intensity": 25.59203570534336
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 267.4456311131854,
+                "normalized_intensity": 22.287135926098784
+            },
+            {
+                "topic": "homelessness",
+                "weighted_count": 262.5793573475783,
+                "normalized_intensity": 21.881613112298194
+            },
+            {
+                "topic": "cost-of-living",
+                "weighted_count": 258.0121557547684,
+                "normalized_intensity": 21.501012979564035
+            },
+            {
+                "topic": "taxation",
+                "weighted_count": 241.82160394491558,
+                "normalized_intensity": 20.151800328742965
+            },
+            {
+                "topic": "energy-policy",
+                "weighted_count": 230.3573146589422,
+                "normalized_intensity": 19.196442888245183
+            },
+            {
+                "topic": "food",
+                "weighted_count": 226.16638345768885,
+                "normalized_intensity": 18.84719862147407
+            },
+            {
+                "topic": "education-policy",
+                "weighted_count": 220.62751741956896,
+                "normalized_intensity": 18.385626451630745
+            },
+            {
+                "topic": "childcare",
+                "weighted_count": 208.26225439474257,
+                "normalized_intensity": 17.355187866228547
+            },
+            {
+                "topic": "education",
+                "weighted_count": 151.19903293256664,
+                "normalized_intensity": 12.59991941104722
+            },
+            {
+                "topic": "parenting",
+                "weighted_count": 148.74957047189008,
+                "normalized_intensity": 12.395797539324173
+            },
+            {
+                "topic": "youth",
+                "weighted_count": 99.716129692891,
+                "normalized_intensity": 8.309677474407584
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 4,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 228.9476541334176,
+                "normalized_intensity": 57.2369135333544
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 226.76727517232237,
+                "normalized_intensity": 56.69181879308059
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 147.27855579884894,
+                "normalized_intensity": 36.819638949712235
+            },
+            {
+                "topic": "community",
+                "weighted_count": 107.69384861819452,
+                "normalized_intensity": 26.92346215454863
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 99.1286342129435,
+                "normalized_intensity": 24.782158553235874
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 55.43955306339519,
+                "normalized_intensity": 13.859888265848797
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 49.32512248860266,
+                "normalized_intensity": 12.331280622150665
+            }
+        ]
+    },
+    "2024-06": {
+        "total_ads": 10,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 570.4236274041856,
+                "normalized_intensity": 57.04236274041856
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 562.7361617085596,
+                "normalized_intensity": 56.27361617085596
+            },
+            {
+                "topic": "new brunswick",
+                "weighted_count": 441.33428908431017,
+                "normalized_intensity": 44.133428908431014
+            },
+            {
+                "topic": "community",
+                "weighted_count": 273.08749900269424,
+                "normalized_intensity": 27.308749900269426
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 247.6231958657844,
+                "normalized_intensity": 24.76231958657844
+            },
+            {
+                "topic": "corruption",
+                "weighted_count": 110.87910612679038,
+                "normalized_intensity": 11.087910612679037
+            },
+            {
+                "topic": "social-services",
+                "weighted_count": 98.65024497720532,
+                "normalized_intensity": 9.865024497720531
+            }
+        ]
+    }
+}

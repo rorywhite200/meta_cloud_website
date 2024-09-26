@@ -1,0 +1,42 @@
+{
+    "2024-08": {
+        "total_ads": 47,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 2616.2975403151886,
+                "normalized_intensity": 55.66590511308912
+            },
+            {
+                "topic": "community",
+                "weighted_count": 1237.717698034233,
+                "normalized_intensity": 26.33441910711134
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 1219.9015804935764,
+                "normalized_intensity": 25.955352776459073
+            },
+            {
+                "topic": "health",
+                "weighted_count": 1016.6556702908779,
+                "normalized_intensity": 21.63097170831655
+            },
+            {
+                "topic": "public-health",
+                "weighted_count": 945.4836571316424,
+                "normalized_intensity": 20.116673555992392
+            },
+            {
+                "topic": "healthcare-policy",
+                "weighted_count": 894.4105328994765,
+                "normalized_intensity": 19.030011338286734
+            },
+            {
+                "topic": "housing",
+                "weighted_count": 455.24029897466346,
+                "normalized_intensity": 9.685963807971563
+            }
+        ]
+    }
+}

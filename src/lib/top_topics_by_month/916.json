@@ -1,0 +1,27 @@
+{
+    "2023-11": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 153.61832926302915,
+                "normalized_intensity": 51.20610975434305
+            },
+            {
+                "topic": "military",
+                "weighted_count": 49.49129373465073,
+                "normalized_intensity": 16.497097911550245
+            }
+        ]
+    },
+    "2024-05": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "womens-rights",
+                "weighted_count": 52.21256484755084,
+                "normalized_intensity": 26.10628242377542
+            }
+        ]
+    }
+}

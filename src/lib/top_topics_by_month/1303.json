@@ -1,0 +1,77 @@
+{
+    "2023-12": {
+        "total_ads": 3,
+        "topics": [
+            {
+                "topic": "voting",
+                "weighted_count": 203.2465996093386,
+                "normalized_intensity": 67.7488665364462
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 171.88356716929633,
+                "normalized_intensity": 57.29452238976544
+            },
+            {
+                "topic": "british columbia",
+                "weighted_count": 145.03525027736185,
+                "normalized_intensity": 48.34508342578729
+            },
+            {
+                "topic": "transparency",
+                "weighted_count": 104.83806639974598,
+                "normalized_intensity": 34.94602213324866
+            },
+            {
+                "topic": "social-enterprise",
+                "weighted_count": 100.28906589263764,
+                "normalized_intensity": 33.42968863087921
+            },
+            {
+                "topic": "campaign-finance",
+                "weighted_count": 99.72767938994168,
+                "normalized_intensity": 33.24255979664723
+            },
+            {
+                "topic": "community",
+                "weighted_count": 71.73744775652237,
+                "normalized_intensity": 23.91248258550746
+            },
+            {
+                "topic": "public-safety",
+                "weighted_count": 51.71975251355562,
+                "normalized_intensity": 17.23991750451854
+            },
+            {
+                "topic": "public-policy",
+                "weighted_count": 51.041697642841996,
+                "normalized_intensity": 17.013899214280666
+            },
+            {
+                "topic": "nonprofits",
+                "weighted_count": 49.130956643709276,
+                "normalized_intensity": 16.376985547903093
+            }
+        ]
+    },
+    "2024-02": {
+        "total_ads": 2,
+        "topics": [
+            {
+                "topic": "british columbia",
+                "weighted_count": 131.9139342041933,
+                "normalized_intensity": 65.95696710209666
+            },
+            {
+                "topic": "politics",
+                "weighted_count": 106.56432561797904,
+                "normalized_intensity": 53.28216280898952
+            },
+            {
+                "topic": "community",
+                "weighted_count": 50.55268536077919,
+                "normalized_intensity": 25.276342680389597
+            }
+        ]
+    }
+}

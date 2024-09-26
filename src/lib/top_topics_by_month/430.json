@@ -1,0 +1,37 @@
+{
+    "2024-06": {
+        "total_ads": 7,
+        "topics": [
+            {
+                "topic": "politics",
+                "weighted_count": 415.4832740620231,
+                "normalized_intensity": 59.354753437431874
+            },
+            {
+                "topic": "voting",
+                "weighted_count": 294.6856234612747,
+                "normalized_intensity": 42.09794620875353
+            },
+            {
+                "topic": "ontario",
+                "weighted_count": 62.70408661047735,
+                "normalized_intensity": 8.95772665863962
+            },
+            {
+                "topic": "crime",
+                "weighted_count": 49.16214107730812,
+                "normalized_intensity": 7.0231630110440175
+            }
+        ]
+    },
+    "2024-08": {
+        "total_ads": 1,
+        "topics": [
+            {
+                "topic": "business",
+                "weighted_count": 53.29796305441376,
+                "normalized_intensity": 53.29796305441376
+            }
+        ]
+    }
+}
