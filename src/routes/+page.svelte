@@ -334,23 +334,6 @@ $: if (sliderValue.length === 2 && !isLoading) {
     margin-left: 1rem;
   }
 
-  /* Loader Styles */
-  .loader {
-    color: rgb(236, 236, 236);
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 1.2rem;
-  }
-
-  /* Error Message Styles */
-  .error-message {
-    color: red;
-    text-align: center;
-    margin-top: 2rem;
-    font-size: 1.2rem;
-  }
-
-  /* Responsive Adjustments */
   @media (max-width: 1200px) {
     .main-container {
       margin-left: 20%;
