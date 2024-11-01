@@ -1,10 +1,17 @@
 <script>
     import logo from '$lib/logo.png';
+
+    function refreshPage() {
+  window.location.reload(); // Refresh the page
+}
 </script>
 
 <div class="sidebar">
 
+
+  <div on:click={refreshPage} style="cursor: pointer;">
     <img src={logo} alt="logo" class="logo" />
+  </div>
     <slot />
 </div>
 

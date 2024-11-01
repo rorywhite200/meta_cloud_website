@@ -34,7 +34,7 @@
 	.main-container {
 		width: 100%;
 		height: 100%;
-		background-color: rgba(45, 55, 55, 0.843);
+		background-color: rgba(59, 68, 71, 0.84);
 		position: relative;
 		border-radius: 40px;
 		overflow: hidden;

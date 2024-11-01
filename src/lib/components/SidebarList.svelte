@@ -2,19 +2,46 @@
   import { onMount } from "svelte";
   import { Icon } from 'svelte-icons-pack';
   import { AiOutlineSearch } from "svelte-icons-pack/ai"; 
-  import { flip } from 'svelte/animate'; // Import flip if needed
-  import { fade } from 'svelte/transition'; // Import fade if needed
-
+  import { BiNetworkChart } from "svelte-icons-pack/bi";
+  import { IoSearchCircleSharp } from "svelte-icons-pack/io"; 
+  import { BsMegaphone } from "svelte-icons-pack/bs";
   export let funderMatches = [];
   export let relatedFundersList = null;
   export let searchTerm = '';
   export let suggestions = [];
   export let selectFunder = () => {};
   export let sortedFunders = [];
+  export let sortCriterion = "relevance"; // New variable for sort order
+  export let selectedDataSource = null;
+
+  let localFunderMatches = [];
 
   onMount(() => {
+    localFunderMatches = [...funderMatches];
     updateSuggestions();
+    sortFunderMatches();
   });
+
+  // Reactive statement to update matches when selectedDataSource changes
+  $: if (selectedDataSource) {
+    localFunderMatches = [...funderMatches];
+    sortFunderMatches();
+  }
+  
+  // Reactive statement to sort funder matches whenever funderMatches changes
+  $: funderMatches, sortFunderMatches();
+
+
+  function sortFunderMatches() {
+
+    if (sortCriterion === "relevance") {
+      localFunderMatches = [...localFunderMatches].sort((a, b) => b.similarity_score - a.similarity_score);
+    } else if (sortCriterion === "alphabetical") {
+      localFunderMatches = [...localFunderMatches].sort((a, b) => a.funder_name.localeCompare(b.funder_name));
+    }
+
+    console.log(localFunderMatches);
+  }
 
   function calculateRelevance(funderName, searchTerm) {
     const lowerFunderName = funderName.toLowerCase();
@@ -35,16 +62,15 @@
     return 0;
   }
 
-  // Function to update suggestions
   function updateSuggestions() {
     if (searchTerm.length > 0) {
       suggestions = sortedFunders
         .map(funder => ({
           ...funder,
-          relevance: calculateRelevance(funder.name, searchTerm)
+          relevance: calculateRelevance(funder.funder_name, searchTerm) // Updated property
         }))
         .filter(funder => funder.relevance > 0)
-        .sort((a, b) => b.relevance - a.relevance || b.ad_count - a.ad_count)
+        .sort((a, b) => b.relevance - a.relevance || b.ad_count - a.ad_count);
       
       if (relatedFundersList) {
         relatedFundersList.scrollTop = 0;
@@ -53,61 +79,153 @@
       suggestions = [];
     }
   }
+
 </script>
+
+{#if selectedDataSource !== 'By Entire Library'}
 
 <div class="embedded-search-container">
   <Icon src={AiOutlineSearch} size={20} color="#ccc" className="icon" />
   <input
     type="text"
+    spellcheck="false"
+    autocomplete="off"
     bind:value={searchTerm}
     on:input={updateSuggestions}
     placeholder="Search for a funder"
     class="search-input-embedded"
   />
 </div>
-
-<h3 class="related-funders-h3">{searchTerm.length > 0 ? 'Search Results' : 'Suggested funders'}</h3>
-
-<!-- Display Search Results or Related Funders -->
-<ul class="related-funders-list" bind:this={relatedFundersList}>
-{#if searchTerm.length > 0}
-  {#if suggestions.length > 0}
-    {#each suggestions as suggestion (suggestion.id)}
-      <li
-        on:click={() => selectFunder(suggestion)}
-        class="related-funder-item"
-        in:fade={{ duration: 1000 }}
-      >
-        <span class="related-funder-name">{suggestion.name}</span>
-      </li>
-    {/each}
-  {:else}
-    <li class="no-results">No results found.</li>
-  {/if}
-{:else}
-  {#each funderMatches as match (match.funder_id)}
-    <li
-      on:click={() => selectFunder({ name: match.funder_name, id: match.funder_id })}
-      class="related-funder-item"
-      in:fade={{ duration: 1000 }}
-    >
-      <span class="related-funder-name">{match.funder_name}</span>
-    </li>
-  {/each}
 {/if}
-</ul>
+
+
+<div class="funders-container">
+  <!-- Search Results Section -->
+  {#if searchTerm.length > 0 && selectedDataSource !== 'By Entire Library'}
+    <div class="section search-section">
+      <h3 class="related-funders-h3">
+        <Icon src={IoSearchCircleSharp} size={20} color="#ccc" className="icon" />
+        Search results 
+      </h3>
+      <ul class="related-funders-list" bind:this={relatedFundersList}>
+        {#if suggestions.length > 0}
+          {#each suggestions as suggestion (suggestion.id)}
+            <li
+              on:click={() => selectFunder(suggestion)}
+              class="related-funder-item"
+            >
+              <span class="related-funder-name">{suggestion.funder_name}</span> <!-- Updated property -->
+            </li>
+          {/each}
+        {:else}
+          <li class="no-results">No results found.</li>
+        {/if}
+      </ul>
+    </div>
+  {/if}
+  
+  <!-- Related Funders Section -->
+  <div class="section related-section" class:full-height={searchTerm.length === 0}>
+      <!-- Sorting Dropdown -->
+       {#if selectedDataSource !== 'By Entire Library'}
+
+      <h3 class="related-funders-h3">
+        <Icon src={BiNetworkChart} size={20} color="#ccc" className="icon" />
+        Similar funders 
+      </h3>
+      {/if}
+      {#if selectedDataSource === 'By Entire Library'}
+
+      <h3 class="related-funders-h3">
+        <Icon src={BsMegaphone} size={20} color="#ccc" className="icon" />
+        Loudest voices
+      </h3>
+      
+      <div class="sort-dropdown">
+        <label for="sortSelect">Sort by: </label>
+        <select id="sortSelect" bind:value={sortCriterion} on:change={sortFunderMatches}>
+          <option value="relevance">Number of ads</option>
+          <option value="alphabetical">Alphabetical</option>
+        </select>
+      </div>
+      {:else}
+
+      <div class="sort-dropdown">
+        <label for="sortSelect">Sort by: </label>
+        <select id="sortSelect" bind:value={sortCriterion} on:change={sortFunderMatches}>
+          <option value="relevance">Relevance</option>
+          <option value="alphabetical">Alphabetical</option>
+        </select>
+      </div>
+      {/if}
+
+
+    
+    <ul class="related-funders-list">
+      {#each localFunderMatches as match (match.funder_id)}
+        <li
+          on:click={() => selectFunder({ name: match.funder_name, id: match.funder_id })}
+          class="related-funder-item"
+        >
+          <span class="related-funder-name">{match.funder_name}</span>
+        </li>
+      {/each}
+    </ul>
+  </div>
+</div>
+
 
 <style>
+
+.sort-dropdown {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.2rem;
+  font-size: 0.6rem;
+  margin-left: 0.5rem;
+  color: #ccc;
+
+
+}
+
+.sort-dropdown select {
+  appearance: none;
+  margin-left: 0.5rem;
+  padding: 0.2rem 0.3rem;
+  background: none;
+  border: 1px solid #ccc;
+  box-shadow: none;
+  border-radius: 5px;
+}
+.funders-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  height: 70%; /* Fill available height */
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0; /* Important for flex containers with scrolling children */
+}
+
+.full-height {
+  height: 100%; /* Take up full height when it's the only section */
+}
+
 .related-funders-list {
   list-style-type: none;
   padding: 0;
   margin: 0;
   overflow-y: auto;
-  flex: 1;
-  max-height: 60%;
   overflow-x: hidden;
+  flex: 1; /* Fill remaining space */
+  min-height: 0; /* Important for scrolling to work properly */
 }
 
+/* Rest of your styles remain the same */
 .related-funder-item {
   padding: 0.5rem;
   border-radius: 5px;
@@ -120,7 +238,7 @@
 }
 
 .related-funder-item:last-child {
-  border-bottom: none; /* Remove border from the last item */
+  border-bottom: none;
 }
 
 .related-funder-item:hover {
@@ -142,9 +260,16 @@
 
 .related-funders-h3 {
   color: rgb(236, 236, 236);
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   margin-left: 0.3rem;
+  font-size: 1rem;
+  font-weight: bold;
+  display: flex;
+    align-items: center; /* Vertically centers the icon */
+    gap: 8px; /* Adjusts spacing between text and icon */
+
 }
+
 
 :global(.icon) {
   min-width: 16px;
@@ -166,7 +291,7 @@
   transition: border 0.3s, box-shadow 0.3s;
 }
 
-.embedded-search-container:focus {
+.embedded-search-container:focus-within {
   border: 1px solid #4a90e2;
   box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.2);
 }
@@ -175,10 +300,11 @@ input {
   background: none;
   border: none;
   margin-left: 0.5rem;
-  margin-right: 0;
+  margin-right: 0.5rem;
   outline: none;
   box-shadow: none;
-  flex: 1; /* Ensure input takes available space */
+  flex: 1;
+  color: rgb(236, 236, 236);
 }
 
 input:focus {
