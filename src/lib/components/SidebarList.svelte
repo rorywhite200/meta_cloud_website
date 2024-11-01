@@ -40,7 +40,6 @@
       localFunderMatches = [...localFunderMatches].sort((a, b) => a.funder_name.localeCompare(b.funder_name));
     }
 
-    console.log(localFunderMatches);
   }
 
   function calculateRelevance(funderName, searchTerm) {
@@ -82,7 +81,7 @@
 
 </script>
 
-{#if selectedDataSource !== 'By Entire Library'}
+{#if selectedDataSource !== 'By Complete Library'}
 
 <div class="embedded-search-container">
   <Icon src={AiOutlineSearch} size={20} color="#ccc" className="icon" />
@@ -101,7 +100,7 @@
 
 <div class="funders-container">
   <!-- Search Results Section -->
-  {#if searchTerm.length > 0 && selectedDataSource !== 'By Entire Library'}
+  {#if searchTerm.length > 0 && selectedDataSource !== 'By Complete Library'}
     <div class="section search-section">
       <h3 class="related-funders-h3">
         <Icon src={IoSearchCircleSharp} size={20} color="#ccc" className="icon" />
@@ -109,9 +108,9 @@
       </h3>
       <ul class="related-funders-list" bind:this={relatedFundersList}>
         {#if suggestions.length > 0}
-          {#each suggestions as suggestion (suggestion.id)}
+          {#each suggestions as suggestion}
             <li
-              on:click={() => selectFunder(suggestion)}
+              on:click={() => selectFunder({ name: suggestion.funder_name, id: suggestion.id })}
               class="related-funder-item"
             >
               <span class="related-funder-name">{suggestion.funder_name}</span> <!-- Updated property -->
@@ -127,14 +126,14 @@
   <!-- Related Funders Section -->
   <div class="section related-section" class:full-height={searchTerm.length === 0}>
       <!-- Sorting Dropdown -->
-       {#if selectedDataSource !== 'By Entire Library'}
+       {#if selectedDataSource !== 'By Complete Library'}
 
       <h3 class="related-funders-h3">
         <Icon src={BiNetworkChart} size={20} color="#ccc" className="icon" />
         Similar funders 
       </h3>
       {/if}
-      {#if selectedDataSource === 'By Entire Library'}
+      {#if selectedDataSource === 'By Complete Library'}
 
       <h3 class="related-funders-h3">
         <Icon src={BsMegaphone} size={20} color="#ccc" className="icon" />

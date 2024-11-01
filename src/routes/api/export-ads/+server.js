@@ -10,25 +10,35 @@ export async function POST({ request }) {
       return json({ error: 'No IDs provided' }, { status: 400 });
     }
 
-    // Query the database for ads by ID and join with funders and pages tables
+    // Set session timezone to UTC and fetch ads in UTC
+    await db.query(`SET time_zone='+00:00';`);
     const [ads] = await db.query(`
       SELECT 
-        ads.*, 
+        ads.body AS ad_body,
         funders.name AS funder_name, 
+        ads.*,
         pages.name AS page_name,
-        IFNULL(DATE_FORMAT(FROM_UNIXTIME(ads.created_date), '%Y-%m-%d %H:%i:%s'), 'N/A') AS created_date,
-        IFNULL(DATE_FORMAT(FROM_UNIXTIME(ads.start_date), '%Y-%m-%d %H:%i:%s'), 'N/A') AS start_date,
-        IFNULL(DATE_FORMAT(FROM_UNIXTIME(ads.end_date), '%Y-%m-%d %H:%i:%s'), 'N/A') AS end_date
+        DATE_FORMAT(ads.created_date, '%Y-%m-%d %H:%i:%s') AS created_date,
+        DATE_FORMAT(ads.start_date, '%Y-%m-%d %H:%i:%s') AS start_date,
+        DATE_FORMAT(ads.end_date, '%Y-%m-%d %H:%i:%s') AS end_date
       FROM ads
       LEFT JOIN funders ON ads.funder_id = funders.id
       LEFT JOIN pages ON ads.page_id = pages.id
       WHERE ads.id IN (?)
     `, [ids]);
 
-    // Convert the results to CSV format
+    // Convert the results to CSV format with specific types for date columns
     const csvData = stringify(ads, {
       header: true,
-      columns: Object.keys(ads[0] || {}), // Use column names from the result of the join query
+      columns: {
+        ad_body: 'Ad Body',
+        funder_name: 'Funder Name',
+        created_date: 'Created Date',
+        start_date: 'Start Date',
+        end_date: 'End Date',
+        page_name: 'Page Name',
+        ...Object.fromEntries(Object.keys(ads[0] || {}).filter(col => !['ad_body', 'funder_name', 'created_date', 'start_date', 'end_date', 'page_name'].includes(col)).map(col => [col, col]))
+      }
     });
 
     // Return the CSV as a downloadable file

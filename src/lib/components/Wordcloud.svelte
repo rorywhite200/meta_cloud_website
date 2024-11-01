@@ -36,20 +36,19 @@
   function generateWordCloud() {
     if (!d3Cloud || !aggregatedKeywords) return;
 
-    console.log("Hello")
 
     let filteredKeywordsSubset = filteredKeywords.slice(0, 100);
 
-    console.log(aggregatedKeywords);
 
-    const MAX_SIZE = 20; // Set your desired maximum size
-  const cloudWords = filteredKeywordsSubset.map(keyword => ({
-    text: keyword.text,
-    size: Math.min(
-      Math.sqrt(keyword.weighted_score / (filteredKeywords.length / 10)) * 10 + 14,
-      MAX_SIZE
-    )
-  }));
+    const MAX_SIZE = 20;
+    const MIN_SIZE = 14;
+    const cloudWords = filteredKeywordsSubset.map(keyword => ({
+  text: keyword.text,
+  size: Math.min(
+    (keyword.weighted_score / Math.max(...filteredKeywordsSubset.map(k => k.weighted_score))) * (MAX_SIZE - MIN_SIZE) + MIN_SIZE,
+    MAX_SIZE
+  )
+}));
 
     const layout = d3Cloud()
       .size([width, height + (height / 3)])

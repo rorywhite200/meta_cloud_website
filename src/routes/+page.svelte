@@ -75,7 +75,7 @@
   // -------------------
   function updateBaseUrl() {
     switch (selectedDataSource) {
-      case "By Entire Library":
+      case "By Complete Library":
         return "/data/keyword_analysis/";
       case "By Funder":
         return `/data/keyword_analysis/funders/${selectedFunder.id}`;
@@ -131,70 +131,70 @@
   // Function: Aggregate Keywords
   // -------------------
   function aggregateKeywords(startIndex, endIndex) {
-  // Early validation
-  if (startIndex < 0 || endIndex >= availableMonths.length || startIndex > endIndex) {
-    console.warn('Invalid indices for aggregating keywords:', startIndex, endIndex);
-    return [];
-  }
-
-  // Pre-allocate array size for better performance
-  const monthsToProcess = endIndex - startIndex + 1;
-  const estimatedKeywords = monthsToProcess * 100; // Assume average 100 keywords per month
-  const aggregated = new Map();
+    // Early validation
+    if (startIndex < 0 || endIndex >= availableMonths.length || startIndex > endIndex) {
+      console.warn('Invalid indices for aggregating keywords:', startIndex, endIndex);
+      return [];
+    }
   
-  // Avoid repeated property lookups
-  const months = availableMonths.slice(startIndex, endIndex + 1);
-  const keywordsByMonth = topKeywordsByMonth;
-
-  // Process in chunks to avoid long-running loops
-  const chunkSize = 3; // Process 3 months at a time
-  for (let i = 0; i < months.length; i += chunkSize) {
-    const chunk = months.slice(i, i + chunkSize);
+    // Pre-allocate array size for better performance
+    const monthsToProcess = endIndex - startIndex + 1;
+    const estimatedKeywords = monthsToProcess * 100; // Assume average 100 keywords per month
+    const aggregated = new Map();
     
-    chunk.forEach(month => {
-      const keywords = keywordsByMonth[month];
-      if (!keywords) return;
-
-      for (let j = 0; j < keywords.length; j++) {
-        const { keyword, count, weighted_score, ...rest } = keywords[j];
-        const key = keyword.toLowerCase();
-        
-        const existing = aggregated.get(key);
-        if (existing) {
-          existing.count += count;
-          existing.weighted_score += weighted_score;
-        } else {
-          // Avoid spread operator for better performance
-          const newEntry = {
-            count: count,
-            weighted_score: weighted_score,
-            hash: rest.hash,
-            ad_ids: rest.ad_ids
-          };
-          aggregated.set(key, newEntry);
-        }
-      }
-    });
-  }
-
-  // Use more efficient array creation and sorting
-  const result = new Array(aggregated.size);
-  let idx = 0;
+    // Avoid repeated property lookups
+    const months = availableMonths.slice(startIndex, endIndex + 1);
+    const keywordsByMonth = topKeywordsByMonth;
   
-  aggregated.forEach((data, text) => {
-    result[idx++] = {
-      text,
-      count: data.count,
-      weighted_score: data.weighted_score,
-      hash: data.hash,
-      ad_ids: data.ad_ids
-    };
-  });
-
-  // In-place sort is faster than creating new array
-  return result.sort((a, b) => b.weighted_score - a.weighted_score);
-}
-
+    // Process in chunks to avoid long-running loops
+    const chunkSize = 3; // Process 3 months at a time
+    for (let i = 0; i < months.length; i += chunkSize) {
+      const chunk = months.slice(i, i + chunkSize);
+      
+      chunk.forEach(month => {
+        const keywords = keywordsByMonth[month];
+        if (!keywords) return;
+  
+        for (let j = 0; j < keywords.length; j++) {
+          const { keyword, count, weighted_score, ...rest } = keywords[j];
+          const key = keyword.toLowerCase();
+          
+          const existing = aggregated.get(key);
+          if (existing) {
+            existing.count += count;
+            existing.weighted_score += weighted_score;
+          } else {
+            // Avoid spread operator for better performance
+            const newEntry = {
+              count: count,
+              weighted_score: weighted_score,
+              hash: rest.hash,
+              ad_ids: rest.ad_ids
+            };
+            aggregated.set(key, newEntry);
+          }
+        }
+      });
+    }
+  
+    // Use more efficient array creation and sorting
+    const result = new Array(aggregated.size);
+    let idx = 0;
+    
+    aggregated.forEach((data, text) => {
+      result[idx++] = {
+        text,
+        count: data.count,
+        weighted_score: data.weighted_score,
+        hash: data.hash,
+        ad_ids: data.ad_ids
+      };
+    });
+  
+    // In-place sort is faster than creating new array
+    return result.sort((a, b) => b.weighted_score - a.weighted_score);
+  }
+  
   // -------------------
   // Function: Load Topic Mapping
   // -------------------
@@ -298,10 +298,7 @@
     try {
       isLoading = true;
       errorMessage = '';
-  
-      // Store current indices if they exist
-      const previousIndices = selectedMonthIndices.length === 2 ? [...selectedMonthIndices] : null;
-  
+    
       // Load funder months data
       const monthsResponse = await fetch(`/data/funder_months.json`);
       if (!monthsResponse.ok) {
@@ -309,18 +306,22 @@
       }
       const funderMonthsData = await monthsResponse.json();
 
-      const key = selectedDataSource === "By Entire Library" ? 'all' : funderId;
+      const key = selectedDataSource === "By Complete Library" ? 'all' : funderId;
 
   
       // Check if the funderId exists in the funderMonthsData
       if (!funderMonthsData[funderId]) {
         throw new Error(`No months data available for funder ID ${key}`);
       }
-  
-      // Extract available months for the selected funderId
-      first = funderMonthsData[funderId].first;
-      last = funderMonthsData[funderId].last;
 
+      if (selectedDataSource === "By Complete Library") {
+        first = funderMonthsData['all'].first;
+        last = funderMonthsData['all'].last;
+      } else {
+        first = funderMonthsData[funderId].first;
+        last = funderMonthsData[funderId].last;
+      }
+  
       availableMonths = getMonthsInRange(first, last);
   
       // Load funder similarity data
@@ -329,7 +330,6 @@
         throw new Error(`Failed to fetch funder_similarity/${funderId}.json`);
       }
       const response2Data = await response2.json();
-      console.log("getting funder matches: ", response2Data.similar_funders)
       
       // Assuming similar_funders is now an object similar to 'funders'
 
@@ -504,86 +504,85 @@
   // -------------------
   // Function: Collect Relevant Ads
   // -------------------
-function collectRelevantAds(startIndex, endIndex) {
-  // Pre-allocate collections with estimated size
-  const allAdIds = new Set();
-  const filteredMappings = Object.create(null); // Faster than {}
-  const monthRange = availableMonths.slice(startIndex, endIndex + 1);
-  const keywordsByMonth = topKeywordsByMonth; // Cache lookup
-  const mappings = adMappings; // Cache lookup
-  
-  // Process months in chunks
-  const chunkSize = 3;
-  for (let i = 0; i < monthRange.length; i += chunkSize) {
-    const monthChunk = monthRange.slice(i, Math.min(i + chunkSize, monthRange.length));
+  function collectRelevantAds(startIndex, endIndex) {
+    // Pre-allocate collections with estimated size
+    const allAdIds = new Set();
+    const filteredMappings = Object.create(null); // Faster than {}
+    const monthRange = availableMonths.slice(startIndex, endIndex + 1);
+    const keywordsByMonth = topKeywordsByMonth; // Cache lookup
+    const mappings = adMappings; // Cache lookup
     
-    for (const month of monthChunk) {
-      const monthData = keywordsByMonth[month];
-      if (!monthData) continue;
-
-      // Process keywords in chunks
-      const keywordChunkSize = 100;
-      for (let j = 0; j < monthData.length; j += keywordChunkSize) {
-        const keywordChunk = monthData.slice(j, j + keywordChunkSize);
-        
-        for (const keywordData of keywordChunk) {
-          const { ad_ids: adIds, hash } = keywordData;
-          if (!adIds) continue;
-
-          // Initialize hash set if needed
-          globalAdMappings[hash] = globalAdMappings[hash] || new Set();
-          const hashSet = globalAdMappings[hash];
-
-          // Process ad IDs efficiently
-          for (const idItem of adIds) {
-            if (Array.isArray(idItem)) {
-              const [start, end] = idItem;
-              // Process ranges in chunks
-              const rangeSize = 1000;
-              for (let id = start; id <= end; id += rangeSize) {
-                const chunkEnd = Math.min(id + rangeSize, end + 1);
-                for (let adId = id; adId < chunkEnd; adId++) {
-                  allAdIds.add(adId);
-                  hashSet.add(adId);
-                  
-                  const mapping = mappings[adId];
-                  if (mapping) {
-                    // Avoid spread operator for performance
-                    filteredMappings[adId] = Object.assign(
-                      Object.create(null),
-                      mapping,
-                      { hash }
-                    );
+    // Process months in chunks
+    const chunkSize = 3;
+    for (let i = 0; i < monthRange.length; i += chunkSize) {
+      const monthChunk = monthRange.slice(i, Math.min(i + chunkSize, monthRange.length));
+      
+      for (const month of monthChunk) {
+        const monthData = keywordsByMonth[month];
+        if (!monthData) continue;
+  
+        // Process keywords in chunks
+        const keywordChunkSize = 100;
+        for (let j = 0; j < monthData.length; j += keywordChunkSize) {
+          const keywordChunk = monthData.slice(j, j + keywordChunkSize);
+          
+          for (const keywordData of keywordChunk) {
+            const { ad_ids: adIds, hash } = keywordData;
+            if (!adIds) continue;
+  
+            // Initialize hash set if needed
+            globalAdMappings[hash] = globalAdMappings[hash] || new Set();
+            const hashSet = globalAdMappings[hash];
+  
+            // Process ad IDs efficiently
+            for (const idItem of adIds) {
+              if (Array.isArray(idItem)) {
+                const [start, end] = idItem;
+                // Process ranges in chunks
+                const rangeSize = 1000;
+                for (let id = start; id <= end; id += rangeSize) {
+                  const chunkEnd = Math.min(id + rangeSize, end + 1);
+                  for (let adId = id; adId < chunkEnd; adId++) {
+                    allAdIds.add(adId);
+                    hashSet.add(adId);
+                    
+                    const mapping = mappings[adId];
+                    if (mapping) {
+                      // Avoid spread operator for performance
+                      filteredMappings[adId] = Object.assign(
+                        Object.create(null),
+                        mapping,
+                        { hash }
+                      );
+                    }
                   }
                 }
-              }
-            } else {
-              allAdIds.add(idItem);
-              hashSet.add(idItem);
-              
-              const mapping = mappings[idItem];
-              if (mapping) {
-                filteredMappings[idItem] = Object.assign(
-                  Object.create(null),
-                  mapping,
-                  { hash }
-                );
+              } else {
+                allAdIds.add(idItem);
+                hashSet.add(idItem);
+                
+                const mapping = mappings[idItem];
+                if (mapping) {
+                  filteredMappings[idItem] = Object.assign(
+                    Object.create(null),
+                    mapping,
+                    { hash }
+                  );
+                }
               }
             }
           }
         }
       }
     }
+  
+    // Convert Set to Array only once at the end
+    return {
+      adIds: Array.from(allAdIds),
+      mappings: filteredMappings
+    };
   }
-
-  // Convert Set to Array only once at the end
-  return {
-    adIds: Array.from(allAdIds),
-    mappings: filteredMappings
-  };
-}
-
-
+  
   // -------------------
   // Function: Reset Filters
   // -------------------
@@ -596,18 +595,14 @@ function collectRelevantAds(startIndex, endIndex) {
     sliderValue = [0, availableMonths.length - 1];
   }
   
-  let count = 0;
-  
   // -------------------
   // Reactive Statement: Update on Month Indices Change
   // -------------------
   $: if (selectedMonthIndices && !isLoading && selectedMonthIndices.length === 2) {
-    count++;
-  
     const [currentStart, currentEnd] = selectedMonthIndices;
     const [prevStart, prevEnd] = previousSelectedMonthIndices;
   
-    if (count > 0 && (currentStart !== prevStart || currentEnd !== prevEnd)) {
+    if (currentStart !== prevStart || currentEnd !== prevEnd) {
       previousSelectedMonthIndices = [...selectedMonthIndices];
       
       const { adIds, mappings } = collectRelevantAds(currentStart, currentEnd);
@@ -745,27 +740,11 @@ function collectRelevantAds(startIndex, endIndex) {
   // -------------------
   let computedFunders = [];
 
-  $: if (selectedDataSource === "By Entire Library" && prevSelectedDataSource !== "By Entire Library") {
-    console.log("selectedDataSource: ", selectedDataSource)
-    first = funderMonthsData['all'].first;
-    last = funderMonthsData['all'].last;
-    availableMonths = getMonthsInRange(first, last);
-    if (selectedMonthIndices !== [0, availableMonths.length - 1]) {
-        selectedMonthIndices = [0, availableMonths.length - 1];
-    }
-    prevSelectedDataSource = "By Entire Library";
-    console.log("selectedMonthIndices: ", selectedMonthIndices)
-  } else {
-    console.log(selectedDataSource, prevSelectedDataSource)
-    console.log(selectedDataSource == prevSelectedDataSource)
-    prevSelectedDataSource = selectedDataSource;
-  }
   
   $: {
-    if (selectedDataSource === "By Entire Library") {
-      // Determine which mapping to use
+    if (selectedDataSource === "By Complete Library") {
+      // Use similar funders or keyword-based funders
       const mappingsToUse = Object.keys(mappingsFilteredByKeyword).length > 0 ? mappingsFilteredByKeyword : relevantAdMappings;
-
       
       // Aggregate counts of each funder_id
       const funderCounts = {};
@@ -794,7 +773,7 @@ function collectRelevantAds(startIndex, endIndex) {
       computedFunders = libraryFunders;
 
     } else {
-      // Use similar funders when not "By Entire Library"
+      // Use similar funders when not "By Complete Library"
       computedFunders = funderMatches;
     }
   }
@@ -804,7 +783,7 @@ function collectRelevantAds(startIndex, endIndex) {
 <div class="main-container" in:fade>
   <Sidebar>
     {#if (selectedDataSource === "By Funder" && (funderMatches.length > 0 || searchTerm.length > 0)) || 
-         (selectedDataSource === "By Entire Library" && computedFunders.length > 0)}
+         (selectedDataSource === "By Complete Library" && computedFunders.length > 0)}
       <SidebarList 
         funderMatches={computedFunders} 
         searchTerm={searchTerm} 
@@ -818,8 +797,8 @@ function collectRelevantAds(startIndex, endIndex) {
 
   <div class='header'>
     <h2>
-      {#if selectedDataSource == "By Entire Library"}
-        Entire ad library
+      {#if selectedDataSource == "By Complete Library"}
+        Complete Ad Library
       {:else if selectedDataSource == "By Funder"}
         {#if selectedFunder}
           {selectedFunder.name}
@@ -859,7 +838,7 @@ function collectRelevantAds(startIndex, endIndex) {
 
     <div class="dropdown">
       <select id="dataSource" bind:value={selectedDataSource} on:change={() => loadFunderData(selectedFunder.id)}>
-        <option>By Entire Library</option>
+        <option>By Complete Library</option>
         <option>By Funder</option>
         <option>By Page</option>
       </select>
@@ -953,7 +932,7 @@ function collectRelevantAds(startIndex, endIndex) {
   }
 
   .header > h2 {
-    color: rgb(227, 223, 188);
+    color: rgb(207, 201, 201);
     font-size: 1.5rem;
     overflow: hidden;
     white-space: nowrap;
