@@ -41,7 +41,8 @@
   let relevantAdIds = new Set();
   let first = "";
   let last = "";
-  
+  let csvFilename = 'export.csv';
+
   // Variables for top topics by month
   let topTopicsByMonth = {};
   
@@ -65,10 +66,37 @@
 
   let funderMonthsData;
 
+
+
+
   onMount(async () => {
      const monthsResponse = await fetch(`/data/funder_months.json`);
     funderMonthsData = await monthsResponse.json();
   });
+  
+  $: {
+  let filenameParts = [];
+
+  // Helper function to sanitize each part by removing special characters
+  const sanitize = (str) => str ? str.replace(/[^a-zA-Z0-9_-]/g, "").replace(/ /g, "_") : "";
+
+  // Add each part conditionally, ensuring multi-word segments use underscores
+  if (selectedFunder && selectedFunder.name) filenameParts.push(sanitize(selectedFunder.name).slice(0, 28));
+  if (selectedTopic) filenameParts.push(sanitize(selectedTopic));
+  if (wordSearchTerm) filenameParts.push(`keyword_${sanitize(wordSearchTerm)}`);
+  
+  // Handle date range with underscores
+  if (selectedMonthIndices && selectedMonthIndices.length === 2) {
+    const startMonth = availableMonths[selectedMonthIndices[0]];
+    const endMonth = availableMonths[selectedMonthIndices[1]];
+    filenameParts.push(`${sanitize(startMonth)}_${sanitize(endMonth)}`);
+  }
+  
+  // Join parts with underscores and add the .csv extension
+  csvFilename = `${filenameParts.join("_") || "export"}.csv`;
+  console.log("csv: " + csvFilename);
+}
+
   
   // -------------------
   // Function: Update Base URL
@@ -810,7 +838,7 @@
     
 
     <div class="button-group">
-      <DownloadButton {mappingsFilteredByKeyword} {relevantAdMappings} />
+      <DownloadButton {mappingsFilteredByKeyword} {relevantAdMappings} filename={csvFilename} />
       <button on:click={resetFilters}>Reset Filters</button>
     </div>
   </div>

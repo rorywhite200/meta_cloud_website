@@ -1,6 +1,7 @@
 <script>
     export let mappingsFilteredByKeyword = {};
     export let relevantAdMappings = {};
+    export let filename;
     let isLoading = false;
   
     async function handleDownload() {
@@ -34,9 +35,8 @@
         const blob = await response.blob();
         const url = URL.createObjectURL(blob);
         const link = document.createElement('a');
-        const date = new Date().toISOString().split('T')[0];
         link.href = url;
-        link.download = `ads_${date}.csv`;
+        link.download = filename;
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
