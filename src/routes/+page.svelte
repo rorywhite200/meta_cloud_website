@@ -81,7 +81,7 @@
   const sanitize = (str) => str ? str.replace(/[^a-zA-Z0-9_-]/g, "").replace(/ /g, "_") : "";
 
   // Add each part conditionally, ensuring multi-word segments use underscores
-  if (selectedFunder && selectedFunder.name) filenameParts.push(sanitize(selectedFunder.name).slice(0, 28));
+  if (selectedDataSource == "By Funder" && selectedFunder && selectedFunder.name) filenameParts.push(sanitize(selectedFunder.name).slice(0, 28));
   if (selectedTopic) filenameParts.push(sanitize(selectedTopic));
   if (wordSearchTerm) filenameParts.push(`keyword_${sanitize(wordSearchTerm)}`);
   

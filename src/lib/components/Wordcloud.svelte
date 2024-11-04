@@ -40,7 +40,7 @@
     let filteredKeywordsSubset = filteredKeywords.slice(0, 100);
 
 
-    const MAX_SIZE = 20;
+    const MAX_SIZE = 25;
     const MIN_SIZE = 14;
     const cloudWords = filteredKeywordsSubset.map(keyword => ({
   text: keyword.text,
