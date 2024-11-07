@@ -72,6 +72,8 @@
   onMount(async () => {
      const monthsResponse = await fetch(`/data/funder_months.json`);
     funderMonthsData = await monthsResponse.json();
+
+    availableMonths = getMonthsInRange(funderMonthsData['all'].first, funderMonthsData['all'].last);
   });
   
   $: {
@@ -145,7 +147,8 @@
     if (selectedFunder !== funder) {
       selectedDataSource = "By Funder";
       selectedFunder = funder;
-      selectedTopic = null;
+      const topicExists = await checkTopicFolderExists(selectedFunder.id, selectedTopic);
+      if (!topicExists) selectedTopic = null;
       searchTerm = ''; // Clear search term when selecting a funder
       await loadFunderData(selectedFunder.id);
   
@@ -154,6 +157,21 @@
       }
     }
   }
+
+  async function checkTopicFolderExists(funderId, topic) {
+  if (!topic) return false; // No topic provided
+
+  try {
+    const baseUrl = updateBaseUrl();
+    const folderPath = `${baseUrl}/topics/${topic}/check.json`; // Use a small/known file to test
+
+    const response = await fetch(folderPath, { method: 'HEAD' });
+    return response.ok;
+  } catch (error) {
+    console.warn(`Topic folder check failed for topic "${topic}":`, error);
+    return false;
+  }
+}
   
   // -------------------
   // Function: Aggregate Keywords
@@ -332,26 +350,9 @@
       if (!monthsResponse.ok) {
         throw new Error('Failed to fetch funder_months.json');
       }
-      const funderMonthsData = await monthsResponse.json();
-
+      
       const key = selectedDataSource === "By Complete Library" ? 'all' : funderId;
-
-  
-      // Check if the funderId exists in the funderMonthsData
-      if (!funderMonthsData[funderId]) {
-        throw new Error(`No months data available for funder ID ${key}`);
-      }
-
-      if (selectedDataSource === "By Complete Library") {
-        first = funderMonthsData['all'].first;
-        last = funderMonthsData['all'].last;
-      } else {
-        first = funderMonthsData[funderId].first;
-        last = funderMonthsData[funderId].last;
-      }
-  
-      availableMonths = getMonthsInRange(first, last);
-  
+    
       // Load funder similarity data
       const response2 = await fetch(`/data/funder_similarity/${funderId}.json`);
       if (!response2.ok) {
@@ -403,21 +404,25 @@
   
       // Process ad mappings
       adData = processAdMappings(adMappings);
-  
+
       if (availableMonths.length > 0) {
-        
+
+      if (selectedMonthIndices.length === 0) {
         selectedMonthIndices = [0, availableMonths.length - 1];
         sliderValue = [0, availableMonths.length - 1];
-  
-        // Calculate initial keywords
-        aggregatedKeywords = aggregateKeywords(selectedMonthIndices[0], selectedMonthIndices[1]);
+      } 
+      aggregatedKeywords = aggregateKeywords(selectedMonthIndices[0], selectedMonthIndices[1]);
   
         const { adIds, mappings } = collectRelevantAds(selectedMonthIndices[0], selectedMonthIndices[1]);
         relevantAdIds = adIds;
         relevantAdMappings = mappings;
         
         filterAdData();
-      }
+
+    }
+  
+        
+      
   
     } catch (error) {
       console.error('Error loading funder data:', error);
