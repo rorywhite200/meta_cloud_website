@@ -109,8 +109,6 @@
         return "/data/keyword_analysis/";
       case "By Funder":
         return `/data/keyword_analysis/funders/${selectedFunder.id}`;
-      case "By Page":
-        return "/data/keyword_analysis/pages";
       default:
         return "/data/keyword_analysis/";
     }
@@ -836,8 +834,6 @@
         {#if selectedFunder}
           {selectedFunder.name}
         {/if}
-      {:else if selectedDataSource == "By Page"}
-        By Page
       {/if}
     </h2>
     
@@ -873,7 +869,6 @@
       <select id="dataSource" bind:value={selectedDataSource} on:change={() => loadFunderData(selectedFunder.id)}>
         <option>By Complete Library</option>
         <option>By Funder</option>
-        <option>By Page</option>
       </select>
     </div>
   </div>
